@@ -1,0 +1,19 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SP,juvenile,Double-crested cormorant,Phalacrocorax auritus,SMD,Penpoint gunnel,Apodichthys flavidus,Table_1,2542.6,0.360959682,1,SB_Robertson_1974
+SP,juvenile,Double-crested cormorant,Phalacrocorax auritus,SMD,Crescent gunnel,Pholis laeta,Table_1,1130.5,0.1604911982,1,SB_Robertson_1974
+SP,juvenile,Double-crested cormorant,Phalacrocorax auritus,POP,Shiner Seaperch,Cymatogaster aggregata,Table_1,1459.4,0.2071834185,1,SB_Robertson_1974
+SP,juvenile,Double-crested cormorant,Phalacrocorax auritus,POP,Striped seaperch,Embiotoca lateralis,Table_1,248.2,0.03523566156,1,SB_Robertson_1974
+SP,juvenile,Double-crested cormorant,Phalacrocorax auritus,SMD,Sanke prickleback,Lumpenus sagitta,Table_1,726.8,0.1031800114,1,SB_Robertson_1974
+SP,juvenile,Double-crested cormorant,Phalacrocorax auritus,FPS,Pacific sandlance,Ammodytes hexapterus,Table_1,331.1,0.04700454287,1,SB_Robertson_1974
+SP,juvenile,Double-crested cormorant,Phalacrocorax auritus,SMD,Staghorn sculpin,Leptocottus armatus,Table_1,419.4,0.05954003407,1,SB_Robertson_1974
+SP,juvenile,Double-crested cormorant,Phalacrocorax auritus,HE,Pacific herring,Clupea pallasii,Table_1,109.9,0.01560193072,1,SB_Robertson_1974
+SP,juvenile,Double-crested cormorant,Phalacrocorax auritus,SMD,Three-spine stickleback,Gasterosteus aculeatus,Table_1,5.1,7.240204429e-4,1,SB_Robertson_1974
+SP,juvenile,Double-crested cormorant,Phalacrocorax auritus,SALMON,Salmoninae,Oncorhynchus sp.,Table_1,66.4,0.009426462237,1,SB_Robertson_1974
+SP,juvenile,Double-crested cormorant,Phalacrocorax auritus,FPS,Achovy,Engraulis mordax,Table_1,4.6,6.530380466e-4,1,SB_Robertson_1974
+SP,juvenile,Pelagic cormorant,Phalacrocorax pelagicus,SMD,Penpoint gunnel,Apodichthys flavidus,Table_1,64.7,0.1112257177,2,SB_Robertson_1974
+SP,juvenile,Pelagic cormorant,Phalacrocorax pelagicus,SMD,Crescent gunnel,Pholis laeta,Table_1,215.7,0.3708096957,2,SB_Robertson_1974
+SP,juvenile,Pelagic cormorant,Phalacrocorax pelagicus,SMD,Sanke prickleback,Lumpenus sagitta,Table_1,42.3,0.07271789582,2,SB_Robertson_1974
+SP,juvenile,Pelagic cormorant,Phalacrocorax pelagicus,FPS,Pacific sandlance,Ammodytes hexapterus,Table_1,109.7,0.1885851814,2,SB_Robertson_1974
+SP,juvenile,Pelagic cormorant,Phalacrocorax pelagicus,SMD,Staghorn sculpin,Leptocottus armatus,Table_1,76.8,0.1320268179,2,SB_Robertson_1974
+SP,juvenile,Pelagic cormorant,Phalacrocorax pelagicus,PWN,Crustacea,Shrimp sp.,Table_1,39.7,0.06824823792,2,SB_Robertson_1974
+SP,juvenile,Pelagic cormorant,Phalacrocorax pelagicus,SMD,Flathead clingfish,Gobiesox meandricus,Table_1,32.8,0.0563864535,2,SB_Robertson_1974

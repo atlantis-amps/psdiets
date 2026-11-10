@@ -1,0 +1,6 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SAL,juvenileAndadult,Coastal cutthroat,Oncorhynchus clarkii clarkii,BD,Gammarid amphipods,Gammarid amphipods,Table_1,19.3,0.1945564516,1,Salmon_Jauquet_2002
+SAL,juvenileAndadult,Coastal cutthroat,Oncorhynchus clarkii clarkii,ZL,Euphausiids,Euphausiids,Table_1,14.2,0.1431451613,1,Salmon_Jauquet_2002
+SAL,juvenileAndadult,Coastal cutthroat,Oncorhynchus clarkii clarkii,PWN,Callianassid shrimp,Callianassid shrimp,Table_1,26.2,0.2641129032,1,Salmon_Jauquet_2002
+SAL,juvenileAndadult,Coastal cutthroat,Oncorhynchus clarkii clarkii,FISH,Fish,Fish,Table_1,19.75,0.1990927419,1,Salmon_Jauquet_2002
+SAL,juvenileAndadult,Coastal cutthroat,Oncorhynchus clarkii clarkii,SALMON,Fish,salmon fry,Table_1,19.75,0.1990927419,1,Salmon_Jauquet_2002

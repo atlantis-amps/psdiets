@@ -1,0 +1,105 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ZS,INVERT,Microzooplankton,Microzooplankton,BB,Bacteria,Bacteria,Table_4,0.05,0.05,1,BD_BIV_Harvey_et_al_2010
+ZS,INVERT,Microzooplankton,Microzooplankton,PS,Phytoplankton,Phytoplankton,Table_4,0.9,0.9,1,BD_BIV_Harvey_et_al_2010
+ZS,INVERT,Microzooplankton,Microzooplankton,DETRITUS,Detritus,Detritus,Table_4,0.05,0.05,1,BD_BIV_Harvey_et_al_2010
+ZM,INVERT,Copepods,Copepods,ZS,Microzooplankton,Microzooplankton,Table_4,0.2,0.2,2,BD_BIV_Harvey_et_al_2010
+ZM,INVERT,Copepods,Copepods,PS,Phytoplankton,Phytoplankton,Table_4,0.8,0.8,2,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Macrozooplankton,Macrozooplankton,BB,Bacteria,Bacteria,Table_4,0.1,0.09174311927,3,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Macrozooplankton,Macrozooplankton,ZS,Microzooplankton,Microzooplankton,Table_4,0.1,0.09174311927,3,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Macrozooplankton,Macrozooplankton,ZM,Copepods,Copepods,Table_4,0.3,0.2752293578,3,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Macrozooplankton,Macrozooplankton,ZL,Euphausiids,Euphausiids,Table_4,0.1,0.09174311927,3,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Macrozooplankton,Macrozooplankton,ZG,Small gelatinous zooplankton,Small gelatinous zooplankton,Table_4,0.04,0.03669724771,3,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Macrozooplankton,Macrozooplankton,ZG,Jellyfish,Jellyfish,Table_4,0.1,0.09174311927,3,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Macrozooplankton,Macrozooplankton,PL,Phytoplankton,Diatoms,Table_4,0.3,0.2752293578,3,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Macrozooplankton,Macrozooplankton,DETRITUS,Detritus,Detritus,Table_4,0.05,0.04587155963,3,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Euphausiids,Euphausiids,BB,Bacteria,Bacteria,Table_4,0.025,0.025,4,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Euphausiids,Euphausiids,ZS,Microzooplankton,Microzooplankton,Table_4,0.025,0.025,4,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Euphausiids,Euphausiids,ZM,Copepods,Copepods,Table_4,0.1,0.1,4,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Euphausiids,Euphausiids,PL,Phytoplankton,Diatoms,Table_4,0.8,0.8,4,BD_BIV_Harvey_et_al_2010
+ZL,INVERT,Euphausiids,Euphausiids,DETRITUS,Detritus,Detritus,Table_4,0.05,0.05,4,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Deposit feeders,Deposit feeders,BC,Soft infauna,Soft infauna,Table_4,0.05,0.05,5,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Deposit feeders,Deposit feeders,BB,Bacteria,Bacteria,Table_4,0.1,0.1,5,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Deposit feeders,Deposit feeders,MA,Benthic microalgae,Benthic microalgae,Table_4,0.05,0.05,5,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Deposit feeders,Deposit feeders,DETRITUS,Detritus,Detritus,Table_4,0.8,0.8,5,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Large Sea Cucumbers,Large Sea Cucumbers,BG,Other grazers,Other grazers,Table_4,0.025,0.025,6,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Large Sea Cucumbers,Large Sea Cucumbers,BFF,Suspension feeders,Suspension feeders,Table_4,0.025,0.025,6,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Large Sea Cucumbers,Large Sea Cucumbers,BB,Bacteria,Bacteria,Table_4,0.1,0.1,6,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Large Sea Cucumbers,Large Sea Cucumbers,MA,Benthic microalgae,Benthic microalgae,Table_4,0.05,0.05,6,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Large Sea Cucumbers,Large Sea Cucumbers,DETRITUS,Detritus,Detritus,Table_4,0.8,0.8,6,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,BD,Small crustaceans,Small Crustaceans_BD,Table_4,0.05,0.04761904762,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,PWN,Small crustaceans,Small Crustaceans_PWN,Table_4,0.05,0.04761904762,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,BIV,Infaunal bivalves,Infaunal bivalves,Table_4,0.05,0.04761904762,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,BC,Soft infauna,Soft infauna,Table_4,0.1,0.09523809524,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,BFF,Suspension feeders,Suspension feeders,Table_4,0.01,0.009523809524,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,BB,Bacteria,Bacteria,Table_4,0.044,0.0419047619,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,ZS,Microzooplankton,Microzooplankton,Table_4,0.001,9.523809524e-4,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,ZM,Copepods,Copepods,Table_4,0.02,0.01904761905,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,PS,Phytoplankton,Phytoplankton,Table_4,0.05,0.04761904762,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,MA,Benthic microalgae,Benthic microalgae,Table_4,0.01,0.009523809524,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,MA,Benthic macroalgae,Benthic macroalgae,Table_4,0.005,0.004761904762,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,SG,Eelgrass,Eelgrass,Table_4,0.01,0.009523809524,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,MA,Algal/plant material,Algal/plant material,Table_4,0.05,0.04761904762,7,BD_BIV_Harvey_et_al_2010
+BD,INVERT,Small Crustaceans,Small Crustaceans_BD,DETRITUS,Detritus,Detritus,Table_4,0.6,0.5714285714,7,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,BD,Small crustaceans,Small Crustaceans_BD,Table_4,0.05,0.04761904762,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,PWN,Small crustaceans,Small Crustaceans_PWN,Table_4,0.05,0.04761904762,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,BIV,Infaunal bivalves,Infaunal bivalves,Table_4,0.05,0.04761904762,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,BC,Soft infauna,Soft infauna,Table_4,0.1,0.09523809524,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,BFF,Suspension feeders,Suspension feeders,Table_4,0.01,0.009523809524,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,BB,Bacteria,Bacteria,Table_4,0.044,0.0419047619,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,ZS,Microzooplankton,Microzooplankton,Table_4,0.001,9.523809524e-4,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,ZM,Copepods,Copepods,Table_4,0.02,0.01904761905,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,PS,Phytoplankton,Phytoplankton,Table_4,0.05,0.04761904762,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,MA,Benthic microalgae,Benthic microalgae,Table_4,0.01,0.009523809524,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,MA,Benthic macroalgae,Benthic macroalgae,Table_4,0.005,0.004761904762,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,SG,Eelgrass,Eelgrass,Table_4,0.01,0.009523809524,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,MA,Algal/plant material,Algal/plant material,Table_4,0.05,0.04761904762,8,BD_BIV_Harvey_et_al_2010
+PWN,INVERT,Small Crustaceans,Small Crustaceans_PWN,DETRITUS,Detritus,Detritus,Table_4,0.6,0.5714285714,8,BD_BIV_Harvey_et_al_2010
+BIV,INVERT,Infaunal bivalves,Infaunal bivalves,BB,Bacteria,Bacteria,Table_4,0.05,0.05,9,BD_BIV_Harvey_et_al_2010
+BIV,INVERT,Infaunal bivalves,Infaunal bivalves,PS,Phytoplankton,Phytoplankton,Table_4,0.28,0.28,9,BD_BIV_Harvey_et_al_2010
+BIV,INVERT,Infaunal bivalves,Infaunal bivalves,DETRITUS,Detritus,Detritus,Table_4,0.67,0.67,9,BD_BIV_Harvey_et_al_2010
+BIV,INVERT,Mussels,Mussels,BB,Bacteria,Bacteria,Table_4,0.005,0.005,10,BD_BIV_Harvey_et_al_2010
+BIV,INVERT,Mussels,Mussels,ZS,Microzooplankton,Microzooplankton,Table_4,0.005,0.005,10,BD_BIV_Harvey_et_al_2010
+BIV,INVERT,Mussels,Mussels,PS,Phytoplankton,Phytoplankton,Table_4,0.1,0.1,10,BD_BIV_Harvey_et_al_2010
+BIV,INVERT,Mussels,Mussels,DETRITUS,Detritus,Detritus,Table_4,0.89,0.89,10,BD_BIV_Harvey_et_al_2010
+GEC,INVERT,Geoducks,Geoducks,BB,Bacteria,Bacteria,Table_4,0.025,0.025,11,BD_BIV_Harvey_et_al_2010
+GEC,INVERT,Geoducks,Geoducks,PS,Phytoplankton,Phytoplankton,Table_4,0.75,0.75,11,BD_BIV_Harvey_et_al_2010
+GEC,INVERT,Geoducks,Geoducks,DETRITUS,Detritus,Detritus,Table_4,0.225,0.225,11,BD_BIV_Harvey_et_al_2010
+BC,INVERT,Soft infauna,Soft infauna,BB,Bacteria,Bacteria,Table_4,0.1,0.1,12,BD_BIV_Harvey_et_al_2010
+BC,INVERT,Soft infauna,Soft infauna,MA,Benthic microalgae,Benthic microalgae,Table_4,0.1,0.1,12,BD_BIV_Harvey_et_al_2010
+BC,INVERT,Soft infauna,Soft infauna,DETRITUS,Detritus,Detritus,Table_4,0.8,0.8,12,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,HE,Herring,Herring,Table_4,0.001,0.001,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,FPS,Forage fish,Forage fish,Table_4,0.01,0.01,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,POP,Surfperches,Surfperches,Table_4,0.01,0.01,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,SMD,Demersal fish,Demersal fish,Table_4,0.03,0.03,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,PWN,Shrimp,Shrimp,Table_4,0.05,0.05,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,BML,Cancer crab,Cancer crab,Table_4,0.05,0.05,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,BD,Small crustaceans,Small crustaceans,Table_4,0.225,0.225,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,BIV,Mussels,Mussels,Table_4,0.025,0.025,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,BFF,Barnacles,Barnacles,Table_4,0.05,0.05,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,BIV,Bivalves,Bivalves,Table_4,0.4,0.4,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,BC,Soft infauna,Soft infauna,Table_4,0.02,0.02,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,MA,Benthic macroalgae,Benthic macroalgae,Table_4,0.01,0.01,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,SG,eelgrass,eelgrass,Table_4,0.009,0.009,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,DETRITUS,detritus,detritus,Table_4,0.1,0.1,13,BD_BIV_Harvey_et_al_2010
+BML,INVERT,Cancer,Crabs,MA,Algal/plant material,Algal/plant material,Table_4,0.01,0.01,13,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,SB,Seagulls,Seagulls,Table_4,0.084,0.2033898305,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,SB,Resident diving birds,Resident diving birds,Table_4,0.011,0.02663438257,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,SB,Migratory diving birds,Migratory diving birds,Table_4,0.019,0.04600484262,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,SB,Nearshore diving birds,Nearshore diving birds,Table_4,0.036,0.08716707022,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,SP,Herbivorous birds,Herbivorous birds,Table_4,0.036,0.08716707022,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,WILD_SALMON,Wild salmon,Wild salmon,Table_4,0.003,0.007263922518,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,HATCHERY_SALMON,Hatchery salmon,Hatchery salmon,Table_4,0.002,0.004842615012,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,PIS,Pink salmon,Pink salmon,Table_4,0.001,0.002421307506,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,DOG,Spiny dogfish,Spiny dogfish,Table_4,0.008,0.01937046005,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,FMM,Pacific hake,Pacific hake,Table_4,0.004,0.009685230024,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,FMM,Pacific cod,Pacific cod,Table_4,0.004,0.009685230024,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,FMM,Walleye pollock,Walleye pollock,Table_4,0.004,0.009685230024,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,FVS,Juvenile lingcod,Juvenile lingcod,Table_4,0.008,0.01937046005,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,ROCKFISH,Juvenile rockfish,Juvenile rockfish,Table_4,0.008,0.01937046005,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,FDF,Small mouthed flatfish,Small mouthed flatfish,Table_4,0.016,0.0387409201,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,SMD,Demersal fish,Demersal fish,Table_4,0.01,0.02421307506,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,BD,Small crustaceans,Small crustaceans,Table_4,0.004,0.009685230024,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,BIV,Mussels,Mussels,Table_4,0.004,0.009685230024,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,BIV,Infaunal bivalves,Infaunal bivalves,Table_4,0.016,0.0387409201,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,SALMON,Salmon carcasses,Salmon,Table_4,0.095,0.2300242131,14,BD_BIV_Harvey_et_al_2010
+BE,adult,Bald eagle,Haliaeetus leucocephalus,DETRITUS,Detritus,Detritus,Table_4,0.04,0.09685230024,14,BD_BIV_Harvey_et_al_2010

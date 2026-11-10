@@ -1,0 +1,205 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SAL,adult,Salmo clarki,Salmo clarki,ZL,Mollusca,Limacina helicina,Table17_%W_1981,0.2,0.002010050251,1,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,ZL,Euphausiacea,Thysanoessa spinifera,Table17_%W_1981,0.3,0.003015075377,1,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,FPS,Chordata,Engraulis mordax,Table17_%W_1981,69.9,0.7025125628,1,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,CI,Chordata,Oncorhynchus tshawytscha,Table17_%W_1981,5.4,0.05427135678,1,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,SALMON,Chordata,Oncorhynchus spp.,Table17_%W_1981,1.5,0.01507537688,1,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,ROCKFISH,Chordata,Sebastes spp.,Table17_%W_1981,5.6,0.05628140704,1,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,FVS,Chordata,Ophiodon elongatus,Table17_%W_1981,2,0.02010050251,1,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,FVS,Chordata,Scorpaenichthys marmoratus,Table17_%W_1981,0.5,0.005025125628,1,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,FPS,Chordata,Ammodytes hexapterus,Table17_%W_1981,0.4,0.004020100503,1,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,FISH,Chordata,Osteichthyes,Table17_%W_1981,13.7,0.1376884422,1,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,ZG,Cnidaria,Hydromedusae,Table17_%W_1982-84,0.2,0.002018163471,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,BD,Arthopoda,Themisto pacifica,Table17_%W_1982-84,0.3,0.003027245207,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,ZL,Euphausiacea,Euphausiacea,Table17_%W_1982-84,1.6,0.01614530777,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,BML,Decapoda,Cancer magister megalopae,Table17_%W_1982-84,0.1,0.001009081736,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,INSECT,Insecta,Hymenoptera,Table17_%W_1982-84,0.6,0.006054490414,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,INSECT,Insecta,Insecta,Table17_%W_1982-84,0.5,0.005045408678,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,FPS,Chordata,Engraulis mordax,Table17_%W_1982-84,26,0.2623612513,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,HE,Chordata,Clupea harengus pallasii,Table17_%W_1982-84,0.5,0.005045408678,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,SALMON,Chordata,Oncorhynchus spp.,Table17_%W_1982-84,6,0.06054490414,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,FPS,Chordata,Cololabis saira,Table17_%W_1982-84,1.3,0.01311806256,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,ROCKFISH,Chordata,Sebastes spp.,Table17_%W_1982-84,11.3,0.1140262361,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,SMD,Chordata,Hexagrammus decagrammus,Table17_%W_1982-84,31.9,0.3218970737,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,SMD,Chordata,Cottidae,Table17_%W_1982-84,0.5,0.005045408678,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,FVS,Chordata,Scorpaenichthys marmoratus,Table17_%W_1982-84,0.6,0.006054490414,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,FPS,Chordata,Ammodytes hexapterus,Table17_%W_1982-84,0.2,0.002018163471,2,Fish_Brodeur_et_al_1987_C
+SAL,adult,Salmo clarki,Salmo clarki,NA,Unidentified,Unidentified,Table17_%W_1982-84,17.5,0.1765893037,2,Fish_Brodeur_et_al_1987_C
+FPS,adult,Hypomesus pretiosus,Hypomesus pretiosus,ZL,Mollusca,Limacina helicina,Table18_%W_1981-1983,0.5,0.005760368664,3,Fish_Brodeur_et_al_1987_C
+FPS,adult,Hypomesus pretiosus,Hypomesus pretiosus,ZM,Copepoda,Calanus spp.,Table18_%W_1981-1983,3.8,0.04377880184,3,Fish_Brodeur_et_al_1987_C
+FPS,adult,Hypomesus pretiosus,Hypomesus pretiosus,BD,Amphipoda,Themisto pacifica,Table18_%W_1981-1983,5.7,0.06566820276,3,Fish_Brodeur_et_al_1987_C
+FPS,adult,Hypomesus pretiosus,Hypomesus pretiosus,BML,Decapoda,Paguridae,Table18_%W_1981-1983,1.7,0.01958525346,3,Fish_Brodeur_et_al_1987_C
+FPS,adult,Hypomesus pretiosus,Hypomesus pretiosus,BML,Decapoda,Cancer magister megalopae,Table18_%W_1981-1983,0.2,0.002304147465,3,Fish_Brodeur_et_al_1987_C
+FPS,adult,Hypomesus pretiosus,Hypomesus pretiosus,BML,Decapoda,Decapoda,Table18_%W_1981-1983,0.5,0.005760368664,3,Fish_Brodeur_et_al_1987_C
+FPS,adult,Hypomesus pretiosus,Hypomesus pretiosus,BFF,Chordata,Oikopleura spp.,Table18_%W_1981-1983,4.2,0.04838709677,3,Fish_Brodeur_et_al_1987_C
+FPS,adult,Hypomesus pretiosus,Hypomesus pretiosus,FPS,Osteichthyes,Ammodytes hexapterus,Table18_%W_1981-1983,0.2,0.002304147465,3,Fish_Brodeur_et_al_1987_C
+FPS,adult,Hypomesus pretiosus,Hypomesus pretiosus,FDF,Osteichthyes,Pleuronectidae,Table18_%W_1981-1983,2,0.02304147465,3,Fish_Brodeur_et_al_1987_C
+FPS,adult,Hypomesus pretiosus,Hypomesus pretiosus,NA,Unidentified,Unidentified,Table18_%W_1981-1983,68,0.7834101382,3,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Euphausia pacifica,Table19_%W_1981,13.3,0.1331331331,4,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Thysanoessa spinifera,Table19_%W_1981,26.7,0.2672672673,4,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Euphausiacea,Table19_%W_1981,37.2,0.3723723724,4,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,BML,Decapoda,Cancer magister megalopae,Table19_%W_1981,0.1,0.001001001001,4,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,FPS,Osteichthyes,Ammodytes hexapterus,Table19_%W_1981,0.3,0.003003003003,4,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,FDF,Osteichthyes,Citharichthys stigmaeus,Table19_%W_1981,0.3,0.003003003003,4,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,NA,Osteichthyes,Unidentified,Table19_%W_1981,21.9,0.2192192192,4,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,NA,Osteichthyes,Unidentified,Table19_%W_1981,0.1,0.001001001001,4,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Euphausia pacifica,Table19_%W_1982,1.3,0.013,5,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Thysanoessa spinifera,Table19_%W_1982,18,0.18,5,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Euphausiacea,Table19_%W_1982,12.1,0.121,5,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,BML,Decapoda,Decapoda,Table19_%W_1982,0.4,0.004,5,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,HE,Osteichthyes,Clupea harengus pallasii,Table19_%W_1982,3.2,0.032,5,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,FPS,Osteichthyes,Engraulis mordax,Table19_%W_1982,47.4,0.474,5,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ROCKFISH,Osteichthyes,Sebastes spp.,Table19_%W_1982,0.9,0.009,5,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,FISH,Osteichthyes,Osteichthyes,Table19_%W_1982,16.7,0.167,5,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Euphausia pacifica,Table19_%W_1983,0.2,0.001998001998,6,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Nycthiphanes simplex,Table19_%W_1983,0.1,9.99000999e-4,6,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Thysanoessa spinifera,Table19_%W_1983,57.2,0.5714285714,6,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Euphausiacea,Table19_%W_1983,26.1,0.2607392607,6,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,BML,Decapoda,Pachycheles spp.,Table19_%W_1983,0.1,9.99000999e-4,6,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,BML,Decapoda,Cancer magister megalopae,Table19_%W_1983,0.5,0.004995004995,6,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,FPS,Osteichthyes,Engraulis mordax,Table19_%W_1983,3.2,0.03196803197,6,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,FISH,Osteichthyes,Osteichthyes,Table19_%W_1983,12.3,0.1228771229,6,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,NA,Unidentified,Unidentified,Table19_%W_1983,0.4,0.003996003996,6,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,BD,Amphipoda,Themisto pacifica,Table19_%W_1984,0.1,0.001,7,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Euphausia pacifica,Table19_%W_1984,45.4,0.454,7,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Thysanoessa spinifera,Table19_%W_1984,37.9,0.379,7,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,ZL,Euphausiacea,Euphausiacea,Table19_%W_1984,14.4,0.144,7,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,PWN,Decapoda,Crangon spp.,Table19_%W_1984,1.4,0.014,7,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,BML,Decapoda,Cancer oregonensis megalopae,Table19_%W_1984,0.1,0.001,7,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,MYCTOPHID,Osteichthyes,Myctophidae,Table19_%W_1984,0.6,0.006,7,Fish_Brodeur_et_al_1987_C
+FMM,adult,Merluccius productus,Merluccius productus,FISH,Osteichthyes,Osteichthyes,Table19_%W_1984,0.1,0.001,7,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,ZM,Arthopoda,Calanus spp.,Table21_%W_1984,0.4,0.004,8,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,ZM,Arthopoda,Calanoid copepodites,Table21_%W_1984,0.3,0.003,8,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,ZM,Arthopoda,Arthopoda,Table21_%W_1984,0.3,0.003,8,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,BD,Amphipoda,Phoxocephalidae,Table21_%W_1984,0.1,0.001,8,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,BD,Amphipoda,Hyperoche medusarum,Table21_%W_1984,1.2,0.012,8,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,BD,Amphipoda,Unidentified Hyperiidea,Table21_%W_1984,0.1,0.001,8,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,ZL,Euphausiacea,Thysanoessa spinifera,Table21_%W_1984,1.5,0.015,8,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,ZL,Euphausiacea,Euphausiacea,Table21_%W_1984,0.1,0.001,8,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,FPS,Chordata,Engraulis mordax,Table21_%W_1984,4.6,0.046,8,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,BFF,Chordata,Chordata,Table21_%W_1984,11.1,0.111,8,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,NA,Unidentified,Unidentified,Table21_%W_1984,80.3,0.803,8,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,ZM,Arthopoda,Calanus pacificus,Table21_%W_1981y1983,0.8,0.007920792079,9,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,ZM,Arthopoda,Calanus spp.,Table21_%W_1981y1983,2.9,0.02871287129,9,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,BD,Amphipoda,Vibilia armata,Table21_%W_1981y1983,4.2,0.04158415842,9,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,BD,Amphipoda,Unidentified Hyperiidea,Table21_%W_1981y1983,1.1,0.01089108911,9,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,BD,Amphipoda,Unidentified Hyperiidea,Table21_%W_1981y1983,1.1,0.01089108911,9,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,ZL,Euphausiacea,Euphausia pacifica,Table21_%W_1981y1983,1.2,0.01188118812,9,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,ZL,Euphausiacea,Nyctiphanes simplex,Table21_%W_1981y1983,3.6,0.03564356436,9,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,ZL,Euphausiacea,Thysanoessa spinifera,Table21_%W_1981y1983,1.2,0.01188118812,9,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,ZL,Euphausiacea,Euphausiacea,Table21_%W_1981y1983,1.2,0.01188118812,9,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,FPS,Chordata,Ammodytes hexapterus,Table21_%W_1981y1983,4.8,0.04752475248,9,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,BFF,Chordata,Chordata,Table21_%W_1981y1983,18.4,0.1821782178,9,Fish_Brodeur_et_al_1987_C
+FPS,adult,Cololabis saira,Cololabis saira,FISH,Unidentified,Osteichthyes,Table21_%W_1981y1983,60.5,0.599009901,9,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C
+"NOTA: NO COPIES LOS TOTALES O DONDE RESUME EL NUMERO DE ESTOMAGOS, TALLAS, ETC",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fish_Brodeur_et_al_1987_C

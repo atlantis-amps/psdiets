@@ -1,0 +1,18 @@
+Predator,Benthic filter feeder,Bivalves,Mesozooplankton,Benthic bacteria,Carnivorous infauna,Benthic grazers,Deposit feeders,Deep macro-zoobenthos,Small Planktivorous Fish,Crabs,Macroalgae,Small phytoplankton,Carrion,Microzooplankton,Labile detritus,Pacific Herring Cherry Point,Refractory detritus,Pacific Herring Puget Sound,Pelagic bacteria,Large phytoplankton,Shrimp,Octopi,Small demersal fish,Gelatinous zooplankton,Dungeness crab,Demersal vulnerable rockfish,Small-mouthed Flatfish,Squid,Large zooplankton,Midwater rockfish,Perch,Midwater vulnerable rockfish,Demersal rockfish,Seagrass,Geoducks
+Moon jelly,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carnivorous infauna,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deposit feeders,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Benthic filter feeder,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Benthic grazers,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bivalves,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deep macro-zoobenthos,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Crabs,1,1,0,0,1,0,1,0,1,1,1,0,1,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+Octopi,1,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Dungeness crab,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0,1,1,1,0,1,0,1,0,1,0,1,0,0,1,0
+Geoducks,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shrimp,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+Squid,0,0,1,0,1,1,1,0,1,1,0,0,0,1,0,1,0,1,0,0,1,1,1,1,0,1,0,1,1,1,0,1,1,0,0
+Gelatinous zooplankton,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Large zooplankton,1,0,1,1,0,0,0,0,0,1,1,0,1,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Mesozooplankton,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microzooplankton,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,32 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SMD,adult,Staghorn sculpin,Staghorn sculpin,PWN,Crangon shrimp,Crangon shrimp,Table_7_SC_180_2_EG,0.98,0.4974619289,1,Fish_Miller_et_al_2002
+SMD,adult,Staghorn sculpin,Staghorn sculpin,BML,Crab parts,crab parts,Table_7_SC_180_2_EG,0.72,0.3654822335,1,Fish_Miller_et_al_2002
+SMD,adult,Staghorn sculpin,Staghorn sculpin,BIV,Clam siphon,Clam siphon,Table_7_SC_180_2_EG,0.27,0.1370558376,1,Fish_Miller_et_al_2002
+SMD,adult,Staghorn sculpin,Staghorn sculpin,FPS,Surf smelt,Surf smelt,Table_7_SC_180_1_WG,8.72,0.9960250377,2,Fish_Miller_et_al_2002
+SMD,adult,Staghorn sculpin,Staghorn sculpin,BML,Crab megalops,Crab megalops,Table_7_SC_180_1_WG,0.0348,0.003974962306,2,Fish_Miller_et_al_2002
+SMD,adult,Staghorn sculpin,Staghorn sculpin,BML,Crab claw,Crab claw,Table_7_SC_180_1_ER,4.91,0.5676300578,3,Fish_Miller_et_al_2002
+SMD,adult,Staghorn sculpin,Staghorn sculpin,PWN,Crangon shrimp,Crangon shrimp,Table_7_SC_180_1_ER,3.74,0.4323699422,3,Fish_Miller_et_al_2002
+SMD,juvenile,Kelp greenling,Kelp greenling,SMD,Postlarval gunnels,postlarval gunnels,Table_7_KG_355_1_NOD,0.204,0.04739776952,4,Fish_Miller_et_al_2002
+SMD,juvenile,Kelp greenling,Kelp greenling,FISH,Juvenile fish (UID),Juvenile fish (UID),Table_7_KG_355_1_NOD,0.0434,0.01008364312,4,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BD,Isopod,Isopod,Table_7_KG_355_1_NOD,0.0566,0.01315055762,4,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BD,Gammarid,Gammarid,Table_7_KG_355_1_NOD,4,0.9293680297,4,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,FISH,Postlarval fish (UID),Postlarval fish (UID),Table_7_KG_290_2_NOD,0.223,0.02772769661,5,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,FISH,Partial fish spine,Partial fish spine,Table_7_KG_290_2_NOD,0.127,0.01579110973,5,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crab megalops,Crab megalops,Table_7_KG_290_2_NOD,0.0095,0.001181224744,5,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crab (H. oregonensis),Crab (H. oregonensis),Table_7_KG_290_2_NOD,0.02,0.002486788934,5,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,NA,Animal tissue,Animal tissue,Table_7_KG_290_2_NOD,6.063,0.7538700653,5,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BD,Amphipods,Corophium sp,Table_7_KG_290_2_NOD,1.6,0.1989431147,5,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,FISH,Digested fish (UID),Digested fish (UID),Table_7_KG_290_3_NOD,0.183,0.03837282449,6,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crab (H. oregonensis),Crab (H. oregonensis),Table_7_KG_290_3_NOD,0.057,0.01195219124,6,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BD,Isopod,Isopod,Table_7_KG_290_3_NOD,0.029,0.0060809394,6,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BD,Amphipods,Corophium sp,Table_7_KG_290_3_NOD,4.5,0.9435940449,6,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,PWN,Crangon shrimp,Cangron shrimp,Table_7_KG_310_4_NOD,0.967,0.324823648,7,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crab claw & leg parts,Crab claw & leg parts,Table_7_KG_310_4_NOD,0.351,0.1179039301,7,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BD,Parasit amphipod,Parasit amphipod,Table_7_KG_310_4_NOD,0.059,0.01981860934,7,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,FISH,Well digested fish (partial spine),Well digested fish (partial spine),Table_7_KG_310_4_NOD,0,0,7,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BD,Amphipods,Corophium sp,Table_7_KG_310_4_NOD,1.6,0.5374538126,7,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,POP,UID surf perch,UID surf perch,Table_7_KG_325_5_NOD,3.89,0.664957265,8,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BIV,Clam siphon,Clam siphon,Table_7_KG_325_5_NOD,0.73,0.1247863248,8,Fish_Miller_et_al_2002
+SMD,adult,Kelp greenling,Kelp greenling,BD,Amphipods,Corophium sp,Table_7_KG_325_5_NOD,1.23,0.2102564103,8,Fish_Miller_et_al_2002
+FVS,adult,Lingcod,Lingcod,FISH,Fish spines,Fish spines,Table_7_L_530_1_NOD,0.3,1,9,Fish_Miller_et_al_2002
+FVS,adult,Lingcod,Lingcod,BML,Maxillary,Maxillary,Table_7_L_530_1_NOD,0,0,9,Fish_Miller_et_al_2002

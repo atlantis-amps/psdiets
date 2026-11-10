@@ -1,0 +1,113 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_12,6,0.046875,1,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_12,94,0.734375,1,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_12,0,0,1,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_12,3,0.0234375,1,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_12,0,0,1,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_12,11,0.0859375,1,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_12,14,0.109375,1,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_7,0,0,2,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_7,96,0.7218045113,2,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_7,1,0.007518796992,2,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_7,0,0,2,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_7,1,0.007518796992,2,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_7,11,0.08270676692,2,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_7,24,0.1804511278,2,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1T_16,3,0.02380952381,3,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1T_16,99,0.7857142857,3,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1T_16,1,0.007936507937,3,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1T_16,1,0.007936507937,3,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1T_16,0,0,3,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1T_16,1,0.007936507937,3,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1T_16,21,0.1666666667,3,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_10,3,0.02189781022,4,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_10,96,0.700729927,4,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_10,2,0.01459854015,4,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_10,2,0.01459854015,4,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_10,2,0.01459854015,4,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_10,4,0.02919708029,4,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_10,28,0.204379562,4,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_19,8,0.05633802817,5,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_19,93,0.6549295775,5,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_19,3,0.02112676056,5,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_19,19,0.1338028169,5,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_19,0,0,5,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_19,3,0.02112676056,5,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_19,16,0.1126760563,5,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_8,4,0.02919708029,6,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_8,94,0.6861313869,6,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_8,4,0.02919708029,6,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_8,0,0,6,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_8,0,0,6,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_8,6,0.04379562044,6,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_8,29,0.2116788321,6,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_22,0,0,7,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_22,92,0.7666666667,7,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_22,0,0,7,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_22,15,0.125,7,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_22,0,0,7,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_22,2,0.01666666667,7,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_22,11,0.09166666667,7,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_5,0,0,8,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_5,94,0.5838509317,8,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_5,4,0.0248447205,8,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_5,1,0.006211180124,8,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_5,0,0,8,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_5,2,0.01242236025,8,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_5,60,0.3726708075,8,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_13,4,0.03448275862,9,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_13,99,0.8534482759,9,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_13,4,0.03448275862,9,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_13,0,0,9,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_13,0,0,9,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_13,0,0,9,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_13,9,0.0775862069,9,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_17,24,0.1589403974,10,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_17,86,0.5695364238,10,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_17,3,0.01986754967,10,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_17,3,0.01986754967,10,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_17,1,0.006622516556,10,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_17,3,0.01986754967,10,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_17,31,0.2052980132,10,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_15,26,0.1768707483,11,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_15,87,0.5918367347,11,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_15,3,0.02040816327,11,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_15,1,0.006802721088,11,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_15,0,0,11,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_15,0,0,11,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_15,30,0.2040816327,11,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_20,0,0,12,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_20,96,0.7164179104,12,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_20,4,0.02985074627,12,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_20,14,0.1044776119,12,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_20,0,0,12,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_20,1,0.007462686567,12,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_20,19,0.1417910448,12,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_11,0,0,13,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_11,97,0.7822580645,13,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_11,3,0.02419354839,13,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_11,2,0.01612903226,13,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_11,0,0,13,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_11,1,0.008064516129,13,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_11,21,0.1693548387,13,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_9,0,0,14,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_9,91,0.6842105263,14,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_9,2,0.01503759398,14,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_9,6,0.04511278195,14,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_9,2,0.01503759398,14,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_9,6,0.04511278195,14,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_9,26,0.1954887218,14,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T_14,1,0.009345794393,15,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T_14,99,0.9252336449,15,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T_14,3,0.02803738318,15,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T_14,1,0.009345794393,15,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T_14,0,0,15,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T_14,0,0,15,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T_14,3,0.02803738318,15,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Eulachon,Eulachon,Table_1_T,0,0,16,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,ZL,Euphausiids,Euphausiids,Table_1_T,89,0.5266272189,16,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FISH,Fish,Fish,Table_1_T,6,0.03550295858,16,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,HE,Herring,Herring,Table_1_T,0,0,16,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Nothern anchovy,Nothern anchovy,Table_1_T,1,0.005917159763,16,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,PWN,Pandalid shrimp,Pandalid shrimp,Table_1_T,7,0.04142011834,16,FMM_Outram_&_Haegle_1972
+FMM,adult,Pacific hake,Pacific hake,FPS,Sandlance,Sandlance,Table_1_T,66,0.3905325444,16,FMM_Outram_&_Haegle_1972

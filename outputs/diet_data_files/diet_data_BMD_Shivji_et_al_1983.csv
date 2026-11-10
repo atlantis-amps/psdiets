@@ -1,0 +1,52 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Gastropoda,Tegula pulligo,Table_2_exposed,35,0.2928870293,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BC,Gastropoda,Amphissa sp.,Table_2_exposed,15,0.1255230126,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Gastropoda,Mitrella,Table_2_exposed,8,0.06694560669,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Gastropoda,Calliostoma ligatum,Table_2_exposed,12,0.10041841,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Gastropoda,Alvinia,Table_2_exposed,0,0,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalvia,Diplodonta orbella,Table_2_exposed,0,0,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalvia,Protothaca staminea,Table_2_exposed,26,0.2175732218,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalvia,Mytilus edulis,Table_2_exposed,0,0,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalvia,Macoma spp.,Table_2_exposed,0,0,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BFF,Crustacea,Balanus,Table_2_exposed,1,0.008368200837,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BML,Crustacea,Crabs,Table_2_exposed,18,0.1506276151,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BD,Crustacea,Amphipods,Table_2_exposed,4,0.03347280335,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Polyplacophora,Polyplacophora,Table_2_exposed,0.1,8.368200837e-4,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Strongylocentrotus purpuratus,Strongylocentrotus purpuratus,Table_2_exposed,0.1,8.368200837e-4,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Strongylocentrotus franciscanus,Strongylocentrotus franciscanus,Table_2_exposed,0.1,8.368200837e-4,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BC,Polychaetes,Polychaetes,Table_2_exposed,0.1,8.368200837e-4,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BD,Ectoprocts,Ectoprocts,Table_2_exposed,0.1,8.368200837e-4,1,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Gastropoda,Tegula pulligo,Table_2_intermediate,82,0.3858823529,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BC,Gastropoda,Amphissa sp.,Table_2_intermediate,14,0.06588235294,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Gastropoda,Mitrella,Table_2_intermediate,3,0.01411764706,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Gastropoda,Calliostoma ligatum,Table_2_intermediate,2,0.009411764706,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Gastropoda,Alvinia,Table_2_intermediate,0,0,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalvia,Diplodonta orbella,Table_2_intermediate,38,0.1788235294,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalvia,Protothaca staminea,Table_2_intermediate,14,0.06588235294,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalvia,Mytilus edulis,Table_2_intermediate,28,0.1317647059,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalvia,Macoma spp.,Table_2_intermediate,3,0.01411764706,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BFF,Crustacea,Balanus,Table_2_intermediate,5,0.02352941176,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BML,Crustacea,Crabs,Table_2_intermediate,23,0.1082352941,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BD,Crustacea,Amphipods,Table_2_intermediate,0,0,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Polyplacophora,Polyplacophora,Table_2_intermediate,0.1,4.705882353e-4,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Strongylocentrotus purpuratus,Strongylocentrotus purpuratus,Table_2_intermediate,0.1,4.705882353e-4,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Strongylocentrotus franciscanus,Strongylocentrotus franciscanus,Table_2_intermediate,0.1,4.705882353e-4,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BC,Polychaetes,Polychaetes,Table_2_intermediate,0.1,4.705882353e-4,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BD,Ectoprocts,Ectoprocts,Table_2_intermediate,0.1,4.705882353e-4,2,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Gastropoda,Tegula pulligo,Table_2_protected,0,0,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BC,Gastropoda,Amphissa sp.,Table_2_protected,0,0,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Gastropoda,Mitrella,Table_2_protected,7,0.2287581699,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Gastropoda,Calliostoma ligatum,Table_2_protected,4,0.1307189542,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Gastropoda,Alvinia,Table_2_protected,0,0,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalvia,Diplodonta orbella,Table_2_protected,1,0.03267973856,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalvia,Protothaca staminea,Table_2_protected,0,0,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalvia,Mytilus edulis,Table_2_protected,5,0.1633986928,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalvia,Macoma spp.,Table_2_protected,3,0.09803921569,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BFF,Crustacea,Balanus,Table_2_protected,5,0.1633986928,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BML,Crustacea,Crabs,Table_2_protected,5,0.1633986928,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BD,Crustacea,Amphipods,Table_2_protected,0.1,0.003267973856,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Polyplacophora,Polyplacophora,Table_2_protected,0.1,0.003267973856,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Strongylocentrotus purpuratus,Strongylocentrotus purpuratus,Table_2_protected,0.1,0.003267973856,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Strongylocentrotus franciscanus,Strongylocentrotus franciscanus,Table_2_protected,0.1,0.003267973856,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BC,Polychaetes,Polychaetes,Table_2_protected,0.1,0.003267973856,3,BMD_Shivji_et_al_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BD,Ectoprocts,Ectoprocts,Table_2_protected,0.1,0.003267973856,3,BMD_Shivji_et_al_1983

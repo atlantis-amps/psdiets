@@ -1,0 +1,597 @@
+"","","Benthic filter feeder","Benthic filter feeder","Benthic filter feeder","Benthic filter feeder","",""
+"PredatorName","PreyName","lower95","upper95","mode","simpleaverages","bootaverage","bootmode"
+"Benthic filter feeder","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Bivalves",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Crabs",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Macroalgae",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Carrion",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Labile detritus",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Shrimp",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Octopi",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Squid",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Perch",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Seagrass",NA,NA,NA,NA,NA,NA
+"Benthic filter feeder","Geoducks",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Bivalves",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Crabs",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Macroalgae",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Carrion",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Labile detritus",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Shrimp",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Octopi",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Squid",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Perch",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Seagrass",NA,NA,NA,NA,NA,NA
+"Benthic grazers","Geoducks",NA,NA,NA,NA,NA,NA
+"Bivalves","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Bivalves","Bivalves",NA,NA,NA,NA,NA,NA
+"Bivalves","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Bivalves","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Bivalves","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Bivalves","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Bivalves","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Bivalves","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Bivalves","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Bivalves","Crabs",NA,NA,NA,NA,NA,NA
+"Bivalves","Macroalgae",NA,NA,NA,NA,NA,NA
+"Bivalves","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Bivalves","Carrion",NA,NA,NA,NA,NA,NA
+"Bivalves","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Bivalves","Labile detritus",NA,NA,NA,NA,NA,NA
+"Bivalves","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Bivalves","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Bivalves","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Bivalves","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Bivalves","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Bivalves","Shrimp",NA,NA,NA,NA,NA,NA
+"Bivalves","Octopi",NA,NA,NA,NA,NA,NA
+"Bivalves","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Bivalves","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Bivalves","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Bivalves","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Bivalves","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Bivalves","Squid",NA,NA,NA,NA,NA,NA
+"Bivalves","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Bivalves","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Bivalves","Perch",NA,NA,NA,NA,NA,NA
+"Bivalves","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Bivalves","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Bivalves","Seagrass",NA,NA,NA,NA,NA,NA
+"Bivalves","Geoducks",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Bivalves",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Crabs",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Macroalgae",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Carrion",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Labile detritus",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Shrimp",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Octopi",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Squid",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Perch",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Seagrass",NA,NA,NA,NA,NA,NA
+"Carnivorous infauna","Geoducks",NA,NA,NA,NA,NA,NA
+"Crabs","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Crabs","Bivalves",NA,NA,NA,NA,NA,NA
+"Crabs","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Crabs","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Crabs","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Crabs","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Crabs","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Crabs","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Crabs","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Crabs","Crabs",NA,NA,NA,NA,NA,NA
+"Crabs","Macroalgae",NA,NA,NA,NA,NA,NA
+"Crabs","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Crabs","Carrion",NA,NA,NA,NA,NA,NA
+"Crabs","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Crabs","Labile detritus",NA,NA,NA,NA,NA,NA
+"Crabs","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Crabs","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Crabs","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Crabs","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Crabs","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Crabs","Shrimp",NA,NA,NA,NA,NA,NA
+"Crabs","Octopi",NA,NA,NA,NA,NA,NA
+"Crabs","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Crabs","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Crabs","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Crabs","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Crabs","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Crabs","Squid",NA,NA,NA,NA,NA,NA
+"Crabs","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Crabs","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Crabs","Perch",NA,NA,NA,NA,NA,NA
+"Crabs","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Crabs","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Crabs","Seagrass",NA,NA,NA,NA,NA,NA
+"Crabs","Geoducks",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Bivalves",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Crabs",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Macroalgae",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Carrion",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Labile detritus",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Shrimp",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Octopi",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Squid",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Perch",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Seagrass",NA,NA,NA,NA,NA,NA
+"Deep macro-zoobenthos","Geoducks",NA,NA,NA,NA,NA,NA
+"Deposit feeders","Benthic filter feeder","0.0048249751575395","0.170990007727037","0.0474105518248062","0.06244749","0.0624281501474484","0.059989003848653"
+"Deposit feeders","Bivalves","6.31137558675581e-05","0.100203763203842","2.07205973451916e-10","0.03122874","0.0326785625031239","0.0200029989503674"
+"Deposit feeders","Mesozooplankton","2.87505679943707e-05","0.0943432310517323","2.07205973451916e-10","0.03122874","0.0319588144149548","0.0200029989503674"
+"Deposit feeders","Benthic bacteria","0.0179647177771728","0.230871640950554","0.133321565056892","0.09366624","0.0935372619583146","0.0799820062977958"
+"Deposit feeders","Carnivorous infauna","0.00341655373170703","0.160501613780032","0.0337183752944146","0.06244749","0.0607287449392713","0.059989003848653"
+"Deposit feeders","Benthic grazers","2.6799159334558e-05","0.0938648294072862","2.07205973451916e-10","0.03122874","0.0308791922827011","0.0200029989503674"
+"Deposit feeders","Deposit feeders","7.3704093074029e-05","0.101484181609061","2.07205973451916e-10","0.03122874","0.0327585345129205","0.0200029989503674"
+"Deposit feeders","Deep macro-zoobenthos","6.14645305929968e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Small Planktivorous Fish","6.14645305929952e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Crabs","6.14645305929946e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Macroalgae","0.0519497333244944","0.321039433246753","0.281785591995379","0.15610374","0.156815114709852","0.159954016094367"
+"Deposit feeders","Small phytoplankton","3.50772550402333e-05","0.0957347259097262","2.07205973451916e-10","0.03122874","0.0313390313390313","0.0200029989503674"
+"Deposit feeders","Carrion","0.0164771772638685","0.225601167050577","0.12528494198474","0.09366624","0.0922976958064677","0.0799820062977958"
+"Deposit feeders","Microzooplankton","3.40162193721355e-05","0.0955160976117565","2.07205973451916e-10","0.03122874","0.0307992202729045","0.0200029989503674"
+"Deposit feeders","Labile detritus","0.0163000222159467","0.224958818554201","0.124422437903093","0.09366624","0.0919778077672815","0.0799820062977958"
+"Deposit feeders","Pacific Herring Cherry Point","6.14645305929896e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Refractory detritus","0.0168344670553354","0.226886826687559","0.127320774587634","0.09366624","0.0940370870195432","0.0999750087469386"
+"Deposit feeders","Pacific Herring Puget Sound","6.14645305929952e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Pelagic bacteria","0.0167449456864568","0.226565913816275","0.126735755758479","0.09366624","0.0938371569950517","0.0799820062977958"
+"Deposit feeders","Large phytoplankton","6.14645305929961e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Shrimp","7.19801725913469e-05","0.101285870698167","2.07205973451916e-10","0.03122874","0.0332783525765982","0.0399960013995102"
+"Deposit feeders","Octopi","6.14645305929916e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Small demersal fish","6.14645305929983e-15","0.0426314796871319","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Gelatinous zooplankton","6.14645305929961e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Dungeness crab","6.14645305929977e-15","0.0426314796871319","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Demersal vulnerable rockfish","6.14645305929946e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Small-mouthed Flatfish","6.14645305929961e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Squid","6.14645305929968e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Large zooplankton","6.14645305929977e-15","0.0426314796871319","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Midwater rockfish","6.14645305929946e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Perch","6.14645305929977e-15","0.0426314796871319","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Midwater vulnerable rockfish","6.14645305929946e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Demersal rockfish","6.14645305929961e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Deposit feeders","Seagrass","2.84134766384083e-05","0.0942624818260446","2.07205973451916e-10","0.03122874","0.0304593392312691","0.0200029989503674"
+"Deposit feeders","Geoducks","6.14645305929961e-15","0.0426314796871318","2.07205973451916e-10","9.99e-06","9.9965012245714e-06","9.9965012245714e-06"
+"Dungeness crab","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Bivalves",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Crabs",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Macroalgae",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Carrion",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Labile detritus",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Shrimp",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Octopi",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Squid",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Perch",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Seagrass",NA,NA,NA,NA,NA,NA
+"Dungeness crab","Geoducks",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Bivalves",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Crabs",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Macroalgae",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Carrion",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Labile detritus",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Shrimp",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Octopi",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Squid",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Perch",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Seagrass",NA,NA,NA,NA,NA,NA
+"Gelatinous zooplankton","Geoducks",NA,NA,NA,NA,NA,NA
+"Geoducks","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Geoducks","Bivalves",NA,NA,NA,NA,NA,NA
+"Geoducks","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Geoducks","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Geoducks","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Geoducks","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Geoducks","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Geoducks","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Geoducks","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Geoducks","Crabs",NA,NA,NA,NA,NA,NA
+"Geoducks","Macroalgae",NA,NA,NA,NA,NA,NA
+"Geoducks","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Geoducks","Carrion",NA,NA,NA,NA,NA,NA
+"Geoducks","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Geoducks","Labile detritus",NA,NA,NA,NA,NA,NA
+"Geoducks","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Geoducks","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Geoducks","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Geoducks","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Geoducks","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Geoducks","Shrimp",NA,NA,NA,NA,NA,NA
+"Geoducks","Octopi",NA,NA,NA,NA,NA,NA
+"Geoducks","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Geoducks","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Geoducks","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Geoducks","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Geoducks","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Geoducks","Squid",NA,NA,NA,NA,NA,NA
+"Geoducks","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Geoducks","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Geoducks","Perch",NA,NA,NA,NA,NA,NA
+"Geoducks","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Geoducks","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Geoducks","Seagrass",NA,NA,NA,NA,NA,NA
+"Geoducks","Geoducks",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Bivalves",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Crabs",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Macroalgae",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Carrion",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Labile detritus",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Shrimp",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Octopi",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Squid",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Perch",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Seagrass",NA,NA,NA,NA,NA,NA
+"Large zooplankton","Geoducks",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Bivalves",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Crabs",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Macroalgae",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Carrion",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Labile detritus",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Shrimp",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Octopi",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Squid",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Perch",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Seagrass",NA,NA,NA,NA,NA,NA
+"Mesozooplankton","Geoducks",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Bivalves",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Crabs",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Macroalgae",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Carrion",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Labile detritus",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Shrimp",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Octopi",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Squid",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Perch",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Seagrass",NA,NA,NA,NA,NA,NA
+"Microzooplankton","Geoducks",NA,NA,NA,NA,NA,NA
+"Moon jelly","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Moon jelly","Bivalves",NA,NA,NA,NA,NA,NA
+"Moon jelly","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Moon jelly","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Moon jelly","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Moon jelly","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Moon jelly","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Moon jelly","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Moon jelly","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Moon jelly","Crabs",NA,NA,NA,NA,NA,NA
+"Moon jelly","Macroalgae",NA,NA,NA,NA,NA,NA
+"Moon jelly","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Moon jelly","Carrion",NA,NA,NA,NA,NA,NA
+"Moon jelly","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Moon jelly","Labile detritus",NA,NA,NA,NA,NA,NA
+"Moon jelly","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Moon jelly","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Moon jelly","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Moon jelly","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Moon jelly","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Moon jelly","Shrimp",NA,NA,NA,NA,NA,NA
+"Moon jelly","Octopi",NA,NA,NA,NA,NA,NA
+"Moon jelly","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Moon jelly","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Moon jelly","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Moon jelly","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Moon jelly","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Moon jelly","Squid",NA,NA,NA,NA,NA,NA
+"Moon jelly","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Moon jelly","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Moon jelly","Perch",NA,NA,NA,NA,NA,NA
+"Moon jelly","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Moon jelly","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Moon jelly","Seagrass",NA,NA,NA,NA,NA,NA
+"Moon jelly","Geoducks",NA,NA,NA,NA,NA,NA
+"Octopi","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Octopi","Bivalves",NA,NA,NA,NA,NA,NA
+"Octopi","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Octopi","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Octopi","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Octopi","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Octopi","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Octopi","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Octopi","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Octopi","Crabs",NA,NA,NA,NA,NA,NA
+"Octopi","Macroalgae",NA,NA,NA,NA,NA,NA
+"Octopi","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Octopi","Carrion",NA,NA,NA,NA,NA,NA
+"Octopi","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Octopi","Labile detritus",NA,NA,NA,NA,NA,NA
+"Octopi","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Octopi","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Octopi","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Octopi","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Octopi","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Octopi","Shrimp",NA,NA,NA,NA,NA,NA
+"Octopi","Octopi",NA,NA,NA,NA,NA,NA
+"Octopi","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Octopi","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Octopi","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Octopi","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Octopi","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Octopi","Squid",NA,NA,NA,NA,NA,NA
+"Octopi","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Octopi","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Octopi","Perch",NA,NA,NA,NA,NA,NA
+"Octopi","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Octopi","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Octopi","Seagrass",NA,NA,NA,NA,NA,NA
+"Octopi","Geoducks",NA,NA,NA,NA,NA,NA
+"Shrimp","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Shrimp","Bivalves",NA,NA,NA,NA,NA,NA
+"Shrimp","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Shrimp","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Shrimp","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Shrimp","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Shrimp","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Shrimp","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Shrimp","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Shrimp","Crabs",NA,NA,NA,NA,NA,NA
+"Shrimp","Macroalgae",NA,NA,NA,NA,NA,NA
+"Shrimp","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Shrimp","Carrion",NA,NA,NA,NA,NA,NA
+"Shrimp","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Shrimp","Labile detritus",NA,NA,NA,NA,NA,NA
+"Shrimp","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Shrimp","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Shrimp","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Shrimp","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Shrimp","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Shrimp","Shrimp",NA,NA,NA,NA,NA,NA
+"Shrimp","Octopi",NA,NA,NA,NA,NA,NA
+"Shrimp","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Shrimp","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Shrimp","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Shrimp","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Shrimp","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Shrimp","Squid",NA,NA,NA,NA,NA,NA
+"Shrimp","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Shrimp","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Shrimp","Perch",NA,NA,NA,NA,NA,NA
+"Shrimp","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Shrimp","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Shrimp","Seagrass",NA,NA,NA,NA,NA,NA
+"Shrimp","Geoducks",NA,NA,NA,NA,NA,NA
+"Squid","Benthic filter feeder",NA,NA,NA,NA,NA,NA
+"Squid","Bivalves",NA,NA,NA,NA,NA,NA
+"Squid","Mesozooplankton",NA,NA,NA,NA,NA,NA
+"Squid","Benthic bacteria",NA,NA,NA,NA,NA,NA
+"Squid","Carnivorous infauna",NA,NA,NA,NA,NA,NA
+"Squid","Benthic grazers",NA,NA,NA,NA,NA,NA
+"Squid","Deposit feeders",NA,NA,NA,NA,NA,NA
+"Squid","Deep macro-zoobenthos",NA,NA,NA,NA,NA,NA
+"Squid","Small Planktivorous Fish",NA,NA,NA,NA,NA,NA
+"Squid","Crabs",NA,NA,NA,NA,NA,NA
+"Squid","Macroalgae",NA,NA,NA,NA,NA,NA
+"Squid","Small phytoplankton",NA,NA,NA,NA,NA,NA
+"Squid","Carrion",NA,NA,NA,NA,NA,NA
+"Squid","Microzooplankton",NA,NA,NA,NA,NA,NA
+"Squid","Labile detritus",NA,NA,NA,NA,NA,NA
+"Squid","Pacific Herring Cherry Point",NA,NA,NA,NA,NA,NA
+"Squid","Refractory detritus",NA,NA,NA,NA,NA,NA
+"Squid","Pacific Herring Puget Sound",NA,NA,NA,NA,NA,NA
+"Squid","Pelagic bacteria",NA,NA,NA,NA,NA,NA
+"Squid","Large phytoplankton",NA,NA,NA,NA,NA,NA
+"Squid","Shrimp",NA,NA,NA,NA,NA,NA
+"Squid","Octopi",NA,NA,NA,NA,NA,NA
+"Squid","Small demersal fish",NA,NA,NA,NA,NA,NA
+"Squid","Gelatinous zooplankton",NA,NA,NA,NA,NA,NA
+"Squid","Dungeness crab",NA,NA,NA,NA,NA,NA
+"Squid","Demersal vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Squid","Small-mouthed Flatfish",NA,NA,NA,NA,NA,NA
+"Squid","Squid",NA,NA,NA,NA,NA,NA
+"Squid","Large zooplankton",NA,NA,NA,NA,NA,NA
+"Squid","Midwater rockfish",NA,NA,NA,NA,NA,NA
+"Squid","Perch",NA,NA,NA,NA,NA,NA
+"Squid","Midwater vulnerable rockfish",NA,NA,NA,NA,NA,NA
+"Squid","Demersal rockfish",NA,NA,NA,NA,NA,NA
+"Squid","Seagrass",NA,NA,NA,NA,NA,NA
+"Squid","Geoducks",NA,NA,NA,NA,NA,NA

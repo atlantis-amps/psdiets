@@ -1,0 +1,118 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Hydroids,Hydroids,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Polychaete worms,bristle worm,Table_2_Nov_Dec_1966,5,0.03597122302,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Snails,Gastropod,Table_2_Nov_Dec_1966,1,0.007194244604,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Dove snails,Columbellidae,Table_2_Nov_Dec_1966,7,0.05035971223,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Nassa mud snail,Nassariidae,Table_2_Nov_Dec_1966,3,0.02158273381,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Moon snail,Naticidae,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Clams,Clams,Table_2_Nov_Dec_1966,24,0.1726618705,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Razor clam,Ensis,Table_2_Nov_Dec_1966,12,0.08633093525,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Nut clam,Nuculidae,Table_2_Nov_Dec_1966,3,0.02158273381,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,File yoldia,Yoldia limatula,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Macoma clam,Macoma,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Basket cockle,Clinocardium nuttallii,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Lyonsia clam,Lyonsia,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Mussel,Bivalvia,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMS,Cephalopods,Cephalopoda,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustaceans,Crustacea,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BD,hooded shrimps,Cumaceans,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Hooded shrimp,Cumacean,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Isopods,Synidotea,Table_2_Nov_Dec_1966,35,0.2517985612,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Amphipods,Amphipods,Table_2_Nov_Dec_1966,8,0.05755395683,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,ZL,small crustaceans,Euphausid,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Decapod crustaceans,Decapods,Table_2_Nov_Dec_1966,10,0.07194244604,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Shrimp,Decapod crustaceans,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Bay shrimp,Crangon crangon,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crab,Crustacea,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,DUN,Dungeness crab,Cancer magister,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BG,Sand dollar,Echinarachnius parma,Table_2_Nov_Dec_1966,2,0.01438848921,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Brittle star,Ophiurida,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Fish,Actinopterygii,Table_2_Nov_Dec_1966,6,0.04316546763,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Night smelt,Spirinchus starksi,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Whitebait smelt,Allosmerus elongatus,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Smelt,Osmerus eperlanus,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Northern anchovy,Engraulis mordax,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Pacific sanddab,Citharichthys sordidus,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Speckled sanddab,Citharichthys stigmaeus,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,SMD,Pacific tomcod,Microgadus proximus,Table_2_Nov_Dec_1966,2,0.01438848921,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,SG,Eel grass,Vallisneria americana,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Sand,Sand,Table_2_Nov_Dec_1966,0,0,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Unidentified material,Unidentified material,Table_2_Nov_Dec_1966,21,0.1510791367,1,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Hydroids,Hydroids,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Polychaete worms,bristle worm,Table_2_Aug_1967,1,0.01063829787,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Snails,Gastropod,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Dove snails,Columbellidae,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Nassa mud snail,Nassariidae,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Moon snail,Naticidae,Table_2_Aug_1967,1,0.01063829787,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Clams,Clams,Table_2_Aug_1967,13,0.1382978723,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Razor clam,Ensis,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Nut clam,Nuculidae,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,File yoldia,Yoldia limatula,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Macoma clam,Macoma,Table_2_Aug_1967,8,0.08510638298,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Basket cockle,Clinocardium nuttallii,Table_2_Aug_1967,4,0.04255319149,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Lyonsia clam,Lyonsia,Table_2_Aug_1967,1,0.01063829787,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Mussel,Bivalvia,Table_2_Aug_1967,3,0.03191489362,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMS,Cephalopods,Cephalopoda,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustaceans,Crustacea,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BD,hooded shrimps,Cumaceans,Table_2_Aug_1967,4,0.04255319149,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Hooded shrimp,Cumacean,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Isopods,Synidotea,Table_2_Aug_1967,1,0.01063829787,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Amphipods,Amphipods,Table_2_Aug_1967,9,0.09574468085,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,ZL,small crustaceans,Euphausid,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Decapod crustaceans,Decapods,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Shrimp,Decapod crustaceans,Table_2_Aug_1967,2,0.02127659574,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Bay shrimp,Crangon crangon,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crab,Crustacea,Table_2_Aug_1967,5,0.05319148936,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,DUN,Dungeness crab,Cancer magister,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BG,Sand dollar,Echinarachnius parma,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Brittle star,Ophiurida,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Fish,Actinopterygii,Table_2_Aug_1967,33,0.3510638298,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Night smelt,Spirinchus starksi,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Whitebait smelt,Allosmerus elongatus,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Smelt,Osmerus eperlanus,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Northern anchovy,Engraulis mordax,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Pacific sanddab,Citharichthys sordidus,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Speckled sanddab,Citharichthys stigmaeus,Table_2_Aug_1967,1,0.01063829787,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,SMD,Pacific tomcod,Microgadus proximus,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,SG,Eel grass,Vallisneria americana,Table_2_Aug_1967,6,0.06382978723,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Sand,Sand,Table_2_Aug_1967,2,0.02127659574,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Unidentified material,Unidentified material,Table_2_Aug_1967,0,0,2,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Hydroids,Hydroids,Table_2_Aug-Sep_1969,2,0.008230452675,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Polychaete worms,bristle worm,Table_2_Aug-Sep_1969,4,0.01646090535,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Snails,Gastropod,Table_2_Aug-Sep_1969,3,0.01234567901,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Dove snails,Columbellidae,Table_2_Aug-Sep_1969,0,0,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Nassa mud snail,Nassariidae,Table_2_Aug-Sep_1969,1,0.004115226337,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Moon snail,Naticidae,Table_2_Aug-Sep_1969,0,0,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Clams,Clams,Table_2_Aug-Sep_1969,35,0.1440329218,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Razor clam,Ensis,Table_2_Aug-Sep_1969,12,0.04938271605,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Nut clam,Nuculidae,Table_2_Aug-Sep_1969,0,0,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,File yoldia,Yoldia limatula,Table_2_Aug-Sep_1969,1,0.004115226337,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Macoma clam,Macoma,Table_2_Aug-Sep_1969,0,0,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Basket cockle,Clinocardium nuttallii,Table_2_Aug-Sep_1969,2,0.008230452675,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Lyonsia clam,Lyonsia,Table_2_Aug-Sep_1969,0,0,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Mussel,Bivalvia,Table_2_Aug-Sep_1969,0,0,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMS,Cephalopods,Cephalopoda,Table_2_Aug-Sep_1969,2,0.008230452675,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustaceans,Crustacea,Table_2_Aug-Sep_1969,8,0.0329218107,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BD,hooded shrimps,Cumaceans,Table_2_Aug-Sep_1969,13,0.05349794239,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Hooded shrimp,Cumacean,Table_2_Aug-Sep_1969,2,0.008230452675,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Isopods,Synidotea,Table_2_Aug-Sep_1969,0,0,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Amphipods,Amphipods,Table_2_Aug-Sep_1969,17,0.06995884774,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,ZL,small crustaceans,Euphausid,Table_2_Aug-Sep_1969,4,0.01646090535,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Decapod crustaceans,Decapods,Table_2_Aug-Sep_1969,0,0,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Shrimp,Decapod crustaceans,Table_2_Aug-Sep_1969,2,0.008230452675,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Bay shrimp,Crangon crangon,Table_2_Aug-Sep_1969,5,0.02057613169,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crab,Crustacea,Table_2_Aug-Sep_1969,12,0.04938271605,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,DUN,Dungeness crab,Cancer magister,Table_2_Aug-Sep_1969,7,0.02880658436,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BG,Sand dollar,Echinarachnius parma,Table_2_Aug-Sep_1969,1,0.004115226337,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,BMD,Brittle star,Ophiurida,Table_2_Aug-Sep_1969,17,0.06995884774,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Fish,Actinopterygii,Table_2_Aug-Sep_1969,11,0.04526748971,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Night smelt,Spirinchus starksi,Table_2_Aug-Sep_1969,1,0.004115226337,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Whitebait smelt,Allosmerus elongatus,Table_2_Aug-Sep_1969,12,0.04938271605,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Smelt,Osmerus eperlanus,Table_2_Aug-Sep_1969,16,0.0658436214,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Northern anchovy,Engraulis mordax,Table_2_Aug-Sep_1969,1,0.004115226337,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Pacific sanddab,Citharichthys sordidus,Table_2_Aug-Sep_1969,1,0.004115226337,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Speckled sanddab,Citharichthys stigmaeus,Table_2_Aug-Sep_1969,1,0.004115226337,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,SMD,Pacific tomcod,Microgadus proximus,Table_2_Aug-Sep_1969,3,0.01234567901,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,SG,Eel grass,Vallisneria americana,Table_2_Aug-Sep_1969,8,0.0329218107,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Sand,Sand,Table_2_Aug-Sep_1969,21,0.08641975309,3,DUN_Gotshall_1977
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Unidentified material,Unidentified material,Table_2_Aug-Sep_1969,18,0.07407407407,3,DUN_Gotshall_1977

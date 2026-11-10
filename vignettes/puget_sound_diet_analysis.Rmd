@@ -1,0 +1,565 @@
+---title:"Diet analysis"
+author:"Hem Nalini Morzaria-Luna"
+date:"`r Sys.Date()`"
+output:html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+if(dir.exists(here::here("outputs", "diet_data_files"))==FALSE) dir.create(here::here("outputs", "diet_data_files"))
+devtools::load_all()
+library("parallel")
+library("doSNOW")
+```
+
+Organize separate data files
+
+organize data from Baker
+```{r organize_baker, include=FALSE}
+atlantis_fg_file <- "atlantis_fg.csv"
+
+atlantis_groups_file <- "atlantis_groups_diet_data.csv"
+data.file <- "baker_uw_2018-2014.csv"
+source.name  <- "Baker_uw"
+csv.file <- "diet_data_bakeruw.csv"
+output.path <- here::here("outputs", "diet_data_files")
+
+
+organize_baker(
+  atlantis_fg_file, 
+  atlantis_groups_file, 
+  data.file, 
+  source.name, 
+  csv.file, 
+  output.path)
+
+```
+
+Organize data from Beauchamp
+
+```{r organize_beauchamp, include=FALSE}
+atlantis_fg_file <- "atlantis_fg.csv"
+#Data is weight of diet items in grams
+atlantis_groups_file <- "atlantis_beauchamp_groups.csv"
+data.file <- "Diet_data_Beauchamp.csv"
+source.name  <- "Beauchamp"
+csv.file <- "diet_data_beauchamp.csv"
+output.path <- here::here("outputs", "diet_data_files")
+
+organize_beauchamp(
+  atlantis_fg_file,
+  atlantis_groups_file,
+  data.file,
+  source.name,
+  cvs.file,
+  output.path
+)
+
+```
+
+Organize data from Beaudreau
+
+```{r organize_beaudreau, include=FALSE}
+
+atlantis_fg_file <- "atlantis_fg.csv"
+#Data is weight of diet items in grams
+atlantis_groups_file <- "atlantis_beaudreau_groups.csv"
+data.file <- "beaudreau_lingcod_diet_data.csv"
+source.name  <- "Beaudreau"
+csv.file <- "diet_data_beaudreau.csv"
+output.path <- here::here("outputs", "diet_data_files")
+
+organize_beaudreau(
+  atlantis_fg_file,
+  atlantis_groups_file,
+  data.file,
+  source.name,
+  cvs.file,
+  output.path
+)
+```
+
+
+Organize data from Cowichan
+
+```{r organize_cowichan, include=FALSE}
+
+atlantis_fg_file <- "atlantis_fg.csv"
+#Data is weight of diet items in grams
+atlantis_groups_file <- "atlantis_groups_diet_data.csv"
+data.file <- "cowichan_stomachs.xlsx"
+source.name  <- "Cowichan"
+csv.file <- "diet_data_cowichan.csv"
+output.path <- here::here("outputs", "diet_data_files")
+sheet_names = c("cowichan_data_2013ps","cowichan_data_2013b", "cowichan_data_2014", "cowichan_data_2015")
+
+organize_cowichan(
+  atlantis_fg_file,
+  atlantis_groups_file,
+  data.file,
+  source.name,
+  cvs.file,
+  output.path,
+  sheet_names
+)
+```
+
+
+Organize data from Beauchamp herring
+
+```{r organize_cowichan, include=FALSE}
+
+atlantis_fg_file <- "atlantis_fg.csv"
+#Data is weight of diet items in grams
+atlantis_groups_file <- "atlantis_groups_diet_data.csv"
+data.file <- "Herring_diet_data_Beauchamp.xlsx"
+source.name  <- "Beauchamp herring"
+csv.file <- "diet_data_beauchamp_herring.csv"
+output.path <- here::here("outputs", "diet_data_files")
+sheet_name.1 <- "beauchamp_2011_herring_diet"
+sheet_name.2  <- "beauchamp_2008-2010_herring"
+
+organize_herring_beauchamp(
+  atlantis_fg_file,
+  atlantis_groups_file,
+  data.file,
+  source.name,
+  cvs.file,
+  output.path,
+  sheet_name.1,
+  sheet_name.2
+)
+```
+
+
+
+Organize data from Daubenberg
+
+```{r organize_daubenberg, include=FALSE}
+
+atlantis_fg_file <- "atlantis_fg.csv"
+#Data is weight of diet items in grams
+atlantis_groups_file <- "atlantis_daubenberger_groups.csv"
+data.file <- "Daubenberger_Hood_Canal_diets.csv"
+source.name  <- "Daubenberg"
+csv.file <- "diet_data_daubenberg.csv"
+output.path <- here::here("outputs", "diet_data_files")
+
+organize_daubenberg(
+  atlantis_fg_file,
+  atlantis_groups_file,
+  data.file,
+  source.name,
+  cvs.file,
+  output.path
+)
+```
+
+
+```{r organize_kwiaht, include=FALSE}
+
+atlantis_fg_file <- "atlantis_fg.csv"
+#Data is weight of diet items in grams
+atlantis_groups_file <- "atlantis_groups_diet_data.csv"
+data.file <- "Kwiaht_gut_contents_data_reviewed.xlsx"
+source.name  <- "Kwiaht"
+csv.file <- "diet_data_kwiaht.csv"
+output.path <- here::here("outputs", "diet_data_files")
+
+organize_kwiaht(
+  atlantis_fg_file,
+  atlantis_groups_file,
+  data.file,
+  source.name,
+  cvs.file,
+  output.path
+)
+
+```
+
+Aggregate diet database
+
+```{r aggregate_diet, include=FALSE}
+
+func.groups <- readr::read_csv(here::here("data","func_group_update.csv"))
+un.codes <- c("DC","DL","DR","BB","PB","PL","PS","MA","SG","CI","CO","CU","CI1_CI2","CH","ROCKFISH","BIRD")
+orca.chinook <- readr::read_csv(here::here("data","orca_chinook_diet_prop.csv"))
+fish.groups <- readr::read_csv(here::here("data","atlantis_fish_groups.csv"))
+atlantis.diet.groups <- readxl::read_excel(here::here("data","Diet_database_V1_no_figures.xlsx"),sheet="Atlantis_groups")
+invert.groups <- readr::read_csv(here::here("data","atlantis_invert_groups.csv"))
+agg.groups <- c("CI","CO","CU","CI1_CI2","CH","ROCKFISH","BIRD")
+herr.groups <- c("HEP","HEC")
+chinook.sal <- c("CHY","CHS","CSY","CSS","CSN","CDS","CNY","CNS","CHC","CYE","CKS","SAF")
+chin.coho.sal <- c("CHY","CHS","CSY","CSS","CSN","CDS","CNY","CNS","CHC","CYE","CKS","SAF","COH","COS","COD","COY")
+chum.sal <- c("CMS", "CMF", "CMH")
+coho.sal <- c("COH", "COS", "COD", "COY")
+sal.groups <- c("CHY","CHS","CSY","CSS","CSN","CDS","CNY","CNS","CHC","CYE","CKS","COH","COS","COD","COY","CMS","CMF","CMH","PIS","SAL","SAF")
+groups.notinmodel <- c("SEAL","MYCTOPHID","LAMPREY","FRESHWATER","CLADOCERA","PLANT","PARASITE","WHALE","MAMMAL","PELAGIC","STEELHEAD","SHARK")
+hatchery.sal <- c("CHY","CHS","COH","CMS")
+rockfish.list <- c("ROC","MRO","DVR","MVR")
+bird.groups <- c("SB","SP")
+invert.codes <- c("ZS","ZM","ZL","ZG","AUR","SQX","BMD","BD","BG","BMS","BML","PWN","BFF","BIV","BC","DUN","GEC")
+bacterial.groups <- c("BB","PB")
+#primary producers and codes that were unassigned
+detritus.groups<- c("DC","DL","DR")
+
+  aggregate_diets(func.groups,
+  un.codes,
+  orca.chinook,
+  fish.groups,
+  atlantis.diet.groups,
+  invert.groups,
+  agg.groups,
+  herr.groups,
+  chinook.sal,
+  chin.coho.sal,
+  chum.sal,
+  coho.sal,
+  sal.groups,
+  groups.notinmodel,
+  hatchery.sal,
+  rockfish.list,
+  bird.groups,
+  invert.codes,
+  bacterial.groups,
+  detritus.groups)
+  
+
+```
+
+
+Create figures
+```{r}
+
+# --- Create invertebrate diet composition visualization ---
+
+# Define display order for invertebrate predators (zooplankton to cephalopods)
+pred.order <- c("Microzooplankton", "Mesozooplankton", "Gelatinous zooplankton", "Large zooplankton",
+                "Carnivorous infauna","Deposit feeders","Benthic filter feeder" ,"Benthic grazers","Bivalves" ,"Geoducks",
+                "Crabs" ,"Dungeness crab","Shrimp",
+                "Deep macro-zoobenthos","Octopi","Squid")
+
+# Define prey order for stacked bar chart (detritus/bacteria to fish)
+prey.order <- c("Carrion","Labile detritus", "Refractory detritus","Pelagic bacteria","Benthic bacteria",
+                "Small phytoplankton", "Large phytoplankton","Macroalgae","Seagrass",
+                "Microzooplankton", "Mesozooplankton","Large zooplankton","Gelatinous zooplankton",
+                "Carnivorous infauna", "Deposit feeders","Benthic filter feeder","Benthic grazers","Deep macro-zoobenthos" ,"Geoducks","Bivalves", "Shrimp", "Crabs","Dungeness crab",
+                "Octopi", "Squid",
+                "Small Planktivorous Fish","Pacific Herring Cherry Point", "Pacific Herring Puget Sound","Perch",
+                "Small demersal fish","Small-mouthed Flatfish",
+                "Demersal vulnerable rockfish", "Midwater rockfish", "Midwater vulnerable rockfish", "Demersal rockfish")
+
+# Define color scheme for prey categories (browns for detritus, greens for primary producers, blues for zooplankton, etc.)
+fill <- c("burlywood4","bisque4","bisque3","cornsilk3","cornsilk4",
+          "darkolivegreen2","darkolivegreen3","darkolivegreen4","darkseagreen4",
+          "dodgerblue", "dodgerblue2","dodgerblue3","dodgerblue4",
+          "darkgoldenrod1","darkgoldenrod3","darkgoldenrod4","coral","coral1","coral3","coral4","firebrick2", "darkred","firebrick3",
+          "violet","violetred3",
+          "dodgerblue", "dodgerblue1","dodgerblue2","dodgerblue3",
+          "deepskyblue4","dodgerblue4",
+          "red1","red2","red3","red4")
+
+# Apply ordering factors for consistent visualization
+invert.data$Predator <- factor(invert.data$Predator, levels = pred.order)
+invert.tot.prop$Predator <- factor(invert.tot.prop$Predator, levels = pred.order)
+invert.data$prey <- factor(invert.data$prey, levels = prey.order)
+
+# Create horizontal stacked bar chart showing diet composition
+invert.data %>%
+  group_by(Predator, prey) %>%
+  summarise(mean_prop = mean(proportion)) %>%
+  ungroup %>%
+  left_join(invert.tot.prop, by="Predator") %>%
+  mutate(norm_prop = mean_prop/tot_prop) %>%
+  ggplot(aes(Predator, norm_prop, fill=prey))+
+  geom_bar(stat="identity")+
+  coord_flip()+
+  scale_fill_manual(values=fill)+
+  labs(x = "Predator",y="Proportion")+
+  #  facet_wrap(~Predator)+
+  theme_bw()+
+  theme(legend.position="bottom",
+        legend.title = element_blank())
+
+# Save invertebrate diet composition plot
+ggsave("invert_diet_composition.png", device = "png", width = 10, height = 6)
+
+pred.order <- c("Pacific Herring Cherry Point","Pacific Herring Puget Sound", "Small Planktivorous Fish", "Perch",
+                "Chinook Duwamish Subyearling","Chinook Hatch Subyearling",  "Chinook Hatch Yearling",
+                "Chinook Hood Canal Subyearling", "Chinook Nisqually Subyearling" ,"Chinook Nisqually Yearling", 
+                "Chinook other Subyearling", "Chinook other Yearling", "Chinook Skagit Subyearling", 
+                "Chinook Skagit Yearling", "Chinook Snohomish Subyearling", 
+                "Chum Fall Subyearling","Chum Hatch Subyearling", "Chum Hood Canal summer run Subyearling",
+                "Coho Deep South Yearling", "Coho Hatch Yearling", "Coho other Yearling","Coho Skagit Yearling", 
+                "Other salmonids", "Pink Salmon Subyearling",    "Strait of Georgia salmonids",  
+                "Demersal rockfish","Demersal vulnerable rockfish","Midwater rockfish","Midwater vulnerable rockfish", 
+                "Large demersal predators", "Hake_Large gadoids", "Piscivorous flatfish",  "Small demersal fish", "Small-mouthed Flatfish",
+                "Sixgill Shark","Skates", "Spiny dogfish", "Ratfish",
+                "Raptors","Seabirds (mainly non-piscivorous)","Seabirds (piscivorous)",
+                "Harbor seals",  "Steller sea lions","California sea lions","Harbor porpoise","Resident Orca","Transient Orca","Humpback whales"                          
+)
+
+prey.order <- c("Insects",
+                "Carrion","Labile detritus","Refractory detritus",
+                "Small phytoplankton","Large phytoplankton", "Macroalgae", "Seagrass", 
+                "Microzooplankton","Mesozooplankton","Large zooplankton",  "Gelatinous zooplankton",                  
+                "Deep macro-zoobenthos","Carnivorous infauna","Deposit feeders",  "Benthic filter feeder", "Benthic grazers",  "Bivalves","Dungeness crab","Crabs","Shrimp",
+                "Squid", "Octopi",
+                "Small Planktivorous Fish", "Perch","Pacific Herring Puget Sound","Pacific Herring Cherry Point",
+                "Strait of Georgia salmonids", "Chinook Hatch Subyearling","Chinook Hatch Yearling",  "Chinook other Subyearling", "Chinook Snohomish Subyearling","Chinook Skagit Subyearling","Chinook Skagit Yearling","Chinook other Yearling",            
+                "Chinook Duwamish Subyearling", "Chinook Hood Canal Subyearling", "Chinook Nisqually Subyearling","Chinook Nisqually Yearling",
+                "Chum Fall Subyearling", "Chum Hood Canal summer run Subyearling","Chum Hatch Subyearling",  
+                "Coho Deep South Yearling", "Coho Hatch Yearling","Coho Skagit Yearling", "Coho other Yearling",    
+                "Pink Salmon Subyearling", "Other salmonids",
+                "Large demersal predators", "Hake_Large gadoids","Small demersal fish",  "Small-mouthed Flatfish", "Piscivorous flatfish",  
+                "Demersal rockfish", "Midwater rockfish",   "Demersal vulnerable rockfish", "Midwater vulnerable rockfish",        
+                "Spiny dogfish",  "Ratfish", "Skates",  
+                "Seabirds (mainly non-piscivorous)","Seabirds (piscivorous)",
+                "Harbor seals","California sea lions","Harbor porpoise","Steller sea lions")  
+
+fill <- c("deeppink",
+          "burlywood4","bisque4","bisque3","cornsilk3","cornsilk4",
+          "darkseagreen1","darkseagreen3","darkseagreen2","darkseagreen4",
+          "darkolivegreen1", "darkolivegreen3","darkolivegreen2","darkolivegreen4",
+          "darkgoldenrod1","darkgoldenrod3","darkgoldenrod4","yellow2","yellow","yellow3","orange1","orange", "orange2",
+          "violet","violetred3",
+          "dodgerblue", "dodgerblue2","dodgerblue1","dodgerblue3",
+          "lightsalmon","lightsalmon1","lightsalmon2","lightsalmon3","lightsalmon4","salmon","salmon2","salmon1","salmon3","lightcoral","salmon4",
+          "rosybrown1","rosybrown3","rosybrown2",
+          "indianred","indianred2","indianred1","indianred3",
+          "sienna1","sienna3","sienna2",
+          "deepskyblue4","navyblue","dodgerblue4","lightsteelblue3","lightsteelblue4",
+          "red1","red3","red2","red4",
+          "plum2","plum4","orchid4",
+          "gray71","gray34",
+          "lemonchiffon1","lemonchiffon3","lemonchiffon2","lemonchiffon4"
+)
+
+
+
+adult.data$Predator <- factor(adult.data$Predator, levels = pred.order)
+
+adult.data$prey <- factor(adult.data$prey, levels = prey.order)
+
+adult.data %>%
+  ggplot(aes(Predator, proportion, fill=prey))+
+  geom_bar(stat="identity")+
+  coord_flip()+
+  scale_fill_manual(values=fill)+
+  labs(x = "Predator",y="Proportion")+
+  #facet_wrap(~prey)+
+  theme_bw()+
+  theme(legend.position="bottom",
+        legend.title = element_blank())
+
+ggsave("adult_diet_composition.png", device = "png", width = 13, height = 11)
+
+
+## Use to subset groups
+
+invert.data %>% 
+  # group_by(Predator, prey) %>% 
+  # summarise(mean_prop = mean(proportion)) %>% 
+  # ungroup %>% 
+  # left_join(invert.tot.prop, by="Predator") %>% 
+  # mutate(norm_prop = mean_prop/tot_prop) %>% 
+  filter(Predator == "Gelatinous zooplankton")
+
+
+subset.data <- adult.data %>% 
+  filter(Predator %in% c("Harbor seals",  "Steller sea lions","California sea lions","Harbor porpoise","Resident Orca","Transient Orca","Humpback whales"))
+
+fill <- c("deeppink",#Insects
+          "darkblue", #Macroalgae
+          "violet","violet",#Zooplankton
+          "darkseagreen1","darkseagreen1","darkseagreen1","darkseagreen1","darkseagreen1","darkseagreen1","darkseagreen1","darkseagreen1", #invertebrates
+          "darkgoldenrod1","darkgoldenrod1","darkgoldenrod1","darkgoldenrod1",#forage fish
+          "lightsalmon","lightsalmon","lightsalmon","lightsalmon","lightsalmon","lightsalmon","lightsalmon","lightsalmon","lightsalmon","lightsalmon","lightsalmon","lightsalmon", #chinook
+          "lightsalmon3","lightsalmon3","lightsalmon3",#Chum
+          "salmon1","salmon1","salmon1","salmon1", #coho
+          "lightcoral","lightcoral", #other salmon
+          "lemonchiffon1","lemonchiffon1","lemonchiffon1","lemonchiffon1","lemonchiffon1","lemonchiffon1","lemonchiffon1","lemonchiffon1","lemonchiffon1", #demersal fish
+          "sienna3","sienna3","sienna3",#sharks
+          "deepskyblue4","deepskyblue4",#seabirds
+          "red1","red1","red1","red1") #marine mammals
+
+
+subset.data %>%
+  droplevels %>% 
+  ggplot(aes(Predator, proportion, fill=prey))+
+  geom_bar(stat="identity")+
+  coord_flip()+
+  scale_fill_manual(values=fill)+
+  labs(x = "Predator",y="Proportion")+
+  #facet_wrap(~prey)+
+  theme_bw()+
+  theme(legend.position="bottom",
+        legend.title = element_blank())
+
+ggsave("mammal_diet_composition.png", device = "png", width = 13, height = 11)
+
+
+# --- Create juvenile diet composition visualization ---
+
+# Define predator order (zooplankton, invertebrates, fish, seabirds, mammals)
+pred.order <- c("Large zooplankton","Deposit feeders","Dungeness crab",
+                "Pacific Herring Cherry Point","Pacific Herring Puget Sound", "Small Planktivorous Fish", "Perch",
+                "Chinook Duwamish Subyearling","Chinook Hatch Subyearling",  "Chinook Hatch Yearling",
+                "Chinook Hood Canal Subyearling", "Chinook Nisqually Subyearling" ,"Chinook Nisqually Yearling",
+                "Chinook other Subyearling", "Chinook other Yearling", "Chinook Skagit Subyearling",
+                "Chinook Skagit Yearling", "Chinook Snohomish Subyearling", "Chum Fall Subyearling",
+                "Chum Hatch Subyearling", "Chum Hood Canal summer run Subyearling","Coho Deep South Yearling",
+                "Coho Hatch Yearling", "Coho other Yearling","Coho Skagit Yearling", "Other salmonids",
+                "Pink Salmon Subyearling",    "Strait of Georgia salmonids",
+                "Demersal rockfish","Demersal vulnerable rockfish","Midwater rockfish","Midwater vulnerable rockfish",
+                "Hake_Large gadoids", "Large demersal predators","Piscivorous flatfish",  "Small demersal fish",
+                "Small-mouthed Flatfish",
+                "Seabirds (mainly non-piscivorous)" ,"Seabirds (piscivorous)",
+                "Sixgill Shark","Skates", "Spiny dogfish", "Ratfish",
+                "Harbor seals",  "Steller sea lions")
+
+# Define prey order for juvenile diet plots (insects to fish to mammals)
+prey.order <- c("Insects",
+                "Carrion","Labile detritus","Refractory detritus",
+                "Small phytoplankton","Large phytoplankton", "Macroalgae", "Seagrass",
+                "Microzooplankton","Mesozooplankton","Large zooplankton",  "Gelatinous zooplankton",
+                "Deep macro-zoobenthos","Carnivorous infauna","Deposit feeders",  "Benthic filter feeder", "Benthic grazers",  "Bivalves","Dungeness crab","Crabs","Shrimp",
+                "Squid", "Octopi",
+                "Small Planktivorous Fish", "Perch","Pacific Herring Puget Sound","Pacific Herring Cherry Point",
+                "Chinook Hatch Subyearling","Chinook Hatch Yearling",  "Chinook other Subyearling", "Chinook Snohomish Subyearling","Chinook Skagit Subyearling","Chinook Skagit Yearling","Chinook other Yearling",
+                "Chinook Duwamish Subyearling", "Chinook Hood Canal Subyearling", "Chinook Nisqually Subyearling","Chinook Nisqually Yearling",
+                "Chum Fall Subyearling", "Chum Hood Canal summer run Subyearling","Chum Hatch Subyearling",
+                "Coho Deep South Yearling", "Coho Hatch Yearling","Coho Skagit Yearling", "Coho other Yearling",
+                "Pink Salmon Subyearling", "Strait of Georgia salmonids", "Other salmonids",
+                "Large demersal predators", "Hake_Large gadoids","Small demersal fish",  "Small-mouthed Flatfish", "Piscivorous flatfish",
+                "Demersal rockfish", "Midwater rockfish",   "Demersal vulnerable rockfish", "Midwater vulnerable rockfish",
+                "Spiny dogfish",  "Ratfish",
+                "Humpback whales","Harbor seals")
+
+# Define color palette for juvenile diet plot
+# Pink for insects, browns for detritus, greens for plants, blues for fish, etc.
+fill <- c("deeppink",
+          "burlywood4","bisque4","bisque3",
+          "darkseagreen1","darkseagreen2","darkseagreen3","darkseagreen4",
+          "darkolivegreen1", "darkolivegreen2","darkolivegreen3","darkolivegreen4",
+          "darkgoldenrod1","darkgoldenrod3","darkgoldenrod4","yellow","yellow2","yellow3","orange","orange1", "orange2",
+          "violet","violetred3",
+          "dodgerblue", "dodgerblue2","dodgerblue4","dodgerblue3",
+          "lightsalmon","lightsalmon1","lightsalmon2","lightsalmon3","lightsalmon4","salmon","salmon1","salmon2","salmon3","salmon4","lightcoral",
+          "rosybrown1","rosybrown2","rosybrown3",
+          "indianred","indianred1","indianred2","indianred3",
+          "sienna1","sienna2","sienna3",
+          "deepskyblue4","dodgerblue4","navyblue","lightsteelblue3","lightsteelblue4",
+          "red1","red2","red3","red4",
+          "plum2","plum4",
+          "violetred1","violetred2"
+)
+
+# Apply ordering factors for consistent visualization
+juvenile.data$Predator <- factor(juvenile.data$Predator, levels = pred.order)
+juvenile.data$prey <- factor(juvenile.data$prey, levels = prey.order)
+
+# Create horizontal stacked bar chart for juvenile diet composition
+juvenile.data %>%
+  ggplot(aes(Predator, proportion, fill=prey))+
+  geom_bar(stat="identity")+
+  coord_flip()+
+  scale_fill_manual(values=fill)+
+  labs(x = "Predator",y="Proportion")+
+  #facet_wrap(~prey)+
+  theme_bw()+
+  theme(legend.position="bottom",
+        legend.title = element_blank())
+
+# Save juvenile diet composition plot
+ggsave("juvenile_diet_composition.png", device = "png", width = 13, height = 11)
+```
+
+
+Run dirichelet code on diet data
+
+```{r dirichelet, echo=FALSE}
+  #run multiple Atlantis simulations on local machine cores
+ 
+ stage.list <- c("adult","juvenile","invert")
+ parallel::detectCores() 
+ NumberOfCluster <- length(stage.list) 
+ 
+ # Initiate cluster
+ cl <- parallel::makeCluster(NumberOfCluster)
+ doSNOW::registerDoSNOW(cl)
+ 
+ # Run this for loop for one call of model from each cluster, assuming cluster is already initiated. 
+ atlantis.scenarios <- foreach(thispredstage=stage.list, .export = "do_dirichelet", .verbose = TRUE) %dopar% {
+   
+   local({r <- getOption("repos")
+   r["CRAN"] <- "https://cloud.r-project.org" 
+   options(repos=r)
+   })
+   
+   # List of packages for session
+   .packages = c("stringi","data.table","dplyr","stringr","R.utils","VGAM")
+   
+   # Install CRAN packages (if not already installed)
+   .inst <- .packages %in% installed.packages()
+   if(length(.packages[!.inst]) > 0) install.packages(.packages[!.inst])
+   
+    # Load packages into session 
+   lapply(.packages, require, character.only=TRUE)
+   
+   savepath <- here::here("outputs","dirichelet_res", paste0(thispredstage, "_dirichelet"))
+   dir.create(savepath)
+   
+   resultfile <-  paste0("diet_dirichelet_",thispredstage,".csv")
+   pdafile <- paste0("Mode_pda_",thispredstage)
+   datafile <- paste0("diet_composition_",thispredstage, ".csv")
+   
+    
+   do_dirichelet(datafile, pdafile, resultfile, savepath, thispredstage)
+   
+ }
+ 
+ stopCluster(cl)
+```
+
+Extract Dirichelet values
+```{r}
+
+stages <- c("adult","juvenile","invert")
+func.groups <- here::here("data","PugetSoundAtlantisFunctionalGroupsV2.csv")
+
+
+dirichelet.res <- lapply(stages, clean_dirichelet, func.groups) %>% 
+  dplyr::bind_rows()
+
+
+
+```
+
+
+Edit /outputs/ps_mean_diet_composition.csv to include new salmon functional groups and make it a tidy format
+
+```{r}
+
+func.groups <- here::here("data","PugetSoundAtlantisFunctionalGroupsV2.csv")
+salmon.table <- here::here("data","res_salmon_table.csv")
+diet.matrix <- here::here("outputs","ps_mean_diet_composition.csv")
+
+tidy_diet_composition(diet.matrix, func.groups, salmon.table)
+```
+
+Compare new diet matrix with existing and update missing availability values in diet matrix, while keeping total diet proportions the same. This is done for each predator stage (adult, juvenile, invert) and the updated diet matrix is saved to a CSV file.
+
+```{r}
+pred.stages <- c("adult","juvenile","invert")
+func.groups <- readr::read_csv(here::here("data","PugetSoundAtlantisFunctionalGroupsV2.csv"))
+diet.matrix <- readr::read_csv(here::here("outputs","complete_diet_matrix.csv"))
+biology.prm <- here::here("data","AMPSbioparam_mv1_2024_V10.prm")
+dirichelet.path <- here::here("outputs","dirichelet_res")
+revised.pprey <- here::here("outputs","revised_pprey.csv")
+
+#add salmon resident groups to diet.matrix
+
+pprey_maker(pred.stages, func.groups, diet.matrix, biology.prm, dirichelet.path, diet.matrix.file.name)
+
+```
+

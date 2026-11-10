@@ -1,0 +1,90 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ROC,adult,Quillback rockfish,Sebastes maliger,NA,Unidentified eggs,Unidentified eggs,Table2_1974-1976,1,0.007142857143,1,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback rockfish,Sebastes maliger,NA,Unidentified digested,Unidentified digested,Table2_1974-1976,62,0.4428571429,1,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback rockfish,Sebastes maliger,FISH,Fish unidentified,Fish unidentified,Table2_1974-1976,8,0.05714285714,1,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback rockfish,Sebastes maliger,FPS,Sand lance,Sand lance,Table2_1974-1976,1,0.007142857143,1,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback rockfish,Sebastes maliger,HE,Herring,Herring,Table2_1974-1976,1,0.007142857143,1,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback rockfish,Sebastes maliger,BML,Rock crab,Rock crab,Table2_1974-1976,3,0.02142857143,1,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback rockfish,Sebastes maliger,BML,Kelp crab,Kelp crab,Table2_1974-1976,1,0.007142857143,1,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback rockfish,Sebastes maliger,BML,Unidentified crab,Unidentified crab,Table2_1974-1976,9,0.06428571429,1,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback rockfish,Sebastes maliger,PWN,Coonstripe,Coonstripe,Table2_1974-1976,24,0.1714285714,1,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback rockfish,Sebastes maliger,BML,Other,crustacean,Table2_1974-1976,27,0.1928571429,1,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback rockfish,Sebastes maliger,BIV,Bivalves,Bivalves,Table2_1974-1976,1,0.007142857143,1,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback rockfish,Sebastes maliger,BC,Polychaete,Polychaete,Table2_1974-1976,1,0.007142857143,1,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback rockfish,Sebastes maliger,MA,Kelp,Kelp,Table2_1974-1976,1,0.007142857143,1,Rockfish_Washington_et_al_1978
+ROC,adult,Copper rockfish,Copper rockfish,FISH,Fish,Fish,Table3_1974-1976,49,0.2333333333,2,Rockfish_Washington_et_al_1978
+ROC,adult,Copper rockfish,Copper rockfish,BML,Cristaceans,Crabs,Table3_1974-1976,78,0.3714285714,2,Rockfish_Washington_et_al_1978
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Crustaceans,Shrimp,Table3_1974-1976,41,0.1952380952,2,Rockfish_Washington_et_al_1978
+ROC,adult,Copper rockfish,Copper rockfish,BML,Crustaceans,crustacean,Table3_1974-1976,15,0.07142857143,2,Rockfish_Washington_et_al_1978
+ROC,adult,Copper rockfish,Copper rockfish,BIV,Molluscs,Molluscs,Table3_1974-1976,5,0.02380952381,2,Rockfish_Washington_et_al_1978
+ROC,adult,Copper rockfish,Copper rockfish,ZG,Ctenophores,Jellyfish,Table3_1974-1976,0,0,2,Rockfish_Washington_et_al_1978
+ROC,adult,Copper rockfish,Copper rockfish,NA,Miscellaneous,Miscellaneous,Table3_1974-1976,22,0.1047619048,2,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback,Quillback,FISH,Fish,Fish,Table3_1974-1976,10,0.02865329513,3,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback,Quillback,BML,Cristaceans,Crabs,Table3_1974-1976,13,0.03724928367,3,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback,Quillback,PWN,Crustaceans,Shrimp,Table3_1974-1976,24,0.06876790831,3,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback,Quillback,BML,Crustaceans,crustacean,Table3_1974-1976,237,0.6790830946,3,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback,Quillback,BIV,Molluscs,Molluscs,Table3_1974-1976,1,0.002865329513,3,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback,Quillback,ZG,Ctenophores,Jellyfish,Table3_1974-1976,0,0,3,Rockfish_Washington_et_al_1978
+ROC,adult,Quillback,Quillback,NA,Miscellaneous,Miscellaneous,Table3_1974-1976,64,0.1833810888,3,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,FISH,Fish,Fish,Table3_1974-1976,17,0.3269230769,4,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,BML,Cristaceans,Crabs,Table3_1974-1976,6,0.1153846154,4,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,PWN,Crustaceans,Shrimp,Table3_1974-1976,14,0.2692307692,4,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,BML,Crustaceans,crustacean,Table3_1974-1976,7,0.1346153846,4,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,BIV,Molluscs,Molluscs,Table3_1974-1976,0,0,4,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,ZG,Ctenophores,Jellyfish,Table3_1974-1976,0,0,4,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,NA,Miscellaneous,Miscellaneous,Table3_1974-1976,8,0.1538461538,4,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,FISH,Fish,Fish,Table3_1974-1976,21,0.25,5,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,BML,Cristaceans,Crabs,Table3_1974-1976,4,0.04761904762,5,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,PWN,Crustaceans,Shrimp,Table3_1974-1976,4,0.04761904762,5,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,BML,Crustaceans,crustacean,Table3_1974-1976,1,0.0119047619,5,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,BIV,Molluscs,Molluscs,Table3_1974-1976,0,0,5,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,ZG,Ctenophores,Jellyfish,Table3_1974-1976,3,0.03571428571,5,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,NA,Miscellaneous,Miscellaneous,Table3_1974-1976,51,0.6071428571,5,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,FISH,Fish,Fish,Table3_1974-1976,13,0.5,6,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,BML,Cristaceans,Crabs,Table3_1974-1976,4,0.1538461538,6,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,PWN,Crustaceans,Shrimp,Table3_1974-1976,0,0,6,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,BML,Crustaceans,crustacean,Table3_1974-1976,5,0.1923076923,6,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,BIV,Molluscs,Molluscs,Table3_1974-1976,0,0,6,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,ZG,Ctenophores,Jellyfish,Table3_1974-1976,0,0,6,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,NA,Miscellaneous,Miscellaneous,Table3_1974-1976,4,0.1538461538,6,Rockfish_Washington_et_al_1978
+MVR,adult,Bocaccio,Bocaccio,FISH,Fish,Fish,Table3_1974-1976,1,1,7,Rockfish_Washington_et_al_1978
+MVR,adult,Bocaccio,Bocaccio,BML,Cristaceans,Crabs,Table3_1974-1976,0,0,7,Rockfish_Washington_et_al_1978
+MVR,adult,Bocaccio,Bocaccio,PWN,Crustaceans,Shrimp,Table3_1974-1976,0,0,7,Rockfish_Washington_et_al_1978
+MVR,adult,Bocaccio,Bocaccio,BML,Crustaceans,crustacean,Table3_1974-1976,0,0,7,Rockfish_Washington_et_al_1978
+MVR,adult,Bocaccio,Bocaccio,BIV,Molluscs,Molluscs,Table3_1974-1976,0,0,7,Rockfish_Washington_et_al_1978
+MVR,adult,Bocaccio,Bocaccio,ZG,Ctenophores,Jellyfish,Table3_1974-1976,0,0,7,Rockfish_Washington_et_al_1978
+MVR,adult,Bocaccio,Bocaccio,NA,Miscellaneous,Miscellaneous,Table3_1974-1976,0,0,7,Rockfish_Washington_et_al_1978
+DVR,adult,Yelloweye,Yelloweye,FISH,Fish,Fish,Table3_1974-1976,13,0.5,8,Rockfish_Washington_et_al_1978
+DVR,adult,Yelloweye,Yelloweye,BML,Cristaceans,Crabs,Table3_1974-1976,4,0.1538461538,8,Rockfish_Washington_et_al_1978
+DVR,adult,Yelloweye,Yelloweye,PWN,Crustaceans,Shrimp,Table3_1974-1976,0,0,8,Rockfish_Washington_et_al_1978
+DVR,adult,Yelloweye,Yelloweye,BML,Crustaceans,crustacean,Table3_1974-1976,5,0.1923076923,8,Rockfish_Washington_et_al_1978
+DVR,adult,Yelloweye,Yelloweye,BIV,Molluscs,Molluscs,Table3_1974-1976,0,0,8,Rockfish_Washington_et_al_1978
+DVR,adult,Yelloweye,Yelloweye,ZG,Ctenophores,Jellyfish,Table3_1974-1976,0,0,8,Rockfish_Washington_et_al_1978
+DVR,adult,Yelloweye,Yelloweye,NA,Miscellaneous,Miscellaneous,Table3_1974-1976,4,0.1538461538,8,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,NA,Unidentified digested,Unidentified digested,Table4_1974-1976,8,0.1538461538,9,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,FISH,Fish unidentified,Fish unidentified,Table4_1974-1976,10,0.1923076923,9,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,FPS,Sand lance,Sand lance,Table4_1974-1976,6,0.1153846154,9,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,POP,Perch,Perch,Table4_1974-1976,1,0.01923076923,9,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,BML,Kelp crab,Kelp crab,Table4_1974-1976,1,0.01923076923,9,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,BML,Unidentified crab,Unidentified crab,Table4_1974-1976,5,0.09615384615,9,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,PWN,Shrimp unidentified,Shrimp,Table4_1974-1976,14,0.2692307692,9,Rockfish_Washington_et_al_1978
+ROC,adult,Brown rockfish,Brown rockfish,BML,Other crustacean,crustacean,Table4_1974-1976,7,0.1346153846,9,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,NA,Unidentified digested material,Unidentified digested material,Table5_1974-1976,51,0.6071428571,10,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,FISH,Fish unidentified,Fish unidentified,Table5_1974-1976,4,0.04761904762,10,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,FPS,Sand lance,Sand lance,Table5_1974-1976,8,0.09523809524,10,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,HE,Herring,Herring,Table5_1974-1976,9,0.1071428571,10,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,BML,Crab larvae,Crab larvae,Table5_1974-1976,4,0.04761904762,10,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,PWN,Shrimp,Shrimp,Table5_1974-1976,4,0.04761904762,10,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,ZL,Euphausids,Euphausids,Table5_1974-1976,1,0.0119047619,10,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,ZG,Jellyfish,Jellyfish,Table5_1974-1976,2,0.02380952381,10,Rockfish_Washington_et_al_1978
+MRO,adult,Black rockfish,Black rockfish,ZG,Ctenophora,Ctenophora,Table5_1974-1976,1,0.0119047619,10,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,NA,Unidentified digested,Unidentified digested,Table6_1974-1976,4,0.2,11,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,FPS,Sandlance,Sandlance,Table6_1974-1976,4,0.2,11,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,HE,Herring,Herring,Table6_1974-1976,7,0.35,11,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,BML,Crab larvae,Crab larvae,Table6_1974-1976,4,0.2,11,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,ZL,Euphausids,Euphausids,Table6_1974-1976,1,0.05,11,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,FISH,Unidentified fish,Unidentified fish,Table7_1974-1976,9,0.6,12,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,FMM,Walleye pollock,Walleye pollock,Table7_1974-1976,1,0.06666666667,12,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,SMD,Cottid,Cottid,Table7_1974-1976,1,0.06666666667,12,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,SMD,Poacher,Poacher,Table7_1974-1976,2,0.1333333333,12,Rockfish_Washington_et_al_1978
+MRO,adult,Yellowtail rockfish,Yellowtail rockfish,FMM,Pacific cod,Pacific cod,Table7_1974-1976,2,0.1333333333,12,Rockfish_Washington_et_al_1978

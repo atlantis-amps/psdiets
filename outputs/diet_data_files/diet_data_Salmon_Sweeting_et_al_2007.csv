@@ -1,0 +1,312 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapods,Figure_4_Puget_Sound_%V_1997,50,0.5,1,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleosts,Figure_4_Puget_Sound_%V_1997,48.11643835616459,0.4811643836,1,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipods,Figure_4_Puget_Sound_%V_1997,0,0,1,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Krill,Euphausiids,Figure_4_Puget_Sound_%V_1997,1.0273972602740002,0.0102739726,1,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Figure_4_Puget_Sound_%V_1997,0.8561643835614063,0.008561643836,1,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapods,Figure_4_Puget_Sound_%V_1998,43.8356164383561,0.4383561644,2,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleosts,Figure_4_Puget_Sound_%V_1998,39.897260273973004,0.3989726027,2,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipods,Figure_4_Puget_Sound_%V_1998,8.732876712328803,0.08732876712,2,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Krill,Euphausiids,Figure_4_Puget_Sound_%V_1998,6.678082191780788,0.06678082192,2,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Figure_4_Puget_Sound_%V_1998,0.8561643835613069,0.008561643836,2,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapods,Figure_4_Puget_Sound_%V_1999,66.2671232876712,0.6626712329,3,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleosts,Figure_4_Puget_Sound_%V_1999,21.746575342465704,0.2174657534,3,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipods,Figure_4_Puget_Sound_%V_1999,7.363013698630098,0.07363013699,3,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Krill,Euphausiids,Figure_4_Puget_Sound_%V_1999,3.0821917808219013,0.03082191781,3,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Figure_4_Puget_Sound_%V_1999,1.5410958904110998,0.0154109589,3,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapods,Figure_4_Puget_Sound_%V_2000,52.9109589041096,0.529109589,4,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleosts,Figure_4_Puget_Sound_%V_2000,33.219178082191995,0.3321917808,4,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipods,Figure_4_Puget_Sound_%V_2000,9.931506849315,0.09931506849,4,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Krill,Euphausiids,Figure_4_Puget_Sound_%V_2000,3.938356164383407,0.03938356164,4,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Figure_4_Puget_Sound_%V_2000,0,0,4,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapods,Figure_4_Puget_Sound_%V_2001,40.2397260273972,0.4023972603,5,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleosts,Figure_4_Puget_Sound_%V_2001,35.7876712328772,0.3578767123,5,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipods,Figure_4_Puget_Sound_%V_2001,12.842465753424705,0.1284246575,5,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Krill,Euphausiids,Figure_4_Puget_Sound_%V_2001,9.589041095890394,0.09589041096,5,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Figure_4_Puget_Sound_%V_2001,1.541095890410503,0.0154109589,5,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapods,Figure_4_Puget_Sound_%V_2002,21.2328767123287,0.2123287671,6,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleosts,Figure_4_Puget_Sound_%V_2002,58.904109589041994,0.5890410959,6,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipods,Figure_4_Puget_Sound_%V_2002,7.705479452054803,0.07705479452,6,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Krill,Euphausiids,Figure_4_Puget_Sound_%V_2002,11.301369863013704,0.1130136986,6,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Figure_4_Puget_Sound_%V_2002,0.8561643835607953,0.008561643836,6,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapods,Figure_4_Puget_Sound_%V_2004,29.4520547945205,0.2945205479,7,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleosts,Figure_4_Puget_Sound_%V_2004,68.4931506849322,0.6849315068,7,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipods,Figure_4_Puget_Sound_%V_2004,1.3698630136986054,0.01369863014,7,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Krill,Euphausiids,Figure_4_Puget_Sound_%V_2004,0.6849315068486987,0.006849315068,7,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Figure_4_Puget_Sound_%V_2004,0,0,7,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapods,Figure_4_Puget_Sound_%V_2005,60.1027397260274,0.6010273973,8,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleosts,Figure_4_Puget_Sound_%V_2005,14.726027397260303,0.147260274,8,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipods,Figure_4_Puget_Sound_%V_2005,22.089041095890394,0.220890411,8,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Krill,Euphausiids,Figure_4_Puget_Sound_%V_2005,3.0821917808219013,0.03082191781,8,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Figure_4_Puget_Sound_%V_2005,0,0,8,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapods,Figure_4_Puget_Sound_%V_2006,27.0547945205479,0.2705479452,9,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleosts,Figure_4_Puget_Sound_%V_2006,69.0068493150693,0.6900684932,9,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipods,Figure_4_Puget_Sound_%V_2006,0.6849315068492956,0.006849315068,9,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Krill,Euphausiids,Figure_4_Puget_Sound_%V_2006,3.2534246575335004,0.03253424658,9,Salmon_Sweeting_et_al_2007
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Figure_4_Puget_Sound_%V_2006,0,0,9,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleosts,Figure_5_Puget_Sound_%V_1997,88.9733840304182,0.8897338403,10,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapods,Figure_5_Puget_Sound_%V_1997,5.513307984790899,0.05513307985,10,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipods,Figure_5_Puget_Sound_%V_1997,0.950570342205296,0.009505703422,10,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Krill,Euphausiids,Figure_5_Puget_Sound_%V_1997,1.711026615969601,0.01711026616,10,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Figure_5_Puget_Sound_%V_1997,2.8517110266160017,0.02851711027,10,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleosts,Figure_5_Puget_Sound_%V_1998,80.4182509505703,0.8041825095,11,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapods,Figure_5_Puget_Sound_%V_1998,6.844106463878305,0.06844106464,11,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipods,Figure_5_Puget_Sound_%V_1998,4.182509505703393,0.04182509506,11,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Krill,Euphausiids,Figure_5_Puget_Sound_%V_1998,5.513307984790899,0.05513307985,11,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Figure_5_Puget_Sound_%V_1998,3.0418250950571064,0.03041825095,11,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleosts,Figure_5_Puget_Sound_%V_1999,80.0380228136882,0.8003802281,12,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapods,Figure_5_Puget_Sound_%V_1999,3.612167300380193,0.036121673,12,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipods,Figure_5_Puget_Sound_%V_1999,10.076045627376402,0.1007604563,12,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Krill,Euphausiids,Figure_5_Puget_Sound_%V_1999,3.8022813688212977,0.03802281369,12,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Figure_5_Puget_Sound_%V_1999,2.471482889733906,0.0247148289,12,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleosts,Figure_5_Puget_Sound_%V_2000,55.3231939163498,0.5532319392,13,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapods,Figure_5_Puget_Sound_%V_2000,4.372623574144498,0.04372623574,13,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipods,Figure_5_Puget_Sound_%V_2000,21.102661596958107,0.211026616,13,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Krill,Euphausiids,Figure_5_Puget_Sound_%V_2000,15.779467680608292,0.1577946768,13,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Figure_5_Puget_Sound_%V_2000,3.4220532319393016,0.03422053232,13,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleosts,Figure_5_Puget_Sound_%V_2001,57.4144486692015,0.5741444867,14,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapods,Figure_5_Puget_Sound_%V_2001,11.787072243345996,0.1178707224,14,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipods,Figure_5_Puget_Sound_%V_2001,15.209125475285106,0.1520912548,14,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Krill,Euphausiids,Figure_5_Puget_Sound_%V_2001,13.117870722433395,0.1311787072,14,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Figure_5_Puget_Sound_%V_2001,2.4714828897340055,0.0247148289,14,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleosts,Figure_5_Puget_Sound_%V_2002,67.1102661596958,0.6711026616,15,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapods,Figure_5_Puget_Sound_%V_2002,5.513307984790899,0.05513307985,15,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipods,Figure_5_Puget_Sound_%V_2002,8.935361216730001,0.08935361217,15,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Krill,Euphausiids,Figure_5_Puget_Sound_%V_2002,16.349809885931506,0.1634980989,15,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Figure_5_Puget_Sound_%V_2002,2.091254752851796,0.02091254753,15,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleosts,Figure_5_Puget_Sound_%V_2004,77.5665399239543,0.7756653992,16,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapods,Figure_5_Puget_Sound_%V_2004,15.39923954372621,0.1539923954,16,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipods,Figure_5_Puget_Sound_%V_2004,3.2319391634980974,0.03231939163,16,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Krill,Euphausiids,Figure_5_Puget_Sound_%V_2004,2.471482889733892,0.0247148289,16,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Figure_5_Puget_Sound_%V_2004,1.3307984790875054,0.01330798479,16,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleosts,Figure_5_Puget_Sound_%V_2005,48.8593155893536,0.4885931559,17,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapods,Figure_5_Puget_Sound_%V_2005,18.631178707224308,0.1863117871,17,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipods,Figure_5_Puget_Sound_%V_2005,22.623574144486597,0.2262357414,17,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Krill,Euphausiids,Figure_5_Puget_Sound_%V_2005,4.942965779467698,0.04942965779,17,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Figure_5_Puget_Sound_%V_2005,4.942965779467798,0.04942965779,17,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleosts,Figure_5_Puget_Sound_%V_2006,75.0950570342205,0.7509505703,18,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapods,Figure_5_Puget_Sound_%V_2006,14.63878326996199,0.1463878327,18,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipods,Figure_5_Puget_Sound_%V_2006,2.091254752851711,0.02091254753,18,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Krill,Euphausiids,Figure_5_Puget_Sound_%V_2006,3.8022813688211983,0.03802281369,18,Salmon_Sweeting_et_al_2007
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Figure_5_Puget_Sound_%V_2006,4.372623574144598,0.04372623574,18,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007
+NOTA: SOLO HAZ LAS FIGURAS QUE DICEN PUGET SOUND (A),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Salmon_Sweeting_et_al_2007

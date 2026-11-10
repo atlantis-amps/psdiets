@@ -1,0 +1,85 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,1,100,1,1,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,2,100,1,2,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,3,20,1,3,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,4,12,1,4,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,5,75,1,5,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,6,100,1,6,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,7,40,1,7,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,8,0,0,8,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,9,0,0,9,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,10,0,0,10,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,11,0,0,11,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,12,0,0,12,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,13,0,0,13,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,14,3,1,14,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,15,50,1,15,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,16,0,0,16,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,17,80,1,17,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,18,0,0,18,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,19,0,0,19,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,20,0,0,20,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,21,0,0,21,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,22,1,1,22,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,23,5,1,23,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,24,0,0,24,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,25,0,0,25,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,26,2,1,26,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,27,0,0,27,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,FISH,fish eggs,fish eggs,28,11,1,28,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,1,0,0,29,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,2,0,0,30,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,3,10,1,31,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,4,0,0,32,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,5,0,0,33,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,6,0,0,34,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,7,0,0,35,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,8,0,0,36,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,9,21,1,37,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,10,0,0,38,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,11,19,1,39,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,12,13,1,40,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,13,6,1,41,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,14,3,1,42,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,15,0,0,43,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,16,38,1,44,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,17,0,0,45,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,18,18,1,46,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,19,19,1,47,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,20,0,0,48,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,21,7,1,49,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,22,26,1,50,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,23,7,1,51,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,24,15,1,52,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,25,6,1,53,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,26,16,1,54,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,27,4,1,55,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,28,19,1,56,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,1,0,0,57,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,2,0,0,58,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,3,70,1,59,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,4,82,1,60,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,5,0,0,61,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,6,0,0,62,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,7,47,1,63,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,8,100,1,64,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,9,64,1,65,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,10,88,1,66,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,11,38,1,67,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,12,70,1,68,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,13,56,1,69,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,14,56,1,70,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,15,50,1,71,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,16,25,1,72,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,17,20,1,73,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,18,46,1,74,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,19,75,1,75,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,20,68,1,76,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,21,61,1,77,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,22,40,1,78,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,23,81,1,79,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,24,78,1,80,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,25,88,1,81,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,26,79,1,82,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,27,87,1,83,AUR_Graham_2001
+AUR,INVERT,Aurelia,Aurelia,ZM,copepods,copepods,28,64,1,84,AUR_Graham_2001

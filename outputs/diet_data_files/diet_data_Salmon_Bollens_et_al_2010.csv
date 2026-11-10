@@ -1,0 +1,417 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,Spring_deep_station_190m_<49,0,0,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,Spring_deep_station_190m_<49,23.5294117647058,0.2352941176,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,Spring_deep_station_190m_<49,24.0641711229947,0.2406417112,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,Spring_deep_station_190m_<49,0,0,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,Spring_deep_station_190m_<49,0,0,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Spring_deep_station_190m_<49,0,0,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Spring_deep_station_190m_<49,41.71122994652411,0.4171122995,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Spring_deep_station_190m_<49,0,0,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,Spring_deep_station_190m_<49,4.8128342245988875,0.04812834225,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,Spring_deep_station_190m_<49,0,0,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,Spring_deep_station_190m_<49,0,0,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Spring_deep_station_190m_<49,0,0,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,Spring_deep_station_190m_<49,5.8823529411765065,0.05882352941,1,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,Spring_deep_station_190m_50-74,2.139037433155096,0.02139037433,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,Spring_deep_station_190m_50-74,0,0,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,Spring_deep_station_190m_50-74,2.67379679144384,0.02673796791,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,Spring_deep_station_190m_50-74,0,0,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,Spring_deep_station_190m_50-74,0,0,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Spring_deep_station_190m_50-74,4.27807486631016,0.04278074866,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Spring_deep_station_190m_50-74,58.2887700534759,0.5828877005,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Spring_deep_station_190m_50-74,0,0,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,Spring_deep_station_190m_50-74,4.278074866310206,0.04278074866,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,Spring_deep_station_190m_50-74,0,0,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,Spring_deep_station_190m_50-74,0,0,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Spring_deep_station_190m_50-74,28.3422459893048,0.2834224599,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,Spring_deep_station_190m_50-74,0,0,2,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,Spring_deep_station_190m_75-99,0.5347593582887953,0.005347593583,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,Spring_deep_station_190m_75-99,0,0,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,Spring_deep_station_190m_75-99,0,0,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,Spring_deep_station_190m_75-99,0,0,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,Spring_deep_station_190m_75-99,0,0,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Spring_deep_station_190m_75-99,5.88235294117646,0.05882352941,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Spring_deep_station_190m_75-99,41.71122994652404,0.4171122995,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Spring_deep_station_190m_75-99,0,0,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,Spring_deep_station_190m_75-99,0,0,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,Spring_deep_station_190m_75-99,0,0,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,Spring_deep_station_190m_75-99,0,0,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Spring_deep_station_190m_75-99,51.871657754010705,0.5187165775,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,Spring_deep_station_190m_75-99,0,0,3,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,Spring_shallow_station_60m_<49,4.27807486631015,0.04278074866,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,Spring_shallow_station_60m_<49,0,0,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,Spring_shallow_station_60m_<49,8.0213903743315491,0.08021390374,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,Spring_shallow_station_60m_<49,0,0,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,Spring_shallow_station_60m_<49,0,0,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Spring_shallow_station_60m_<49,14.973262032085499,0.1497326203,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Spring_shallow_station_60m_<49,1.6042780748663006,0.01604278075,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Spring_shallow_station_60m_<49,0,0,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,Spring_shallow_station_60m_<49,33.6898395721926,0.3368983957,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,Spring_shallow_station_60m_<49,0,0,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,Spring_shallow_station_60m_<49,0,0,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Spring_shallow_station_60m_<49,22.4598930481283,0.2245989305,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,Spring_shallow_station_60m_<49,14.9732620320856,0.1497326203,4,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,Spring_shallow_station_60m_50-74,0,0,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,Spring_shallow_station_60m_50-74,3.7433155080214,0.03743315508,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,Spring_shallow_station_60m_50-74,2.13903743315508,0.02139037433,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,Spring_shallow_station_60m_50-74,0,0,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,Spring_shallow_station_60m_50-74,0,0,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Spring_shallow_station_60m_50-74,48.66310160427812,0.486631016,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Spring_shallow_station_60m_50-74,4.812834224598902,0.04812834225,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Spring_shallow_station_60m_50-74,0,0,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,Spring_shallow_station_60m_50-74,11.229946524064196,0.1122994652,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,Spring_shallow_station_60m_50-74,0,0,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,Spring_shallow_station_60m_50-74,11.229946524064104,0.1122994652,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Spring_shallow_station_60m_50-74,9.625668449197903,0.09625668449,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,Spring_shallow_station_60m_50-74,8.556149732620298,0.08556149733,5,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,Spring_shallow_station_60m_75-99,1.6042780748663006,0.01604278075,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,Spring_shallow_station_60m_75-99,0,0,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,Spring_shallow_station_60m_75-99,0.534759358288782,0.005347593583,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,Spring_shallow_station_60m_75-99,0,0,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,Spring_shallow_station_60m_75-99,0,0,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Spring_shallow_station_60m_75-99,20.855614973262018,0.2085561497,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Spring_shallow_station_60m_75-99,0,0,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Spring_shallow_station_60m_75-99,0,0,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,Spring_shallow_station_60m_75-99,18.7165775401069,0.1871657754,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,Spring_shallow_station_60m_75-99,0,0,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,Spring_shallow_station_60m_75-99,0,0,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Spring_shallow_station_60m_75-99,58.288770053476,0.5828877005,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,Spring_shallow_station_60m_75-99,0,0,6,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,EarlySummer_deep_station_190m_50-74,0,0,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,EarlySummer_deep_station_190m_50-74,0,0,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,EarlySummer_deep_station_190m_50-74,90.5063291139239,0.9050632911,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,EarlySummer_deep_station_190m_50-74,0,0,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,EarlySummer_deep_station_190m_50-74,0,0,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,EarlySummer_deep_station_190m_50-74,1.8987341772152035,0.01898734177,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,EarlySummer_deep_station_190m_50-74,0,0,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,EarlySummer_deep_station_190m_50-74,0,0,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,EarlySummer_deep_station_190m_50-74,7.5949367088608994,0.07594936709,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,EarlySummer_deep_station_190m_50-74,0,0,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,EarlySummer_deep_station_190m_50-74,0,0,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,EarlySummer_deep_station_190m_50-74,0,0,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,EarlySummer_deep_station_190m_50-74,0,0,7,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,EarlySummer_deep_station_190m_75-99,24.0506329113923,0.2405063291,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,EarlySummer_deep_station_190m_75-99,0,0,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,EarlySummer_deep_station_190m_75-99,0,0,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,EarlySummer_deep_station_190m_75-99,0,0,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,EarlySummer_deep_station_190m_75-99,0,0,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,EarlySummer_deep_station_190m_75-99,1.8987341772152,0.01898734177,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,EarlySummer_deep_station_190m_75-99,6.962025316455698,0.06962025316,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,EarlySummer_deep_station_190m_75-99,0,0,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,EarlySummer_deep_station_190m_75-99,16.455696202531605,0.164556962,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,EarlySummer_deep_station_190m_75-99,50.6329113924052,0.5063291139,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,EarlySummer_deep_station_190m_75-99,0,0,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,EarlySummer_deep_station_190m_75-99,0,0,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,EarlySummer_deep_station_190m_75-99,0,0,8,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,EarlySummer_deep_station_190m_100-149,0,0,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,EarlySummer_deep_station_190m_100-149,0,0,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,EarlySummer_deep_station_190m_100-149,0,0,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,EarlySummer_deep_station_190m_100-149,0,0,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,EarlySummer_deep_station_190m_100-149,0,0,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,EarlySummer_deep_station_190m_100-149,0,0,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,EarlySummer_deep_station_190m_100-149,14.5569620253164,0.1455696203,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,EarlySummer_deep_station_190m_100-149,0,0,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,EarlySummer_deep_station_190m_100-149,48.1012658227847,0.4810126582,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,EarlySummer_deep_station_190m_100-149,19.620253164557006,0.1962025316,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,EarlySummer_deep_station_190m_100-149,0,0,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,EarlySummer_deep_station_190m_100-149,17.721518987341895,0.1772151899,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,EarlySummer_deep_station_190m_100-149,0,0,9,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,EarlySummer_deep_station_190m_>150,0,0,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,EarlySummer_deep_station_190m_>150,0,0,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,EarlySummer_deep_station_190m_>150,0,0,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,EarlySummer_deep_station_190m_>150,0,0,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,EarlySummer_deep_station_190m_>150,0,0,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,EarlySummer_deep_station_190m_>150,0,0,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,EarlySummer_deep_station_190m_>150,100,1,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,EarlySummer_deep_station_190m_>150,0,0,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,EarlySummer_deep_station_190m_>150,0,0,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,EarlySummer_deep_station_190m_>150,0,0,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,EarlySummer_deep_station_190m_>150,0,0,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,EarlySummer_deep_station_190m_>150,0,0,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,EarlySummer_deep_station_190m_>150,0,0,10,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,EarlySummer_shallow_station_60m_50-74,29.7468354430379,0.2974683544,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,EarlySummer_shallow_station_60m_50-74,0,0,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,EarlySummer_shallow_station_60m_50-74,25.3164556962025,0.253164557,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,EarlySummer_shallow_station_60m_50-74,0,0,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,EarlySummer_shallow_station_60m_50-74,0,0,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,EarlySummer_shallow_station_60m_50-74,13.291139240506304,0.1329113924,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,EarlySummer_shallow_station_60m_50-74,0,0,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,EarlySummer_shallow_station_60m_50-74,0,0,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,EarlySummer_shallow_station_60m_50-74,0,0,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,EarlySummer_shallow_station_60m_50-74,31.645569620253298,0.3164556962,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,EarlySummer_shallow_station_60m_50-74,0,0,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,EarlySummer_shallow_station_60m_50-74,0,0,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,EarlySummer_shallow_station_60m_50-74,0,0,11,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,EarlySummer_shallow_station_60m_75-99,0,0,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,EarlySummer_shallow_station_60m_75-99,0,0,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,EarlySummer_shallow_station_60m_75-99,17.0886075949366,0.1708860759,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,EarlySummer_shallow_station_60m_75-99,0,0,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,EarlySummer_shallow_station_60m_75-99,0,0,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,EarlySummer_shallow_station_60m_75-99,4.430379746835499,0.04430379747,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,EarlySummer_shallow_station_60m_75-99,0,0,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,EarlySummer_shallow_station_60m_75-99,0,0,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,EarlySummer_shallow_station_60m_75-99,0,0,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,EarlySummer_shallow_station_60m_75-99,78.4810126582279,0.7848101266,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,EarlySummer_shallow_station_60m_75-99,0,0,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,EarlySummer_shallow_station_60m_75-99,0,0,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,EarlySummer_shallow_station_60m_75-99,0,0,12,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,EarlySummer_shallow_station_60m_100-149,15.8227848101265,0.1582278481,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,EarlySummer_shallow_station_60m_100-149,0,0,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,EarlySummer_shallow_station_60m_100-149,0,0,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,EarlySummer_shallow_station_60m_100-149,0,0,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,EarlySummer_shallow_station_60m_100-149,19.620253164557,0.1962025316,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,EarlySummer_shallow_station_60m_100-149,29.113924050632896,0.2911392405,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,EarlySummer_shallow_station_60m_100-149,0,0,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,EarlySummer_shallow_station_60m_100-149,0,0,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,EarlySummer_shallow_station_60m_100-149,2.53164556962021,0.0253164557,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,EarlySummer_shallow_station_60m_100-149,29.746835443037895,0.2974683544,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,EarlySummer_shallow_station_60m_100-149,0,0,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,EarlySummer_shallow_station_60m_100-149,0,0,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,EarlySummer_shallow_station_60m_100-149,3.1645569620255003,0.03164556962,13,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,EarlySummer_shallow_station_60m_>150,0,0,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,EarlySummer_shallow_station_60m_>150,0,0,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,EarlySummer_shallow_station_60m_>150,0,0,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,EarlySummer_shallow_station_60m_>150,0,0,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,EarlySummer_shallow_station_60m_>150,38.6075949367088,0.3860759494,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,EarlySummer_shallow_station_60m_>150,30.379746835442994,0.3037974684,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,EarlySummer_shallow_station_60m_>150,0,0,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,EarlySummer_shallow_station_60m_>150,0,0,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,EarlySummer_shallow_station_60m_>150,27.848101265822706,0.2784810127,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,EarlySummer_shallow_station_60m_>150,3.1645569620255003,0.03164556962,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,EarlySummer_shallow_station_60m_>150,0,0,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,EarlySummer_shallow_station_60m_>150,0,0,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,EarlySummer_shallow_station_60m_>150,0,0,14,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,LateSummer_deep_station_190m_100-149,7.79220779220779,0.07792207792,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,LateSummer_deep_station_190m_100-149,0.6493506493506498,0.006493506494,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,LateSummer_deep_station_190m_100-149,0,0,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,LateSummer_deep_station_190m_100-149,2.59740259740256,0.02597402597,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,LateSummer_deep_station_190m_100-149,0,0,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,LateSummer_deep_station_190m_100-149,5.1948051948052,0.05194805195,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,LateSummer_deep_station_190m_100-149,5.194805194805198,0.05194805195,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,LateSummer_deep_station_190m_100-149,3.246753246753201,0.03246753247,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,LateSummer_deep_station_190m_100-149,53.2467532467534,0.5324675325,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,LateSummer_deep_station_190m_100-149,18.1818181818182,0.1818181818,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,LateSummer_deep_station_190m_100-149,0,0,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,LateSummer_deep_station_190m_100-149,0,0,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,LateSummer_deep_station_190m_100-149,3.8961038961037957,0.03896103896,15,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,LateSummer_deep_station_190m_>150,0,0,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,LateSummer_deep_station_190m_>150,1.94805194805195,0.01948051948,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,LateSummer_deep_station_190m_>150,0,0,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,LateSummer_deep_station_190m_>150,5.1948051948052,0.05194805195,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,LateSummer_deep_station_190m_>150,0,0,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,LateSummer_deep_station_190m_>150,0,0,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,LateSummer_deep_station_190m_>150,58.44155844155844,0.5844155844,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,LateSummer_deep_station_190m_>150,16.233766233766303,0.1623376623,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,LateSummer_deep_station_190m_>150,18.1818181818181,0.1818181818,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,LateSummer_deep_station_190m_>150,0,0,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,LateSummer_deep_station_190m_>150,0,0,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,LateSummer_deep_station_190m_>150,0,0,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,LateSummer_deep_station_190m_>150,0,0,16,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,LateSummer_shallow_station_60m_100-149,0,0,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,LateSummer_shallow_station_60m_100-149,23.3766233766234,0.2337662338,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,LateSummer_shallow_station_60m_100-149,0,0,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,LateSummer_shallow_station_60m_100-149,0,0,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,LateSummer_shallow_station_60m_100-149,0,0,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,LateSummer_shallow_station_60m_100-149,49.350649350649405,0.4935064935,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,LateSummer_shallow_station_60m_100-149,0,0,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,LateSummer_shallow_station_60m_100-149,15.584415584415595,0.1558441558,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,LateSummer_shallow_station_60m_100-149,0,0,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,LateSummer_shallow_station_60m_100-149,11.6883116883116,0.1168831169,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,LateSummer_shallow_station_60m_100-149,0,0,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,LateSummer_shallow_station_60m_100-149,0,0,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,LateSummer_shallow_station_60m_100-149,0,0,17,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,LateSummer_shallow_station_60m_>150,0,0,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,LateSummer_shallow_station_60m_>150,17.5324675324675,0.1753246753,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,LateSummer_shallow_station_60m_>150,0,0,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,LateSummer_shallow_station_60m_>150,0,0,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,LateSummer_shallow_station_60m_>150,0,0,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,LateSummer_shallow_station_60m_>150,23.3766233766234,0.2337662338,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,LateSummer_shallow_station_60m_>150,5.194805194805198,0.05194805195,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,LateSummer_shallow_station_60m_>150,28.571428571428605,0.2857142857,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,LateSummer_shallow_station_60m_>150,3.896103896103895,0.03896103896,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,LateSummer_shallow_station_60m_>150,21.428571428571402,0.2142857143,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,LateSummer_shallow_station_60m_>150,0,0,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,LateSummer_shallow_station_60m_>150,0,0,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,LateSummer_shallow_station_60m_>150,0,0,18,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,Autumn_deep_station_190m_>150,0,0,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,Autumn_deep_station_190m_>150,12.2977346,0.1229773462,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,Autumn_deep_station_190m_>150,0,0,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,Autumn_deep_station_190m_>150,19.0938511,0.1909385113,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,Autumn_deep_station_190m_>150,0,0,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Autumn_deep_station_190m_>150,0,0,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Autumn_deep_station_190m_>150,25.566343,0.2556634304,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Autumn_deep_station_190m_>150,12.2977346,0.1229773462,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,Autumn_deep_station_190m_>150,13.2686084,0.1326860842,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,Autumn_deep_station_190m_>150,9.38511327,0.09385113283,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,Autumn_deep_station_190m_>150,0,0,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Autumn_deep_station_190m_>150,0,0,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,Autumn_deep_station_190m_>150,8.09061489,0.08090614901,19,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanus pacificus,Autumn_shallow_station_60m_>150,0,0,20,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Other copepoda,Autumn_shallow_station_60m_>150,0,0,20,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,Insecta and araneae,Autumn_shallow_station_60m_>150,0,0,20,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BMS,Mollusca,Cephalopoda,Autumn_shallow_station_60m_>150,0,0,20,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophora,Ctenophora,Autumn_shallow_station_60m_>150,0,0,20,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Autumn_shallow_station_60m_>150,0,0,20,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Autumn_shallow_station_60m_>150,100,1,20,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Autumn_shallow_station_60m_>150,0,0,20,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Insecta,Hyperiidea,Autumn_shallow_station_60m_>150,0,0,20,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacea,Autumn_shallow_station_60m_>150,0,0,20,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Gastropoda,Pteropoda,Autumn_shallow_station_60m_>150,0,0,20,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Autumn_shallow_station_60m_>150,0,0,20,Salmon_Bollens_et_al_2010
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,Autumn_shallow_station_60m_>150,0,0,20,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoida,Calanus pacificus,EarlySummer_deep_station_190m_75-99,18.0327868852458,0.1803278689,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Other copepoda,EarlySummer_deep_station_190m_75-99,0,0,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,Insecta and araneae,EarlySummer_deep_station_190m_75-99,0,0,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Mollusca,Cephalopoda,EarlySummer_deep_station_190m_75-99,0,0,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Ctenophora,Ctenophora,EarlySummer_deep_station_190m_75-99,0,0,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,EarlySummer_deep_station_190m_75-99,26.6393442622952,0.2663934426,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,EarlySummer_deep_station_190m_75-99,43.4426229508198,0.4344262295,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,EarlySummer_deep_station_190m_75-99,0,0,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Insecta,Hyperiidea,EarlySummer_deep_station_190m_75-99,6.967213114754088,0.06967213115,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea,EarlySummer_deep_station_190m_75-99,0,0,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Pteropoda,EarlySummer_deep_station_190m_75-99,0,0,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,EarlySummer_deep_station_190m_75-99,0,0,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,EarlySummer_deep_station_190m_75-99,4.918032786885107,0.04918032787,21,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoida,Calanus pacificus,EarlySummer_deep_station_190m_100-149,12.7049180327868,0.1270491803,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Other copepoda,EarlySummer_deep_station_190m_100-149,0,0,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,Insecta and araneae,EarlySummer_deep_station_190m_100-149,6.557377049180399,0.06557377049,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Mollusca,Cephalopoda,EarlySummer_deep_station_190m_100-149,0,0,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Ctenophora,Ctenophora,EarlySummer_deep_station_190m_100-149,0,0,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,EarlySummer_deep_station_190m_100-149,10.2459016393443,0.1024590164,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,EarlySummer_deep_station_190m_100-149,20.9016393442624,0.2090163934,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,EarlySummer_deep_station_190m_100-149,0,0,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Insecta,Hyperiidea,EarlySummer_deep_station_190m_100-149,15.983606557377101,0.1598360656,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea,EarlySummer_deep_station_190m_100-149,0,0,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Pteropoda,EarlySummer_deep_station_190m_100-149,0,0,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,EarlySummer_deep_station_190m_100-149,29.098360655737807,0.2909836066,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,EarlySummer_deep_station_190m_100-149,4.508196721311194,0.04508196721,22,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoida,Calanus pacificus,EarlySummer_shallow_station_60m_75-99,5.327868852459,0.05327868852,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Other copepoda,EarlySummer_shallow_station_60m_75-99,0,0,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,Insecta and araneae,EarlySummer_shallow_station_60m_75-99,11.4754098360656,0.1147540984,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Mollusca,Cephalopoda,EarlySummer_shallow_station_60m_75-99,0,0,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Ctenophora,Ctenophora,EarlySummer_shallow_station_60m_75-99,0,0,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,EarlySummer_shallow_station_60m_75-99,36.0655737704919,0.3606557377,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,EarlySummer_shallow_station_60m_75-99,14.754098360655796,0.1475409836,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,EarlySummer_shallow_station_60m_75-99,2.0491803278688963,0.02049180328,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Insecta,Hyperiidea,EarlySummer_shallow_station_60m_75-99,0,0,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea,EarlySummer_shallow_station_60m_75-99,0,0,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Pteropoda,EarlySummer_shallow_station_60m_75-99,0,0,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,EarlySummer_shallow_station_60m_75-99,25,0.25,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,EarlySummer_shallow_station_60m_75-99,5.327868852458806,0.05327868852,23,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoida,Calanus pacificus,EarlySummer_shallow_station_60m_100-149,5.327868852459,0.05327868852,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Other copepoda,EarlySummer_shallow_station_60m_100-149,0,0,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,Insecta and araneae,EarlySummer_shallow_station_60m_100-149,0,0,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Mollusca,Cephalopoda,EarlySummer_shallow_station_60m_100-149,6.5573770491803,0.06557377049,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Ctenophora,Ctenophora,EarlySummer_shallow_station_60m_100-149,0,0,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,EarlySummer_shallow_station_60m_100-149,59.426229508196904,0.5942622951,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,EarlySummer_shallow_station_60m_100-149,2.0491803278688963,0.02049180328,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,EarlySummer_shallow_station_60m_100-149,0.8196721311474988,0.008196721311,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Insecta,Hyperiidea,EarlySummer_shallow_station_60m_100-149,4.508196721311506,0.04508196721,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea,EarlySummer_shallow_station_60m_100-149,0,0,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Pteropoda,EarlySummer_shallow_station_60m_100-149,0,0,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,EarlySummer_shallow_station_60m_100-149,8.6065573770492,0.08606557377,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,EarlySummer_shallow_station_60m_100-149,12.704918032786694,0.1270491803,24,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoida,Calanus pacificus,EarlySummer_shallow_station_60m_>150,0,0,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Other copepoda,EarlySummer_shallow_station_60m_>150,0,0,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,Insecta and araneae,EarlySummer_shallow_station_60m_>150,0,0,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Mollusca,Cephalopoda,EarlySummer_shallow_station_60m_>150,0,0,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Ctenophora,Ctenophora,EarlySummer_shallow_station_60m_>150,0,0,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,EarlySummer_shallow_station_60m_>150,100,1,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,EarlySummer_shallow_station_60m_>150,0,0,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,EarlySummer_shallow_station_60m_>150,0,0,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Insecta,Hyperiidea,EarlySummer_shallow_station_60m_>150,0,0,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea,EarlySummer_shallow_station_60m_>150,0,0,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Pteropoda,EarlySummer_shallow_station_60m_>150,0,0,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,EarlySummer_shallow_station_60m_>150,0,0,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,EarlySummer_shallow_station_60m_>150,0,0,25,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoida,Calanus pacificus,LateSummer_deep_station_190m_100-149,0,0,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Other copepoda,LateSummer_deep_station_190m_100-149,4.18410041841004,0.04184100418,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,Insecta and araneae,LateSummer_deep_station_190m_100-149,16.73640167363996,0.1673640167,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Mollusca,Cephalopoda,LateSummer_deep_station_190m_100-149,0,0,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Ctenophora,Ctenophora,LateSummer_deep_station_190m_100-149,0,0,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,LateSummer_deep_station_190m_100-149,7.949790794978899,0.07949790795,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,LateSummer_deep_station_190m_100-149,38.0753138075316,0.3807531381,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,LateSummer_deep_station_190m_100-149,4.184100418409997,0.04184100418,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Insecta,Hyperiidea,LateSummer_deep_station_190m_100-149,27.61506276150631,0.2761506276,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea,LateSummer_deep_station_190m_100-149,0,0,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Pteropoda,LateSummer_deep_station_190m_100-149,0,0,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,LateSummer_deep_station_190m_100-149,0,0,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,LateSummer_deep_station_190m_100-149,1.2552301255231981,0.01255230126,26,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoida,Calanus pacificus,LateSummer_deep_station_190m_>150,0,0,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Other copepoda,LateSummer_deep_station_190m_>150,0,0,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,Insecta and araneae,LateSummer_deep_station_190m_>150,13.8075313807529,0.1380753138,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Mollusca,Cephalopoda,LateSummer_deep_station_190m_>150,0,0,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Ctenophora,Ctenophora,LateSummer_deep_station_190m_>150,0,0,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,LateSummer_deep_station_190m_>150,76.98744769874479,0.769874477,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,LateSummer_deep_station_190m_>150,0,0,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,LateSummer_deep_station_190m_>150,0,0,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Insecta,Hyperiidea,LateSummer_deep_station_190m_>150,9.205020920502307,0.09205020921,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea,LateSummer_deep_station_190m_>150,0,0,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Pteropoda,LateSummer_deep_station_190m_>150,0,0,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,LateSummer_deep_station_190m_>150,0,0,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,LateSummer_deep_station_190m_>150,0,0,27,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoida,Calanus pacificus,LateSummer_shallow_station_60m_100-149,0,0,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Other copepoda,LateSummer_shallow_station_60m_100-149,0,0,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,Insecta and araneae,LateSummer_shallow_station_60m_100-149,65.2719665271964,0.6527196653,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Mollusca,Cephalopoda,LateSummer_shallow_station_60m_100-149,10.878661087866206,0.1087866109,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Ctenophora,Ctenophora,LateSummer_shallow_station_60m_100-149,0,0,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,LateSummer_shallow_station_60m_100-149,19.6652719665272,0.1966527197,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,LateSummer_shallow_station_60m_100-149,0,0,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,LateSummer_shallow_station_60m_100-149,2.928870292886998,0.02928870293,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Insecta,Hyperiidea,LateSummer_shallow_station_60m_100-149,1.2552301255231981,0.01255230126,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea,LateSummer_shallow_station_60m_100-149,0,0,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Pteropoda,LateSummer_shallow_station_60m_100-149,0,0,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,LateSummer_shallow_station_60m_100-149,0,0,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,LateSummer_shallow_station_60m_100-149,0,0,28,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoida,Calanus pacificus,Autumn_deep_station_190m_100-149,0,0,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Other copepoda,Autumn_deep_station_190m_100-149,0,0,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,Insecta and araneae,Autumn_deep_station_190m_100-149,21.6666666666663,0.2166666667,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Mollusca,Cephalopoda,Autumn_deep_station_190m_100-149,6.6666666666666,0.06666666667,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Ctenophora,Ctenophora,Autumn_deep_station_190m_100-149,0,0,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,Autumn_deep_station_190m_100-149,0,0,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,Autumn_deep_station_190m_100-149,19.166666666666604,0.1916666667,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Autumn_deep_station_190m_100-149,35.4166666666668,0.3541666667,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Insecta,Hyperiidea,Autumn_deep_station_190m_100-149,8.3333333333333,0.08333333333,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea,Autumn_deep_station_190m_100-149,0,0,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Pteropoda,Autumn_deep_station_190m_100-149,0,0,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,Autumn_deep_station_190m_100-149,7.0833333333333,0.07083333333,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Autumn_deep_station_190m_100-149,1.666666666667,0.01666666667,29,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoida,Calanus pacificus,Autumn_deep_station_190m_>150,0,0,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Other copepoda,Autumn_deep_station_190m_>150,0,0,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,Insecta and araneae,Autumn_deep_station_190m_>150,15.4166666666664,0.1541666667,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Mollusca,Cephalopoda,Autumn_deep_station_190m_>150,5.416666666666602,0.05416666667,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Ctenophora,Ctenophora,Autumn_deep_station_190m_>150,0,0,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,Autumn_deep_station_190m_>150,2.5,0.025,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,Autumn_deep_station_190m_>150,35.4166666666666,0.3541666667,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Autumn_deep_station_190m_>150,29.5833333333334,0.2958333333,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Insecta,Hyperiidea,Autumn_deep_station_190m_>150,9.5833333333333,0.09583333333,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea,Autumn_deep_station_190m_>150,0,0,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Pteropoda,Autumn_deep_station_190m_>150,0,0,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,Autumn_deep_station_190m_>150,0,0,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Autumn_deep_station_190m_>150,2.083333333333698,0.02083333333,30,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoida,Calanus pacificus,Autumn_shallow_station_60m_100-149,0,0,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Other copepoda,Autumn_shallow_station_60m_100-149,0,0,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,Insecta and araneae,Autumn_shallow_station_60m_100-149,52.9166666666662,0.5291666667,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Mollusca,Cephalopoda,Autumn_shallow_station_60m_100-149,0,0,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Ctenophora,Ctenophora,Autumn_shallow_station_60m_100-149,0,0,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,Autumn_shallow_station_60m_100-149,3.75,0.0375,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,Autumn_shallow_station_60m_100-149,0,0,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Autumn_shallow_station_60m_100-149,2.5,0.025,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Insecta,Hyperiidea,Autumn_shallow_station_60m_100-149,5.8333333333334,0.05833333333,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea,Autumn_shallow_station_60m_100-149,0,0,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Pteropoda,Autumn_shallow_station_60m_100-149,17.5,0.175,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,Autumn_shallow_station_60m_100-149,9.1666666666667,0.09166666667,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Autumn_shallow_station_60m_100-149,8.333333333333698,0.08333333333,31,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoida,Calanus pacificus,Autumn_shallow_station_60m_>150,0,0,32,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Other copepoda,Autumn_shallow_station_60m_>150,3.3333333333333,0.03333333333,32,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,Insecta and araneae,Autumn_shallow_station_60m_>150,42.0833333333329,0.4208333333,32,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Mollusca,Cephalopoda,Autumn_shallow_station_60m_>150,0,0,32,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Ctenophora,Ctenophora,Autumn_shallow_station_60m_>150,0,0,32,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,Autumn_shallow_station_60m_>150,0,0,32,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,Autumn_shallow_station_60m_>150,0,0,32,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Autumn_shallow_station_60m_>150,6.25,0.0625,32,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Insecta,Hyperiidea,Autumn_shallow_station_60m_>150,35.8333333333335,0.3583333333,32,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea,Autumn_shallow_station_60m_>150,0,0,32,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Pteropoda,Autumn_shallow_station_60m_>150,3.7499999999999005,0.0375,32,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,Autumn_shallow_station_60m_>150,8.750000000000398,0.0875,32,Salmon_Bollens_et_al_2010
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Autumn_shallow_station_60m_>150,0,0,32,Salmon_Bollens_et_al_2010

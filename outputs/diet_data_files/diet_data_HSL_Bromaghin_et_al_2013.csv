@@ -1,0 +1,39 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,adult,Harbor seal,Phoca vitulina,MRO,Black Yellowtail Rockfish,Black Yellowtail Rockfish,Fat_estimated,0.12257800000000003,0.1225779787,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Copper Rockfish,Copper Rockfish,Fat_estimated,0.0029973695652173913,0.002997369044,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Puget Sound Rockfish,Puget Sound Rockfish,Fat_estimated,0.005123869565217391,0.005123868674,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook mature,Chinook mature,Fat_estimated,0.001086913043478261,0.001086912854,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,CH,Chum mature,Chum mature,Fat_estimated,5.9565217391304344e-6,5.956520703e-6,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho mature,Coho mature,Fat_estimated,7.844565217391304e-4,7.844563853e-4,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sockeye mature,Sockeye mature,Fat_estimated,2.3571739130434782e-4,2.357173503e-4,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink mature,Pink mature,Fat_estimated,0.0073343913043478265,0.007334390029,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,CI_CO,Chinook Coho immature,Chinook Coho immature,Fat_estimated,0.032568869565217394,0.0325688639,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmon juvenile,Salmon juvenile,Fat_estimated,0.008914173913043477,0.008914172363,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Walleye Pollock,Walleye Pollock,Fat_estimated,0.010199369565217392,0.01019936779,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,HE,Herring 2+,Herring 2+,Fat_estimated,0.1349704130434783,0.1349703896,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Sandlance Herring<2,Sandlance Herring<2,Fat_estimated,0.020868608695652175,0.02086860507,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Northern Anchovy,Northern Anchovy,Fat_estimated,0,0,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,POP,Shiner Perch,Shiner Perch,Fat_estimated,0.5786022173913044,0.5786021168,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Plainfin Midshipman,Plainfin Midshipman,Fat_estimated,0.04671689130434782,0.04671688318,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,DOG,Spiny Dogfish,Spiny Dogfish,Fat_estimated,0.026947695652173916,0.02694769097,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Squid,Squid,Fat_estimated,6.52608695652174e-5,6.526085822e-5,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Greenling Sculpin Flounder,Greenling Sculpin Flounder,Fat_estimated,0,0,1,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,MRO,Black Yellowtail Rockfish,Black Yellowtail Rockfish,No_fat_estimate,0.11986702173913041,0.1198670113,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Copper Rockfish,Copper Rockfish,No_fat_estimate,0.00567354347826087,0.005673542985,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Puget Sound Rockfish,Puget Sound Rockfish,No_fat_estimate,0.0013444130434782607,0.001344412927,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook mature,Chinook mature,No_fat_estimate,0.16825084782608696,0.1682508332,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,CH,Chum mature,Chum mature,No_fat_estimate,3.1893478260869567e-4,3.189347549e-4,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho mature,Coho mature,No_fat_estimate,0.008199260869565217,0.008199260157,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sockeye mature,Sockeye mature,No_fat_estimate,0.007826847826086957,0.007826847145,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink mature,Pink mature,No_fat_estimate,0.04203876086956522,0.04203875721,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,CI_CO,Chinook Coho immature,Chinook Coho immature,No_fat_estimate,0.010464217391304348,0.01046421648,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmon juvenile,Salmon juvenile,No_fat_estimate,0.0034906739130434786,0.00349067361,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Walleye Pollock,Walleye Pollock,No_fat_estimate,0.0032099782608695647,0.003209977982,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,HE,Herring 2+,Herring 2+,No_fat_estimate,0.11254382608695652,0.1125438163,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Sandlance Herring<2,Sandlance Herring<2,No_fat_estimate,0.0031735217391304347,0.003173521463,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Northern Anchovy,Northern Anchovy,No_fat_estimate,0,0,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,POP,Shiner Perch,Shiner Perch,No_fat_estimate,0.37808128260869567,0.3780812497,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Plainfin Midshipman,Plainfin Midshipman,No_fat_estimate,0.045194956521739126,0.04519495259,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,DOG,Spiny Dogfish,Spiny Dogfish,No_fat_estimate,0.0903189347826087,0.09031892693,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Squid,Squid,No_fat_estimate,3.0652173913043482e-6,3.065217125e-6,2,HSL_Bromaghin_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Greenling Sculpin Flounder,Greenling Sculpin Flounder,No_fat_estimate,0,0,2,HSL_Bromaghin_et_al_2013

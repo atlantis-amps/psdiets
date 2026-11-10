@@ -1,0 +1,181 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_May_2012,0.411290322580639,0.08064516129,1,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_May_2012,0.32903225806451997,0.06451612903,1,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_May_2012,0.164516129032256,0.03225806452,1,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_May_2012,0.4112903225806651,0.08064516129,1,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_May_2012,1.3161290322580401,0.2580645161,1,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_May_2012,2.4677419354838794,0.4838709677,1,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Jun_2012,5.12790697674418,0.3662790698,2,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Jun_2012,1.1395348837209296,0.08139534884,2,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Jun_2012,4.151162790697591,0.2965116279,2,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Jun_2012,1.9534883720930996,0.1395348837,2,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Jun_2012,1.0581395348836988,0.07558139535,2,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Jun_2012,0.5697674418605008,0.04069767442,2,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Jul_2012,4.88188976377952,0.4881889764,3,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Jul_2012,0,0,3,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Jul_2012,3.07086614173228,0.3070866142,3,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Jul_2012,0.4724409448818898,0.04724409449,3,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Jul_2012,1.5748031496063106,0.157480315,3,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Jul_2012,0,0,3,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Ago_2012,0,0,4,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Ago_2012,0,0,4,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Ago_2012,0,0,4,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Ago_2012,2.1438596491228,0.4561403509,4,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Ago_2012,2.5561403508772003,0.5438596491,4,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Ago_2012,0,0,4,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Sep_2012,1.76956521739129,0.4782608696,5,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Sep_2012,0.3217391304347901,0.08695652174,5,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Sep_2012,0.3217391304347901,0.08695652174,5,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Sep_2012,1.28695652173913,0.347826087,5,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Sep_2012,0,0,5,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Sep_2012,0,0,5,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Oct_2012,1.06888888888888,0.2888888889,6,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Oct_2012,0.9044444444444502,0.2444444444,6,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Oct_2012,1.0688888888888899,0.2888888889,6,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Oct_2012,0.6577777777777802,0.1777777778,6,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Oct_2012,0,0,6,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Oct_2012,0,0,6,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Nov_2012,0,0,7,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Nov_2012,1.6,1,7,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Nov_2012,0,0,7,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Nov_2012,0,0,7,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Nov_2012,0,0,7,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Nov_2012,0,0,7,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_May_2012,3.07999999999991,0.7,8,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_May_2012,0,0,8,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_May_2012,0,0,8,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_May_2012,0,0,8,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_May_2012,0,0,8,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_May_2012,1.3200000000000904,0.3,8,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Jun_2012,0.733333333333325,0.3333333333,9,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Jun_2012,0,0,9,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Jun_2012,0,0,9,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Jun_2012,0,0,9,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Jun_2012,0,0,9,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Jun_2012,1.4666666666666752,0.6666666667,9,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Jul_2012,3.73711340206183,0.1288659794,10,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Jul_2012,0,0,10,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Jul_2012,0,0,10,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Jul_2012,0.5979381443299001,0.0206185567,10,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Jul_2012,24.664948453608268,0.8505154639,10,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Jul_2012,0,0,10,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Ago_2012,3.21621621621619,0.09459459459,11,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Ago_2012,0,0,11,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Ago_2012,0,0,11,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Ago_2012,6.89189189189181,0.2027027027,11,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Ago_2012,23.891891891891902,0.7027027027,11,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Ago_2012,0,0,11,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Sep_2012,22.8643533123028,0.476340694,12,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Sep_2012,11.962145110410102,0.2492113565,12,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Sep_2012,1.8170347003153964,0.03785488959,12,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Sep_2012,2.2712933753944,0.04731861199,12,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Sep_2012,9.085173501577302,0.1892744479,12,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Sep_2012,0,0,12,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Oct_2012,4.05460750853242,0.09215017065,13,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Oct_2012,31.98634812286688,0.7269624573,13,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Oct_2012,2.4027303754266,0.05460750853,13,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Oct_2012,4.354948805460701,0.09897610922,13,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Oct_2012,1.2013651877133995,0.02730375427,13,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Oct_2012,0,0,13,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Nov_2012,0.603104212860316,0.008869179601,14,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Nov_2012,66.34146341463408,0.9756097561,14,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Nov_2012,0,0,14,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Nov_2012,0,0,14,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Nov_2012,1.0554323725056065,0.0155210643,14,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Nov_2012,0,0,14,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Apr_2013,1.21904761904761,0.126984127,15,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Apr_2013,0.22857142857142998,0.02380952381,15,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Apr_2013,4.8,0.5,15,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Apr_2013,0.22857142857143042,0.02380952381,15,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Apr_2013,3.1238095238095296,0.3253968254,15,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Apr_2013,0,0,15,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_May_2013,2.41454545454545,0.2909090909,16,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_May_2013,0.8300000000000001,0.1,16,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_May_2013,0.7545454545454597,0.09090909091,16,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_May_2013,1.8109090909090897,0.2181818182,16,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_May_2013,2.490000000000001,0.3,16,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_May_2013,0,0,16,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Jun_2013,1.89473684210526,0.1578947368,17,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Jun_2013,1.7368421052631502,0.1447368421,17,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Jun_2013,1.1842105263157996,0.09868421053,17,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Jun_2013,0.6315789473684204,0.05263157895,17,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Jun_2013,6.55263157894737,0.5460526316,17,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Jun_2013,0,0,17,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Jul_2013,2.09708737864077,0.1310679612,18,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Jul_2013,2.01941747572816,0.1262135922,18,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Jul_2013,4.97087378640777,0.3106796117,18,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Jul_2013,4.1165048543689,0.2572815534,18,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Jul_2013,2.7961165048543997,0.1747572816,18,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Jul_2013,0,0,18,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Ago_2013,2.80483870967742,0.2983870968,19,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Ago_2013,0.3032258064516098,0.03225806452,19,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Ago_2013,1.9709677419354898,0.2096774194,19,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Ago_2013,1.8193548387096703,0.1935483871,19,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Ago_2013,2.5016129032258103,0.2661290323,19,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Ago_2013,0,0,19,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Sep_2013,0.225,0.1071428571,20,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Sep_2013,0,0,20,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Sep_2013,0,0,20,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Sep_2013,1.575,0.75,20,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Sep_2013,0.30000000000000804,0.1428571429,20,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Sep_2013,0,0,20,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Oct_2013,0,0,21,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Oct_2013,1.55,0.5,21,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Oct_2013,1.55,0.5,21,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Oct_2013,0,0,21,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Oct_2013,0,0,21,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Oct_2013,0,0,21,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Juvenile_%Diet_Nov_2013,0,0,22,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Juvenile_%Diet_Nov_2013,5.1,1,22,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Juvenile_%Diet_Nov_2013,0,0,22,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Juvenile_%Diet_Nov_2013,0,0,22,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Juvenile_%Diet_Nov_2013,0,0,22,HSL_Thomas-et_al_2017
+HSL,juvenile,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Juvenile_%Diet_Nov_2013,0,0,22,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Apr_2013,2.7,1,23,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Apr_2013,0,0,23,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Apr_2013,0,0,23,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Apr_2013,0,0,23,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Apr_2013,0,0,23,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Apr_2013,0,0,23,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_May_2013,0.97,1,24,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_May_2013,0,0,24,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_May_2013,0,0,24,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_May_2013,0,0,24,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_May_2013,0,0,24,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_May_2013,0,0,24,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Jun_2013,2.2,1,25,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Jun_2013,0,0,25,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Jun_2013,0,0,25,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Jun_2013,0,0,25,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Jun_2013,0,0,25,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Jun_2013,0,0,25,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Jul_2013,6.3323076923077,0.6461538462,26,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Jul_2013,0.6030769230769195,0.06153846154,26,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Jul_2013,0,0,26,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Jul_2013,0,0,26,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Jul_2013,2.86461538461539,0.2923076923,26,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Jul_2013,0,0,26,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Ago_2013,0.752427184466024,0.02427184466,27,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Ago_2013,0,0,27,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Ago_2013,1.053398058252426,0.03398058252,27,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Ago_2013,13.24271844660185,0.427184466,27,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Ago_2013,15.9514563106797,0.5145631068,27,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Ago_2013,0,0,27,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Sep_2013,5.85472154963679,0.09443099274,28,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Sep_2013,0,0,28,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Sep_2013,1.0508474576271203,0.01694915254,28,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Sep_2013,46.53753026634379,0.7506053269,28,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Sep_2013,8.5569007263923,0.1380145278,28,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Sep_2013,0,0,28,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Oct_2013,2.59047619047619,0.05396825397,29,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Oct_2013,34.43809523809521,0.71746031750000006,29,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Oct_2013,5.3333333333333,0.1111111111,29,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Oct_2013,5.638095238095303,0.1174603175,29,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Oct_2013,0,0,29,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Oct_2013,0,0,29,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CI,Chinook salmon,Onrhynchus tshawytscha,Adult_%Diet_Nov_2013,0,0,30,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CU,Chum salmon,Oncorhynchus keta,Adult_%Diet_Nov_2013,22.3866666666666,0.9733333333,30,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,CO,Coho salmon,Oncorhynchus kisutch,Adult_%Diet_Nov_2013,0,0,30,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,Adult_%Diet_Nov_2013,0.6133333333334008,0.02666666667,30,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Sock eye salmon,Oncorhynchus nerka,Adult_%Diet_Nov_2013,0,0,30,HSL_Thomas-et_al_2017
+HSL,adult,Harbor seal,Phoca vitulina,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss gairdnerii,Adult_%Diet_Nov_2013,0,0,30,HSL_Thomas-et_al_2017

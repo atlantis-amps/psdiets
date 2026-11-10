@@ -1,0 +1,23 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Manila clam,Venerupis philippinarum,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,51.9,0.519,1,SP_Lewis_et_al_2007
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Varnish clam,Nuttallia obscurata,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,19.8,0.198,1,SP_Lewis_et_al_2007
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Pacific littleneck clam,Protothaca staminea,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,0.8,0.008,1,SP_Lewis_et_al_2007
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Manila,Pacific littleneck,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,9.5,0.095,1,SP_Lewis_et_al_2007
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalves,Macoma spp.,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,0.4,0.004,1,SP_Lewis_et_al_2007
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Heart cockle,Clinocardium nuttallii,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,0,0,1,SP_Lewis_et_al_2007
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bay mussel,Mytilus trossulus,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,0.4,0.004,1,SP_Lewis_et_al_2007
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalves,Unknown bivalve,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,7.4,0.074,1,SP_Lewis_et_al_2007
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropods,Gastropods,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,0,0,1,SP_Lewis_et_al_2007
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustaceans,Crustaceans,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,0.1,0.001,1,SP_Lewis_et_al_2007
+SP,adult,Surf scoter,Melanitta perspicillata,NA,Unknown,Unknown,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,9.7,0.097,1,SP_Lewis_et_al_2007
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Manila clam,Venerupis philippinarum,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,29.7,0.297,2,SP_Lewis_et_al_2007
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Varnish clam,Nuttallia obscurata,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,46,0.46,2,SP_Lewis_et_al_2007
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Pacific littleneck clam,Protothaca staminea,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,1.3,0.013,2,SP_Lewis_et_al_2007
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Manila,Pacific littleneck,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,5.6,0.056,2,SP_Lewis_et_al_2007
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Bivalves,Macoma spp.,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,0.9,0.009,2,SP_Lewis_et_al_2007
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Heart cockle,Clinocardium nuttallii,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,0.2,0.002,2,SP_Lewis_et_al_2007
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Bay mussel,Mytilus trossulus,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,0,0,2,SP_Lewis_et_al_2007
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Bivalves,Unknown bivalve,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,7.5,0.075,2,SP_Lewis_et_al_2007
+SP,adult,White-winged scoter,Melanitta fusca,BG,Gastropods,Gastropods,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,0.6,0.006,2,SP_Lewis_et_al_2007
+SP,adult,White-winged scoter,Melanitta fusca,BML,Crustaceans,Crustaceans,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,0.7,0.007,2,SP_Lewis_et_al_2007
+SP,adult,White-winged scoter,Melanitta fusca,NA,Unknown,Unknown,Table_1_%DW_British_Columbia_Winter_2002_2003_2004,7.5,0.075,2,SP_Lewis_et_al_2007

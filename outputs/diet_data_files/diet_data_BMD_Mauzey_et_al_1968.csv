@@ -1,0 +1,164 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+BMD,INVERT,Sea star,Pisaster ochraceus,BFF,Barnacles,Barnacles,Fig_4_Feder,61.2994936762494,0.6123903694,1,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BIV,Bivalves,Bivalves,Fig_4_Feder,18.0293625405164,0.1801158105,1,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BG,Limpets,Limpets,Fig_4_Feder,4.05228481240599,0.04048288239,1,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BG,Snails,Snails,Fig_4_Feder,7.93424146770332,0.07926416308,1,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BFF,Chitons,Chitons,Fig_4_Feder,4.62979047941867,0.04625224341,1,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BFF,Others,Others,Fig_4_Feder,4.1535495625278,0.04149453117,1,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BFF,Barnacles,Barnacles,Fig_4_Paine,63.5743490879817,0.6314228002,2,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BIV,Bivalves,Bivalves,Fig_4_Paine,27.4923204033641,0.273054749,2,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BG,Limpets,Limpets,Fig_4_Paine,3.823062093511,0.03797079493,2,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BG,Snails,Snails,Fig_4_Paine,1.71514522382051,0.01703488617,2,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BFF,Chitons,Chitons,Fig_4_Paine,3.41969790055716,0.03396456676,2,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BFF,Others,Others,Fig_4_Paine,0.659703832383531,0.006552203005,2,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BFF,Barnacles,Barnacles,Fig_4_Mauzey,50.6044107366057,0.5029604737,3,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BIV,Bivalves,Bivalves,Fig_4_Mauzey,12.4538694574497,0.1237798048,3,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BG,Limpets,Limpets,Fig_4_Mauzey,18.4026438997521,0.1829050543,3,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BG,Snails,Snails,Fig_4_Mauzey,10.0887655445628,0.1002728858,3,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BFF,Chitons,Chitons,Fig_4_Mauzey,7.21903268860029,0.07175042744,3,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pisaster ochraceus,BFF,Others,Others,Fig_4_Mauzey,1.84437429824375,0.01833135407,3,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,an acorn barnacle,Balanus crenatus,Table_2_San Juan,0,0,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Thatched barnacle,Balanus cariosus,Table_2_San Juan,0,0,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,giant acorn barnacle,Balanus nubilus,Table_2_San Juan,8,0.1142857143,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,acorn barnacle,Balanus species,Table_2_San Juan,3,0.04285714286,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Wrinkled seapump,Pyura haustor,Table_2_San Juan,2,0.02857142857,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Flattop sea squir,Chelyosoma productum,Table_2_San Juan,0,0,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Spiny-headed tunicate,Boltenia villosa,Table_2_San Juan,1,0.01428571429,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Tunicates,Unidentified tunicates,Table_2_San Juan,0,0,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Alaska falsejingle,Pododesmus macrochisma,Table_2_San Juan,20,0.2857142857,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Blue Mussel,Mytilus edulis,Table_2_San Juan,2,0.02857142857,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Corrugated clam,Humilaria kennerlyi,Table_2_San Juan,3,0.04285714286,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Common Littleneck Clam,Protothaca staminea,Table_2_San Juan,1,0.01428571429,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Giant rock scallop,Hinnites multirugosa,Table_2_San Juan,1,0.01428571429,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Spiny scallop,Chlamys hericius,Table_2_San Juan,1,0.01428571429,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Clams,unidentified clams,Table_2_San Juan,0,0,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Common Lampshell ,Terebratalia transversa,Table_2_San Juan,13,0.1857142857,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,shield limpe,Acmaea pelta,Table_2_San Juan,5,0.07142857143,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,"common tortoise limpet,",Acmaea testudinalis scutum,Table_2_San Juan,3,0.04285714286,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,Acmaea,Acmaea species,Table_2_San Juan,1,0.01428571429,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BMD,Thais lamellosa,Thais lamellosa,Table_2_San Juan,2,0.02857142857,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,lined chiton,Tonicella lineata,Table_2_San Juan,2,0.02857142857,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,black Katy chiton,Katharina tunicata,Table_2_San Juan,0,0,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BD,sea snail,Margarites sp,Table_2_San Juan,1,0.01428571429,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BC,Annelida,Polychaeta,Table_2_San Juan,1,0.01428571429,4,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,an acorn barnacle,Balanus crenatus,Table_2_Lower_Puget_Sound,77,0.5384615385,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Thatched barnacle,Balanus cariosus,Table_2_Lower_Puget_Sound,11,0.07692307692,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,giant acorn barnacle,Balanus nubilus,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,acorn barnacle,Balanus species,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Wrinkled seapump,Pyura haustor,Table_2_Lower_Puget_Sound,39,0.2727272727,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Flattop sea squir,Chelyosoma productum,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Spiny-headed tunicate,Boltenia villosa,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Tunicates,Unidentified tunicates,Table_2_Lower_Puget_Sound,1,0.006993006993,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Alaska falsejingle,Pododesmus macrochisma,Table_2_Lower_Puget_Sound,11,0.07692307692,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Blue Mussel,Mytilus edulis,Table_2_Lower_Puget_Sound,3,0.02097902098,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Corrugated clam,Humilaria kennerlyi,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Common Littleneck Clam,Protothaca staminea,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Giant rock scallop,Hinnites multirugosa,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Spiny scallop,Chlamys hericius,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Clams,unidentified clams,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Common Lampshell ,Terebratalia transversa,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,shield limpe,Acmaea pelta,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,"common tortoise limpet,",Acmaea testudinalis scutum,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,Acmaea,Acmaea species,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BMD,Thais lamellosa,Thais lamellosa,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,lined chiton,Tonicella lineata,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,black Katy chiton,Katharina tunicata,Table_2_Lower_Puget_Sound,1,0.006993006993,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BD,sea snail,Margarites sp,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BC,Annelida,Polychaeta,Table_2_Lower_Puget_Sound,0,0,5,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,an acorn barnacle,Balanus crenatus,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Thatched barnacle,Balanus cariosus,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,giant acorn barnacle,Balanus nubilus,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,acorn barnacle,Balanus species,Table_2_Other,9,0.6,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Wrinkled seapump,Pyura haustor,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Flattop sea squir,Chelyosoma productum,Table_2_Other,1,0.06666666667,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Spiny-headed tunicate,Boltenia villosa,Table_2_Other,2,0.1333333333,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Tunicates,Unidentified tunicates,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Alaska falsejingle,Pododesmus macrochisma,Table_2_Other,1,0.06666666667,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Blue Mussel,Mytilus edulis,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Corrugated clam,Humilaria kennerlyi,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Common Littleneck Clam,Protothaca staminea,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Giant rock scallop,Hinnites multirugosa,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Spiny scallop,Chlamys hericius,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Clams,unidentified clams,Table_2_Other,2,0.1333333333,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Common Lampshell ,Terebratalia transversa,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,shield limpe,Acmaea pelta,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,"common tortoise limpet,",Acmaea testudinalis scutum,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,Acmaea,Acmaea species,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BMD,Thais lamellosa,Thais lamellosa,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,lined chiton,Tonicella lineata,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BG,black Katy chiton,Katharina tunicata,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BD,sea snail,Margarites sp,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Evasterias troschelii,BC,Annelida,Polychaeta,Table_2_Other,0,0,6,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Sea urchins,Strongylocentrotus purpuratus,Table_3_San Juan_Archipelago_Vadas,0,0,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Sea urchins,S. drobachiensis,Table_3_San Juan_Archipelago_Vadas,5,0.2083333333,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Sea urchins,S. franciscanus,Table_3_San Juan_Archipelago_Vadas,1,0.04166666667,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Clams,Saxidomus giganteus,Table_3_San Juan_Archipelago_Vadas,6,0.25,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Clams,Protothaca staminea,Table_3_San Juan_Archipelago_Vadas,6,0.25,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Clams,Humilaria kennerleyi,Table_3_San Juan_Archipelago_Vadas,0,0,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Clams,Pododesmus macroshisma,Table_3_San Juan_Archipelago_Vadas,1,0.04166666667,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Clams,Mytilus californianus,Table_3_San Juan_Archipelago_Vadas,0,0,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Crabs,Fusitriton oregonensis,Table_3_San Juan_Archipelago_Vadas,0,0,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Crabs,Acmaea spp,Table_3_San Juan_Archipelago_Vadas,2,0.08333333333,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BML,Crabs,Crabs,Table_3_San Juan_Archipelago_Vadas,0,0,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Blue-Ringed Top Snail,Calliostoma ligatum,Table_3_San Juan_Archipelago_Vadas,1,0.04166666667,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BD,Sea cucumber,Cucumaria lubrica,Table_3_San Juan_Archipelago_Vadas,0,0,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BD,Sea cucumber,Eupentacta sp,Table_3_San Juan_Archipelago_Vadas,0,0,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BD,Sea cucumber,Parastichopus californicus,Table_3_San Juan_Archipelago_Vadas,1,0.04166666667,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Sea star,Pisaster ochraceus,Table_3_San Juan_Archipelago_Vadas,1,0.04166666667,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Sea star,Pycnopodia helianthoides,Table_3_San Juan_Archipelago_Vadas,0,0,7,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Sea urchins,Strongylocentrotus purpuratus,Table_3_San Juan_Archipelago,0,0,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Sea urchins,S. drobachiensis,Table_3_San Juan_Archipelago,15,0.1470588235,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Sea urchins,S. franciscanus,Table_3_San Juan_Archipelago,7,0.06862745098,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Clams,Saxidomus giganteus,Table_3_San Juan_Archipelago,63,0.6176470588,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Clams,Protothaca staminea,Table_3_San Juan_Archipelago,5,0.04901960784,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Clams,Humilaria kennerleyi,Table_3_San Juan_Archipelago,2,0.01960784314,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Clams,Pododesmus macroshisma,Table_3_San Juan_Archipelago,3,0.02941176471,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Clams,Mytilus californianus,Table_3_San Juan_Archipelago,0,0,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Crabs,Fusitriton oregonensis,Table_3_San Juan_Archipelago,4,0.03921568627,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BG,Crabs,Acmaea spp,Table_3_San Juan_Archipelago,0,0,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BML,Crabs,Crabs,Table_3_San Juan_Archipelago,0,0,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Blue-Ringed Top Snail,Calliostoma ligatum,Table_3_San Juan_Archipelago,0,0,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BD,Sea cucumber,Cucumaria lubrica,Table_3_San Juan_Archipelago,1,0.009803921569,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BD,Sea cucumber,Eupentacta sp,Table_3_San Juan_Archipelago,1,0.009803921569,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BD,Sea cucumber,Parastichopus californicus,Table_3_San Juan_Archipelago,0,0,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Sea star,Pisaster ochraceus,Table_3_San Juan_Archipelago,0,0,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BMD,Sea star,Pycnopodia helianthoides,Table_3_San Juan_Archipelago,1,0.009803921569,8,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Dermasterias imbricata,BD,Sea cucumber,Cucumaria lubrica,Text_1,92,0.9019607843,9,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Dermasterias imbricata,BD,Sea cucumber,Psolus,Text_1,3,0.02941176471,9,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Dermasterias imbricata,BD,holothurian,Unidentifiable,Text_1,1,0.009803921569,9,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Dermasterias imbricata,BFF,Anemones,Anemones,Text_1,4,0.03921568627,9,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Dermasterias imbricata,BG,Chiton,Chiton,Text_1,1,0.009803921569,9,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Dermasterias imbricata,BFF,Tunicates,Tunicates,Text_1,1,0.009803921569,9,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Crossaster papposus,BFF,Anemones,Ptilosarcus,Text_2,50,0.5952380952,10,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Crossaster papposus,BMD,nudibranch,Opisthobranchs,Text_2,34,0.4047619048,10,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Solaster simpsoni,BD,Sea cucumber,Cucumaria lubrica,Text_3,83,0.829876751,11,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Solaster simpsoni,BD,Sea cucumber,Eupentacta spp.,Text_3,5,0.04999257536,11,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Solaster simpsoni,BD,Sea cucumber,Cucumaria miniata,Text_3,4,0.03999406029,11,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Solaster simpsoni,BD,Sea cucumber,Psolus chitonoides,Text_3,8,0.07998812058,11,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Solaster simpsoni,BD,Ascidean,Ascidean,Text_3,0.00495049505,4.949759937e-5,11,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Solaster simpsoni,BIV,Brachiopod,Brachiopod,Text_3,0.00495049505,4.949759937e-5,11,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Solaster simpsoni,BFF,Ptilosarcus,Ptilosarcus,Text_3,0.00495049505,4.949759937e-5,11,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Mediaster aequalis,BFF,Anemones,Ptilosarcus gurneyi,Text_4,35,0.5303030303,12,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Mediaster aequalis,MA,algae,Ulva spp y Porphyra spp,Text_4,31,0.4696969697,12,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Hippasteria spinosa,BFF,Anemones,Ptilosarcus gurneyi,Text_5,99.6108949416342,0.999960939,13,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Hippasteria spinosa,BC,Polychaeta,polychaete nereis,Text_5,9.727626459e-4,9.7652435449999992e-06,13,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Hippasteria spinosa,BFF,anemone,Metridium senile,Text_5,9.727626459e-4,9.7652435449999992e-06,13,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Hippasteria spinosa,BC,nudibranch,Armina californica,Text_5,0.001945525292,1.9530487089999998e-05,13,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BD,Holothurians,Cucumaria lubrica,Text_6,8,0.131147541,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BD,Holothurians,Molpadia intermedia,Text_6,4,0.06557377049,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BD,Holothurians,Leptosynapta,Text_6,4,0.06557377049,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BD,Holothurians,C. miniata,Text_6,1,0.01639344262,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BD,Holothurians,Unidentified specimens,Text_6,10,0.1639344262,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BIV,Bivalves,Protothaca staminea,Text_6,11,0.1803278689,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BIV,Bivalves,Clinocardium nuttali,Text_6,5,0.08196721311,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BIV,Bivalves,Nemocardium centrifilosa,Text_6,2,0.03278688525,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BIV,Bivalves,Macoma secta,Text_6,2,0.03278688525,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BIV,Bivalves,Yoldia limatula,Text_6,2,0.03278688525,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BIV,Bivalves,Solem Sicarius,Text_6,1,0.01639344262,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,GEC,Bivalves,Panope generosa,Text_6,1,0.01639344262,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BIV,Bivalves,Mya arenaria,Text_6,1,0.01639344262,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BD,Bivalves,Unidentified specimens,Text_6,2,0.03278688525,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BML,Cancer products,Cancer products,Text_6,2,0.03278688525,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BMD,Amphissa columbiana,Amphissa columbiana,Text_6,1,0.01639344262,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,BFF,Unidentified sponges,Unidentified sponges,Text_6,3,0.04918032787,14,BMD_Mauzey_et_al_1968
+BMD,INVERT,Sea star,Ludia foliolata,PWN,Unidentified shrimps,Unidentified shrimps,Text_6,1,0.01639344262,14,BMD_Mauzey_et_al_1968

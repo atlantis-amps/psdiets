@@ -1,0 +1,23 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Unidentified gadid species,Gadidae,% range of breeding seals,0,0,1,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Walleye pollock,Gadidae,% range of breeding seals,2.77,0.032303207,1,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,HE,Herring,Clupeidae,% range of breeding seals,79.7,0.9294460641,1,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeidae,Alosa sapidissima,% range of breeding seals,0,0,1,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonidae,Juvenile Chinook Salmon,% range of breeding seals,0.17,0.001982507289,1,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonidae,Juvenile salmon species,% range of breeding seals,0.2,0.002332361516,1,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottidae,Pacific Staghorn sculpin,% range of breeding seals,1.77,0.02064139942,1,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytidae,Pacific Sand Lance,% range of breeding seals,0.25,0.002915451895,1,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,POP,Embiotocidae,Shiner Perch,% range of breeding seals,0.5,0.00583090379,1,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajidae,Skate species,% range of breeding seals,0,0,1,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenidae,Juvenile rockfish species,% range of breeding seals,0.39,0.004548104956,1,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Unidentified gadid species,Gadidae,% range of nonbreeding seals,0,0,2,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Walleye pollock,Gadidae,% range of nonbreeding seals,0,0,2,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,HE,Herring,Clupeidae,% range of nonbreeding seals,81.82,0.9355133775,2,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeidae,Alosa sapidissima,% range of nonbreeding seals,0,0,2,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonidae,Juvenile Chinook Salmon,% range of nonbreeding seals,0.16,0.001829407729,2,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonidae,Juvenile salmon species,% range of nonbreeding seals,0.19,0.002172421678,2,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottidae,Pacific Staghorn sculpin,% range of nonbreeding seals,1.45,0.01657900755,2,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytidae,Pacific Sand Lance,% range of nonbreeding seals,1.52,0.01737937343,2,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,POP,Embiotocidae,Shiner Perch,% range of nonbreeding seals,2.32,0.02652641207,2,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajidae,Skate species,% range of nonbreeding seals,0,0,2,HSL_Howard_et_al_2013
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenidae,Juvenile rockfish species,% range of nonbreeding seals,0,0,2,HSL_Howard_et_al_2013

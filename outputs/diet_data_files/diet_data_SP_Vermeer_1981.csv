@@ -1,0 +1,14 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SP,adult,Surf scoter,Melanitta perspicillata,HE,Herring eggs,Herring eggs,Table_1_%WW_Saltspring_Is_Spring_1977,70,0.7,1,SP_Vermeer_1981
+SP,adult,Surf scoter,Melanitta perspicillata,NA,Grit,Grit,Table_1_%WW_Saltspring_Is_Spring_1977,30,0.3,1,SP_Vermeer_1981
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalves,Mytilus edulis,Table_1_%WW_Saltspring_Is_Fall_1977,78,0.7796101949,2,SP_Vermeer_1981
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalves,Protothaca staminea,Table_1_%WW_Saltspring_Is_Fall_1977,0.01,9.995002499e-5,2,SP_Vermeer_1981
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalves,Ponderosa filosa,Table_1_%WW_Saltspring_Is_Fall_1977,0.01,9.995002499e-5,2,SP_Vermeer_1981
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalves,Unidentified bivalve fragments,Table_1_%WW_Saltspring_Is_Fall_1977,2,0.019990005,2,SP_Vermeer_1981
+SP,adult,Surf scoter,Melanitta perspicillata,BFF,Crustaceans,Barnacles,Table_1_%WW_Saltspring_Is_Fall_1977,9,0.08995502249,2,SP_Vermeer_1981
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustaceans,Crabs,Table_1_%WW_Saltspring_Is_Fall_1977,0.01,9.995002499e-5,2,SP_Vermeer_1981
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Echinoderms,Echinoderms,Table_1_%WW_Saltspring_Is_Fall_1977,4,0.03998001,2,SP_Vermeer_1981
+SP,adult,Surf scoter,Melanitta perspicillata,PLANT,Vascular plants,Vascular plants,Table_1_%WW_Saltspring_Is_Fall_1977,0.01,9.995002499e-5,2,SP_Vermeer_1981
+SP,adult,Surf scoter,Melanitta perspicillata,MA,Algae,Algae,Table_1_%WW_Saltspring_Is_Fall_1977,0.01,9.995002499e-5,2,SP_Vermeer_1981
+SP,adult,Surf scoter,Melanitta perspicillata,NA,Digested matter,Digested matter,Table_1_%WW_Saltspring_Is_Fall_1977,5,0.04997501249,2,SP_Vermeer_1981
+SP,adult,Surf scoter,Melanitta perspicillata,NA,Grit,Grit,Table_1_%WW_Saltspring_Is_Fall_1977,2,0.019990005,2,SP_Vermeer_1981

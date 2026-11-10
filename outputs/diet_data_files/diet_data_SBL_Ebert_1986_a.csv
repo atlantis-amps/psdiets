@@ -1,0 +1,10 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SBL,juvenile,Elasmobranchii,Hexanchus griseus,DOG,Chondrichthyes,Squalus acanthias,Text_1,2,0.1428571429,1,SBL_Ebert_1986_a
+SBL,juvenile,Elasmobranchii,Hexanchus griseus,NA,Whale Blubber,Whale Blubber,Text_1,1,0.07142857143,1,SBL_Ebert_1986_a
+SBL,juvenile,Elasmobranchii,Hexanchus griseus,SEAL,Mammalia,Pinniped remains,Text_1,1,0.07142857143,1,SBL_Ebert_1986_a
+SBL,juvenile,Elasmobranchii,Hexanchus griseus,SHARK,Prickly shark,Echinorhinus cookei,Text_1,1,0.07142857143,1,SBL_Ebert_1986_a
+SBL,juvenile,Elasmobranchii,Hexanchus griseus,RAT,Ratfish,Hydrolagus colliei,Text_1,1,0.07142857143,1,SBL_Ebert_1986_a
+SBL,juvenile,Elasmobranchii,Hexanchus griseus,FMM,Hake,Merluccius productus,Text_1,1,0.07142857143,1,SBL_Ebert_1986_a
+SBL,juvenile,Elasmobranchii,Hexanchus griseus,LAMPREY,Pacific lamprey,Lampetra tridentata,Text_1,1,0.07142857143,1,SBL_Ebert_1986_a
+SBL,juvenile,Elasmobranchii,Hexanchus griseus,LAMPREY,Pacific hagfish,Eptatretus stoutii,Text_1,1,0.07142857143,1,SBL_Ebert_1986_a
+SBL,juvenile,Elasmobranchii,Hexanchus griseus,FISH,Unidentified bony fish,Unidentified bony fish,Text_1,5,0.3571428571,1,SBL_Ebert_1986_a

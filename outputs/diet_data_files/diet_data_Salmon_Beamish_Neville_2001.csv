@@ -1,0 +1,61 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,adult,Gulls,Gulls,CU,Chum salmon,Oncorhynchus keta,Table_2,26,0.7428571429,1,Salmon_Beamish_Neville_2001
+SB,adult,Gulls,Gulls,CO,Coho salmon,Oncorhynchus kisutch,Table_2,3,0.08571428571,1,Salmon_Beamish_Neville_2001
+SB,adult,Gulls,Gulls,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,3,0.08571428571,1,Salmon_Beamish_Neville_2001
+SB,adult,Gulls,Gulls,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,3,0.08571428571,1,Salmon_Beamish_Neville_2001
+FMM,adult,Hake,Hake,CU,Chum salmon,Oncorhynchus keta,Table_2,265,0.9999962264,2,Salmon_Beamish_Neville_2001
+FMM,adult,Hake,Hake,CO,Coho salmon,Oncorhynchus kisutch,Table_2,0.001,3.773570666e-6,2,Salmon_Beamish_Neville_2001
+FMM,adult,Hake,Hake,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,0,0,2,Salmon_Beamish_Neville_2001
+FMM,adult,Hake,Hake,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,0,0,2,Salmon_Beamish_Neville_2001
+SMD,adult,Misc. Demersal,Misc. Demersal,CU,Chum salmon,Oncorhynchus keta,Table_2,0.001,0.25,3,Salmon_Beamish_Neville_2001
+SMD,adult,Misc. Demersal,Misc. Demersal,CO,Coho salmon,Oncorhynchus kisutch,Table_2,0.001,0.25,3,Salmon_Beamish_Neville_2001
+SMD,adult,Misc. Demersal,Misc. Demersal,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,0.001,0.25,3,Salmon_Beamish_Neville_2001
+SMD,adult,Misc. Demersal,Misc. Demersal,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,0.001,0.25,3,Salmon_Beamish_Neville_2001
+CO,adult,Coho,Oncorhynchus kisutch,CU,Chum salmon,Oncorhynchus keta,Table_2,552,0.7150259067,4,Salmon_Beamish_Neville_2001
+CO,adult,Coho,Oncorhynchus kisutch,CO,Coho salmon,Oncorhynchus kisutch,Table_2,110,0.1424870466,4,Salmon_Beamish_Neville_2001
+CO,adult,Coho,Oncorhynchus kisutch,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,55,0.07124352332,4,Salmon_Beamish_Neville_2001
+CO,adult,Coho,Oncorhynchus kisutch,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,55,0.07124352332,4,Salmon_Beamish_Neville_2001
+CI,adult,Chinook,Oncorhynchus tshawytscha,CU,Chum salmon,Oncorhynchus keta,Table_2,690,0.4545454545,5,Salmon_Beamish_Neville_2001
+CI,adult,Chinook,Oncorhynchus tshawytscha,CO,Coho salmon,Oncorhynchus kisutch,Table_2,138,0.09090909091,5,Salmon_Beamish_Neville_2001
+CI,adult,Chinook,Oncorhynchus tshawytscha,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,345,0.2272727273,5,Salmon_Beamish_Neville_2001
+CI,adult,Chinook,Oncorhynchus tshawytscha,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,345,0.2272727273,5,Salmon_Beamish_Neville_2001
+FVS,adult,Lingcod,Ophiodon elongatus,CU,Chum salmon,Oncorhynchus keta,Table_2,97,0.4874371859,6,Salmon_Beamish_Neville_2001
+FVS,adult,Lingcod,Ophiodon elongatus,CO,Coho salmon,Oncorhynchus kisutch,Table_2,97,0.4874371859,6,Salmon_Beamish_Neville_2001
+FVS,adult,Lingcod,Ophiodon elongatus,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,0,0,6,Salmon_Beamish_Neville_2001
+FVS,adult,Lingcod,Ophiodon elongatus,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,5,0.02512562814,6,Salmon_Beamish_Neville_2001
+PIS,adult,Pink_sockeye,Pink salmon,CU,Chum salmon,Oncorhynchus keta,Table_2,0,0,7,Salmon_Beamish_Neville_2001
+PIS,adult,Pink_sockeye,Pink salmon,CO,Coho salmon,Oncorhynchus kisutch,Table_2,0,0,7,Salmon_Beamish_Neville_2001
+PIS,adult,Pink_sockeye,Pink salmon,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,0,0,7,Salmon_Beamish_Neville_2001
+PIS,adult,Pink_sockeye,Pink salmon,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,0,0,7,Salmon_Beamish_Neville_2001
+LAMPREY,adult,River lamprey,River lamprey,CU,Chum salmon,Oncorhynchus keta,Table_2,59,0.2744186047,8,Salmon_Beamish_Neville_2001
+LAMPREY,adult,River lamprey,River lamprey,CO,Coho salmon,Oncorhynchus kisutch,Table_2,56,0.2604651163,8,Salmon_Beamish_Neville_2001
+LAMPREY,adult,River lamprey,River lamprey,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,50,0.2325581395,8,Salmon_Beamish_Neville_2001
+LAMPREY,adult,River lamprey,River lamprey,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,50,0.2325581395,8,Salmon_Beamish_Neville_2001
+BIRD,adult,Seabirds,Seabirds,CU,Chum salmon,Oncorhynchus keta,Table_2,11,0.1641791045,9,Salmon_Beamish_Neville_2001
+BIRD,adult,Seabirds,Seabirds,CO,Coho salmon,Oncorhynchus kisutch,Table_2,34,0.5074626866,9,Salmon_Beamish_Neville_2001
+BIRD,adult,Seabirds,Seabirds,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,11,0.1641791045,9,Salmon_Beamish_Neville_2001
+BIRD,adult,Seabirds,Seabirds,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,11,0.1641791045,9,Salmon_Beamish_Neville_2001
+CSL,adult,Sea lions,Sea lions,CU,Chum salmon,Oncorhynchus keta,Table_2,0,0,10,Salmon_Beamish_Neville_2001
+CSL,adult,Sea lions,Sea lions,CO,Coho salmon,Oncorhynchus kisutch,Table_2,0,0,10,Salmon_Beamish_Neville_2001
+CSL,adult,Sea lions,Sea lions,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,0,0,10,Salmon_Beamish_Neville_2001
+CSL,adult,Sea lions,Sea lions,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,0,0,10,Salmon_Beamish_Neville_2001
+HSL,adult,Seals,Seals,CU,Chum salmon,Oncorhynchus keta,Table_2,0,0,11,Salmon_Beamish_Neville_2001
+HSL,adult,Seals,Seals,CO,Coho salmon,Oncorhynchus kisutch,Table_2,0,0,11,Salmon_Beamish_Neville_2001
+HSL,adult,Seals,Seals,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,0,0,11,Salmon_Beamish_Neville_2001
+HSL,adult,Seals,Seals,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,0,0,11,Salmon_Beamish_Neville_2001
+SP,adult,Shorebirds,Shorebirds,CU,Chum salmon,Oncorhynchus keta,Table_2,62,0.3333333333,12,Salmon_Beamish_Neville_2001
+SP,adult,Shorebirds,Shorebirds,CO,Coho salmon,Oncorhynchus kisutch,Table_2,0,0,12,Salmon_Beamish_Neville_2001
+SP,adult,Shorebirds,Shorebirds,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,62,0.3333333333,12,Salmon_Beamish_Neville_2001
+SP,adult,Shorebirds,Shorebirds,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,62,0.3333333333,12,Salmon_Beamish_Neville_2001
+FPS,adult,Small pelagics,Small pelagics,CU,Chum salmon,Oncorhynchus keta,Table_2,0.001,0.25,13,Salmon_Beamish_Neville_2001
+FPS,adult,Small pelagics,Small pelagics,CO,Coho salmon,Oncorhynchus kisutch,Table_2,0.001,0.25,13,Salmon_Beamish_Neville_2001
+FPS,adult,Small pelagics,Small pelagics,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,0.001,0.25,13,Salmon_Beamish_Neville_2001
+FPS,adult,Small pelagics,Small pelagics,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,0.001,0.25,13,Salmon_Beamish_Neville_2001
+DOG,adult,Dogfish,Squalus acanthias,CU,Chum salmon,Oncorhynchus keta,Table_2,145,0.07696390658,14,Salmon_Beamish_Neville_2001
+DOG,adult,Dogfish,Squalus acanthias,CO,Coho salmon,Oncorhynchus kisutch,Table_2,1449,0.7691082803,14,Salmon_Beamish_Neville_2001
+DOG,adult,Dogfish,Squalus acanthias,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,145,0.07696390658,14,Salmon_Beamish_Neville_2001
+DOG,adult,Dogfish,Squalus acanthias,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,145,0.07696390658,14,Salmon_Beamish_Neville_2001
+ROC,adult,Toothed whales,Toothed whales,CU,Chum salmon,Oncorhynchus keta,Table_2,0,0,15,Salmon_Beamish_Neville_2001
+ROC,adult,Toothed whales,Toothed whales,CO,Coho salmon,Oncorhynchus kisutch,Table_2,0,0,15,Salmon_Beamish_Neville_2001
+ROC,adult,Toothed whales,Toothed whales,SAL,Sockeye_pink,Oncorhynchus nerka,Table_2,0,0,15,Salmon_Beamish_Neville_2001
+ROC,adult,Toothed whales,Toothed whales,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2,0,0,15,Salmon_Beamish_Neville_2001

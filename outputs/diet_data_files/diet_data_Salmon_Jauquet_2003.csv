@@ -1,0 +1,26 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SAL,adult,Chordata,Oncorhynchus clarkii,SALMON,Chordata,Salmon eggs,Table_1,25.55,0.2563202247,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,CU,Chordata,Chum fry,Table_1,20.16,0.202247191,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,FPS,Chordata,Pacific Sand Lance,Table_1,2.88,0.02889245586,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,HE,Chordata,Pacific Herring,Table_1,4.01,0.04022873194,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,SMD,Chordata,Three-spine stickleback,Table_1,0.27,0.002708667737,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,SMD,Chordata,Pacific staghorn sculpin,Table_1,1.17,0.01173756019,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,SMD,Chordata,Arrow goby,Table_1,2.4,0.02407704655,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,POP,Chordata,Shiner perch,Table_1,9.19,0.09219502408,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,FPS,Chordata,Surf smelt,Table_1,2.65,0.02658507223,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,FISH,Chordata,Unidentified fish,Table_1,0.16,0.001605136437,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,BC,Annelida,Polychaetes,Table_1,12,0.1203852327,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,BD,Arthropoda,Gammarid Amphipods,Table_1,4.81,0.04825441413,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,BD,Arthropoda,Corophium Amphipods,Table_1,0.11,0.0011035313,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,ZM,Arthropoda,Copepoda,Table_1,0.03,3.009630819e-4,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,BD,Arthropoda,Isopods,Table_1,2.2,0.022070626,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,PWN,Arthropoda,Shrimp,Table_1,6.68,0.06701444623,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,BML,Arthropoda,Crabs,Table_1,0.59,0.00591894061,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,BFF,Arthropoda,Barnacle larvae,Table_1,0.04,4.012841091e-4,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,BIV,Mollusca,Clam necks,Table_1,2.71,0.02718699839,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,BIV,Mollusca,Mollusca,Table_1,0.12,0.001203852327,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,INSECT,Arthropoda,Insects,Table_1,0,0,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,NA,Unidentified flesh,Unidentified flesh,Table_1,1.25,0.01254012841,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,NA,Unidentified bone,Unidentified bone,Table_1,0.05,5.016051364e-4,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,PLANT,Vegetative matter,Vegetative matter,Table_1,0.14,0.001404494382,1,Salmon_Jauquet_2003
+SAL,adult,Chordata,Oncorhynchus clarkii,NA,Stones,Stones,Table_1,0.51,0.005116372392,1,Salmon_Jauquet_2003

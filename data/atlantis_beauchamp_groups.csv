@@ -1,0 +1,31 @@
+species,atlantis_name,atlantis_fg
+Diptera Adult,Insects,INSECT
+Diptera Adult - Nematocera,Insects,INSECT
+Diptera Adult - Brachycera,Insects,INSECT
+Other Insect - Adult_egg,Insects,INSECT
+Insect Pupa,Insects,INSECT
+Insect Larvae,Insects,INSECT
+Hemiptera,Insects,INSECT
+Hymenoptera,Insects,INSECT
+Aquatic Nymph_Adult - Ephem_Plecop_Odonata,Insects,INSECT
+Collembola & Arachnid,Insects,INSECT
+Other Crustacean & Rare Invert,Deposit feeders,BD
+Amphipod,Deposit feeders,BD
+Decapod Megalopa_Post larval NOT shrimp adult,Large zooplankton,ZL
+Decapod Zoea,Large zooplankton,ZL
+Euphausid,Large zooplankton,ZL
+Mysid,Shrimp,PWN
+Shrimp - Post larval_Adult,Shrimp,PWN
+Hyperiid,Deposit feeders,BD
+Worm,carnivorous infauna,BC
+Isopod,Deposit feeders,BD
+Indigestible,Other,Other
+Digested Material,Digested,Digested
+UnID Fish-ww,Fish,Fish
+UnID Salmonid-ww,Salmon,Salmon
+Pink Salmon-ww,Pink Salmon Subyearling,PIS
+Chum Salmon-ww,Chum salmon,CHUM
+Sand Lance-ww,Small Planktivorous Fish,FPS
+Herring-ww,Pacific Herring Puget Sound,HE
+Other Fish-ww,Fish,Fish
+Digested Fish-ww,Fish,Fish

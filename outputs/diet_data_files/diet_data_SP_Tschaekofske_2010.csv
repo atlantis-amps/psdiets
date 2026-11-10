@@ -1,0 +1,67 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Mytilidae,Mytilus trossulus,Table_2_FO_Boundary_Bay,25,0.05773672055,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Cardiidae,Table_2_FO_Boundary_Bay,92,0.2124711316,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Macoma sp.,Table_2_FO_Boundary_Bay,8,0.01847575058,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Psammobiidae,Nuttallia obscurata,Table_2_FO_Boundary_Bay,8,0.01847575058,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Veneridae,Table_2_FO_Boundary_Bay,58,0.1339491917,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Unidentified Bivalvia,Table_2_FO_Boundary_Bay,17,0.03926096998,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Unidentified Gastropoda,Table_2_FO_Boundary_Bay,58,0.1339491917,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Crustacea,Table_2_FO_Boundary_Bay,42,0.09699769053,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Crustacea,Idoteidae,Table_2_FO_Boundary_Bay,25,0.05773672055,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Cancridae,Table_2_FO_Boundary_Bay,8,0.01847575058,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Unidentified Crustacean,Table_2_FO_Boundary_Bay,8,0.01847575058,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BD,Crustacea,Amphipoda,Table_2_FO_Boundary_Bay,17,0.03926096998,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Polychaeta,Polychaeta,Table_2_FO_Boundary_Bay,50,0.1154734411,1,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,PLANT,Plant material,Plant material,Table_2_FO_Boundary_Bay,17,0.03926096998,1,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Mytilidae,Mytilus trossulus,Table_2_FO_Boundary_Bay,7,0.05223880597,2,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Bivalvia,Cardiidae,Table_2_FO_Boundary_Bay,14,0.1044776119,2,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Psammobiidae,Nuttallia obscurata,Table_2_FO_Boundary_Bay,57,0.4253731343,2,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Bivalvia,Veneridae,Table_2_FO_Boundary_Bay,14,0.1044776119,2,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Bivalvia,Unidentified Bivalvia,Table_2_FO_Boundary_Bay,7,0.05223880597,2,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BG,Potamididae,Batillaria atramentaria,Table_2_FO_Boundary_Bay,7,0.05223880597,2,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BML,Crustacea,Crustacea,Table_2_FO_Boundary_Bay,7,0.05223880597,2,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BML,Crustacea,Cancridae,Table_2_FO_Boundary_Bay,7,0.05223880597,2,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,PLANT,Plant material,Plant material,Table_2_FO_Boundary_Bay,14,0.1044776119,2,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Mytilidae,Mytilus trossulus,Table_2_FO_Forbes_Point,100,0.6756756757,3,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Psammobiidae,Nuttallia obscurata,Table_2_FO_Forbes_Point,20,0.1351351351,3,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Gastropoda,Table_2_FO_Forbes_Point,7,0.0472972973,3,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Unidentified Gastropoda,Table_2_FO_Forbes_Point,7,0.0472972973,3,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Crustacea,Table_2_FO_Forbes_Point,7,0.0472972973,3,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BD,Crustacea,Amphipoda,Table_2_FO_Forbes_Point,7,0.0472972973,3,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Mytilidae,Mytilus trossulus,Table_2_FO_Forbes_Point,100,0.625,4,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Bivalvia,Cardiidae,Table_2_FO_Forbes_Point,40,0.25,4,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Psammobiidae,Nuttallia obscurata,Table_2_FO_Forbes_Point,20,0.125,4,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Mytilidae,Mytilus trossulus,Table_2_FO_FraserRiver,17,0.1082802548,5,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Macoma balthica,Table_2_FO_FraserRiver,11,0.07006369427,5,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Psammobiidae,Nuttallia obscurata,Table_2_FO_FraserRiver,100,0.6369426752,5,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Veneridae,Table_2_FO_FraserRiver,17,0.1082802548,5,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Crustacea,Table_2_FO_FraserRiver,6,0.03821656051,5,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Unidentified Crustacean,Table_2_FO_FraserRiver,6,0.03821656051,5,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Mytilidae,Mytilus trossulus,Table_2_FO_FraserRiver,4,0.02721088435,6,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Psammobiidae,Nuttallia obscurata,Table_2_FO_FraserRiver,100,0.6802721088,6,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Bivalvia,Veneridae,Table_2_FO_FraserRiver,4,0.02721088435,6,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BG,Gastropoda,Gastropoda,Table_2_FO_FraserRiver,7,0.04761904762,6,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BG,Gastropoda,Unidentified Gastropoda,Table_2_FO_FraserRiver,7,0.04761904762,6,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BML,Crustacea,Crustacea,Table_2_FO_FraserRiver,7,0.04761904762,6,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BG,Crustacea,Idoteidae,Table_2_FO_FraserRiver,7,0.04761904762,6,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,BC,Polychaeta,Polychaeta,Table_2_FO_FraserRiver,4,0.02721088435,6,SP_Tschaekofske_2010
+SP,adult,White-winged scoter,Melanitta fusca,PLANT,Plant material,Plant material,Table_2_FO_FraserRiver,7,0.04761904762,6,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Mytilidae,Mytilus trossulus,Table_2_FO_Padilla_Bay,25,0.05787037037,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Cardiidae,Table_2_FO_Padilla_Bay,4,0.009259259259,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Macoma sp.,Table_2_FO_Padilla_Bay,2,0.00462962963,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Psammobiidae,Nuttallia obscurata,Table_2_FO_Padilla_Bay,35,0.08101851852,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Veneridae,Table_2_FO_Padilla_Bay,6,0.01388888889,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Unidentified Bivalvia,Table_2_FO_Padilla_Bay,14,0.03240740741,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Gastropoda,Table_2_FO_Padilla_Bay,47,0.1087962963,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Gastropoda,Pyramidellidae,Table_2_FO_Padilla_Bay,16,0.03703703704,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Potamididae,Batillaria atramentaria,Table_2_FO_Padilla_Bay,2,0.00462962963,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Unidentified Gastropoda,Table_2_FO_Padilla_Bay,35,0.08101851852,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Crustacea,Table_2_FO_Padilla_Bay,94,0.2175925926,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Crustacea,Idoteidae,Table_2_FO_Padilla_Bay,41,0.09490740741,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Cancridae,Table_2_FO_Padilla_Bay,4,0.009259259259,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Pinnotheridae,Table_2_FO_Padilla_Bay,67,0.1550925926,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BD,Caprellidea,Caprella sp.,Table_2_FO_Padilla_Bay,4,0.009259259259,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Unidentified Crustacean,Table_2_FO_Padilla_Bay,8,0.01851851852,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Echinodermata,Ophiuroidea,Table_2_FO_Padilla_Bay,4,0.009259259259,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Polychaeta,Polychaeta,Table_2_FO_Padilla_Bay,12,0.02777777778,7,SP_Tschaekofske_2010
+SP,adult,Surf scoter,Melanitta perspicillata,PLANT,Plant material,Plant material,Table_2_FO_Padilla_Bay,12,0.02777777778,7,SP_Tschaekofske_2010

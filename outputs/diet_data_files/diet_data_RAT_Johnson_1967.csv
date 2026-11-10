@@ -1,0 +1,40 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+RAT,adult,Ratfish,Hydrolagus collei,BC,Annelida,Aphrodita sp.,Table_2,8,0.00701754386,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BC,Mollusca,Amphissa sp.,Table_2,989,0.8675438596,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BC,Mollusca,Musculus sp.,Table_2,48,0.04210526316,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BIV,Mollusca,Yoldia sp.,Table_2,6,0.005263157895,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BIV,Mollusca,Leptopecten sp.,Table_2,2,0.001754385965,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BC,Mollusca,Dentalium sp.,Table_2,6,0.005263157895,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BD,Arthropoda,Livoneca sp.,Table_2,8,0.00701754386,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BD,Arthropoda,Unidentified amphipod,Table_2,2,0.001754385965,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,PWN,Arthropoda,Crago sp.,Table_2,32,0.02807017544,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,PWN,Arthropoda,Unidentified shrimp,Table_2,10,0.008771929825,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,DUN,Arthropoda,Cancer magister,Table_2,1,8.771929825e-4,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BML,Arthropoda,Unidentified crab,Table_2,1,8.771929825e-4,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BMD,Echinodermata,Brisaster sp.,Table_2,21,0.01842105263,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,FISH,Chordata,Teleostomi,Table_2,6,0.005263157895,1,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BC,Annelida,Aphrodita sp.,Table_3,1,0.0243902439,2,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BC,Mollusca,Amphissa sp.,Table_3,12,0.2926829268,2,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BC,Mollusca,Musculus sp.,Table_3,9,0.2195121951,2,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BMD,Mollusca,Searlesia sp.,Table_3,1,0.0243902439,2,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,PWN,Arthropoda,Pandalus sp.,Table_3,13,0.3170731707,2,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BML,Arthropoda,Cancer sp.,Table_3,1,0.0243902439,2,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BG,Echinodermata,Strongylocentrolus sp.,Table_3,1,0.0243902439,2,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BMD,Echinodermata,Brisaster sp.,Table_3,1,0.0243902439,2,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,FISH,Chordata,Teleostomi,Table_3,2,0.0487804878,2,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BC,Mollusca,Amphissa sp.,Table_4,14,0.1707317073,3,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BC,Mollusca,Musculus sp.,Table_4,5,0.06097560976,3,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BIV,Mollusca,Pecten sp.,Table_4,7,0.08536585366,3,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BD,Arthropoda,Livoneca sp.,Table_4,17,0.2073170732,3,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,PWN,Arthropoda,Pandalus sp.,Table_4,26,0.3170731707,3,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BMD,Echinodermata,Brisaster sp.,Table_4,3,0.03658536585,3,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,BG,Echinodermata,Strongylocentrolus sp.,Table_4,1,0.01219512195,3,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,SMD,Chordata,Chimaeridae,Table_4,2,0.0243902439,3,RAT_Johnson_1967
+RAT,adult,Ratfish,Hydrolagus collei,FISH,Chordata,Teleostomi,Table_4,7,0.08536585366,3,RAT_Johnson_1967
+RAT,juvenile,Ratfish,Hydrolagus collei,BC,Annelida,Annelida,Table_5,9,0.1153846154,4,RAT_Johnson_1967
+RAT,juvenile,Ratfish,Hydrolagus collei,BC,Mollusca,Amphissa sp.,Table_5,1,0.01282051282,4,RAT_Johnson_1967
+RAT,juvenile,Ratfish,Hydrolagus collei,BIV,Mollusca,Amygdalum sp.,Table_5,2,0.02564102564,4,RAT_Johnson_1967
+RAT,juvenile,Ratfish,Hydrolagus collei,BIV,Mollusca,Cardiomya sp.,Table_5,27,0.3461538462,4,RAT_Johnson_1967
+RAT,juvenile,Ratfish,Hydrolagus collei,BC,Mollusca,Dentalium sp.,Table_5,1,0.01282051282,4,RAT_Johnson_1967
+RAT,juvenile,Ratfish,Hydrolagus collei,BD,Arthropoda,Livoneca sp.,Table_5,1,0.01282051282,4,RAT_Johnson_1967
+RAT,juvenile,Ratfish,Hydrolagus collei,PWN,Arthropoda,Pandalus sp.,Table_5,37,0.4743589744,4,RAT_Johnson_1967

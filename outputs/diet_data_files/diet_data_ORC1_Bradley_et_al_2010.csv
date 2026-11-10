@@ -1,0 +1,15 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ROR,adult,Orcinus orca,Resident Orca,CI,Chinook,Oncorhynchus tshawytscha,Table_2_Total_LocationJDFS,73,0.7849462366,1,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,STEELHEAD,Steelhead,Oncorhynchus mykiss gairdnerii,Table_2_Total_LocationJDFS,12,0.1290322581,1,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,CU,Chum salmon,Chum salmon,Table_2_Total_LocationJDFS,0,0,1,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,SAL,Sockeye,Oncorhynchus nerka,Table_2_Total_LocationJDFS,0,0,1,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,CO,Coho salmon,Oncorhynchus kisutch,Table_2_Total_LocationJDFS,7,0.0752688172,1,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,SALMON,Unidentified salmon,Unidentified salmon,Table_2_Total_LocationJDFS,0,0,1,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,NA,Other,Other,Table_2_Total_LocationJDFS,1,0.01075268817,1,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,CI,Chinook,Oncorhynchus tshawytscha,Table_2_Total_LocationSJI,131,0.7891566265,2,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,STEELHEAD,Steelhead,Oncorhynchus mykiss gairdnerii,Table_2_Total_LocationSJI,2,0.01204819277,2,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,CU,Chum salmon,Chum salmon,Table_2_Total_LocationSJI,3,0.01807228916,2,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,SAL,Sockeye,Oncorhynchus nerka,Table_2_Total_LocationSJI,4,0.02409638554,2,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,CO,Coho salmon,Oncorhynchus kisutch,Table_2_Total_LocationSJI,16,0.09638554217,2,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,SALMON,Unidentified salmon,Unidentified salmon,Table_2_Total_LocationSJI,2,0.01204819277,2,ORC1_Bradley_et_al_2010
+ROR,adult,Orcinus orca,Resident Orca,NA,Other,Other,Table_2_Total_LocationSJI,8,0.04819277108,2,ORC1_Bradley_et_al_2010

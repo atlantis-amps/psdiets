@@ -1,0 +1,7 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ROR,adult,Orcinus orca,Resident orca,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_6_%Prey_in_diet_WC/R,65,0.65,1,ORC1_Hermann_et_al_2005
+ROR,adult,Orcinus orca,Resident orca,PIS,Pink salmon,Oncorhynchus gorbuscha,Table_6_%Prey_in_diet_WC/R,17,0.17,1,ORC1_Hermann_et_al_2005
+ROR,adult,Orcinus orca,Resident orca,CO,Coho salmon,Oncorhynchus kisutch,Table_6_%Prey_in_diet_WC/R,6,0.06,1,ORC1_Hermann_et_al_2005
+ROR,adult,Orcinus orca,Resident orca,CU,Chum salmon,Oncorhynchus keta ,Table_6_%Prey_in_diet_WC/R,6,0.06,1,ORC1_Hermann_et_al_2005
+ROR,adult,Orcinus orca,Resident orca,SAL,Sockeye salmon,Oncorhynchus nerka,Table_6_%Prey_in_diet_WC/R,4,0.04,1,ORC1_Hermann_et_al_2005
+ROR,adult,Orcinus orca,Resident orca,STEELHEAD,Steelhead,Oncorhynchus mykiss,Table_6_%Prey_in_diet_WC/R,2,0.02,1,ORC1_Hermann_et_al_2005

@@ -1,0 +1,817 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1981_MAY_B,39.6,0.8959276018,1,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1981_MAY_B,2.4,0.05429864253,1,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1981_MAY_B,0.2,0.004524886878,1,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1981_MAY_B,0.1,0.002262443439,1,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1981_MAY_B,0.4,0.009049773756,1,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1981_MAY_B,0.3,0.006787330317,1,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1981_MAY_B,0.1,0.002262443439,1,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1981_MAY_B,1.1,0.02488687783,1,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1981_MAY_C,53.7,0.5306324111,2,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1981_MAY_C,15,0.1482213439,2,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1981_MAY_C,3.3,0.03260869565,2,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1981_MAY_C,1.2,0.01185770751,2,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1981_MAY_C,18.7,0.1847826087,2,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1981_MAY_C,0,0,2,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1981_MAY_C,0.2,0.001976284585,2,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1981_MAY_C,9.1,0.08992094862,2,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1982_MAY_B,5.9,0.6152241919,3,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1982_MAY_B,0.4,0.0417101147,3,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1982_MAY_B,2.6,0.2711157456,3,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1982_MAY_B,0.09,0.009384775808,3,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1982_MAY_B,0,0,3,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1982_MAY_B,0.1,0.01042752868,3,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1982_MAY_B,0,0,3,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1982_MAY_B,0.5,0.05213764338,3,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1982_MAY_C,87.1,0.7495697074,4,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1982_MAY_C,12.2,0.1049913941,4,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1982_MAY_C,10.5,0.09036144578,4,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1982_MAY_C,2.1,0.01807228916,4,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1982_MAY_C,0.6,0.005163511188,4,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1982_MAY_C,0,0,4,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1982_MAY_C,0.2,0.001721170396,4,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1982_MAY_C,3.5,0.03012048193,4,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1983_MAY_A,14.3,0.6559633028,5,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_MAY_A,4.9,0.2247706422,5,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_MAY_A,0.3,0.01376146789,5,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_MAY_A,0.1,0.004587155963,5,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_MAY_A,1.4,0.06422018349,5,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_MAY_A,0,0,5,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_MAY_A,0,0,5,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1983_MAY_A,0.8,0.03669724771,5,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1983_MAY_B,32.8,0.7456240055,6,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_MAY_B,2.5,0.05683109798,6,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_MAY_B,3.6,0.08183678109,6,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_MAY_B,1.5,0.03409865879,6,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_MAY_B,0.09,0.002045919527,6,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_MAY_B,0.3,0.006819731757,6,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_MAY_B,1.3,0.02955217095,6,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1983_MAY_B,1.9,0.04319163446,6,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1983_MAY_C,22.1,0.7418596845,7,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_MAY_C,1.7,0.05706612957,7,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_MAY_C,2.5,0.08392077878,7,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_MAY_C,1,0.03356831151,7,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_MAY_C,0.09,0.003021148036,7,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_MAY_C,0.2,0.006713662303,7,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_MAY_C,0.9,0.03021148036,7,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1983_MAY_C,1.3,0.04363880497,7,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1981_JUN_B,172.3,0.7965788257,8,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1981_JUN_B,12.5,0.05779010633,8,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1981_JUN_B,21.2,0.09801202034,8,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1981_JUN_B,0.9,0.004160887656,8,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1981_JUN_B,3.5,0.01618122977,8,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1981_JUN_B,0,0,8,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1981_JUN_B,0.9,0.004160887656,8,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1981_JUN_B,5,0.02311604253,8,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1981_JUN_C,21.3,0.7200811359,9,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1981_JUN_C,5.6,0.1893171062,9,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1981_JUN_C,1.5,0.05070993915,9,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1981_JUN_C,0.1,0.00338066261,9,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1981_JUN_C,0.2,0.00676132522,9,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1981_JUN_C,0.09,0.003042596349,9,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1981_JUN_C,0.09,0.003042596349,9,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1981_JUN_C,0.7,0.02366463827,9,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1982_JUN_B,89.4,0.6627131208,10,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1982_JUN_B,9,0.066716085989999993,10,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1982_JUN_B,15.5,0.1148999259,10,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1982_JUN_B,10.5,0.07783543365,10,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1982_JUN_B,0.3,0.002223869533,10,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1982_JUN_B,0.8,0.005930318755,10,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1982_JUN_B,0.1,7.412898443e-4,10,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1982_JUN_B,9.3,0.06893995552,10,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1982_JUN_C,11.3,0.8573596358,11,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1982_JUN_C,0.09,0.006828528073,11,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1982_JUN_C,1.2,0.09104704097,11,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1982_JUN_C,0.09,0.006828528073,11,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1982_JUN_C,0,0,11,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1982_JUN_C,0,0,11,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1982_JUN_C,0,0,11,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1982_JUN_C,0.5,0.03793626707,11,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1983_JUN_A,35.1,0.7765486726,12,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_JUN_A,8.6,0.19026548670000001,12,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_JUN_A,0.1,0.002212389381,12,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_JUN_A,0.2,0.004424778761,12,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_JUN_A,0,0,12,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_JUN_A,0.1,0.002212389381,12,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_JUN_A,0.1,0.002212389381,12,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1983_JUN_A,1,0.02212389381,12,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1983_JUN_B,66.8,0.7822014052,13,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_JUN_B,12.7,0.1487119438,13,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_JUN_B,0.6,0.007025761124,13,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_JUN_B,2.8,0.03278688525,13,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_JUN_B,0,0,13,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_JUN_B,0,0,13,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_JUN_B,0.1,0.001170960187,13,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1983_JUN_B,2.4,0.0281030445,13,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1984_JUN_C,32.2,0.8475914714,14,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_JUN_C,2,0.05264543301,14,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_JUN_C,1.5,0.03948407476,14,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_JUN_C,1.3,0.03421953146,14,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_JUN_C,0,0,14,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_JUN_C,0.09,0.002369044485,14,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_JUN_C,0,0,14,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1984_JUN_C,0.9,0.02369044485,14,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1984_JUN_A,31.1,0.7817998994,15,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_JUN_A,5.3,0.1332327803,15,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_JUN_A,2.1,0.05279034691,15,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_JUN_A,1.1,0.02765208648,15,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_JUN_A,0,0,15,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_JUN_A,0,0,15,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_JUN_A,0.09,0.002262443439,15,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1984_JUN_A,0.09,0.002262443439,15,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1984_JUN_B,30.6,0.9751434034,16,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_JUN_B,0.6,0.01912045889,16,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_JUN_B,0.09,0.002868068834,16,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_JUN_B,0,0,16,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_JUN_B,0,0,16,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_JUN_B,0,0,16,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_JUN_B,0,0,16,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1984_JUN_B,0.09,0.002868068834,16,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1984_JUN_C,2.4,0.490797546,17,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_JUN_C,0.3,0.06134969325,17,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_JUN_C,2.1,0.4294478528,17,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_JUN_C,0.09,0.01840490798,17,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_JUN_C,0,0,17,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_JUN_C,0,0,17,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_JUN_C,0,0,17,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1984_JUN_C,0,0,17,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1981_JUL-AUG_B,109.4,0.4381257509,18,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1981_JUL-AUG_B,4.2,0.01682018422,18,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1981_JUL-AUG_B,68.7,0.2751301562,18,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1981_JUL-AUG_B,4.7,0.0188225871,18,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1981_JUL-AUG_B,56,0.2242691229,18,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1981_JUL-AUG_B,0.2,8.009611534e-4,18,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1981_JUL-AUG_B,0.5,0.002002402883,18,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1981_JUL-AUG_B,6,0.0240288346,18,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1981_JUL-AUG_C,90,0.6627393225,19,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1981_JUL-AUG_C,9,0.06627393225,19,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1981_JUL-AUG_C,9.4,0.06921944035,19,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1981_JUL-AUG_C,8.7,0.06406480118,19,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1981_JUL-AUG_C,6.2,0.04565537555,19,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1981_JUL-AUG_C,0.4,0.0029455081,19,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1981_JUL-AUG_C,0.7,0.005154639175,19,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1981_JUL-AUG_C,11.4,0.08394698085,19,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1984_JUL-AUG_A,43.3,0.5,20,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_JUL-AUG_A,7,0.08083140878,20,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_JUL-AUG_A,7.4,0.08545034642,20,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_JUL-AUG_A,21.3,0.2459584296,20,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_JUL-AUG_A,0,0,20,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_JUL-AUG_A,0,0,20,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_JUL-AUG_A,2.8,0.03233256351,20,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1984_JUL-AUG_A,4.8,0.05542725173,20,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1984_JUL-AUG_B,28.3,0.2319672131,21,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_JUL-AUG_B,32.1,0.2631147541,21,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_JUL-AUG_B,18.1,0.1483606557,21,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_JUL-AUG_B,4.3,0.03524590164,21,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_JUL-AUG_B,0,0,21,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_JUL-AUG_B,38.7,0.3172131148,21,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_JUL-AUG_B,0.1,8.196721311e-4,21,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1984_JUL-AUG_B,0.4,0.003278688525,21,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1984_JUL-AUG_C,8.3,0.2515151515,22,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_JUL-AUG_C,0.5,0.01515151515,22,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_JUL-AUG_C,4.8,0.1454545455,22,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_JUL-AUG_C,0.9,0.02727272727,22,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_JUL-AUG_C,0.1,0.00303030303,22,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_JUL-AUG_C,15.3,0.4636363636,22,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_JUL-AUG_C,0.3,0.009090909091,22,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1984_JUL-AUG_C,2.8,0.08484848485,22,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1982_SEP_B,762.2,0.7530876396,23,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1982_SEP_B,14.2,0.01403023417,23,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1982_SEP_B,56.7,0.0560221322,23,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1982_SEP_B,102.2,0.1009781642,23,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1982_SEP_B,20.2,0.01995850212,23,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1982_SEP_B,1,9.880446596e-4,23,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1982_SEP_B,2,0.001976089319,23,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1982_SEP_B,53.6,0.05295919376,23,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1982_SEP_C,293,0.7209645669,24,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1982_SEP_C,0.4,9.842519685e-4,24,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1982_SEP_C,0.4,9.842519685e-4,24,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1982_SEP_C,18.3,0.04502952756,24,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1982_SEP_C,93.9,0.2310531496,24,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1982_SEP_C,0,0,24,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1982_SEP_C,0,0,24,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1982_SEP_C,0.4,9.842519685e-4,24,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1983_SEP_A,690.2,0.8059318076,25,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_SEP_A,0.9,0.001050910789,25,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_SEP_A,130.2,0.1520317609,25,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_SEP_A,7.7,0.008991125642,25,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_SEP_A,26.5,0.03094348435,25,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_SEP_A,0,0,25,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_SEP_A,0,0,25,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1983_SEP_A,0.9,0.001050910789,25,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1983_SEP_B,112.5,0.8782201405,26,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_SEP_B,0.1,7.806401249e-4,26,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_SEP_B,0,0,26,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_SEP_B,6.8,0.05308352849,26,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_SEP_B,0,0,26,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_SEP_B,0,0,26,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_SEP_B,0,0,26,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1983_SEP_B,8.7,0.06791569087,26,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1983_SEP_C,71.5,0.9285714286,27,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_SEP_C,1.1,0.01428571429,27,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_SEP_C,0.1,0.001298701299,27,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_SEP_C,3.9,0.05064935065,27,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_SEP_C,0.1,0.001298701299,27,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_SEP_C,0.1,0.001298701299,27,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_SEP_C,0.1,0.001298701299,27,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1983_SEP_C,0.1,0.001298701299,27,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1984_SEP_A,81.5,0.25,28,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_SEP_A,25.4,0.07791411043,28,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_SEP_A,107.9,0.3309815951,28,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_SEP_A,104,0.3190184049,28,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_SEP_A,0.7,0.002147239264,28,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_SEP_A,0,0,28,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_SEP_A,0.3,9.202453988e-4,28,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1984_SEP_A,6.2,0.01901840491,28,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1984_SEP_B,201.4,0.6892539357,29,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_SEP_B,22.5,0.07700205339,29,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_SEP_B,48.8,0.167008898,29,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_SEP_B,13.4,0.04585900068,29,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_SEP_B,0,0,29,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_SEP_B,0,0,29,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_SEP_B,0,0,29,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1984_SEP_B,6.1,0.02087611225,29,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Field_DailyConsumption_1984_SEP_C,34.5,0.8914728682,30,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_SEP_C,1,0.02583979328,30,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_SEP_C,0,0,30,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_SEP_C,0.5,0.01291989664,30,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_SEP_C,2.6,0.06718346253,30,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_SEP_C,0.1,0.002583979328,30,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_SEP_C,0,0,30,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Field_DailyConsumption_1984_SEP_C,0,0,30,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1981_MAY_B,40.9,0.8833693305,31,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1981_MAY_B,2.6,0.05615550756,31,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1981_MAY_B,0.2,0.004319654428,31,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1981_MAY_B,0.1,0.002159827214,31,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1981_MAY_B,0.4,0.008639308855,31,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1981_MAY_B,0.3,0.006479481641,31,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1981_MAY_B,0.1,0.002159827214,31,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1981_MAY_B,1.7,0.03671706263,31,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1981_MAY_C,54.2,0.5004616805,32,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1981_MAY_C,15.2,0.1403508772,32,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1981_MAY_C,3.5,0.0323176362,32,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1981_MAY_C,1.2,0.01108033241,32,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1981_MAY_C,21.8,0.2012927054,32,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1981_MAY_C,0,0,32,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1981_MAY_C,0.3,0.002770083102,32,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1981_MAY_C,12.1,0.1117266851,32,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1982_MAY_B,8.2,0.5989773557,33,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1982_MAY_B,0.6,0.0438276114,33,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1982_MAY_B,3.7,0.2702702703,33,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1982_MAY_B,0.09,0.006574141709,33,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1982_MAY_B,0,0,33,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1982_MAY_B,0,0,33,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1982_MAY_B,0,0,33,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1982_MAY_B,1.1,0.08035062089,33,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1982_MAY_C,119,0.7273838631,34,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1982_MAY_C,17.1,0.1045232274,34,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1982_MAY_C,14.9,0.09107579462,34,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1982_MAY_C,3,0.01833740831,34,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1982_MAY_C,1.5,0.009168704156,34,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1982_MAY_C,0,0,34,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1982_MAY_C,0.7,0.004278728606,34,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1982_MAY_C,7.4,0.04523227384,34,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_MAY_A,13.1,0.6179245283,35,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_MAY_A,4.5,0.2122641509,35,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_MAY_A,0.3,0.0141509434,35,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_MAY_A,0.1,0.004716981132,35,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_MAY_A,2,0.09433962264,35,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_MAY_A,0,0,35,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_MAY_A,0,0,35,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_MAY_A,1.2,0.05660377358,35,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_MAY_B,31.9,0.7138062206,36,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_MAY_B,2.4,0.05370328933,36,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_MAY_B,3.5,0.07831729693,36,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_MAY_B,1.5,0.03356455583,36,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_MAY_B,0.09,0.00201387335,36,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_MAY_B,0.4,0.008950548221,36,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_MAY_B,2,0.04475274111,36,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_MAY_B,2.9,0.0648914746,36,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_MAY_C,35.4,0.8573504481,37,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_MAY_C,1,0.02421893921,37,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_MAY_C,3.2,0.07750060547,37,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_MAY_C,0.5,0.01210946961,37,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_MAY_C,0.09,0.002179704529,37,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_MAY_C,0.1,0.002421893921,37,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_MAY_C,0.4,0.009687575684,37,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_MAY_C,0.6,0.01453136353,37,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1981_JUN_B,187.3,0.836534167,38,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1981_JUN_B,14,0.06252791425,38,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1981_JUN_B,9.8,0.04376953997,38,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1981_JUN_B,1.2,0.005359535507,38,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1981_JUN_B,3.1,0.01384546673,38,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1981_JUN_B,0,0,38,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1981_JUN_B,1.2,0.005359535507,38,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1981_JUN_B,7.3,0.032603841,38,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1981_JUN_C,19.8,0.67854695,39,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1981_JUN_C,5.1,0.1747772447,39,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1981_JUN_C,1.4,0.04797806717,39,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1981_JUN_C,0.2,0.006854009596,39,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1981_JUN_C,0.4,0.01370801919,39,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1981_JUN_C,0.09,0.003084304318,39,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1981_JUN_C,0.09,0.003084304318,39,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1981_JUN_C,2.1,0.07196710075,39,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1982_JUN_B,124.4,0.637295082,40,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1982_JUN_B,9.7,0.04969262295,40,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1982_JUN_B,31.4,0.1608606557,40,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1982_JUN_B,8.7,0.04456967213,40,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1982_JUN_B,0.5,0.00256147541,40,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1982_JUN_B,2.7,0.01383196721,40,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1982_JUN_B,0.5,0.00256147541,40,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1982_JUN_B,17.3,0.08862704918,40,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1982_JUN_C,16.6,0.843495935,41,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1982_JUN_C,0.09,0.004573170732,41,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1982_JUN_C,1.9,0.09654471545,41,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1982_JUN_C,0.09,0.004573170732,41,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1982_JUN_C,0,0,41,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1982_JUN_C,0,0,41,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1982_JUN_C,0,0,41,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1982_JUN_C,1,0.05081300813,41,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_JUN_A,37.5,0.7560483871,42,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_JUN_A,9.4,0.189516129,42,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_JUN_A,0.2,0.004032258065,42,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_JUN_A,0.3,0.006048387097,42,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_JUN_A,0,0,42,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_JUN_A,0.2,0.004032258065,42,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_JUN_A,0.1,0.002016129032,42,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_JUN_A,1.9,0.03830645161,42,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_JUN_B,61,0.7384987893,43,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_JUN_B,11.1,0.1343825666,43,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_JUN_B,1.4,0.01694915254,43,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_JUN_B,5.2,0.06295399516,43,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_JUN_B,0,0,43,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_JUN_B,0,0,43,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_JUN_B,0.1,0.001210653753,43,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_JUN_B,3.8,0.04600484262,43,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_JUN_C,28.9,0.8403605699,44,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_JUN_C,1.7,0.0494329747,44,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_JUN_C,1.5,0.04361733062,44,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_JUN_C,0.9,0.02617039837,44,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_JUN_C,0,0,44,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_JUN_C,0.09,0.002617039837,44,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_JUN_C,0,0,44,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_JUN_C,1.3,0.03780168654,44,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_JUN_A,44.4,0.7792207792,45,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_JUN_A,7.5,0.1316251316,45,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_JUN_A,3.4,0.05967005967,45,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_JUN_A,1.5,0.02632502633,45,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_JUN_A,0,0,45,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_JUN_A,0,0,45,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_JUN_A,0.09,0.00157950158,45,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_JUN_A,0.09,0.00157950158,45,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_JUN_B,39.8,0.961817303,46,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_JUN_B,1.4,0.03383276945,46,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_JUN_B,0.09,0.002174963751,46,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_JUN_B,0,0,46,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_JUN_B,0,0,46,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_JUN_B,0,0,46,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_JUN_B,0,0,46,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_JUN_B,0.09,0.002174963751,46,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_JUN_C,4.8,0.485338726,47,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_JUN_C,0.7,0.07077856421,47,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_JUN_C,4.3,0.4347826087,47,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_JUN_C,0.09,0.009100101112,47,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_JUN_C,0,0,47,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_JUN_C,0,0,47,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_JUN_C,0,0,47,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_JUN_C,0,0,47,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,111.9,0.4129151292,48,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,4.3,0.01586715867,48,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,70.5,0.2601476015,48,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,4.7,0.01734317343,48,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,70.9,0.2616236162,48,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,0.3,0.00110701107,48,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,0.5,0.00184501845,48,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,7.9,0.02915129151,48,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1981_JUL-AUG_C,95.1,0.6088348271,49,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1981_JUL-AUG_C,10.9,0.06978233035,49,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1981_JUL-AUG_C,11.2,0.07170294494,49,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1981_JUL-AUG_C,10.3,0.06594110115,49,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1981_JUL-AUG_C,10.6,0.06786171575,49,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1981_JUL-AUG_C,0.3,0.001920614597,49,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1981_JUL-AUG_C,1.1,0.007042253521,49,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1981_JUL-AUG_C,16.7,0.1069142125,49,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,60.1,0.5840621963,50,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,10,0.09718172983,50,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,6.1,0.0592808552,50,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,21.7,0.2108843537,50,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,0,0,50,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,0,0,50,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,2,0.01943634597,50,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,3,0.02915451895,50,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_JUL-AUG_B,47.4,0.2794811321,51,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_B,36.3,0.2140330189,51,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_JUL-AUG_B,20.1,0.1185141509,51,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_B,4.7,0.02771226415,51,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_B,0,0,51,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_JUL-AUG_B,60.2,0.3549528302,51,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_B,0.2,0.001179245283,51,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_JUL-AUG_B,0.7,0.004127358491,51,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_JUL-AUG_C,19.7,0.2838616715,52,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_C,1.8,0.02593659942,52,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_JUL-AUG_C,10.7,0.1541786744,52,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_C,0.8,0.01152737752,52,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_C,0.1,0.00144092219,52,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_JUL-AUG_C,30.2,0.4351585014,52,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_C,0.6,0.008645533141,52,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_JUL-AUG_C,5.5,0.07925072046,52,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1982_SEP_B,860.4,0.7139064056,53,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1982_SEP_B,17.7,0.01468635911,53,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1982_SEP_B,71.9,0.05965814803,53,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1982_SEP_B,114.4,0.09492200465,53,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1982_SEP_B,33.6,0.02787919018,53,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1982_SEP_B,2.9,0.002406239628,53,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1982_SEP_B,3.5,0.00290408231,53,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1982_SEP_B,100.8,0.08363757053,53,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1982_SEP_C,436.5,0.6737150795,54,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1982_SEP_C,0.6,9.260688378e-4,54,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1982_SEP_C,0.6,9.260688378e-4,54,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1982_SEP_C,23.8,0.0367340639,54,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1982_SEP_C,185.4,0.2861552709,54,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1982_SEP_C,0,0,54,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1982_SEP_C,0,0,54,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1982_SEP_C,1,0.001543448063,54,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_SEP_A,652.6,0.7914140189,55,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_SEP_A,1,0.001212709192,55,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_SEP_A,123.3,0.1495270434,55,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_SEP_A,7.3,0.008852777104,55,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_SEP_A,39.4,0.04778074218,55,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_SEP_A,0,0,55,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_SEP_A,0,0,55,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_SEP_A,1,0.001212709192,55,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_SEP_B,116.7,0.8456521739,56,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_SEP_B,0.1,7.246376812e-4,56,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_SEP_B,0,0,56,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_SEP_B,7.1,0.05144927536,56,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_SEP_B,0,0,56,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_SEP_B,0,0,56,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_SEP_B,0,0,56,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_SEP_B,14.1,0.102173913,56,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_SEP_C,71,0.9173126615,57,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_SEP_C,1.2,0.01550387597,57,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_SEP_C,0.6,0.007751937984,57,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_SEP_C,3.7,0.04780361757,57,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_SEP_C,0.1,0.001291989664,57,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_SEP_C,0.1,0.001291989664,57,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_SEP_C,0.1,0.001291989664,57,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_SEP_C,0.6,0.007751937984,57,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_SEP_A,109.2,0.2742340532,58,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_SEP_A,31.8,0.07985936715,58,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_SEP_A,118.9,0.2985936715,58,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_SEP_A,125,0.3139126067,58,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_SEP_A,0.9,0.002260170768,58,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_SEP_A,0,0,58,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_SEP_A,0.6,0.001506780512,58,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_SEP_A,11.8,0.02963335008,58,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_SEP_B,212.1,0.6514127764,59,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_SEP_B,32.8,0.1007371007,59,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_SEP_B,56.4,0.1732186732,59,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_SEP_B,15.1,0.04637592138,59,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_SEP_B,0,0,59,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_SEP_B,0,0,59,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_SEP_B,0,0,59,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_SEP_B,9.2,0.02825552826,59,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_SEP_C,41,0.8686440678,60,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_SEP_C,1.3,0.02754237288,60,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_SEP_C,0,0,60,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_SEP_C,0.8,0.01694915254,60,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_SEP_C,4,0.08474576271,60,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_SEP_C,0.1,0.002118644068,60,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_SEP_C,0,0,60,Salmon_Brodeur_et_al_1992
+CO,juvenile,Coho,Oncorhynchus kisutch,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_SEP_C,0,0,60,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1981_MAY_B,6.8,0.9226594301,61,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1981_MAY_B,0.09,0.01221166893,61,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1981_MAY_B,0.1,0.01356852103,61,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1981_MAY_B,0.1,0.01356852103,61,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1981_MAY_B,0.09,0.01221166893,61,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1981_MAY_B,0,0,61,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1981_MAY_B,0.09,0.01221166893,61,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1981_MAY_B,0.1,0.01356852103,61,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1981_MAY_C,3.6,0.5309734513,62,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1981_MAY_C,0.1,0.01474926254,62,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1981_MAY_C,0.8,0.1179941003,62,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1981_MAY_C,0.1,0.01474926254,62,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1981_MAY_C,0.09,0.01327433628,62,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1981_MAY_C,2,0.2949852507,62,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1981_MAY_C,0.09,0.01327433628,62,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1981_MAY_C,0,0,62,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1982_MAY_B,21.3,0.9145556033,63,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1982_MAY_B,1,0.04293688278,63,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1982_MAY_B,0.4,0.01717475311,63,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1982_MAY_B,0.2,0.008587376556,63,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1982_MAY_B,0.1,0.004293688278,63,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1982_MAY_B,0.2,0.008587376556,63,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1982_MAY_B,0,0,63,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1982_MAY_B,0.09,0.00386431945,63,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1982_MAY_C,14.1,0.8719851577,64,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1982_MAY_C,0,0,64,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1982_MAY_C,1.8,0.1113172542,64,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1982_MAY_C,0.09,0.005565862709,64,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1982_MAY_C,0.09,0.005565862709,64,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1982_MAY_C,0,0,64,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1982_MAY_C,0,0,64,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1982_MAY_C,0.09,0.005565862709,64,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1983_MAY_A,33.3,0.8308383234,65,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_MAY_A,5,0.124750499,65,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_MAY_A,0.8,0.01996007984,65,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_MAY_A,0.1,0.00249500998,65,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_MAY_A,0.1,0.00249500998,65,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_MAY_A,0.09,0.002245508982,65,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_MAY_A,0.09,0.002245508982,65,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1983_MAY_A,0.6,0.01497005988,65,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1983_MAY_B,27.9,0.891943734,66,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_MAY_B,2.1,0.06713554987,66,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_MAY_B,0.2,0.006393861893,66,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_MAY_B,0.09,0.002877237852,66,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_MAY_B,0,0,66,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_MAY_B,0,0,66,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_MAY_B,0.09,0.002877237852,66,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1983_MAY_B,0.9,0.02877237852,66,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1983_MAY_C,3.6,1,67,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_MAY_C,0,0,67,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_MAY_C,0,0,67,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_MAY_C,0,0,67,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_MAY_C,0,0,67,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_MAY_C,0,0,67,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_MAY_C,0,0,67,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1983_MAY_C,0,0,67,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1981_JUN_B,9.3,0.8469945355,68,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1981_JUN_B,1.4,0.1275045537,68,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1981_JUN_B,0.1,0.009107468124,68,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1981_JUN_B,0.09,0.008196721311,68,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1981_JUN_B,0,0,68,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1981_JUN_B,0,0,68,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1981_JUN_B,0,0,68,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1981_JUN_B,0.09,0.008196721311,68,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1981_JUN_C,3.7,0.6303236797,69,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1981_JUN_C,0.2,0.03407155026,69,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1981_JUN_C,0.1,0.01703577513,69,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1981_JUN_C,0.1,0.01703577513,69,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1981_JUN_C,0.09,0.01533219761,69,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1981_JUN_C,1.5,0.2555366269,69,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1981_JUN_C,0.09,0.01533219761,69,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1981_JUN_C,0.09,0.01533219761,69,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1982_JUN_B,37.1,0.9349798387,70,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1982_JUN_B,1.1,0.02772177419,70,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1982_JUN_B,0.5,0.01260080645,70,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1982_JUN_B,0.2,0.005040322581,70,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1982_JUN_B,0.09,0.002268145161,70,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1982_JUN_B,0,0,70,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1982_JUN_B,0.09,0.002268145161,70,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1982_JUN_B,0.6,0.01512096774,70,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1983_JUN_A,9.3,0.75,71,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_JUN_A,2.6,0.2096774194,71,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_JUN_A,0,0,71,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_JUN_A,0.3,0.02419354839,71,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_JUN_A,0,0,71,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_JUN_A,0,0,71,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_JUN_A,0.2,0.01612903226,71,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1983_JUN_A,0,0,71,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1983_JUN_B,11.9,0.8056872038,72,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_JUN_B,0.6,0.04062288422,72,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_JUN_B,0.09,0.006093432634,72,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_JUN_B,0.09,0.006093432634,72,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_JUN_B,0.09,0.006093432634,72,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_JUN_B,1.2,0.08124576845,72,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_JUN_B,0,0,72,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1983_JUN_B,0.8,0.05416384563,72,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1984_JUN_A,13.8,0.8756345178,73,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_JUN_A,0.9,0.05710659898,73,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_JUN_A,0.09,0.005710659898,73,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_JUN_A,0.09,0.005710659898,73,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_JUN_A,0,0,73,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_JUN_A,0.09,0.005710659898,73,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_JUN_A,0.7,0.04441624365,73,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1984_JUN_A,0.09,0.005710659898,73,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1984_JUN_B,17.2,0.8691258211,74,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_JUN_B,1.2,0.06063668519,74,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_JUN_B,0.4,0.0202122284,74,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_JUN_B,0,0,74,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_JUN_B,0,0,74,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_JUN_B,0.8,0.0404244568,74,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_JUN_B,0.09,0.00454775139,74,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1984_JUN_B,0.1,0.0050530571,74,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1981_JUL-AUG_B,51.2,0.8325203252,75,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1981_JUL-AUG_B,1.2,0.01951219512,75,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1981_JUL-AUG_B,4.4,0.07154471545,75,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1981_JUL-AUG_B,0.7,0.01138211382,75,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1981_JUL-AUG_B,1.6,0.02601626016,75,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1981_JUL-AUG_B,0,0,75,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1981_JUL-AUG_B,0.4,0.006504065041,75,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1981_JUL-AUG_B,2,0.0325203252,75,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1984_JUL-AUG_A,21.4,0.7925925926,76,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_JUL-AUG_A,2.3,0.08518518519,76,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_JUL-AUG_A,1.4,0.05185185185,76,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_JUL-AUG_A,1.1,0.04074074074,76,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_JUL-AUG_A,0,0,76,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_JUL-AUG_A,0,0,76,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_JUL-AUG_A,0.7,0.02592592593,76,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1984_JUL-AUG_A,0.1,0.003703703704,76,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1983_SEPTEMBER_B,217.3,0.9610791685,77,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_SEPTEMBER_B,2.5,0.0110570544,77,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_SEPTEMBER_B,0,0,77,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_SEPTEMBER_B,5.2,0.02299867315,77,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_SEPTEMBER_B,0,0,77,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_SEPTEMBER_B,0,0,77,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_SEPTEMBER_B,0.2,8.845643521e-4,77,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1983_SEPTEMBER_B,0.9,0.003980539584,77,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1983_SEPTEMBER_C,524.3,0.9860823773,78,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1983_SEPTEMBER_C,2.1,0.003949595637,78,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1983_SEPTEMBER_C,0.5,9.403799135e-4,78,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1983_SEPTEMBER_C,1.6,0.003009215723,78,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1983_SEPTEMBER_C,0,0,78,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1983_SEPTEMBER_C,2.7,0.005078051533,78,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1983_SEPTEMBER_C,0,0,78,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1983_SEPTEMBER_C,0.5,9.403799135e-4,78,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1984_SEPTEMBER_A,3.3,0.09939759036,79,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_SEPTEMBER_A,2.2,0.06626506024,79,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_SEPTEMBER_A,24.6,0.7409638554,79,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_SEPTEMBER_A,0.3,0.009036144578,79,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_SEPTEMBER_A,0,0,79,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_SEPTEMBER_A,0.6,0.01807228916,79,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_SEPTEMBER_A,0,0,79,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1984_SEPTEMBER_A,2.2,0.06626506024,79,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1984_SEPTEMBER_B,35.7,0.9347996858,80,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_SEPTEMBER_B,1.6,0.04189578424,80,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_SEPTEMBER_B,0.4,0.01047394606,80,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_SEPTEMBER_B,0.4,0.01047394606,80,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_SEPTEMBER_B,0,0,80,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_SEPTEMBER_B,0,0,80,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_SEPTEMBER_B,0,0,80,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1984_SEPTEMBER_B,0.09,0.002356637863,80,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Field_DailyConsumption_1984_SEPTEMBER_C,78.6,0.9481302774,81,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Field_DailyConsumption_1984_SEPTEMBER_C,1.3,0.01568154403,81,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Field_DailyConsumption_1984_SEPTEMBER_C,0.2,0.002412545235,81,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Field_DailyConsumption_1984_SEPTEMBER_C,2,0.02412545235,81,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Field_DailyConsumption_1984_SEPTEMBER_C,0.2,0.002412545235,81,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Field_DailyConsumption_1984_SEPTEMBER_C,0,0,81,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Field_DailyConsumption_1984_SEPTEMBER_C,0,0,81,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Field_DailyConsumption_1984_SEPTEMBER_C,0.6,0.007237635706,81,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1981_MAY_B,6.3,0.9156976744,82,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1981_MAY_B,0.1,0.01453488372,82,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1981_MAY_B,0.1,0.01453488372,82,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1981_MAY_B,0.1,0.01453488372,82,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1981_MAY_B,0.09,0.01308139535,82,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1981_MAY_B,0,0,82,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1981_MAY_B,0.09,0.01308139535,82,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1981_MAY_B,0.1,0.01453488372,82,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1981_MAY_C,3.4,0.5329153605,83,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1981_MAY_C,0.1,0.01567398119,83,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1981_MAY_C,0.7,0.1097178683,83,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1981_MAY_C,0.1,0.01567398119,83,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1981_MAY_C,0.09,0.01410658307,83,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1981_MAY_C,1.9,0.2978056426,83,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1981_MAY_C,0.09,0.01410658307,83,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1981_MAY_C,0,0,83,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1982_MAY_B,30.6,0.9164420485,84,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1982_MAY_B,1.4,0.04192872117,84,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1982_MAY_B,0.7,0.02096436059,84,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1982_MAY_B,0.4,0.01197963462,84,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1982_MAY_B,0.1,0.002994908655,84,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1982_MAY_B,0.1,0.002994908655,84,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1982_MAY_B,0,0,84,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1982_MAY_B,0.09,0.00269541779,84,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1982_MAY_C,20.3,0.8757549612,85,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1982_MAY_C,0,0,85,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1982_MAY_C,2.6,0.1121656601,85,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1982_MAY_C,0.1,0.004314063848,85,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1982_MAY_C,0.09,0.003882657463,85,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1982_MAY_C,0,0,85,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1982_MAY_C,0,0,85,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1982_MAY_C,0.09,0.003882657463,85,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_MAY_A,32.7,0.8632523759,86,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_MAY_A,3.6,0.09503695882,86,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_MAY_A,0.6,0.01583949314,86,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_MAY_A,0.1,0.002639915523,86,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_MAY_A,0.1,0.002639915523,86,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_MAY_A,0.09,0.00237592397,86,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_MAY_A,0.09,0.00237592397,86,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_MAY_A,0.6,0.01583949314,86,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_MAY_B,41.8,0.887661924,87,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_MAY_B,3.2,0.06795497983,87,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_MAY_B,0.4,0.008494372478,87,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_MAY_B,0.2,0.004247186239,87,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_MAY_B,0,0,87,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_MAY_B,0,0,87,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_MAY_B,0.09,0.001911233808,87,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_MAY_B,1.4,0.02973030367,87,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_MAY_C,7.4,1,88,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_MAY_C,0,0,88,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_MAY_C,0,0,88,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_MAY_C,0,0,88,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_MAY_C,0,0,88,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_MAY_C,0,0,88,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_MAY_C,0,0,88,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_MAY_C,0,0,88,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1981_JUN_B,13.2,0.8638743455,89,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1981_JUN_B,1.6,0.1047120419,89,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1981_JUN_B,0.3,0.01963350785,89,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1981_JUN_B,0.09,0.005890052356,89,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1981_JUN_B,0,0,89,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1981_JUN_B,0,0,89,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1981_JUN_B,0,0,89,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1981_JUN_B,0.09,0.005890052356,89,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1981_JUN_C,5,0.611995104,90,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1981_JUN_C,0.6,0.07343941248,90,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1981_JUN_C,0.1,0.01223990208,90,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1981_JUN_C,0.1,0.01223990208,90,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1981_JUN_C,0.09,0.01101591187,90,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1981_JUN_C,2.1,0.2570379437,90,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1981_JUN_C,0.09,0.01101591187,90,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1981_JUN_C,0.09,0.01101591187,90,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1982_JUN_B,53.6,0.92127879,91,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1982_JUN_B,2.2,0.03781368168,91,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1982_JUN_B,1,0.01718803713,91,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1982_JUN_B,0.4,0.00687521485,91,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1982_JUN_B,0.09,0.001546923341,91,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1982_JUN_B,0,0,91,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1982_JUN_B,0.09,0.001546923341,91,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1982_JUN_B,0.8,0.0137504297,91,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_JUN_A,8.4,0.7581227437,92,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_JUN_A,2.2,0.1985559567,92,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_JUN_A,0.09,0.008122743682,92,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_JUN_A,0.3,0.02707581227,92,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_JUN_A,0,0,92,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_JUN_A,0,0,92,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_JUN_A,0.09,0.008122743682,92,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_JUN_A,0,0,92,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_JUN_B,10.4,0.8080808081,93,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_JUN_B,0.5,0.03885003885,93,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_JUN_B,0.09,0.006993006993,93,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_JUN_B,0.09,0.006993006993,93,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_JUN_B,0.09,0.006993006993,93,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_JUN_B,1,0.0777000777,93,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_JUN_B,0,0,93,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_JUN_B,0.7,0.05439005439,93,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_JUN_A,17.5,0.8802816901,94,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_JUN_A,1.1,0.05533199195,94,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_JUN_A,0.2,0.01006036217,94,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_JUN_A,0.1,0.005030181087,94,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_JUN_A,0,0,94,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_JUN_A,0.09,0.004527162978,94,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_JUN_A,0.8,0.04024144869,94,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_JUN_A,0.09,0.004527162978,94,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_JUN_B,18.3,0.8636149127,95,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_JUN_B,1.5,0.0707881076,95,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_JUN_B,0.3,0.01415762152,95,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_JUN_B,0,0,95,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_JUN_B,0,0,95,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_JUN_B,0.9,0.04247286456,95,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_JUN_B,0.09,0.004247286456,95,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_JUN_B,0.1,0.004719207173,95,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,50,0.8333333333,96,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,1.2,0.02,96,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,4.3,0.07166666667,96,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,0.7,0.01166666667,96,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,1.6,0.02666666667,96,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,0,0,96,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,0.2,0.003333333333,96,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1981_JUL-AUG_B,2,0.03333333333,96,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,27.5,0.7947976879,97,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,3.3,0.09537572254,97,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,1.4,0.04046242775,97,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,1.4,0.04046242775,97,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,0,0,97,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,0,0,97,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,0.9,0.02601156069,97,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_JUL-AUG_A,0.1,0.00289017341,97,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_SEP_B,176.3,0.9581521739,98,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_SEP_B,2.6,0.01413043478,98,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_SEP_B,0,0,98,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_SEP_B,4.2,0.02282608696,98,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_SEP_B,0,0,98,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_SEP_B,0,0,98,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_SEP_B,0.2,0.001086956522,98,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_SEP_B,0.7,0.003804347826,98,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1983_SEP_C,462.7,0.987620064,99,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1983_SEP_C,1.7,0.003628601921,99,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1983_SEP_C,0.5,0.001067235859,99,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1983_SEP_C,0.9,0.001921024546,99,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1983_SEP_C,0,0,99,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1983_SEP_C,2.3,0.004909284952,99,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1983_SEP_C,0,0,99,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1983_SEP_C,0.4,8.537886873e-4,99,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_SEP_A,3.7,0.1022099448,100,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_SEP_A,2.4,0.06629834254,100,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_SEP_A,26.8,0.7403314917,100,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_SEP_A,0.3,0.008287292818,100,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_SEP_A,0,0,100,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_SEP_A,0.6,0.01657458564,100,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_SEP_A,0,0,100,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_SEP_A,2.4,0.06629834254,100,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_SEP_B,30.7,0.9032068255,101,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_SEP_B,2.5,0.07355104442,101,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_SEP_B,0.4,0.01176816711,101,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_SEP_B,0.3,0.008826125331,101,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_SEP_B,0,0,101,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_SEP_B,0,0,101,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_SEP_B,0,0,101,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_SEP_B,0.09,0.002647837599,101,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,FISH,FISH,Bioenergetics_DailyConsumption_1984_SEP_C,73.2,0.9518855657,102,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,DECAPODS,DECAPODS,Bioenergetics_DailyConsumption_1984_SEP_C,1.1,0.01430429129,102,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,EUPHAUSIIDS,EUPHAUSIIDS,Bioenergetics_DailyConsumption_1984_SEP_C,0.2,0.002600780234,102,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,AMPHIPODS,AMPHIPODS,Bioenergetics_DailyConsumption_1984_SEP_C,1.7,0.02210663199,102,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,PTEROPODS,PTEROPODS,Bioenergetics_DailyConsumption_1984_SEP_C,0.2,0.002600780234,102,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,INSECTS,INSECTS,Bioenergetics_DailyConsumption_1984_SEP_C,0,0,102,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,COPEPODS,COPEPODS,Bioenergetics_DailyConsumption_1984_SEP_C,0,0,102,Salmon_Brodeur_et_al_1992
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,OTHER,OTHER,Bioenergetics_DailyConsumption_1984_SEP_C,0.5,0.006501950585,102,Salmon_Brodeur_et_al_1992

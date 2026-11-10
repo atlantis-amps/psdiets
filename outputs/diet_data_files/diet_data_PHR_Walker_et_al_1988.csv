@@ -1,0 +1,30 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+PHR,adult,Cetacea,Harbor porpoise,HE,Clupeidae,Clupea harengus pallasii,Table_2_Number_Harbor_porpoise,53,0.01004739336,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,FPS,Clupeidae,Thaleichthys pacificus,Table_2_Number_Harbor_porpoise,3,5.687203791e-4,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,MYCTOPHID,Osmeridae,Stenobrachius leucopsarus,Table_2_Number_Harbor_porpoise,0,0,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,MYCTOPHID,Myctophidae,Lampanyctus ritteri,Table_2_Number_Harbor_porpoise,0,0,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,MYCTOPHID,Myctophidae,Diaphus theta,Table_2_Number_Harbor_porpoise,0,0,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,MYCTOPHID,Myctophidae,Protomyctophum sp.,Table_2_Number_Harbor_porpoise,0,0,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,MYCTOPHID,Myctophidae,Porichthys notatus,Table_2_Number_Harbor_porpoise,1,1.895734597e-4,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,FMM,Batrachoididae,Theragra chalcogramma,Table_2_Number_Harbor_porpoise,3,5.687203791e-4,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,FMM,Gadidae,Merluccius productus,Table_2_Number_Harbor_porpoise,15,0.002843601896,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,SMD,Gadidae,Lycodopsis pacifica,Table_2_Number_Harbor_porpoise,1785,0.3383886256,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,FPS,Zoarcidae,Ammodytes hexapterus,Table_2_Number_Harbor_porpoise,2,3.791469194e-4,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,POP,Ammodytidae,Cymatogaster aggregata,Table_2_Number_Harbor_porpoise,5,9.478672986e-4,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,ROCKFISH,Embiotocidae,Sebastes sp.,Table_2_Number_Harbor_porpoise,1,1.895734597e-4,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,SMD,Scorpaenidae,Icelinus borealis,Table_2_Number_Harbor_porpoise,8,0.001516587678,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,SMD,Cottidae,Unidentified cottid,Table_2_Number_Harbor_porpoise,0,0,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,FDF,Bothidae,Citharichthys sordidus,Table_2_Number_Harbor_porpoise,10,0.001895734597,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,FDF,Pleuronectidae,glyptocephalus zachirus,Table_2_Number_Harbor_porpoise,0,0,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,FDF,Pleuronectidae,Isopsetta isolepis,Table_2_Number_Harbor_porpoise,0,0,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,FDF,Pleuronectidae,Parophrys vetulus,Table_2_Number_Harbor_porpoise,0,0,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,FDF,Pleuronectidae,Unidentifiable pleuronectid,Table_2_Number_Harbor_porpoise,0,0,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,BMS,Invertebrates,Cephalopoda,Table_2_Number_Harbor_porpoise,1677,0.3179146919,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,SQX,Loliginidae,Loligo opalescens,Table_2_Number_Harbor_porpoise,1673,0.3171563981,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,SQX,Onychoteuthidae,Onychoteuthis borealijaponica,Table_2_Number_Harbor_porpoise,2,3.791469194e-4,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,SQX,Gonatidae,Gonatus berryi,Table_2_Number_Harbor_porpoise,2,3.791469194e-4,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,SQX,Gonatidae,Gonatus pyros,Table_2_Number_Harbor_porpoise,0,0,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,BML,Crustacea,Crustacea,Table_2_Number_Harbor_porpoise,1,1.895734597e-4,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,PWN,Crangonidae,Crago sp.,Table_2_Number_Harbor_porpoise,0,0,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,PWN,Penaeidae,Sergestes sp.,Table_2_Number_Harbor_porpoise,1,1.895734597e-4,1,PHR_Walker_et_al_1988
+PHR,adult,Cetacea,Harbor porpoise,BG,Nereidae,Nereis vexillosa,Table_2_Number_Harbor_porpoise,33,0.006255924171,1,PHR_Walker_et_al_1988

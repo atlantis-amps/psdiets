@@ -1,0 +1,267 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_North Marginal_12_march_1976,92.1,0.9207237829,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_North Marginal_12_march_1976,0.01,9.9970009e-5,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_North Marginal_12_march_1976,5.3,0.05298410477,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_North Marginal_12_march_1976,2.6,0.02599220234,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_North Marginal_12_march_1976,0.01,9.9970009e-5,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_North Marginal_12_march_1976,0.01,9.9970009e-5,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,1,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_North Marginal_12_march_1976,100,0.9995002499,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_North Marginal_12_march_1976,0.01,9.995002499e-5,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_North Marginal_12_march_1976,0.01,9.995002499e-5,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_North Marginal_12_march_1976,0.01,9.995002499e-5,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_North Marginal_12_march_1976,0.01,9.995002499e-5,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_North Marginal_12_march_1976,0.01,9.995002499e-5,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_North Marginal_12_march_1976,0,0,2,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_South Carlson_16_march_1976,30,0.299970003,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_South Carlson_16_march_1976,30,0.299970003,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_South Carlson_16_march_1976,40,0.399960004,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_South Carlson_16_march_1976,0.01,9.9990001e-5,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,3,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_South Carlson_16_march_1976,4.8,0.04793768101,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_South Carlson_16_march_1976,66.7,0.6661340258,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_South Carlson_16_march_1976,9.5,0.09487666034,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_South Carlson_16_march_1976,19.1,0.1907520224,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_South Carlson_16_march_1976,0.01,9.987016878e-5,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_South Carlson_16_march_1976,0.01,9.987016878e-5,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_South Carlson_16_march_1976,0.01,9.987016878e-5,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,4,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_South Carlson_16_march_1976,0,0,4,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_South Marginal_16_abril_1976,38.9,0.3886113886,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_South Marginal_16_abril_1976,38.9,0.3886113886,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_South Marginal_16_abril_1976,5.6,0.05594405594,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_South Marginal_16_abril_1976,16.7,0.1668331668,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,5,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_South Marginal_16_abril_1976,19.1,0.1907901309,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_South Marginal_16_abril_1976,28.6,0.2856857457,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_South Marginal_16_abril_1976,33.3,0.3326341025,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_South Marginal_16_abril_1976,14.3,0.1428428728,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0.01,9.989012087e-5,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_South Marginal_16_abril_1976,4.8,0.04794725802,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_South Marginal_16_abril_1976,0,0,6,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,50,0.49980008,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,25,0.24990004,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0.01,9.996001599e-5,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0.01,9.996001599e-5,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,25,0.24990004,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0.01,9.996001599e-5,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0.01,9.996001599e-5,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,7,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,7,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,18.2,0.18180002,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,9.1,0.09090000999,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,9.1,0.09090000999,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,27.3,0.27270003,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,36.4,0.36360004,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0.01,9.989012087e-5,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_South Marginal_07_mayo_1976,0,0,8,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_North Marginal_19_abril_1976,4.2,0.04204204204,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.8,0.008008008008,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.8,0.008008008008,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.8,0.008008008008,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_North Marginal_19_abril_1976,93.3,0.9339339339,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,9,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.7,0.006941689806,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.4,0.003966679889,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.7,0.006941689806,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.7,0.006941689806,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.7,0.006941689806,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.01,9.916699722e-5,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.7,0.006941689806,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.4,0.003966679889,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.01,9.916699722e-5,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_North Marginal_19_abril_1976,1.1,0.01090836969,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.01,9.916699722e-5,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_North Marginal_19_abril_1976,95.4,0.9460531535,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0.01,9.916699722e-5,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,10,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_North Marginal_19_abril_1976,0,0,10,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,58.8,0.5881764529,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0.01,1.00030009e-4,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0.01,1.00030009e-4,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0.01,1.00030009e-4,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0.01,1.00030009e-4,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0.01,1.00030009e-4,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0.01,1.00030009e-4,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0.01,1.00030009e-4,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,23.5,0.2350705212,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,11,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,17.6,0.1760528158,11,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,15.7,0.1570942566,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,17.1,0.1711026616,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,5.7,0.05703422053,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0.01,1.00060036e-4,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,1.4,0.01400840504,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0.01,1.00060036e-4,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0.01,1.00060036e-4,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0.01,1.00060036e-4,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,25.7,0.2571542926,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,34.3,0.3432059236,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,12,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_South Marginal_25_mayo_1976,0,0,12,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_South Brown_04_mayo_1976,17.5,0.1751225858,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0.01,1.00070049e-4,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_South Brown_04_mayo_1976,80.8,0.8085659962,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0.01,1.00070049e-4,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0.8,0.008005603923,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0.8,0.008005603923,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,13,Salmon_Schreiner_et_al_1977
+CU,juvenile,Chum salmon,Oncorhynchus keta,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0.01,1.00070049e-4,13,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Calanoida,Calanoida,Table_7_%_composition_biomass_South Brown_04_mayo_1976,1.8,0.01799280288,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida,Harpaticoida,Table_7_%_composition_biomass_South Brown_04_mayo_1976,8.9,0.08896441423,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea,Gammaridea,Table_7_%_composition_biomass_South Brown_04_mayo_1976,85.7,0.8566573371,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Diptera,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpaticoida egg,Harpaticoida egg,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0.01,9.996001599e-5,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda larva,Decapoda larva,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Larvacea,Larvacea,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda,Decapoda,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea egg,Gammaridea egg,Table_7_%_composition_biomass_South Brown_04_mayo_1976,3.6,0.03598560576,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Leptostraca,Leptostraca,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0.01,9.996001599e-5,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Mysidacea,Mysidacea,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0.01,9.996001599e-5,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Cumacea,Cumacea,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Cirripedia-larva,Cirripedia-larva,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0.01,9.996001599e-5,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Rostracoda,Rostracoda,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Isopoda,Isopoda,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FDF,Pleuronectiformes-egg,Pleuronectiformes-egg,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insecta,Insecta,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Reptantia,Reptantia,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,14,Salmon_Schreiner_et_al_1977
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BG,Gastropoda,Gastropoda,Table_7_%_composition_biomass_South Brown_04_mayo_1976,0,0,14,Salmon_Schreiner_et_al_1977

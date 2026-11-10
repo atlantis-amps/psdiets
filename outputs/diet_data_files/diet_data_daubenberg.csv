@@ -1,0 +1,1846 @@
+source,atlantis_pred_group,predator_stage,predator,atlantis_prey_group,prey,data,value,proportion,index
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BFF,Barnacle,1,0.002,0.07692307692307693,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZM,Calanoid copepods,1,0.004,0.15384615384615385,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Harpactacoid copepods,1,0,0,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Caprellid amphipods,1,0,0,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab megalops,1,0,0,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab zoea,1,0.013,0.5,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Euphausiids,1,0.001,0.038461538461538464,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Gammarid,1,0,0,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Hyperid amphipods,1,0,0,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Mysids,1,0,0,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Oikopleura dioica,1,0.006,0.23076923076923078,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Ctenophores,1,0,0,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Ostracods,1,0,0,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BC,Polychaets,1,0,0,1
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,INSECT,Insects,1,0,0,1
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,2,0,0,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,2,0,0,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,2,0,0,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,2,0,0,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,2,0.001,0.010309278350515464,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,2,0,0,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,2,0,0,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,2,0.017,0.1752577319587629,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,2,0.016,0.16494845360824742,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,2,0,0,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,2,0,0,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,2,0,0,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,2,0.001,0.010309278350515464,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,2,0,0,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,2,0.062,0.6391752577319587,2
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,3,0,0,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,3,0.326,1,3
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,4,0.048,0.17328519855595667,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,4,0,0,4
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,4,0.229,0.8267148014440433,4
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BFF,Barnacle,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZM,Calanoid copepods,5,0.019,1,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Harpactacoid copepods,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Caprellid amphipods,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab megalops,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab zoea,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Euphausiids,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Gammarid,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Hyperid amphipods,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Mysids,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Oikopleura dioica,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Ctenophores,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Ostracods,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BC,Polychaets,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,INSECT,Insects,5,0,0,5
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BFF,Barnacle,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZM,Calanoid copepods,6,0.031,1,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Harpactacoid copepods,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Caprellid amphipods,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab megalops,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab zoea,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Euphausiids,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Gammarid,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Hyperid amphipods,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Mysids,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Oikopleura dioica,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Ctenophores,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Ostracods,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BC,Polychaets,6,0,0,6
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,INSECT,Insects,6,0,0,6
+Daubenberg_Hood_canal,HE,juvenile,herring,BFF,Barnacle,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,ZM,Calanoid copepods,7,0.007,1,7
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Harpactacoid copepods,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Caprellid amphipods,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab megalops,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab zoea,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Euphausiids,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Gammarid,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Hyperid amphipods,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Mysids,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Oikopleura dioica,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Ctenophores,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Ostracods,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,BC,Polychaets,7,0,0,7
+Daubenberg_Hood_canal,HE,juvenile,herring,INSECT,Insects,7,0,0,7
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,8,0,0,8
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,8,0.005,0.15151515151515152,8
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,8,0,0,8
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,8,0,0,8
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,8,0.005,0.15151515151515152,8
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,8,0.004,0.12121212121212122,8
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,8,0,0,8
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,8,0.002,0.06060606060606061,8
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,8,0.001,0.030303030303030304,8
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,8,0.001,0.030303030303030304,8
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,8,0,0,8
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,8,0.004,0.12121212121212122,8
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,8,0,0,8
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,8,0.011,0.3333333333333333,8
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,8,0,0,8
+Daubenberg_Hood_canal,HE,juvenile,herring,BFF,Barnacle,9,0.006,0.75,9
+Daubenberg_Hood_canal,HE,juvenile,herring,ZM,Calanoid copepods,9,0.001,0.125,9
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Harpactacoid copepods,9,0,0,9
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Caprellid amphipods,9,0,0,9
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab megalops,9,0,0,9
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab zoea,9,0,0,9
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Euphausiids,9,0,0,9
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Gammarid,9,0,0,9
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Hyperid amphipods,9,0,0,9
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Mysids,9,0,0,9
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Oikopleura dioica,9,0.001,0.125,9
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Ctenophores,9,0,0,9
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Ostracods,9,0,0,9
+Daubenberg_Hood_canal,HE,juvenile,herring,BC,Polychaets,9,0,0,9
+Daubenberg_Hood_canal,HE,juvenile,herring,INSECT,Insects,9,0,0,9
+Daubenberg_Hood_canal,HE,juvenile,herring,BFF,Barnacle,10,0.016,0.6666666666666666,10
+Daubenberg_Hood_canal,HE,juvenile,herring,ZM,Calanoid copepods,10,0.008,0.3333333333333333,10
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Harpactacoid copepods,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Caprellid amphipods,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab megalops,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab zoea,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Euphausiids,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Gammarid,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Hyperid amphipods,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Mysids,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Oikopleura dioica,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Ctenophores,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Ostracods,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,BC,Polychaets,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,INSECT,Insects,10,0,0,10
+Daubenberg_Hood_canal,HE,juvenile,herring,BFF,Barnacle,11,0.003,0.5,11
+Daubenberg_Hood_canal,HE,juvenile,herring,ZM,Calanoid copepods,11,0.003,0.5,11
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Harpactacoid copepods,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Caprellid amphipods,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab megalops,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab zoea,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Euphausiids,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Gammarid,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Hyperid amphipods,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Mysids,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Oikopleura dioica,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Ctenophores,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Ostracods,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,BC,Polychaets,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,INSECT,Insects,11,0,0,11
+Daubenberg_Hood_canal,HE,juvenile,herring,BFF,Barnacle,12,0.01,0.7692307692307692,12
+Daubenberg_Hood_canal,HE,juvenile,herring,ZM,Calanoid copepods,12,0.003,0.23076923076923075,12
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Harpactacoid copepods,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Caprellid amphipods,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab megalops,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab zoea,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Euphausiids,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Gammarid,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Hyperid amphipods,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Mysids,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Oikopleura dioica,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Ctenophores,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Ostracods,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,BC,Polychaets,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,INSECT,Insects,12,0,0,12
+Daubenberg_Hood_canal,HE,juvenile,herring,BFF,Barnacle,13,0.001,1,13
+Daubenberg_Hood_canal,HE,juvenile,herring,ZM,Calanoid copepods,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Harpactacoid copepods,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Caprellid amphipods,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab megalops,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab zoea,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Euphausiids,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Gammarid,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Hyperid amphipods,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Mysids,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Oikopleura dioica,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Ctenophores,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Ostracods,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,BC,Polychaets,13,0,0,13
+Daubenberg_Hood_canal,HE,juvenile,herring,INSECT,Insects,13,0,0,13
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,14,0,0,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,14,0,0,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,14,0,0,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,14,0,0,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,14,0.022,0.19298245614035087,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,14,0.058,0.5087719298245614,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,14,0,0,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,14,0,0,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,14,0,0,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,14,0,0,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,14,0,0,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,14,0,0,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,14,0,0,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,14,0,0,14
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,14,0.034,0.2982456140350877,14
+Daubenberg_Hood_canal,HE,juvenile,herring,BFF,Barnacle,15,0.001,0.09090909090909091,15
+Daubenberg_Hood_canal,HE,juvenile,herring,ZM,Calanoid copepods,15,0,0,15
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Harpactacoid copepods,15,0.01,0.9090909090909092,15
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Caprellid amphipods,15,0,0,15
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab megalops,15,0,0,15
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab zoea,15,0,0,15
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Euphausiids,15,0,0,15
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Gammarid,15,0,0,15
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Hyperid amphipods,15,0,0,15
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Mysids,15,0,0,15
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Oikopleura dioica,15,0,0,15
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Ctenophores,15,0,0,15
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Ostracods,15,0,0,15
+Daubenberg_Hood_canal,HE,juvenile,herring,BC,Polychaets,15,0,0,15
+Daubenberg_Hood_canal,HE,juvenile,herring,INSECT,Insects,15,0,0,15
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,16,0.037,0.22424242424242422,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,16,0.128,0.7757575757575758,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,16,0,0,16
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,18,0,0,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,18,0,0,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,18,0,0,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,18,0,0,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,18,0.03,0.1948051948051948,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,18,0.124,0.8051948051948052,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,18,0,0,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,18,0,0,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,18,0,0,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,18,0,0,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,18,0,0,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,18,0,0,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,18,0,0,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,18,0,0,18
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,18,0,0,18
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BFF,Barnacle,19,0,0,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZM,Calanoid copepods,19,0.003,0.0625,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Harpactacoid copepods,19,0.042,0.875,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Caprellid amphipods,19,0,0,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab megalops,19,0,0,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab zoea,19,0,0,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Euphausiids,19,0,0,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Gammarid,19,0,0,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Hyperid amphipods,19,0,0,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Mysids,19,0,0,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Oikopleura dioica,19,0.003,0.0625,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Ctenophores,19,0,0,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Ostracods,19,0,0,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BC,Polychaets,19,0,0,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,INSECT,Insects,19,0,0,19
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BFF,Barnacle,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZM,Calanoid copepods,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Harpactacoid copepods,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Caprellid amphipods,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab megalops,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab zoea,21,0.007,1,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Euphausiids,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Gammarid,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Hyperid amphipods,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Mysids,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Oikopleura dioica,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Ctenophores,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Ostracods,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BC,Polychaets,21,0,0,21
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,INSECT,Insects,21,0,0,21
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,22,0.163,1,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,22,0,0,22
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,23,0.005,0.03067484662576687,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,23,0.158,0.9693251533742331,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,23,0,0,23
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,24,0,0,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,24,0,0,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,24,0,0,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,24,0,0,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,24,0.018,0.04422604422604422,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,24,0.381,0.936117936117936,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,24,0,0,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,24,0,0,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,24,0,0,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,24,0,0,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,24,0,0,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,24,0,0,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,24,0,0,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,24,0,0,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,24,0.008,0.019656019656019656,24
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,25,0.028,1,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,25,0,0,25
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,26,0,0,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,26,0,0,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,26,0,0,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,26,0,0,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,26,0.002,0.2,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,26,0.001,0.1,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,26,0,0,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,26,0,0,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,26,0,0,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,26,0,0,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,26,0,0,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,26,0,0,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,26,0,0,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,26,0,0,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,26,0.007,0.7,26
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,27,0,0,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,27,0,0,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,27,0,0,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,27,0.012,0.07947019867549669,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,27,0.012,0.07947019867549669,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,27,0.125,0.8278145695364238,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,27,0,0,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,27,0.002,0.013245033112582781,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,27,0,0,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,27,0,0,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,27,0,0,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,27,0,0,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,27,0,0,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,27,0,0,27
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,27,0,0,27
+Daubenberg_Hood_canal,HE,juvenile,herring,BFF,Barnacle,28,0.002,0.18181818181818182,28
+Daubenberg_Hood_canal,HE,juvenile,herring,ZM,Calanoid copepods,28,0.006,0.5454545454545455,28
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Harpactacoid copepods,28,0.003,0.27272727272727276,28
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Caprellid amphipods,28,0,0,28
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab megalops,28,0,0,28
+Daubenberg_Hood_canal,HE,juvenile,herring,BML,Crab zoea,28,0,0,28
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Euphausiids,28,0,0,28
+Daubenberg_Hood_canal,HE,juvenile,herring,BD,Gammarid,28,0,0,28
+Daubenberg_Hood_canal,HE,juvenile,herring,ZL,Hyperid amphipods,28,0,0,28
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Mysids,28,0,0,28
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Oikopleura dioica,28,0,0,28
+Daubenberg_Hood_canal,HE,juvenile,herring,ZG,Ctenophores,28,0,0,28
+Daubenberg_Hood_canal,HE,juvenile,herring,PWN,Ostracods,28,0,0,28
+Daubenberg_Hood_canal,HE,juvenile,herring,BC,Polychaets,28,0,0,28
+Daubenberg_Hood_canal,HE,juvenile,herring,INSECT,Insects,28,0,0,28
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,30,0,0,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,30,0.001,0.014705882352941176,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,30,0,0,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,30,0,0,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,30,0.033,0.4852941176470588,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,30,0.03,0.4411764705882352,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,30,0,0,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,30,0,0,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,30,0,0,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,30,0,0,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,30,0,0,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,30,0,0,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,30,0.002,0.029411764705882353,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,30,0,0,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,30,0.002,0.029411764705882353,30
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,31,0,0,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,31,0,0,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,31,0,0,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,31,0,0,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,31,0.069,0.9452054794520548,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,31,0.003,0.0410958904109589,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,31,0,0,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,31,0,0,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,31,0.001,0.0136986301369863,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,31,0,0,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,31,0,0,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,31,0,0,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,31,0,0,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,31,0,0,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,31,0,0,31
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,32,0,0,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,32,0.002,0.029850746268656716,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,32,0,0,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,32,0,0,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,32,0.031,0.46268656716417905,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,32,0.022,0.32835820895522383,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,32,0,0,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,32,0,0,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,32,0.001,0.014925373134328358,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,32,0,0,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,32,0,0,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,32,0,0,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,32,0,0,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,32,0,0,32
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,32,0.011,0.16417910447761191,32
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,33,0,0,33
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,33,0.001,0.03225806451612903,33
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,33,0,0,33
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,33,0,0,33
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,33,0.007,0.22580645161290322,33
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,33,0.004,0.12903225806451613,33
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,33,0,0,33
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,33,0,0,33
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,33,0.019,0.6129032258064516,33
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,33,0,0,33
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,33,0,0,33
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,33,0,0,33
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,33,0,0,33
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,33,0,0,33
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,33,0,0,33
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,34,0.004,0.8,34
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,34,0,0,34
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,34,0.001,0.2,34
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,35,0.002,1,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,35,0,0,35
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,36,0,0,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,36,0,0,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,36,0,0,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,36,0,0,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,36,0.007,0.0660377358490566,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,36,0.099,0.9339622641509433,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,36,0,0,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,36,0,0,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,36,0,0,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,36,0,0,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,36,0,0,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,36,0,0,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,36,0,0,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,36,0,0,36
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,36,0,0,36
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BFF,Barnacle,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZM,Calanoid copepods,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Harpactacoid copepods,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Caprellid amphipods,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab megalops,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab zoea,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Euphausiids,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Gammarid,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Hyperid amphipods,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Mysids,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Oikopleura dioica,37,0.003,1,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Ctenophores,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Ostracods,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BC,Polychaets,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,INSECT,Insects,37,0,0,37
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BFF,Barnacle,38,0.002,0.2,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZM,Calanoid copepods,38,0.002,0.2,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Harpactacoid copepods,38,0.001,0.1,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Caprellid amphipods,38,0,0,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab megalops,38,0,0,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab zoea,38,0,0,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Euphausiids,38,0,0,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Gammarid,38,0,0,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Hyperid amphipods,38,0,0,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Mysids,38,0,0,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Oikopleura dioica,38,0.005,0.5,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Ctenophores,38,0,0,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Ostracods,38,0,0,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BC,Polychaets,38,0,0,38
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,INSECT,Insects,38,0,0,38
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,40,0,0,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,40,0.001,0.021739130434782608,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,40,0,0,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,40,0,0,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,40,0,0,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,40,0.04,0.8695652173913044,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,40,0,0,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,40,0,0,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,40,0.004,0.08695652173913043,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,40,0,0,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,40,0,0,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,40,0,0,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,40,0.001,0.021739130434782608,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,40,0,0,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,40,0,0,40
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,41,0,0,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,41,0.001,0.14285714285714285,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,41,0,0,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,41,0,0,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,41,0,0,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,41,0.003,0.42857142857142855,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,41,0,0,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,41,0,0,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,41,0.001,0.14285714285714285,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,41,0,0,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,41,0,0,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,41,0,0,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,41,0.001,0.14285714285714285,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,41,0,0,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,41,0.001,0.14285714285714285,41
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,42,0,0,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,42,0,0,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,42,0,0,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,42,0,0,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,42,0,0,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,42,0.001,0.005291005291005291,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,42,0,0,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,42,0.181,0.9576719576719577,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,42,0.001,0.005291005291005291,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,42,0,0,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,42,0,0,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,42,0,0,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,42,0,0,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,42,0,0,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,42,0.006,0.031746031746031744,42
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,43,0,0,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,43,0,0,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,43,0,0,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,43,0,0,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,43,0,0,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,43,0,0,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,43,0,0,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,43,0,0,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,43,0.009,0.08823529411764706,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,43,0,0,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,43,0,0,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,43,0,0,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,43,0.001,0.009803921568627453,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,43,0,0,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,43,0.092,0.9019607843137255,43
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,45,0,0,45
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,45,0.012,1,45
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BFF,Barnacle,46,0,0,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZM,Calanoid copepods,46,0.002,0.2857142857142857,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Harpactacoid copepods,46,0,0,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Caprellid amphipods,46,0,0,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab megalops,46,0,0,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab zoea,46,0,0,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Euphausiids,46,0,0,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Gammarid,46,0,0,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Hyperid amphipods,46,0,0,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Mysids,46,0,0,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Oikopleura dioica,46,0.005,0.7142857142857143,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Ctenophores,46,0,0,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Ostracods,46,0,0,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BC,Polychaets,46,0,0,46
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,INSECT,Insects,46,0,0,46
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,47,0.004,0.3333333333333333,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,47,0,0,47
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,47,0.008,0.6666666666666666,47
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BFF,Barnacle,48,0.002,0.07142857142857142,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZM,Calanoid copepods,48,0.013,0.46428571428571425,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Harpactacoid copepods,48,0.01,0.35714285714285715,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Caprellid amphipods,48,0,0,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab megalops,48,0,0,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab zoea,48,0,0,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Euphausiids,48,0,0,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Gammarid,48,0,0,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Hyperid amphipods,48,0,0,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Mysids,48,0,0,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Oikopleura dioica,48,0.003,0.10714285714285714,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Ctenophores,48,0,0,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Ostracods,48,0,0,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BC,Polychaets,48,0,0,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,INSECT,Insects,48,0,0,48
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BFF,Barnacle,49,0.004,0.09523809523809523,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZM,Calanoid copepods,49,0.029,0.6904761904761905,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Harpactacoid copepods,49,0.005,0.11904761904761904,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Caprellid amphipods,49,0,0,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab megalops,49,0,0,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BML,Crab zoea,49,0.001,0.023809523809523808,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Euphausiids,49,0,0,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BD,Gammarid,49,0,0,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZL,Hyperid amphipods,49,0,0,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Mysids,49,0,0,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Oikopleura dioica,49,0.003,0.07142857142857142,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,ZG,Ctenophores,49,0,0,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,PWN,Ostracods,49,0,0,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,BC,Polychaets,49,0,0,49
+Daubenberg_Hood_canal,FPS,juvenile,surf smelt,INSECT,Insects,49,0,0,49
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,50,0.001,0.011235955056179777,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,50,0.003,0.033707865168539325,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,50,0,0,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,50,0,0,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,50,0.002,0.022471910112359553,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,50,0.06,0.6741573033707865,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,50,0,0,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,50,0,0,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,50,0.005,0.05617977528089888,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,50,0,0,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,50,0,0,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,50,0,0,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,50,0,0,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,50,0,0,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,50,0.018,0.20224719101123595,50
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,51,0.045,0.7142857142857143,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,51,0.001,0.015873015873015872,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,51,0,0,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,51,0,0,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,51,0.001,0.015873015873015872,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,51,0.014,0.22222222222222224,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,51,0,0,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,51,0,0,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,51,0.001,0.015873015873015872,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,51,0,0,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,51,0,0,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,51,0,0,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,51,0,0,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,51,0,0,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,51,0.001,0.015873015873015872,51
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,52,0.016,1,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,52,0,0,52
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,53,0,0,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,53,0.17,1,53
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,54,0.001,0.002717391304347826,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,54,0,0,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,54,0.367,0.9972826086956522,54
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,55,0.005,0.11904761904761907,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,55,0.037,0.880952380952381,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,55,0,0,55
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,56,0,0,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,56,0.004,1,56
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,57,0,0,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,57,0.002,0.007905138339920948,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,57,0,0,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,57,0,0,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,57,0.002,0.007905138339920948,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,57,0.101,0.39920948616600793,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,57,0,0,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,57,0,0,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,57,0,0,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,57,0,0,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,57,0,0,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,57,0,0,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,57,0,0,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,57,0,0,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,57,0.148,0.5849802371541502,57
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,58,0.011,0.7333333333333333,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,58,0.001,0.06666666666666667,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,58,0,0,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,58,0,0,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,58,0,0,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,58,0,0,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,58,0,0,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,58,0,0,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,58,0,0,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,58,0,0,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,58,0,0,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,58,0,0,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,58,0,0,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,58,0,0,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,58,0.003,0.2,58
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,59,0,0,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,59,0.801,1,59
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,60,0,0,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,60,0,0,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,60,0,0,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,60,0,0,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,60,0,0,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,60,0.041,0.43617021276595747,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,60,0,0,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,60,0,0,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,60,0.001,0.010638297872340425,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,60,0.002,0.02127659574468085,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,60,0,0,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,60,0,0,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,60,0,0,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,60,0,0,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,60,0.05,0.5319148936170213,60
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,61,0,0,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,61,0.001,0.006097560975609756,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,61,0,0,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,61,0,0,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,61,0.007,0.04268292682926829,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,61,0.15,0.9146341463414633,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,61,0,0,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,61,0,0,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,61,0.002,0.012195121951219513,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,61,0.002,0.012195121951219513,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,61,0,0,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,61,0,0,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,61,0,0,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,61,0,0,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,61,0.002,0.012195121951219513,61
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,62,0,0,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,62,0,0,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,62,0,0,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,62,0,0,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,62,0,0,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,62,0.04,0.21739130434782605,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,62,0,0,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,62,0,0,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,62,0,0,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,62,0.005,0.027173913043478257,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,62,0,0,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,62,0,0,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,62,0,0,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,62,0,0,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,62,0.139,0.7554347826086956,62
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,63,0.255,0.46875,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,63,0,0,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,63,0.289,0.5312499999999999,63
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,64,0.018,0.8571428571428572,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,64,0,0,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,64,0.003,0.14285714285714288,64
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,65,0,0,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,65,0.02,0.043668122270742356,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,65,0,0,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,65,0.159,0.3471615720524017,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,65,0.02,0.043668122270742356,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,65,0.116,0.25327510917030566,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,65,0,0,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,65,0.056,0.1222707423580786,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,65,0.006,0.013100436681222707,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,65,0.005,0.010917030567685589,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,65,0,0,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,65,0,0,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,65,0.013,0.02838427947598253,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,65,0.001,0.002183406113537118,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,65,0.062,0.1353711790393013,65
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,66,0,0,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,66,0,0,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,66,0,0,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,66,0,0,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,66,0.005,0.05319148936170213,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,66,0.001,0.010638297872340425,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,66,0,0,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,66,0,0,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,66,0.001,0.010638297872340425,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,66,0.001,0.010638297872340425,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,66,0,0,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,66,0,0,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,66,0,0,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,66,0,0,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,66,0.086,0.9148936170212765,66
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,67,0,0,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,67,0,0,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,67,0,0,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,67,0,0,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,67,0.026,0.8387096774193548,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,67,0.001,0.03225806451612903,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,67,0,0,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,67,0,0,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,67,0,0,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,67,0,0,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,67,0,0,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,67,0,0,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,67,0,0,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,67,0,0,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,67,0.004,0.12903225806451613,67
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,68,0,0,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,68,0,0,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,68,0,0,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,68,0.006,0.052631578947368425,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,68,0.017,0.14912280701754388,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,68,0.007,0.06140350877192983,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,68,0,0,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,68,0,0,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,68,0.004,0.03508771929824562,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,68,0,0,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,68,0,0,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,68,0,0,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,68,0.007,0.06140350877192983,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,68,0,0,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,68,0.073,0.6403508771929824,68
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,69,0,0,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,69,0.001,0.043478260869565216,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,69,0,0,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,69,0,0,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,69,0.008,0.34782608695652173,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,69,0.011,0.47826086956521735,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,69,0,0,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,69,0,0,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,69,0.003,0.13043478260869565,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,69,0,0,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,69,0,0,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,69,0,0,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,69,0,0,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,69,0,0,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,69,0,0,69
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,70,0,0,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,70,0.001,0.017241379310344827,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,70,0,0,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,70,0,0,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,70,0.039,0.6724137931034483,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,70,0.012,0.20689655172413793,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,70,0,0,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,70,0,0,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,70,0,0,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,70,0.001,0.017241379310344827,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,70,0,0,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,70,0,0,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,70,0.001,0.017241379310344827,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,70,0,0,70
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,70,0.004,0.06896551724137931,70
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,71,0.001,0.026315789473684213,71
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,71,0.002,0.052631578947368425,71
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,71,0.001,0.026315789473684213,71
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,71,0,0,71
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,71,0,0,71
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,71,0,0,71
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,71,0,0,71
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,71,0,0,71
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,71,0,0,71
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,71,0,0,71
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,71,0.029,0.7631578947368421,71
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,71,0.005,0.13157894736842105,71
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,71,0,0,71
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,71,0,0,71
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,71,0,0,71
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,72,0.001,0.030303030303030304,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,72,0.032,0.9696969696969697,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,72,0,0,72
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,73,0.029,0.6041666666666666,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,73,0.019,0.3958333333333333,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,73,0,0,73
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,74,0,0,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,74,0.001,0.058823529411764705,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,74,0,0,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,74,0,0,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,74,0,0,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,74,0.015,0.8823529411764705,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,74,0,0,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,74,0,0,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,74,0,0,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,74,0,0,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,74,0,0,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,74,0,0,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,74,0,0,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,74,0,0,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,74,0.001,0.058823529411764705,74
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,75,0,0,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,75,0.001,0.01694915254237288,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,75,0,0,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,75,0,0,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,75,0.011,0.1864406779661017,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,75,0.047,0.7966101694915255,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,75,0,0,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,75,0,0,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,75,0,0,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,75,0,0,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,75,0,0,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,75,0,0,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,75,0,0,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,75,0,0,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,75,0,0,75
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,76,0.001,0.004032258064516129,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,76,0,0,76
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,76,0.247,0.9959677419354839,76
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,77,0,0,77
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,77,0,0,77
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,77,0.001,0.02857142857142857,77
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,77,0,0,77
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,77,0,0,77
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,77,0.001,0.02857142857142857,77
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,77,0,0,77
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,77,0,0,77
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,77,0.001,0.02857142857142857,77
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,77,0.007,0.19999999999999998,77
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,77,0.024,0.6857142857142856,77
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,77,0.001,0.02857142857142857,77
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,77,0,0,77
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,77,0,0,77
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,77,0,0,77
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,78,0,0,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,78,0.002,0.18181818181818182,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,78,0,0,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,78,0,0,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,78,0,0,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,78,0.001,0.09090909090909091,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,78,0,0,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,78,0,0,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,78,0,0,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,78,0.007,0.6363636363636365,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,78,0,0,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,78,0,0,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,78,0,0,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,78,0,0,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,78,0.001,0.09090909090909091,78
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,79,0,0,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,79,0,0,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,79,0,0,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,79,0,0,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,79,0.011,0.26829268292682923,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,79,0.028,0.6829268292682926,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,79,0,0,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,79,0,0,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,79,0.001,0.024390243902439025,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,79,0,0,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,79,0,0,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,79,0,0,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,79,0.001,0.024390243902439025,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,79,0,0,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,79,0,0,79
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,80,0.002,0.6666666666666666,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,80,0,0,80
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,80,0.001,0.3333333333333333,80
+Daubenberg_Hood_canal,PIS,juvenile,pink,BFF,Barnacle,81,0.001,0.5,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZM,Calanoid copepods,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Harpactacoid copepods,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Caprellid amphipods,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab megalops,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab zoea,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Euphausiids,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Gammarid,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Hyperid amphipods,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Mysids,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Oikopleura dioica,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Ctenophores,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Ostracods,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,BC,Polychaets,81,0.001,0.5,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,INSECT,Insects,81,0,0,81
+Daubenberg_Hood_canal,PIS,juvenile,pink,BFF,Barnacle,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZM,Calanoid copepods,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Harpactacoid copepods,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Caprellid amphipods,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab megalops,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab zoea,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Euphausiids,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Gammarid,82,0.002,0.3333333333333333,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Hyperid amphipods,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Mysids,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Oikopleura dioica,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Ctenophores,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Ostracods,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,BC,Polychaets,82,0,0,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,INSECT,Insects,82,0.004,0.6666666666666666,82
+Daubenberg_Hood_canal,PIS,juvenile,pink,BFF,Barnacle,83,0,0,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZM,Calanoid copepods,83,0,0,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Harpactacoid copepods,83,0,0,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Caprellid amphipods,83,0,0,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab megalops,83,0.001,0.041666666666666664,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab zoea,83,0.021,0.875,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Euphausiids,83,0,0,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Gammarid,83,0,0,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Hyperid amphipods,83,0,0,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Mysids,83,0,0,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Oikopleura dioica,83,0,0,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Ctenophores,83,0,0,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Ostracods,83,0.001,0.041666666666666664,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,BC,Polychaets,83,0,0,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,INSECT,Insects,83,0.001,0.041666666666666664,83
+Daubenberg_Hood_canal,PIS,juvenile,pink,BFF,Barnacle,84,0,0,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZM,Calanoid copepods,84,0.001,0.01388888888888889,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Harpactacoid copepods,84,0,0,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Caprellid amphipods,84,0,0,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab megalops,84,0.001,0.01388888888888889,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab zoea,84,0.043,0.5972222222222222,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Euphausiids,84,0,0,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Gammarid,84,0,0,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Hyperid amphipods,84,0.026,0.3611111111111111,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Mysids,84,0,0,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Oikopleura dioica,84,0,0,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Ctenophores,84,0,0,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Ostracods,84,0,0,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,BC,Polychaets,84,0,0,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,INSECT,Insects,84,0.001,0.01388888888888889,84
+Daubenberg_Hood_canal,PIS,juvenile,pink,BFF,Barnacle,85,0.001,0.2,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZM,Calanoid copepods,85,0.003,0.6,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Harpactacoid copepods,85,0,0,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Caprellid amphipods,85,0,0,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab megalops,85,0,0,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab zoea,85,0,0,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Euphausiids,85,0,0,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Gammarid,85,0,0,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Hyperid amphipods,85,0,0,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Mysids,85,0,0,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Oikopleura dioica,85,0,0,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Ctenophores,85,0,0,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Ostracods,85,0,0,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,BC,Polychaets,85,0.001,0.2,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,INSECT,Insects,85,0,0,85
+Daubenberg_Hood_canal,PIS,juvenile,pink,BFF,Barnacle,86,0.001,0.5,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZM,Calanoid copepods,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Harpactacoid copepods,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Caprellid amphipods,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab megalops,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab zoea,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Euphausiids,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Gammarid,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Hyperid amphipods,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Mysids,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Oikopleura dioica,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Ctenophores,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Ostracods,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,BC,Polychaets,86,0,0,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,INSECT,Insects,86,0.001,0.5,86
+Daubenberg_Hood_canal,PIS,juvenile,pink,BFF,Barnacle,87,0,0,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZM,Calanoid copepods,87,0.001,0.25,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Harpactacoid copepods,87,0,0,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Caprellid amphipods,87,0,0,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab megalops,87,0.002,0.5,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab zoea,87,0.001,0.25,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Euphausiids,87,0,0,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Gammarid,87,0,0,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Hyperid amphipods,87,0,0,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Mysids,87,0,0,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Oikopleura dioica,87,0,0,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Ctenophores,87,0,0,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Ostracods,87,0,0,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,BC,Polychaets,87,0,0,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,INSECT,Insects,87,0,0,87
+Daubenberg_Hood_canal,PIS,juvenile,pink,BFF,Barnacle,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZM,Calanoid copepods,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Harpactacoid copepods,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Caprellid amphipods,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab megalops,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab zoea,88,0.003,0.6,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Euphausiids,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Gammarid,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Hyperid amphipods,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Mysids,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Oikopleura dioica,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Ctenophores,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Ostracods,88,0.002,0.4,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,BC,Polychaets,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,INSECT,Insects,88,0,0,88
+Daubenberg_Hood_canal,PIS,juvenile,pink,BFF,Barnacle,89,0,0,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZM,Calanoid copepods,89,0.001,0.0625,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Harpactacoid copepods,89,0.004,0.25,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Caprellid amphipods,89,0,0,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab megalops,89,0,0,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab zoea,89,0.001,0.0625,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Euphausiids,89,0,0,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Gammarid,89,0,0,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Hyperid amphipods,89,0,0,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Mysids,89,0,0,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Oikopleura dioica,89,0,0,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Ctenophores,89,0,0,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Ostracods,89,0,0,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,BC,Polychaets,89,0,0,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,INSECT,Insects,89,0.01,0.625,89
+Daubenberg_Hood_canal,PIS,juvenile,pink,BFF,Barnacle,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZM,Calanoid copepods,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Harpactacoid copepods,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Caprellid amphipods,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab megalops,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab zoea,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Euphausiids,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Gammarid,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Hyperid amphipods,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Mysids,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Oikopleura dioica,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Ctenophores,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Ostracods,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,BC,Polychaets,90,0,0,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,INSECT,Insects,90,0.001,1,90
+Daubenberg_Hood_canal,PIS,juvenile,pink,BFF,Barnacle,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZM,Calanoid copepods,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Harpactacoid copepods,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Caprellid amphipods,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab megalops,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,BML,Crab zoea,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Euphausiids,91,0.018,1,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,BD,Gammarid,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZL,Hyperid amphipods,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Mysids,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Oikopleura dioica,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,ZG,Ctenophores,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,PWN,Ostracods,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,BC,Polychaets,91,0,0,91
+Daubenberg_Hood_canal,PIS,juvenile,pink,INSECT,Insects,91,0,0,91
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,92,0.54,1,92
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,92,0,0,92
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,93,0.007,0.875,93
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,93,0,0,93
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,93,0.001,0.125,93
+Daubenberg_Hood_canal,CO,juvenile,coho,BFF,Barnacle,94,0,0,94
+Daubenberg_Hood_canal,CO,juvenile,coho,ZM,Calanoid copepods,94,0,0,94
+Daubenberg_Hood_canal,CO,juvenile,coho,BD,Harpactacoid copepods,94,0,0,94
+Daubenberg_Hood_canal,CO,juvenile,coho,BD,Caprellid amphipods,94,0,0,94
+Daubenberg_Hood_canal,CO,juvenile,coho,BML,Crab megalops,94,4.104,0.9980544747081712,94
+Daubenberg_Hood_canal,CO,juvenile,coho,BML,Crab zoea,94,0,0,94
+Daubenberg_Hood_canal,CO,juvenile,coho,ZL,Euphausiids,94,0.008,0.0019455252918287938,94
+Daubenberg_Hood_canal,CO,juvenile,coho,BD,Gammarid,94,0,0,94
+Daubenberg_Hood_canal,CO,juvenile,coho,ZL,Hyperid amphipods,94,0,0,94
+Daubenberg_Hood_canal,CO,juvenile,coho,PWN,Mysids,94,0,0,94
+Daubenberg_Hood_canal,CO,juvenile,coho,ZG,Oikopleura dioica,94,0,0,94
+Daubenberg_Hood_canal,CO,juvenile,coho,ZG,Ctenophores,94,0,0,94
+Daubenberg_Hood_canal,CO,juvenile,coho,PWN,Ostracods,94,0,0,94
+Daubenberg_Hood_canal,CO,juvenile,coho,BC,Polychaets,94,0,0,94
+Daubenberg_Hood_canal,CO,juvenile,coho,INSECT,Insects,94,0,0,94
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,95,0.052,0.9811320754716981,95
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,95,0.001,0.018867924528301886,95
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,95,0,0,95
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,97,0,0,97
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,97,0,0,97
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,97,0,0,97
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,97,0,0,97
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,97,0,0,97
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,97,0.142,0.8554216867469879,97
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,97,0,0,97
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,97,0,0,97
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,97,0,0,97
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,97,0,0,97
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,97,0,0,97
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,97,0,0,97
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,97,0.01,0.06024096385542169,97
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,97,0,0,97
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,97,0.014,0.08433734939759037,97
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,98,0.001,0.5,98
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,98,0.001,0.5,98
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,98,0,0,98
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,99,0.001,1,99
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,99,0,0,99
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,100,0,0,100
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,100,0,0,100
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,100,0.001,0.25,100
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,100,0,0,100
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,100,0,0,100
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,100,0,0,100
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,100,0.001,0.25,100
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,100,0,0,100
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,100,0,0,100
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,100,0,0,100
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,100,0,0,100
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,100,0,0,100
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,100,0.002,0.5,100
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,100,0,0,100
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,100,0,0,100
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,102,0,0,102
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,102,0.003,0.13636363636363638,102
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,102,0.004,0.18181818181818182,102
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,102,0,0,102
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,102,0.006,0.27272727272727276,102
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,102,0.002,0.09090909090909091,102
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,102,0,0,102
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,102,0,0,102
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,102,0,0,102
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,102,0,0,102
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,102,0,0,102
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,102,0,0,102
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,102,0,0,102
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,102,0,0,102
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,102,0.007,0.31818181818181823,102
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,103,0.105,0.7499999999999999,103
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,103,0.035,0.25,103
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,103,0,0,103
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,104,0.095,0.27696793002915454,104
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,104,0.248,0.7230320699708456,104
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,104,0,0,104
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,106,0.029,1,106
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,106,0,0,106
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,107,0.001,0.05555555555555555,107
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,107,0,0,107
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,107,0.017,0.9444444444444444,107
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,108,0.001,1,108
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,108,0,0,108
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,110,0.001,1,110
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,110,0,0,110
+Daubenberg_Hood_canal,CU,juvenile,chum,BFF,Barnacle,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,ZM,Calanoid copepods,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Harpactacoid copepods,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Caprellid amphipods,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab megalops,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,BML,Crab zoea,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Euphausiids,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,BD,Gammarid,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,ZL,Hyperid amphipods,112,0.001,1,112
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Mysids,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Oikopleura dioica,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,ZG,Ctenophores,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,PWN,Ostracods,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,BC,Polychaets,112,0,0,112
+Daubenberg_Hood_canal,CU,juvenile,chum,INSECT,Insects,112,0,0,112
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,113,0.022,0.5238095238095238,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,113,0.02,0.4761904761904763,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,113,0,0,113
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,115,0.001,1,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,115,0,0,115
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,116,0.153,1,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,116,0,0,116
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,117,0.177,1,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,117,0,0,117
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,119,0,0,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,119,0.007,1,119
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,122,0.015,1,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,122,0,0,122
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,123,0.003,0.03947368421052632,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,123,0.073,0.9605263157894737,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,123,0,0,123
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,124,0,0,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,124,0,0,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,124,0,0,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,124,0,0,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,124,0.179,0.8905472636815921,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,124,0,0,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,124,0,0,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,124,0.016,0.07960199004975126,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,124,0,0,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,124,0,0,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,124,0,0,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,124,0,0,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,124,0.006,0.02985074626865672,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,124,0,0,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,124,0,0,124
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,125,0,0,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,125,0.001,1,125
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,127,0.001,1,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,127,0,0,127
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,129,0.022,1,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,129,0,0,129
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,131,0.434,1,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,131,0,0,131
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,132,0.018,1,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,132,0,0,132
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,133,0,0,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,133,0,0,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,133,0,0,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,133,0,0,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,133,0,0,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,133,0.001,0.03225806451612903,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,133,0.029,0.935483870967742,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,133,0.001,0.03225806451612903,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,133,0,0,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,133,0,0,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,133,0,0,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,133,0,0,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,133,0,0,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,133,0,0,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,133,0,0,133
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,135,0.057,0.22093023255813954,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,135,0,0,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,135,0.201,0.7790697674418605,135
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,136,0,0,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,136,0.073,1,136
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,137,0,0,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,137,0,0,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,137,0,0,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,137,0,0,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,137,0,0,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,137,0,0,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,137,0,0,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,137,0.004,0.04081632653061224,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,137,0,0,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,137,0,0,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,137,0,0,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,137,0,0,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,137,0.024,0.24489795918367346,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,137,0,0,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,137,0.07,0.7142857142857143,137
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,138,0.001,1,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,138,0,0,138
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,139,0.001,1,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,139,0,0,139
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,140,0,0,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,140,0,0,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,140,0,0,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,140,0,0,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,140,0.023,0.42592592592592593,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,140,0,0,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,140,0,0,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,140,0.006,0.11111111111111112,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,140,0,0,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,140,0,0,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,140,0,0,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,140,0,0,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,140,0,0,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,140,0,0,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,140,0.025,0.462962962962963,140
+Daubenberg_Hood_canal,CI,juvenile,chinook,BFF,Barnacle,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZM,Calanoid copepods,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Harpactacoid copepods,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Caprellid amphipods,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab megalops,141,0.044,0.8979591836734694,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,BML,Crab zoea,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Euphausiids,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,BD,Gammarid,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZL,Hyperid amphipods,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Mysids,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Oikopleura dioica,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,ZG,Ctenophores,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,PWN,Ostracods,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,BC,Polychaets,141,0,0,141
+Daubenberg_Hood_canal,CI,juvenile,chinook,INSECT,Insects,141,0.005,0.10204081632653063,141

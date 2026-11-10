@@ -1,0 +1,67 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Figure_2_Commencement Bay,33.17,0.3350505051,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Figure_2_Commencement Bay,14.75,0.148989899,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Figure_2_Commencement Bay,5.34,0.05393939394,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Figure_2_Commencement Bay,5.96,0.0602020202,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Diptera,Figure_2_Commencement Bay,4.86,0.04909090909,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp,Figure_2_Commencement Bay,0.77,0.007777777778,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Figure_2_Commencement Bay,4.43,0.04474747475,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella vulgaris,Figure_2_Commencement Bay,0.14,0.001414141414,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,Figure_2_Commencement Bay,0.68,0.006868686869,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Allorchestes angustus,Figure_2_Commencement Bay,6.83,0.06898989899,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Amphipoda-Hyperiidea,Figure_2_Commencement Bay,0.82,0.008282828283,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Calliopius undescr. Sp.,Figure_2_Commencement Bay,16.71,0.1687878788,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Figure_2_Commencement Bay,0.08,8.080808081e-4,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium insidiosum,Figure_2_Commencement Bay,0.2,0.00202020202,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cercopidae,Figure_2_Commencement Bay,0.06,6.060606061e-4,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Cyclopoida,Figure_2_Commencement Bay,0.05,5.050505051e-4,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Eogammarus confervicolus,Figure_2_Commencement Bay,0.19,0.001919191919,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus anglicus,Figure_2_Commencement Bay,0.05,5.050505051e-4,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Hyale plumulosa,Figure_2_Commencement Bay,0.34,0.003434343434,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Aetidius armatus,Figure_2_Commencement Bay,0.49,0.004949494949,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium ascherusicum,Figure_2_Commencement Bay,0.63,0.006363636364,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Figure_2_Commencement Bay,0.31,0.003131313131,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Photis brevipes,Figure_2_Commencement Bay,0.03,3.03030303e-4,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,PARASITE,Ecdysozoa,Nematoda,Figure_2_Commencement Bay,0.03,3.03030303e-4,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Figure_2_Commencement Bay,0.03,3.03030303e-4,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,Figure_2_Commencement Bay,0.03,3.03030303e-4,1,Salmon_Meyer_et_al_1981_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Gnathostomata,Osteichthyes,Figure_2_Commencement Bay,2.02,0.0204040404,1,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Figure_3_Commencement Bay,1.85,0.018846780769999998,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Aphididae,Figure_3_Commencement Bay,1.25,0.01273431133,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda,Figure_3_Commencement Bay,55.84,0.5688671557,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Other Diptera,Diptera,Figure_3_Commencement Bay,0.53,0.005399348003,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Nematocera,Figure_3_Commencement Bay,5.03,0.05124286879,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Harpacticoida,Figure_3_Commencement Bay,0.05,5.093724531e-4,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Crustacea,Calanoida,Figure_3_Commencement Bay,1.42,0.01446617767,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera-chironomidae,Figure_3_Commencement Bay,0.36,0.003667481663,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium sp.,Figure_3_Commencement Bay,0.21,0.002139364303,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Calliopius undescr. Sp.,Figure_3_Commencement Bay,7.61,0.07752648737,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium spinicorne,Figure_3_Commencement Bay,0.59,0.006010594947,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda-brachyura,Figure_3_Commencement Bay,5.83,0.05939282804,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Formicidae,Figure_3_Commencement Bay,1.13,0.01151181744,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Staphylinidae,Figure_3_Commencement Bay,0.11,0.001120619397,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Crustacea,Cyclopoida,Figure_3_Commencement Bay,0.06,6.112469438e-4,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda,Figure_3_Commencement Bay,0.02,2.037489813e-4,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hemiptera,Figure_3_Commencement Bay,2.69,0.02740423798,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Ephydridae,Figure_3_Commencement Bay,0.2,0.002037489813,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus confervicolus,Figure_3_Commencement Bay,1.41,0.01436430318,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Crustacea,Copepoda,Figure_3_Commencement Bay,0.06,6.112469438e-4,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Paguridae,Figure_3_Commencement Bay,0.44,0.004482477588,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Araneae,Araneae,Figure_3_Commencement Bay,0.3,0.003056234719,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Aphididae,Insecta,Figure_3_Commencement Bay,0.11,0.001120619397,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Cumella vulgaris,Figure_3_Commencement Bay,0.01,1.018744906e-4,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Dolichopodidae,Figure_3_Commencement Bay,0.78,0.007946210269,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Cercopidae,Figure_3_Commencement Bay,0.02,2.037489813e-4,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Figure_3_Commencement Bay,0.15,0.001528117359,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Anisogammarus pugettensis,Figure_3_Commencement Bay,0.1,0.001018744906,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium insidiosum,Figure_3_Commencement Bay,0.1,0.001018744906,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Crustacea,Figure_3_Commencement Bay,1.48,0.01507742461,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera-brachycera,Figure_3_Commencement Bay,0.2,0.002037489813,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Coleoptera,Figure_3_Commencement Bay,0.15,0.001528117359,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium salmonis,Figure_3_Commencement Bay,0.44,0.004482477588,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,Figure_3_Commencement Bay,0.02,2.037489813e-4,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Insecta-lepidoptera,Figure_3_Commencement Bay,0.05,5.093724531e-4,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Gnathostomata,Osteichthyes,Figure_3_Commencement Bay,0.15,0.001528117359,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Holmesiella anomala,Figure_3_Commencement Bay,2.19,0.02231051345,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Cumacea,Figure_3_Commencement Bay,0.49,0.004991850041,2,Salmon_Meyer_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Figure_3_Commencement Bay,4.73,0.04818663407,2,Salmon_Meyer_et_al_1981_B

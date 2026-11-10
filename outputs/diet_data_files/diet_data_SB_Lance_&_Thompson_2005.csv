@@ -1,0 +1,53 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,juvenileAndadult,Common Murres,Uria aalge,HE,Pacific herring,Clupea pallasii,Table_1_%O_gillnet_Sockeye_CM,72.5,0.4931972789,1,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,FPS,Pacific sand lance,Ammodytes hexapterus,Table_1_%O_gillnet_Sockeye_CM,50.5,0.343537415,1,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,SALMON,Salmon,Oncorhynchus spp.,Table_1_%O_gillnet_Sockeye_CM,24,0.1632653061,1,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,HE,Pacific herring,Clupea pallasii,Table_1_%O_gillnet_Chum_CM,86,0.8221797323,2,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,FPS,Pacific sand lance,Ammodytes hexapterus,Table_1_%O_gillnet_Chum_CM,11.6,0.1108986616,2,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,SALMON,Salmon,Oncorhynchus spp.,Table_1_%O_gillnet_Chum_CM,7,0.06692160612,2,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,HE,Pacific herring,Clupea pallasii,Table_1_%O_gillnet_Sockeye_RA,42,0.3523489933,3,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,FPS,Pacific sand lance,Ammodytes hexapterus,Table_1_%O_gillnet_Sockeye_RA,67.6,0.567114094,3,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,SALMON,Salmon,Oncorhynchus spp.,Table_1_%O_gillnet_Sockeye_RA,9.6,0.08053691275,3,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,HE,Pacific herring,Clupea pallasii,Table_1_%O_gillnet_Chum_RA,94.4,0.7392325764,4,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,FPS,Pacific sand lance,Ammodytes hexapterus,Table_1_%O_gillnet_Chum_RA,22.2,0.1738449491,4,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,SALMON,Salmon,Oncorhynchus spp.,Table_1_%O_gillnet_Chum_RA,11.1,0.08692247455,4,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,SMD,Pacific tomcod,Microgadus proximus,Table_2_%O_Other_prey_CM,48,0.3180914513,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,FMM,Pacific hake,Merluccius productus,Table_2_%O_Other_prey_CM,23,0.1524188204,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,SQX,Squid spp.,Squid spp.,Table_2_%O_Other_prey_CM,21,0.1391650099,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,SMD,Pacific sandfish,Trichodon trichodon,Table_2_%O_Other_prey_CM,12,0.07952286282,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,POP,Shiner surfperch,Cymatogaster aggregata,Table_2_%O_Other_prey_CM,9,0.05964214712,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,LAMPREY,River lamprey,Lampetra ayresi,Table_2_%O_Other_prey_CM,8,0.05301524188,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,SMD,Threespine stickleback,Gasterosteus aculeatus aculeatus,Table_2_%O_Other_prey_CM,6,0.03976143141,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,ROCKFISH,Rockfish,Sebastes spp.,Table_2_%O_Other_prey_CM,5,0.03313452618,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,BML,Juvenile crab,infraorder brachyura,Table_2_%O_Other_prey_CM,3,0.01988071571,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,BC,Polychaete,Polychaeta,Table_2_%O_Other_prey_CM,3,0.01988071571,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,MYCTOPHID,Plainfish midshipman,Porichthys notatus,Table_2_%O_Other_prey_CM,2,0.01325381047,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,SMD,Bay pipefish,Syngnathus leptorhynchus,Table_2_%O_Other_prey_CM,1,0.006626905235,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,FPS,Surfsmelt,Hypomesus pretiosus,Table_2_%O_Other_prey_CM,1,0.006626905235,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,SMD,Tube-snout,Aulorhynchus flavidus,Table_2_%O_Other_prey_CM,1,0.006626905235,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,BD,Amphipod or shrimp,Amphipod or shrimp,Table_2_%O_Other_prey_CM,1,0.006626905235,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,INVERT,Unidentified invertebrate,Unidentified invertebrate,Table_2_%O_Other_prey_CM,1,0.006626905235,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,BG,Purple sea urchin,Strongylocentrotus purpuratus,Table_2_%O_Other_prey_CM,1,0.006626905235,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,INSECT,Bumble bee,Bumble bee,Table_2_%O_Other_prey_CM,1,0.006626905235,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,INVERT,Miscellaneous invertebrate species,Miscellaneous invertebrate species,Table_2_%O_Other_prey_CM,0.9,0.005964214712,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Common Murres,Uria aalge,FISH,Unidentified fish,Unidentified fish,Table_2_%O_Other_prey_CM,3,0.01988071571,5,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,SMD,Pacific tomcod,Microgadus proximus,Table_2_%O_Other_prey_RA,16,0.1333333333,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,FMM,Pacific hake,Merluccius productus,Table_2_%O_Other_prey_RA,0,0,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,SQX,Squid spp.,Squid spp.,Table_2_%O_Other_prey_RA,17,0.1416666667,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,SMD,Pacific sandfish,Trichodon trichodon,Table_2_%O_Other_prey_RA,8,0.06666666667,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,POP,Shiner surfperch,Cymatogaster aggregata,Table_2_%O_Other_prey_RA,3,0.025,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,LAMPREY,River lamprey,Lampetra ayresi,Table_2_%O_Other_prey_RA,6,0.05,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,SMD,Threespine stickleback,Gasterosteus aculeatus aculeatus,Table_2_%O_Other_prey_RA,41,0.3416666667,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,ROCKFISH,Rockfish,Sebastes spp.,Table_2_%O_Other_prey_RA,0,0,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,BML,Juvenile crab,infraorder brachyura,Table_2_%O_Other_prey_RA,12,0.1,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,BC,Polychaete,Polychaeta,Table_2_%O_Other_prey_RA,3,0.025,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,MYCTOPHID,Plainfish midshipman,Porichthys notatus,Table_2_%O_Other_prey_RA,1,0.008333333333,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,SMD,Bay pipefish,Syngnathus leptorhynchus,Table_2_%O_Other_prey_RA,6,0.05,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,FPS,Surfsmelt,Hypomesus pretiosus,Table_2_%O_Other_prey_RA,1,0.008333333333,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,SMD,Tube-snout,Aulorhynchus flavidus,Table_2_%O_Other_prey_RA,1,0.008333333333,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,BD,Amphipod or shrimp,Amphipod or shrimp,Table_2_%O_Other_prey_RA,1,0.008333333333,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,INVERT,Unidentified invertebrate,Unidentified invertebrate,Table_2_%O_Other_prey_RA,1,0.008333333333,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,INVERT,Unidentified invertebrate,Unidentified invertebrate,Table_2_%O_Other_prey_RA,1,0.008333333333,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,INVERT,Unidentified invertebrate,Unidentified invertebrate,Table_2_%O_Other_prey_RA,1,0.008333333333,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,INVERT,Unidentified invertebrate,Unidentified invertebrate,Table_2_%O_Other_prey_RA,1,0.008333333333,6,SB_Lance_&_Thompson_2005
+SB,juvenileAndadult,Rhinoceros Auklet,Cerorhinca monocerata,FISH,Unidentified,Unidentified fish,Table_2_%O_Other_prey_RA,0,0,6,SB_Lance_&_Thompson_2005

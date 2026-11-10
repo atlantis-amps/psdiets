@@ -1,0 +1,43 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Calanoida,Calanoida,Table_2_Departure_Bay,1459,0.05573808068,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Cyclopoida,Cyclopoida,Table_2_Departure_Bay,5,1.910146699e-4,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpacticoida,Harpacticoida,Table_2_Departure_Bay,9896,0.3780562347,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZG,Monstrilloida,Monstrilloida,Table_2_Departure_Bay,1,3.820293399e-5,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Nauplii larvae,Nauplii,Table_2_Departure_Bay,10050,0.3839394866,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipoda,Amphipoda,Table_2_Departure_Bay,32,0.001222493888,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Cirripedia larvae,Cirripedia,Table_2_Departure_Bay,4430,0.1692389976,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,CLADOCERA,Cladocera,Cladocera,Table_2_Departure_Bay,8,3.056234719e-4,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Cumacea,Cumacea,Table_2_Departure_Bay,8,3.056234719e-4,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda larvae,Decapoda,Table_2_Departure_Bay,29,0.001107885086,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Isopoda,Isopoda,Table_2_Departure_Bay,4,1.528117359e-4,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Ostracoda,Ostracoda,Table_2_Departure_Bay,6,2.292176039e-4,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Diptera,Table_2_Departure_Bay,19,7.258557457e-4,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,NA,Other,Other,Table_2_Departure_Bay,2,7.640586797e-5,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BG,Gastropoda larvae,Gastropoda,Table_2_Departure_Bay,215,0.008213630807,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BIV,Bivalvia larvae,Bivalvia,Table_2_Departure_Bay,0,0,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BC,Polychaeta,Polychaeta,Table_2_Departure_Bay,0,0,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Bryozoa larvae,Bryozoa,Table_2_Departure_Bay,1,3.820293399e-5,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FISH,Teleostei larvae,Teleostei,Table_2_Departure_Bay,5,1.910146699e-4,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INVERT,Invertebrate eggs,Invertebrate,Table_2_Departure_Bay,2,7.640586797e-5,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,NA,Unidentified,Unidentified,Table_2_Departure_Bay,4,1.528117359e-4,1,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Calanoida,Calanoida,Table_2_Hammond_Bay,534,0.03866483238,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Cyclopoida,Cyclopoida,Table_2_Hammond_Bay,7,5.06842372e-4,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpacticoida,Harpacticoida,Table_2_Hammond_Bay,6495,0.4702773152,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZG,Monstrilloida,Monstrilloida,Table_2_Hammond_Bay,6,4.344363189e-4,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Nauplii larvae,Nauplii,Table_2_Hammond_Bay,1524,0.110346825,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipoda,Amphipoda,Table_2_Hammond_Bay,421,0.03048294837,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Cirripedia larvae,Cirripedia,Table_2_Hammond_Bay,3885,0.2812975165,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,CLADOCERA,Cladocera,Cladocera,Table_2_Hammond_Bay,0,0,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Cumacea,Cumacea,Table_2_Hammond_Bay,27,0.001954963435,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda larvae,Decapoda,Table_2_Hammond_Bay,38,0.00275143002,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Isopoda,Isopoda,Table_2_Hammond_Bay,36,0.002606617913,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Ostracoda,Ostracoda,Table_2_Hammond_Bay,2,1.448121063e-4,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Diptera,Table_2_Hammond_Bay,40,0.002896242126,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,NA,Other,Other,Table_2_Hammond_Bay,1,7.240605315e-5,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BG,Gastropoda larvae,Gastropoda,Table_2_Hammond_Bay,13,9.412786909e-4,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BIV,Bivalvia larvae,Bivalvia,Table_2_Hammond_Bay,12,8.688726378e-4,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BC,Polychaeta,Polychaeta,Table_2_Hammond_Bay,2,1.448121063e-4,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Bryozoa larvae,Bryozoa,Table_2_Hammond_Bay,723,0.05234957642,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FISH,Teleostei larvae,Teleostei,Table_2_Hammond_Bay,0,0,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INVERT,Invertebrate eggs,Invertebrate,Table_2_Hammond_Bay,30,0.002172181594,2,Salmon_Gordon_et_al_1981
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,NA,Unidentified,Unidentified,Table_2_Hammond_Bay,15,0.001086090797,2,Salmon_Gordon_et_al_1981

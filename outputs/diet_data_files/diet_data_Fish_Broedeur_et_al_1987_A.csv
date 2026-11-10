@@ -1,0 +1,11 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+FPS,adult,Chordata,Icichthys lockingtoni,ZL,Annelida,Tomopteris spp.,Table32_%W_1982_y_1983,1.7,0.02607361963,1,Fish_Broedeur_et_al_1987_A
+FPS,adult,Chordata,Icichthys lockingtoni,BD,Arthropoda,Hyperia medusarum,Table32_%W_1982_y_1983,14,0.2147239264,1,Fish_Broedeur_et_al_1987_A
+FPS,adult,Chordata,Icichthys lockingtoni,BD,Arthropoda,Hyperoche medusarum,Table32_%W_1982_y_1983,0.1,0.001533742331,1,Fish_Broedeur_et_al_1987_A
+FPS,adult,Chordata,Icichthys lockingtoni,BD,Arthropoda,Themisto pacifica,Table32_%W_1982_y_1983,0.3,0.004601226994,1,Fish_Broedeur_et_al_1987_A
+FPS,adult,Chordata,Icichthys lockingtoni,BD,Arthropoda,Phronima sedentaria,Table32_%W_1982_y_1983,0.3,0.004601226994,1,Fish_Broedeur_et_al_1987_A
+FPS,adult,Chordata,Icichthys lockingtoni,BD,Arthropoda,Vibilia spp.,Table32_%W_1982_y_1983,0.1,0.001533742331,1,Fish_Broedeur_et_al_1987_A
+FPS,adult,Chordata,Icichthys lockingtoni,BD,Arthropoda,Amphipoda,Table32_%W_1982_y_1983,3.2,0.0490797546,1,Fish_Broedeur_et_al_1987_A
+FPS,adult,Chordata,Icichthys lockingtoni,BFF,Chordata,Salpa sp.,Table32_%W_1982_y_1983,35.8,0.5490797546,1,Fish_Broedeur_et_al_1987_A
+FPS,adult,Chordata,Icichthys lockingtoni,BFF,Larvacea,Oikopleura sp.,Table32_%W_1982_y_1983,4.3,0.06595092025,1,Fish_Broedeur_et_al_1987_A
+FPS,adult,Chordata,Icichthys lockingtoni,FISH,Osteichthyes,Osteichthyes,Table32_%W_1982_y_1983,5.4,0.08282208589,1,Fish_Broedeur_et_al_1987_A

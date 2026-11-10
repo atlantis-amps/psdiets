@@ -1,0 +1,251 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Small shiner,No_4224,1,0.08333333333,1,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Small squid,No_4224,9,0.75,1,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_4224,2,0.1666666667,1,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Pollock,No_4225,3.333333333,0.03333333333,2,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Shiner,No_4225,6.666666667,0.06666666667,2,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_4225,90,0.9,2,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Crab,No_4226,1,0.009803921569,3,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Fish,Sand lance,No_4226,62.82722513,0.6159531876,3,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4226,12.17277487,0.1193409301,3,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_4226,25,0.2450980392,3,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Crab,No_4226,1,0.009803921569,3,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Pollock,No_4227,1,0.1111111111,4,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_4227,7,0.7777777778,4,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4227,1,0.1111111111,4,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_4228,2,1,5,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_4232,11,1,6,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Pollock,No_4233,5,0.625,7,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4233,2,0.25,7,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Midshipman,No_4233,1,0.125,7,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Pollock,No_4236,7,0.25,8,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_4236,14,0.5,8,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_4236,2,0.07142857143,8,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4236,4,0.1428571429,8,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_4236,1,0.03571428571,8,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_4237,3,0.2307692308,9,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Pollock,No_4237,5,0.3846153846,9,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4237,1,0.07692307692,9,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Sculpin,No_4237,1,0.07692307692,9,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_4237,3,0.2307692308,9,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Merluccius productus,No_4238,2,1,10,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_4239,1,1,11,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_4240,4,1,12,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Pollock,No_4241,1,0.06666666667,13,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,hake,No_4241,11,0.7333333333,13,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4241,2,0.1333333333,13,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_4241,1,0.06666666667,13,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,herring,No_4243,20,1,14,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_4244,1,1,15,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_4245,90,0.9,16,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_4245,10,0.1,16,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4246,7,1,17,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4247,202,0.9901960784,18,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_4247,1,0.004901960784,18,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Pollock,No_4247,1,0.004901960784,18,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Hermit crab,No_4249,1,1,19,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Cod,No_4502,2,0.2,20,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Blue cod,No_4502,1,0.1,20,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Fish,Rockfish,No_4502,7,0.7,20,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Fish,Sand lance,No_4503,33,1,21,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Fish,Great sculpin,No_4504,1,0.1666666667,22,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Fish,Rockfish,No_4504,5,0.8333333333,22,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Hairy crab,No_4505,1,0.07142857143,23,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Black clawed crab,No_4505,1,0.07142857143,23,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Flat-topped crab,No_4505,1,0.07142857143,23,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Cod,No_4505,9,0.6428571429,23,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Blue cod,No_4505,1,0.07142857143,23,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Hairy crab,No_4505,1,0.07142857143,23,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_4506,98,0.9702970297,24,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Gadid,No_4506,1,0.009900990099,24,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,shrimp,shrimp,No_4506,2,0.0198019802,24,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_4507,88.61538462,0.8861538462,25,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Pollock,No_4507,7.384615385,0.07384615385,25,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,shrimp,shrimp,No_4507,4,0.04,25,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Hairy crab,No_4508,1,0.25,26,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Cod,No_4508,3,0.75,26,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Cod,No_4510,3,1,27,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopoda,Octopus,No_4511,32,1,28,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Cod,No_4512,89.53846154,0.8693054518,29,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_4512,7.461538462,0.07244212099,29,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Fish,Hermit crab,No_4512,1,0.009708737864,29,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Prawn,Shrimp,No_4512,2,0.01941747573,29,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,NA,Pebbles,Pebbles,No_4512,1,0.009708737864,29,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,INSECT,Caddis fly,Trichoptera,No_4512,1,0.009708737864,29,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,NA,wood and coral,Wood,No_4512,1,0.009708737864,29,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Fish,Sand lance,No_4513,61,0.9838709677,30,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopoda,Octopus,No_4513,1,0.01612903226,30,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopoda,Octopus,No_4514,1,0.125,31,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,MA,Seaweed,Seaweed,No_4514,1,0.125,31,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,NA,Stone,Small stone,No_4514,1,0.125,31,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Blue cod,No_4514,1,0.125,31,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Fish,Rockfish,No_4514,4,0.5,31,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BFF,Snail,Trichotropis,No_4516,1,0.009900990099,32,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Hairy crab,No_4516,4.8,0.04752475248,32,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Crago franciscorum,No_4516,1.2,0.01188118812,32,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Fish,Great sculpin,No_4516,47,0.4653465347,32,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Smooth sculpin,No_4516,47,0.4653465347,32,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopoda,Octopus,No_4517,4,0.6666666667,33,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crabs,Crabs,No_4517,1,0.1666666667,33,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Fish,Fish,No_4517,1,0.1666666667,33,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Pleuronectidae,No_4518,80,0.7547169811,34,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Cod,No_4518,10,0.09433962264,34,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Blue cod,No_4518,10,0.09433962264,34,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Crago franciscorum,No_4518,6,0.05660377358,34,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4519,1,0.5,35,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Cod,No_4519,1,0.5,35,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Fish,Ammodytidae,No_4520,1,1,36,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_4521,19,1,37,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Midshipman,No_4522,30.43478261,0.1891891892,38,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Pollock,No_4522,4.347826087,0.02702702703,38,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Flounders,Parophrys vetulus,No_4522,52.17391304,0.3243243243,38,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_4522,13.04347826,0.08108108108,38,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Crago franciscorum,No_4522,30.43478261,0.1891891892,38,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BIV,Bivalves,Bivalves,No_4522,30.43478261,0.1891891892,38,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Shiner,No_4523,1,0.3333333333,39,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Flounder,Parophrys vetulus,No_4523,2,0.6666666667,39,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BIV,Bivalves,Yoldia myalis,No_4524,1,0.009900990099,40,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Crab,No_4524,1,0.009900990099,40,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Small flounder,No_4524,37.125,0.3675742574,40,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Blue cod,No_4524,49.5,0.4900990099,40,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Cottid,No_4524,12.375,0.1225247525,40,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BIV,Bivalves,Yoldia myalis,No_4525,2,0.01941747573,41,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4525,81.81818182,0.7943512798,41,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_4525,18.18181818,0.1765225066,41,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,crab,No_4525,1,0.009708737864,41,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,mud crab,No_4526,1,0.009900990099,42,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4526,77.27272727,0.7650765077,42,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Smooth sculpin,No_4526,22.72727273,0.2250225023,42,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4922,58.8,0.588,43,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Fish,Small fish,No_4922,39.2,0.392,43,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Crago stylirostris,No_4922,2,0.02,43,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_4923,43.33333333,0.4333333333,44,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Blue cod,No_4923,10.83333333,0.1083333333,44,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Crago franciscorum,No_4923,35,0.35,44,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Smooth sculpin,No_4923,10.83333333,0.1083333333,44,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4925,3.5,0.03365384615,45,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Fish,Great sculpin,No_4925,7,0.06730769231,45,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Smooth sculpin,No_4925,10.5,0.1009615385,45,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4925,49,0.4711538462,45,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Westerm lamprey,Entosphenus tridentatus,No_4925,30,0.2884615385,45,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Mud crab,No_4925,1,0.009615384615,45,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Crago sp.,No_4925,1,0.009615384615,45,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,MA,Algae,Algae,No_4925,1,0.009615384615,45,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BFF,Hydroid,Hydroids,No_4925,1,0.009615384615,45,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Clupeidae,No_4926,60,0.6,46,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Westerm lamprey,Entosphenus tridentatus,No_4926,40,0.4,46,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Edible crab,No_4927,1.6,0.016,47,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Pleuronectid,No_4927,1.306666667,0.01306666667,47,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Other,Fish,No_4927,81.01333333,0.8101333333,47,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Crago stylirostris,No_4927,0.4,0.004,47,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4927,15.68,0.1568,47,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Smooth sculpin,No_4928,88,0.7857142857,48,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Crago stylirostris,No_4928,6,0.05357142857,48,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Porcelain crab,No_4928,6,0.05357142857,48,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,MA,Algae,Algae,No_4928,6,0.05357142857,48,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BFF,Hydroid,Hydroids,No_4928,6,0.05357142857,48,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Blue cod,No_4929,1,0.5,49,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Smooth sculpin,No_4929,1,0.5,49,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Smooth sculpin,No_4930,77.17647059,0.7016042781,50,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4930,4.823529412,0.04385026738,50,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Burrowing crayfish,Upogebia pugettensis,No_4930,7.2,0.06545454545,50,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Burrowing crayfish,Callianassa californiensis,No_4930,7.2,0.06545454545,50,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Edible crab,Crab,No_4930,3.6,0.03272727273,50,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,MA,Algae,Algae,No_4930,5,0.04545454545,50,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BFF,Hydroid,Hydroids,No_4930,5,0.04545454545,50,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4931,24,0.5106382979,51,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_4931,1,0.02127659574,51,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4931,19,0.4042553191,51,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Hairy crab,No_4931,3,0.06382978723,51,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Smooth sculpin,No_4932,37,0.5138888889,52,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4932,5,0.06944444444,52,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Blue cod,No_4932,14,0.1944444444,52,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottidae,Sculpin,No_4932,1,0.01388888889,52,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_4932,1,0.01388888889,52,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Blenny,No_4932,2,0.02777777778,52,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Crago stylirostris,No_4932,6,0.08333333333,52,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Burrowing crayfish,Upogebia pugettensis,No_4932,2,0.02777777778,52,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Burrowing crayfish,Callianassa californiensis,No_4932,2,0.02777777778,52,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,MA,Algae,Algae,No_4932,1,0.01388888889,52,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BFF,Hydroid,Hydroids,No_4932,1,0.01388888889,52,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Crab,No_4933,0.07142857143,7.00280112e-4,53,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4933,3.658536585,0.03586800574,53,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Blue cod,No_4933,2.43902439,0.02391200383,53,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Crago stylirostris,No_4933,1.928571429,0.01890756303,53,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4933,85.36585366,0.8369201339,53,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Smooth sculpin,No_4933,8.536585366,0.08369201339,53,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BIV,Mollusca,Mollusk egg,No_4934,11,0.09243697479,54,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Small flounder,No_4934,2.5,0.02100840336,54,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_4934,2.5,0.02100840336,54,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Crago stylirostris,No_4934,8,0.06722689076,54,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4934,72.5,0.6092436975,54,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Smooth sculpin,No_4934,22.5,0.1890756303,54,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Small hairy crab,No_4935,3,0.02803738318,55,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,crago stylirostris,No_4935,9,0.08411214953,55,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_4935,95,0.8878504673,55,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_4936,1,1,56,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Blenny,No_5195,39,0.975,57,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Smooth sculpin,No_5195,1,0.025,57,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Blenny,No_4939,1,0.3333333333,58,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4939,1,0.3333333333,58,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_4939,1,0.3333333333,58,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Blenny,No_4940,16,1,59,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BG,Isopods,Idotheidae,No_4941,4,0.03773584906,60,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Crago franciscorum,No_4941,2,0.01886792453,60,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Smooth sculpin,No_4941,100,0.9433962264,60,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4942,NA,0,61,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4943,2,1,62,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4944,6,1,63,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Burrowing crayfish,Upogebia pugettensis,No_4945,1,0.1428571429,64,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Blenny,No_4945,5,0.7142857143,64,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_4945,1,0.1428571429,64,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_4946,4,1,65,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Shiner,No_5170,3,1,66,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_5171,1.149425287,0.01138044839,67,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_5171,4.597701149,0.04552179356,67,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Shiner,No_5171,20.68965517,0.204848071,67,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_5171,73.56321839,0.7283486969,67,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_5171,1,0.009900990099,67,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_5172,21,1,68,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Midshipman,No_5173,12.8,0.128,69,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_5173,25.6,0.256,69,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Shiner,No_5173,9.6,0.096,69,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmon,Oncorhyncus sp.,No_5173,12,0.12,69,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_5173,16,0.16,69,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_5173,24,0.24,69,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_5174,8.333333333,0.08250825083,70,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Pollock,No_5174,8.333333333,0.08250825083,70,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Shiner,No_5174,33.33333333,0.3300330033,70,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Fish,Rockfish,No_5174,16.66666667,0.1650165017,70,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_5174,33.33333333,0.3300330033,70,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_5174,1,0.009900990099,70,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_5176,100,0.9803921569,71,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopoda,Squid,No_5176,2,0.01960784314,71,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Large cod,No_5178,1,0.1111111111,72,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_5178,6,0.6666666667,72,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_5178,2,0.2222222222,72,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_5179,16,0.9411764706,73,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Shiner,No_5179,1,0.05882352941,73,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Midshipman,No_5180,62,1,74,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Fish,Rockfish,No_5181,1,0.05882352941,75,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_5181,1,0.05882352941,75,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,ZM,Pacific porgy,Calamus brachysomus,No_5181,15,0.8823529412,75,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_5182,4,0.6666666667,76,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_5182,2,0.3333333333,76,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_5183,27,1,77,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Cancer gracilis,No_5184,1,0.009803921569,78,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crab,Pinnixia schmitti,No_5184,1,0.009803921569,78,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_5184,12.5,0.1225490196,78,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_5184,87.5,0.8578431373,78,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,RAT,Fish,Ratfish,No_5185,1,1,79,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Large cod,No_5186,2,1,80,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,herring,No_5187,8,1,81,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,POP,Fish,Shiner,No_5188,45,1,82,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,herring,No_5189,23,1,83,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_5190,13,0.2954545455,84,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,Hake,No_5190,3,0.06818181818,84,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Fish,Tomcod,No_5190,28,0.6363636364,84,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Fish,Flounder,No_5191,22,1,85,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,HE,Fish,Herring,No_5192,56,1,86,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmon,Oncorhyncus sp.,No_5193,1,1,87,HSL_Scheffer_&_Perry_1931
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Fish,hake,No_5194,13,1,88,HSL_Scheffer_&_Perry_1931

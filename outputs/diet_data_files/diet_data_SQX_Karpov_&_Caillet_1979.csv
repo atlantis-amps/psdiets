@@ -1,0 +1,31 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SQX,INVERT,Squid,Loligo opalescens,BML,Crustaceans,Crustacean unkown,Table_1_small,73.3,0.01742458459,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,ZL,Arthropoda,Euphausiacea,Table_1_small,3988,0.9480115055,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,ZM,Arthropoda,Copepoda,Table_1_small,97.5,0.02317731238,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,PWN,Arthropoda,Mysidacea,Table_1_small,7.4,0.001759098581,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BML,Arthropoda,Megalops,Table_1_small,4.9,0.00116480852,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BML,Arthropoda,Natantia,Table_1_small,0.2,4.754320489e-5,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,PWN,Arthropoda,Cumacea,Table_1_small,12.2,0.002900135498,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BD,Arthropoda,Amphipoda,Table_1_small,0,0,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,ZL,Arthropoda,Ostracoda,Table_1_small,0,0,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BMS,Mollusca,Cephalopoda,Table_1_small,16.2,0.003850999596,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BG,Mollusca,Gastropoda,Table_1_small,5,0.001188580122,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,ZS,Radiolaria,Radiolaria,Table_1_small,0,0,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BC,Annelida,Polychaeta,Table_1_small,0,0,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,FISH,Chordata,Fish,Table_1_small,2,4.754320489e-4,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,NA,NA,Miscellaneous,Table_1_small,0,0,1,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BML,Crustaceans,Crustacean unkown,Table_1_large,17.5,0.003189647316,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,ZL,Arthropoda,Euphausiacea,Table_1_large,5400,0.984234029,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,ZM,Arthropoda,Copepoda,Table_1_large,37.5,0.006834958535,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,PWN,Arthropoda,Mysidacea,Table_1_large,10.6,0.001932014946,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BML,Arthropoda,Megalops,Table_1_large,0,0,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BML,Arthropoda,Natantia,Table_1_large,0.6,1.093593366e-4,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,PWN,Arthropoda,Cumacea,Table_1_large,0,0,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BD,Arthropoda,Amphipoda,Table_1_large,0.1,1.822655609e-5,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,ZL,Arthropoda,Ostracoda,Table_1_large,0.1,1.822655609e-5,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BMS,Mollusca,Cephalopoda,Table_1_large,9.7,0.001767975941,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BG,Mollusca,Gastropoda,Table_1_large,1.2,2.187186731e-4,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,ZS,Radiolaria,Radiolaria,Table_1_large,0.4,7.290622437e-5,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,BC,Annelida,Polychaeta,Table_1_large,0,0,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,FISH,Chordata,Fish,Table_1_large,8.8,0.001603936936,2,SQX_Karpov_&_Caillet_1979
+SQX,INVERT,Squid,Loligo opalescens,NA,NA,Miscellaneous,Table_1_large,0,0,2,SQX_Karpov_&_Caillet_1979

@@ -1,0 +1,600 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig1_Num_comp_Chum_Nisqually_1979,0.02,2.042900919e-4,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Hemiptera,Fig1_Num_comp_Chum_Nisqually_1979,0.03,3.064351379e-4,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig1_Num_comp_Chum_Nisqually_1979,0.03,3.064351379e-4,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Platyhelminthes,Turbellaria,Fig1_Num_comp_Chum_Nisqually_1979,0.04,4.085801839e-4,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididade,Fig1_Num_comp_Chum_Nisqually_1979,0.05,5.107252298e-4,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Annelida,Oligochaeta,Fig1_Num_comp_Chum_Nisqually_1979,0.05,5.107252298e-4,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psocoptera,Fig1_Num_comp_Chum_Nisqually_1979,0.06,6.128702758e-4,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig1_Num_comp_Chum_Nisqually_1979,0.09,9.193054137e-4,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Caprellidea,Fig1_Num_comp_Chum_Nisqually_1979,0.14,0.001430030644,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Amphipoda-hyperiidea,Fig1_Num_comp_Chum_Nisqually_1979,0.2,0.002042900919,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig1_Num_comp_Chum_Nisqually_1979,0.23,0.002349336057,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig1_Num_comp_Chum_Nisqually_1979,0.45,0.004596527068,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Polychaeta,Fig1_Num_comp_Chum_Nisqually_1979,0.88,0.008988764045,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig1_Num_comp_Chum_Nisqually_1979,1.15,0.01174668029,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig1_Num_comp_Chum_Nisqually_1979,1.21,0.01235955056,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-brachyura,Fig1_Num_comp_Chum_Nisqually_1979,1.59,0.01624106231,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella vulgaris,Fig1_Num_comp_Chum_Nisqually_1979,2.33,0.02379979571,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig1_Num_comp_Chum_Nisqually_1979,2.43,0.02482124617,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysida,Fig1_Num_comp_Chum_Nisqually_1979,2.51,0.02563840654,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus anglicus,Fig1_Num_comp_Chum_Nisqually_1979,6.43,0.06567926456,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig1_Num_comp_Chum_Nisqually_1979,13.13,0.1341164454,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig1_Num_comp_Chum_Nisqually_1979,16.82,0.1718079673,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig1_Num_comp_Chum_Nisqually_1979,18.58,0.1897854954,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PL,Khakista,Coscinodisceae,Fig1_Num_comp_Chum_Nisqually_1979,29.45,0.3008171604,1,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Unidentified egg,Unidentified egg,Fig2_Grav. Comp_NE_1980,0.01,1.042861612e-4,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arachnida,Acarina,Fig2_Grav. Comp_NE_1980,0.02,2.085723225e-4,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig2_Grav. Comp_NE_1980,0.06,6.257169674e-4,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig2_Grav. Comp_NE_1980,0.07,7.300031286e-4,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,Fig2_Grav. Comp_NE_1980,0.07,7.300031286e-4,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig2_Grav. Comp_NE_1980,0.08,8.342892898e-4,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig2_Grav. Comp_NE_1980,0.08,8.342892898e-4,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera,Fig2_Grav. Comp_NE_1980,0.08,8.342892898e-4,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig2_Grav. Comp_NE_1980,0.09,9.38575451e-4,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Dolichopodidae,Fig2_Grav. Comp_NE_1980,0.15,0.001564292418,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cercopidae,Fig2_Grav. Comp_NE_1980,0.16,0.00166857858,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Tanaids,Tanaidacea,Fig2_Grav. Comp_NE_1980,0.21,0.002190009386,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig2_Grav. Comp_NE_1980,0.22,0.002294295547,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Fig2_Grav. Comp_NE_1980,0.31,0.003232870998,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium insidiosum,Fig2_Grav. Comp_NE_1980,0.47,0.004901449578,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig2_Grav. Comp_NE_1980,0.54,0.005631452706,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig2_Grav. Comp_NE_1980,0.58,0.006048597351,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig2_Grav. Comp_NE_1980,0.66,0.006882886641,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig2_Grav. Comp_NE_1980,0.82,0.008551465221,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Rock,Rock,Fig2_Grav. Comp_NE_1980,1.2,0.01251433935,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig2_Grav. Comp_NE_1980,1.28,0.01334862864,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium brevis,Fig2_Grav. Comp_NE_1980,1.38,0.01439149025,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,Fig2_Grav. Comp_NE_1980,1.48,0.01543435186,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-brachyura,Fig2_Grav. Comp_NE_1980,1.51,0.01574721035,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig2_Grav. Comp_NE_1980,1.8,0.01877150902,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig2_Grav. Comp_NE_1980,2.3,0.02398581708,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig2_Grav. Comp_NE_1980,2.42,0.02523725102,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig2_Grav. Comp_NE_1980,2.88,0.03003441443,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella sp.,Fig2_Grav. Comp_NE_1980,3.21,0.03347585775,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Fig2_Grav. Comp_NE_1980,3.21,0.03347585775,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Pontogeneia ivanovi,Fig2_Grav. Comp_NE_1980,3.38,0.03524872249,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig2_Grav. Comp_NE_1980,3.72,0.03879445198,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium ascherusicum,Fig2_Grav. Comp_NE_1980,3.83,0.03994159975,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysida,Fig2_Grav. Comp_NE_1980,3.98,0.04150589217,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig2_Grav. Comp_NE_1980,5.07,0.05287308374,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig2_Grav. Comp_NE_1980,7.42,0.07738033163,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig2_Grav. Comp_NE_1980,18.85,0.1965794139,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,Fig2_Grav. Comp_NE_1980,22.29,0.2324538534,2,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arachnida,Acarina,Fig3_Grav. Comp_NE_AB_1980,0.03,3.009932778e-4,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig3_Grav. Comp_NE_AB_1980,0.03,3.009932778e-4,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,Fig3_Grav. Comp_NE_AB_1980,0.03,3.009932778e-4,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig3_Grav. Comp_NE_AB_1980,0.03,3.009932778e-4,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Deptochelia sp.,Fig3_Grav. Comp_NE_AB_1980,0.03,3.009932778e-4,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Oithona sp.,Fig3_Grav. Comp_NE_AB_1980,0.03,3.009932778e-4,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig3_Grav. Comp_NE_AB_1980,0.03,3.009932778e-4,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig3_Grav. Comp_NE_AB_1980,0.03,3.009932778e-4,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig3_Grav. Comp_NE_AB_1980,0.04,4.013243704e-4,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera,Fig3_Grav. Comp_NE_AB_1980,0.08,8.026487408e-4,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cercopidae,Fig3_Grav. Comp_NE_AB_1980,0.16,0.001605297482,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysida,Fig3_Grav. Comp_NE_AB_1980,0.16,0.001605297482,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig3_Grav. Comp_NE_AB_1980,0.2,0.002006621852,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Eogammarus confervicolus,Fig3_Grav. Comp_NE_AB_1980,0.4,0.004013243704,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Tanaids,Tanaidacea,Fig3_Grav. Comp_NE_AB_1980,0.42,0.004213905889,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig3_Grav. Comp_NE_AB_1980,0.57,0.005718872279,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig3_Grav. Comp_NE_AB_1980,0.68,0.006822514297,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Crustacea,Osteichthyes,Fig3_Grav. Comp_NE_AB_1980,0.8,0.008026487408,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig3_Grav. Comp_NE_AB_1980,1.15,0.01153807565,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,Fig3_Grav. Comp_NE_AB_1980,1.59,0.01595264372,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig3_Grav. Comp_NE_AB_1980,11.11,0.1114678439,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,Fig3_Grav. Comp_NE_AB_1980,39.43,0.3956054981,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig3_Grav. Comp_NE_AB_1980,42.64,0.4278117789,3,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Rock,Rock,Fig4_Grav. Comp_NE_MAY_1980,0.03,3.107842122e-4,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,Fig4_Grav. Comp_NE_MAY_1980,0.03,3.107842122e-4,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Thysanoptera,Fig4_Grav. Comp_NE_MAY_1980,0.03,3.107842122e-4,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Polychaeta,Fig4_Grav. Comp_NE_MAY_1980,0.04,4.143789495e-4,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera,Fig4_Grav. Comp_NE_MAY_1980,0.05,5.179736869e-4,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig4_Grav. Comp_NE_MAY_1980,0.05,5.179736869e-4,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig4_Grav. Comp_NE_MAY_1980,0.07,7.251631617e-4,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig4_Grav. Comp_NE_MAY_1980,0.11,0.001139542111,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig4_Grav. Comp_NE_MAY_1980,0.14,0.001450326323,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cercopidae,Fig4_Grav. Comp_NE_MAY_1980,0.16,0.001657515798,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig4_Grav. Comp_NE_MAY_1980,0.18,0.001864705273,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig4_Grav. Comp_NE_MAY_1980,0.18,0.001864705273,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Tanaids,Tanaidacea,Fig4_Grav. Comp_NE_MAY_1980,0.22,0.002279084223,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Fig4_Grav. Comp_NE_MAY_1980,0.24,0.002486273697,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Staphylinidae,Fig4_Grav. Comp_NE_MAY_1980,0.27,0.002797057909,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig4_Grav. Comp_NE_MAY_1980,0.43,0.004454573708,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella sp.,Fig4_Grav. Comp_NE_MAY_1980,0.49,0.005076142132,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Fig4_Grav. Comp_NE_MAY_1980,0.61,0.006319278981,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium insidiosum,Fig4_Grav. Comp_NE_MAY_1980,0.86,0.008909147415,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig4_Grav. Comp_NE_MAY_1980,1.11,0.01149901585,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-brachyura,Fig4_Grav. Comp_NE_MAY_1980,1.26,0.01305293691,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig4_Grav. Comp_NE_MAY_1980,1.52,0.01574640008,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig4_Grav. Comp_NE_MAY_1980,1.72,0.01781829483,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Photis brevipes,Fig4_Grav. Comp_NE_MAY_1980,1.78,0.01843986325,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,Fig4_Grav. Comp_NE_MAY_1980,2.24,0.02320522117,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig4_Grav. Comp_NE_MAY_1980,2.68,0.02776338962,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,Fig4_Grav. Comp_NE_MAY_1980,3.15,0.03263234228,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium brevis,Fig4_Grav. Comp_NE_MAY_1980,3.69,0.0382264581,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig4_Grav. Comp_NE_MAY_1980,4.26,0.04413135813,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig4_Grav. Comp_NE_MAY_1980,4.28,0.0443385476,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig4_Grav. Comp_NE_MAY_1980,4.46,0.04620325287,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig4_Grav. Comp_NE_MAY_1980,4.58,0.04744638972,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysida,Fig4_Grav. Comp_NE_MAY_1980,5.72,0.05925618979,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig4_Grav. Comp_NE_MAY_1980,6.12,0.06339997928,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Pontogeneia ivanovi,Fig4_Grav. Comp_NE_MAY_1980,9.08,0.09406402155,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium ascherusicum,Fig4_Grav. Comp_NE_MAY_1980,10.2,0.1056666321,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig4_Grav. Comp_NE_MAY_1980,24.49,0.2537035119,4,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arachnida,Acarina,Fig5_Grav. Comp_NE_JUN_1980,0.01,1.008878128e-4,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Unidentified egg,Unidentified egg,Fig5_Grav. Comp_NE_JUN_1980,0.01,1.008878128e-4,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Isopoda,Fig5_Grav. Comp_NE_JUN_1980,0.01,1.008878128e-4,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PLANT,Plants,Plants and plant parts,Fig5_Grav. Comp_NE_JUN_1980,0.01,1.008878128e-4,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig5_Grav. Comp_NE_JUN_1980,0.02,2.017756255e-4,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig5_Grav. Comp_NE_JUN_1980,0.02,2.017756255e-4,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig5_Grav. Comp_NE_JUN_1980,0.02,2.017756255e-4,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig5_Grav. Comp_NE_JUN_1980,0.03,3.026634383e-4,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psocoptera,Fig5_Grav. Comp_NE_JUN_1980,0.06,6.053268765e-4,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig5_Grav. Comp_NE_JUN_1980,0.07,7.062146893e-4,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig5_Grav. Comp_NE_JUN_1980,0.09,9.079903148e-4,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig5_Grav. Comp_NE_JUN_1980,0.1,0.001008878128,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig5_Grav. Comp_NE_JUN_1980,0.12,0.001210653753,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Tanaids,Tanaidacea,Fig5_Grav. Comp_NE_JUN_1980,0.12,0.001210653753,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,Fig5_Grav. Comp_NE_JUN_1980,0.13,0.001311541566,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Fig5_Grav. Comp_NE_JUN_1980,0.17,0.001715092817,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Dolichopodidae,Fig5_Grav. Comp_NE_JUN_1980,0.23,0.002320419693,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium insidiosum,Fig5_Grav. Comp_NE_JUN_1980,0.34,0.003430185634,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig5_Grav. Comp_NE_JUN_1980,0.4,0.00403551251,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Heleidae,Fig5_Grav. Comp_NE_JUN_1980,0.4,0.00403551251,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cyclorrhapha,Fig5_Grav. Comp_NE_JUN_1980,0.5,0.005044390638,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig5_Grav. Comp_NE_JUN_1980,0.56,0.005649717514,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydridae,Fig5_Grav. Comp_NE_JUN_1980,0.62,0.006255044391,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig5_Grav. Comp_NE_JUN_1980,0.85,0.008575464084,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig5_Grav. Comp_NE_JUN_1980,1.18,0.0119047619,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PL,Khakista,Coscinodisceae,Fig5_Grav. Comp_NE_JUN_1980,2.23,0.02249798224,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-brachyura,Fig5_Grav. Comp_NE_JUN_1980,2.37,0.02391041162,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Rock,Rock,Fig5_Grav. Comp_NE_JUN_1980,2.7,0.02723970944,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig5_Grav. Comp_NE_JUN_1980,2.81,0.02834947538,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig5_Grav. Comp_NE_JUN_1980,3.89,0.03924535916,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysida,Fig5_Grav. Comp_NE_JUN_1980,4.13,0.04166666667,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig5_Grav. Comp_NE_JUN_1980,6.55,0.06608151735,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella sp.,Fig5_Grav. Comp_NE_JUN_1980,6.9,0.0696125908,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Fig5_Grav. Comp_NE_JUN_1980,7.1,0.07163034705,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig5_Grav. Comp_NE_JUN_1980,7.79,0.07859160613,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig5_Grav. Comp_NE_JUN_1980,14.6,0.1472962066,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,Fig5_Grav. Comp_NE_JUN_1980,31.98,0.3226392252,5,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig6_Grav_Comp_len_29_40_mm,0.06,6.099420555e-4,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Fig6_Grav_Comp_len_29_40_mm,0.06,6.099420555e-4,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,Fig6_Grav_Comp_len_29_40_mm,0.06,6.099420555e-4,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig6_Grav_Comp_len_29_40_mm,0.06,6.099420555e-4,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig6_Grav_Comp_len_29_40_mm,0.08,8.13256074e-4,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera,Fig6_Grav_Comp_len_29_40_mm,0.09,9.149130833e-4,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Polychaeta,Fig6_Grav_Comp_len_29_40_mm,0.09,9.149130833e-4,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig6_Grav_Comp_len_29_40_mm,0.09,9.149130833e-4,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Leptochelia sp.,Fig6_Grav_Comp_len_29_40_mm,0.23,0.002338111213,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig6_Grav_Comp_len_29_40_mm,0.23,0.002338111213,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig6_Grav_Comp_len_29_40_mm,0.25,0.002541425231,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig6_Grav_Comp_len_29_40_mm,0.32,0.003253024296,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig6_Grav_Comp_len_29_40_mm,0.47,0.004777879435,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig6_Grav_Comp_len_29_40_mm,0.53,0.00538782149,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Tanaids,Tanaidacea,Fig6_Grav_Comp_len_29_40_mm,0.6,0.006099420555,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig6_Grav_Comp_len_29_40_mm,0.98,0.009962386907,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,SALMON,Salmonidae,Oncorhynchus sp.,Fig6_Grav_Comp_len_29_40_mm,1.32,0.01341872522,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium brevis,Fig6_Grav_Comp_len_29_40_mm,1.34,0.01362203924,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Fig6_Grav_Comp_len_29_40_mm,1.55,0.01575683643,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig6_Grav_Comp_len_29_40_mm,1.57,0.01596015045,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,Fig6_Grav_Comp_len_29_40_mm,2.92,0.0296838467,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig6_Grav_Comp_len_29_40_mm,3.36,0.03415675511,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig6_Grav_Comp_len_29_40_mm,3.53,0.03588492427,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig6_Grav_Comp_len_29_40_mm,4.9,0.04981193453,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig6_Grav_Comp_len_29_40_mm,5.36,0.05448815696,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig6_Grav_Comp_len_29_40_mm,7.6,0.07725932703,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig6_Grav_Comp_len_29_40_mm,15.79,0.1605164176,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig6_Grav_Comp_len_29_40_mm,44.93,0.4567449426,6,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,Fig7_Grav_Comp_len_41_50_mm,0.04,4.132231405e-4,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig7_Grav_Comp_len_41_50_mm,0.06,6.198347107e-4,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig7_Grav_Comp_len_41_50_mm,0.06,6.198347107e-4,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig7_Grav_Comp_len_41_50_mm,0.06,6.198347107e-4,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera,Fig7_Grav_Comp_len_41_50_mm,0.07,7.231404959e-4,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig7_Grav_Comp_len_41_50_mm,0.1,0.001033057851,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Fig7_Grav_Comp_len_41_50_mm,0.17,0.001756198347,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig7_Grav_Comp_len_41_50_mm,0.29,0.002995867769,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella sp.,Fig7_Grav_Comp_len_41_50_mm,0.32,0.003305785124,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cercopidae,Fig7_Grav_Comp_len_41_50_mm,0.49,0.005061983471,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig7_Grav_Comp_len_41_50_mm,0.66,0.006818181818,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig7_Grav_Comp_len_41_50_mm,0.79,0.008161157025,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cyclorrhapha,Fig7_Grav_Comp_len_41_50_mm,0.88,0.009090909091,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig7_Grav_Comp_len_41_50_mm,0.89,0.009194214876,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta-lepidoptera,Fig7_Grav_Comp_len_41_50_mm,1.15,0.01188016529,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig7_Grav_Comp_len_41_50_mm,1.37,0.01415289256,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig7_Grav_Comp_len_41_50_mm,1.54,0.01590909091,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig7_Grav_Comp_len_41_50_mm,2.94,0.03037190083,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,Fig7_Grav_Comp_len_41_50_mm,3.32,0.03429752066,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig7_Grav_Comp_len_41_50_mm,3.33,0.03440082645,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,Fig7_Grav_Comp_len_41_50_mm,4.29,0.04431818182,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig7_Grav_Comp_len_41_50_mm,7.25,0.07489669421,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig7_Grav_Comp_len_41_50_mm,8.53,0.08811983471,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig7_Grav_Comp_len_41_50_mm,9.48,0.0979338843,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig7_Grav_Comp_len_41_50_mm,48.72,0.5033057851,7,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Leptochelia sp.,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Tanaids,Tanaidacea,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cercopidae,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Amphipoda-hyperiidea,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Dithona sp.,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Hymenoptera,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Isopoda,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PARASITE,Ecdysozoa,Nematoda,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Rock,Rock,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Thysanoptera,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Unidentified egg,Unidentified egg,Fig8_Grav_Comp_len_51_60mm,0.06,5.99880024e-4,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera,Fig8_Grav_Comp_len_51_60mm,0.12,0.001199760048,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig8_Grav_Comp_len_51_60mm,0.12,0.001199760048,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Fig8_Grav_Comp_len_51_60mm,0.12,0.001199760048,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,Fig8_Grav_Comp_len_51_60mm,0.18,0.001799640072,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arachnida,Acarina,Fig8_Grav_Comp_len_51_60mm,0.18,0.001799640072,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig8_Grav_Comp_len_51_60mm,0.58,0.005798840232,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella sp.,Fig8_Grav_Comp_len_51_60mm,0.64,0.006398720256,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Dolichopodidae,Fig8_Grav_Comp_len_51_60mm,0.64,0.006398720256,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig8_Grav_Comp_len_51_60mm,0.7,0.00699860028,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig8_Grav_Comp_len_51_60mm,0.76,0.007598480304,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cyclorrhapha,Fig8_Grav_Comp_len_51_60mm,2.33,0.02329534093,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydridae,Fig8_Grav_Comp_len_51_60mm,2.33,0.02329534093,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig8_Grav_Comp_len_51_60mm,2.39,0.02389522096,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig8_Grav_Comp_len_51_60mm,2.45,0.02449510098,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-brachycera,Fig8_Grav_Comp_len_51_60mm,2.92,0.02919416117,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig8_Grav_Comp_len_51_60mm,3.03,0.03029394121,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Heleidae,Fig8_Grav_Comp_len_51_60mm,3.5,0.0349930014,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Gnathostomata,Osteichthyes,Fig8_Grav_Comp_len_51_60mm,3.56,0.03559288142,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig8_Grav_Comp_len_51_60mm,4.14,0.04139172166,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,Fig8_Grav_Comp_len_51_60mm,8.75,0.0874825035,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig8_Grav_Comp_len_51_60mm,9.39,0.09388122376,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,Fig8_Grav_Comp_len_51_60mm,13.42,0.1341731654,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig8_Grav_Comp_len_51_60mm,36.99,0.3698260348,8,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Leptochelia sp.,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella sp.,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Heleidae,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Unidentified egg,Unidentified egg,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,MA,Chlorophyta,Chlorophyceae,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Cyclopoida,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-brachyura,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BG,Mollusca,Gastropoda,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Oithona sp.,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PLANT,Plants,Plants and plant parts,Fig9_Grav_Comp_len_61_70mm,0.03,2.99940012e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig9_Grav_Comp_len_61_70mm,0.05,4.9990002e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig9_Grav_Comp_len_61_70mm,0.05,4.9990002e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arachnida,Acarina,Fig9_Grav_Comp_len_61_70mm,0.05,4.9990002e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Rock,Rock,Fig9_Grav_Comp_len_61_70mm,0.05,4.9990002e-4,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig9_Grav_Comp_len_61_70mm,0.26,0.002599480104,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cyclorrhapha,Fig9_Grav_Comp_len_61_70mm,0.26,0.002599480104,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig9_Grav_Comp_len_61_70mm,0.29,0.002899420116,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Fig9_Grav_Comp_len_61_70mm,0.29,0.002899420116,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig9_Grav_Comp_len_61_70mm,0.52,0.005198960208,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig9_Grav_Comp_len_61_70mm,0.52,0.005198960208,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Tanaids,Tanaidacea,Fig9_Grav_Comp_len_61_70mm,0.52,0.005198960208,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Dolichopodidae,Fig9_Grav_Comp_len_61_70mm,0.52,0.005198960208,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig9_Grav_Comp_len_61_70mm,0.52,0.005198960208,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium insidiosum,Fig9_Grav_Comp_len_61_70mm,0.79,0.007898420316,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydridae,Fig9_Grav_Comp_len_61_70mm,0.81,0.008098380324,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig9_Grav_Comp_len_61_70mm,0.84,0.008398320336,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig9_Grav_Comp_len_61_70mm,1.63,0.01629674065,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig9_Grav_Comp_len_61_70mm,3.15,0.03149370126,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig9_Grav_Comp_len_61_70mm,21.31,0.2130573885,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,Fig9_Grav_Comp_len_61_70mm,67.17,0.6715656869,9,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig10_Grav_Comp_len_71_80mm,0.01,1.00030009e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig10_Grav_Comp_len_71_80mm,0.01,1.00030009e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig10_Grav_Comp_len_71_80mm,0.01,1.00030009e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Polychaeta,Fig10_Grav_Comp_len_71_80mm,0.01,1.00030009e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Tanaids,Tanaidacea,Fig10_Grav_Comp_len_71_80mm,0.01,1.00030009e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Unidentified egg,Unidentified egg,Fig10_Grav_Comp_len_71_80mm,0.01,1.00030009e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Caprellidae,Fig10_Grav_Comp_len_71_80mm,0.01,1.00030009e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Eogammarus confervicolus,Fig10_Grav_Comp_len_71_80mm,0.01,1.00030009e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig10_Grav_Comp_len_71_80mm,0.02,2.00060018e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig10_Grav_Comp_len_71_80mm,0.02,2.00060018e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig10_Grav_Comp_len_71_80mm,0.03,3.00090027e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Heleidae,Fig10_Grav_Comp_len_71_80mm,0.09,9.00270081e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cynipidae,Fig10_Grav_Comp_len_71_80mm,0.09,9.00270081e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Pinnotheridae,Fig10_Grav_Comp_len_71_80mm,0.09,9.00270081e-4,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig10_Grav_Comp_len_71_80mm,0.1,0.00100030009,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psocoptera,Fig10_Grav_Comp_len_71_80mm,0.1,0.00100030009,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera,Fig10_Grav_Comp_len_71_80mm,0.18,0.001800540162,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,Fig10_Grav_Comp_len_71_80mm,0.18,0.001800540162,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Dolichopodidae,Fig10_Grav_Comp_len_71_80mm,0.18,0.001800540162,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Hymenoptera-chalcidoidea,Fig10_Grav_Comp_len_71_80mm,0.18,0.001800540162,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Photis brevipes,Fig10_Grav_Comp_len_71_80mm,0.18,0.001800540162,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Staphylinidae,Fig10_Grav_Comp_len_71_80mm,0.18,0.001800540162,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium brevis,Fig10_Grav_Comp_len_71_80mm,0.27,0.002700810243,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig10_Grav_Comp_len_71_80mm,0.27,0.002700810243,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cercopidae,Fig10_Grav_Comp_len_71_80mm,0.27,0.002700810243,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Anisogammarus pugettensis,Fig10_Grav_Comp_len_71_80mm,0.27,0.002700810243,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Fig10_Grav_Comp_len_71_80mm,0.28,0.002800840252,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella sp.,Fig10_Grav_Comp_len_71_80mm,0.3,0.00300090027,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cyclorrhapha,Fig10_Grav_Comp_len_71_80mm,0.37,0.003701110333,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydridae,Fig10_Grav_Comp_len_71_80mm,0.37,0.003701110333,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Nereidae,Fig10_Grav_Comp_len_71_80mm,0.46,0.004601380414,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig10_Grav_Comp_len_71_80mm,0.56,0.005601680504,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig10_Grav_Comp_len_71_80mm,0.74,0.007402220666,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig10_Grav_Comp_len_71_80mm,1.11,0.011103331,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium insidiosum,Fig10_Grav_Comp_len_71_80mm,1.11,0.011103331,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig10_Grav_Comp_len_71_80mm,1.56,0.0156046814,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium ascherusicum,Fig10_Grav_Comp_len_71_80mm,2.29,0.02290687206,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Pontogeneia ivanovi,Fig10_Grav_Comp_len_71_80mm,3.11,0.0311093328,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig10_Grav_Comp_len_71_80mm,3.12,0.03120936281,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PL,Khakista,Coscinodisceae,Fig10_Grav_Comp_len_71_80mm,3.66,0.03661098329,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Rock,Rock,Fig10_Grav_Comp_len_71_80mm,3.67,0.0367110133,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig10_Grav_Comp_len_71_80mm,4.14,0.04141242373,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-brachyura,Fig10_Grav_Comp_len_71_80mm,5.53,0.05531659498,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysida,Fig10_Grav_Comp_len_71_80mm,7.05,0.07052115635,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig10_Grav_Comp_len_71_80mm,7.26,0.07262178654,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Fig10_Grav_Comp_len_71_80mm,7.34,0.07342202661,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig10_Grav_Comp_len_71_80mm,10.54,0.1054316295,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig10_Grav_Comp_len_71_80mm,15.4,0.1540462139,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,Fig10_Grav_Comp_len_71_80mm,17.22,0.1722516755,10,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig11_Grav_Comp_len_81_90_mm,0.01,9.9980004e-5,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig11_Grav_Comp_len_81_90_mm,0.01,9.9980004e-5,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig11_Grav_Comp_len_81_90_mm,0.01,9.9980004e-5,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig11_Grav_Comp_len_81_90_mm,0.01,9.9980004e-5,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig11_Grav_Comp_len_81_90_mm,0.01,9.9980004e-5,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig11_Grav_Comp_len_81_90_mm,0.01,9.9980004e-5,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Amphipoda-hyperiidea,Fig11_Grav_Comp_len_81_90_mm,0.01,9.9980004e-5,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PLANT,Plants,Plants and plant parts,Fig11_Grav_Comp_len_81_90_mm,0.01,9.9980004e-5,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig11_Grav_Comp_len_81_90_mm,0.01,9.9980004e-5,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Anisogammarus pugettensis,Fig11_Grav_Comp_len_81_90_mm,0.01,9.9980004e-5,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Caligoida,Fig11_Grav_Comp_len_81_90_mm,0.01,9.9980004e-5,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Synchelidium shoemakeri,Fig11_Grav_Comp_len_81_90_mm,0.01,9.9980004e-5,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig11_Grav_Comp_len_81_90_mm,0.03,2.99940012e-4,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium insidiosum,Fig11_Grav_Comp_len_81_90_mm,0.08,7.99840032e-4,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Oncaea sp.,Fig11_Grav_Comp_len_81_90_mm,0.08,7.99840032e-4,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-brachyura,Fig11_Grav_Comp_len_81_90_mm,0.09,8.99820036e-4,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Tanaids,Tanaidacea,Fig11_Grav_Comp_len_81_90_mm,0.25,0.0024995001,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydridae,Fig11_Grav_Comp_len_81_90_mm,0.25,0.0024995001,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig11_Grav_Comp_len_81_90_mm,0.26,0.002599480104,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig11_Grav_Comp_len_81_90_mm,0.35,0.00349930014,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Allorchestes angustus,Fig11_Grav_Comp_len_81_90_mm,0.5,0.0049990002,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Rock,Rock,Fig11_Grav_Comp_len_81_90_mm,0.68,0.006798640272,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig11_Grav_Comp_len_81_90_mm,0.75,0.0074985003,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig11_Grav_Comp_len_81_90_mm,1.17,0.01169766047,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig11_Grav_Comp_len_81_90_mm,1.32,0.01319736053,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig11_Grav_Comp_len_81_90_mm,1.32,0.01319736053,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Photis brevipes,Fig11_Grav_Comp_len_81_90_mm,1.65,0.01649670066,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium brevis,Fig11_Grav_Comp_len_81_90_mm,3.64,0.03639272146,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Fig11_Grav_Comp_len_81_90_mm,4.07,0.04069186163,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig11_Grav_Comp_len_81_90_mm,4.38,0.04379124175,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysida,Fig11_Grav_Comp_len_81_90_mm,6.95,0.06948610278,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig11_Grav_Comp_len_81_90_mm,8.04,0.08038392322,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Pontogeneia ivanovi,Fig11_Grav_Comp_len_81_90_mm,8.6,0.08598280344,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella sp.,Fig11_Grav_Comp_len_81_90_mm,10.2,0.1019796041,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium ascherusicum,Fig11_Grav_Comp_len_81_90_mm,10.59,0.1058788242,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,Fig11_Grav_Comp_len_81_90_mm,34.65,0.3464307139,11,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Oncaea sp.,Fig12_Grav_Comp_N1_80,0.02,2.018774604e-4,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Unidentified egg,Unidentified egg,Fig12_Grav_Comp_N1_80,0.02,2.018774604e-4,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PLANT,Plants,Plants and plant parts,Fig12_Grav_Comp_N1_80,0.02,2.018774604e-4,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Polychaeta,Fig12_Grav_Comp_N1_80,0.04,4.037549208e-4,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Heleidae,Fig12_Grav_Comp_N1_80,0.11,0.001110326032,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig12_Grav_Comp_N1_80,0.12,0.001211264762,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig12_Grav_Comp_N1_80,0.15,0.001514080953,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig12_Grav_Comp_N1_80,0.2,0.002018774604,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig12_Grav_Comp_N1_80,0.21,0.002119713334,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig12_Grav_Comp_N1_80,0.26,0.002624406985,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig12_Grav_Comp_N1_80,0.26,0.002624406985,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig12_Grav_Comp_N1_80,0.3,0.003028161906,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig12_Grav_Comp_N1_80,0.36,0.003633794287,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig12_Grav_Comp_N1_80,0.42,0.004239426668,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig12_Grav_Comp_N1_80,0.44,0.004441304128,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cyclorrhapha,Fig12_Grav_Comp_N1_80,0.49,0.004945997779,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydridae,Fig12_Grav_Comp_N1_80,0.97,0.009791056829,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Fig12_Grav_Comp_N1_80,1.1,0.01110326032,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,Fig12_Grav_Comp_N1_80,1.18,0.01191077016,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig12_Grav_Comp_N1_80,1.39,0.0140304835,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig12_Grav_Comp_N1_80,3.44,0.03472292319,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PL,Khakista,Coscinodisceae,Fig12_Grav_Comp_N1_80,3.89,0.03926516604,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-branchyura,Fig12_Grav_Comp_N1_80,3.91,0.0394670435,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig12_Grav_Comp_N1_80,4.11,0.04148581811,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Rock,Rock,Fig12_Grav_Comp_N1_80,4.68,0.04723932573,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig12_Grav_Comp_N1_80,6.95,0.07015241748,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Fig12_Grav_Comp_N1_80,7.59,0.07661249621,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig12_Grav_Comp_N1_80,8.58,0.0866054305,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig12_Grav_Comp_N1_80,8.7,0.08781669527,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella sp.,Fig12_Grav_Comp_N1_80,11.88,0.1199152115,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig12_Grav_Comp_N1_80,11.91,0.1202180277,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysida,Fig12_Grav_Comp_N1_80,15.37,0.1551428283,12,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig13_Grav_Comp_N2_80,0.04,3.99960004e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig13_Grav_Comp_N2_80,0.04,3.99960004e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig13_Grav_Comp_N2_80,0.04,3.99960004e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-branchyura,Fig13_Grav_Comp_N2_80,0.04,3.99960004e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig13_Grav_Comp_N2_80,0.04,3.99960004e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig13_Grav_Comp_N2_80,0.04,3.99960004e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera,Fig13_Grav_Comp_N2_80,0.04,3.99960004e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Hymenoptera,Fig13_Grav_Comp_N2_80,0.04,3.99960004e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig13_Grav_Comp_N2_80,0.04,3.99960004e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Amphipoda-hyperiidea,Fig13_Grav_Comp_N2_80,0.04,3.99960004e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig13_Grav_Comp_N2_80,0.08,7.99920008e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Polychaeta,Fig13_Grav_Comp_N2_80,0.08,7.99920008e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,Fig13_Grav_Comp_N2_80,0.08,7.99920008e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium ascherusicum,Fig13_Grav_Comp_N2_80,0.08,7.99920008e-4,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig13_Grav_Comp_N2_80,0.15,0.001499850015,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig13_Grav_Comp_N2_80,0.38,0.003799620038,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysida,Fig13_Grav_Comp_N2_80,0.38,0.003799620038,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Unidentified egg,Unidentified egg,Fig13_Grav_Comp_N2_80,0.38,0.003799620038,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium brevis,Fig13_Grav_Comp_N2_80,0.38,0.003799620038,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Tanaids,Tanaidacea,Fig13_Grav_Comp_N2_80,0.38,0.003799620038,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig13_Grav_Comp_N2_80,0.42,0.004199580042,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig13_Grav_Comp_N2_80,0.65,0.006499350065,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig13_Grav_Comp_N2_80,0.88,0.008799120088,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydridae,Fig13_Grav_Comp_N2_80,1.15,0.01149885011,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,SALMON,Salmonidae,Oncorhynchus sp.,Fig13_Grav_Comp_N2_80,1.53,0.01529847015,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium insidiosum,Fig13_Grav_Comp_N2_80,1.57,0.01569843016,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig13_Grav_Comp_N2_80,1.92,0.01919808019,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PL,Khakista,Coscinodisceae,Fig13_Grav_Comp_N2_80,2,0.0199980002,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Fig13_Grav_Comp_N2_80,2.23,0.02229777022,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Staphylinidae,Fig13_Grav_Comp_N2_80,2.69,0.02689731027,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Rock,Rock,Fig13_Grav_Comp_N2_80,3.11,0.03109689031,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig13_Grav_Comp_N2_80,6.18,0.06179382062,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Eogammarus confervicolus,Fig13_Grav_Comp_N2_80,8.48,0.08479152085,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cyclorrhapha,Fig13_Grav_Comp_N2_80,13.51,0.1350864914,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig13_Grav_Comp_N2_80,14.31,0.1430856914,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig13_Grav_Comp_N2_80,17.73,0.1772822718,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig13_Grav_Comp_N2_80,18.88,0.1887811219,13,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig14_Grav_Comp_N4_80,0.01,1e-4,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-branchyura,Fig14_Grav_Comp_N4_80,0.01,1e-4,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Unidentified egg,Unidentified egg,Fig14_Grav_Comp_N4_80,0.01,1e-4,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig14_Grav_Comp_N4_80,0.01,1e-4,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Amphipoda-hyperiidea,Fig14_Grav_Comp_N4_80,0.01,1e-4,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PARASITE,Ecdysozoa,Nematoda,Fig14_Grav_Comp_N4_80,0.01,1e-4,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Gnathostomata,Osteichthyes,Fig14_Grav_Comp_N4_80,0.01,1e-4,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig14_Grav_Comp_N4_80,0.03,3e-4,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Fig14_Grav_Comp_N4_80,0.03,3e-4,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella sp.,Fig14_Grav_Comp_N4_80,0.04,4e-4,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig14_Grav_Comp_N4_80,0.05,5e-4,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Dolichopodidae,Fig14_Grav_Comp_N4_80,0.13,0.0013,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig14_Grav_Comp_N4_80,0.14,0.0014,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig14_Grav_Comp_N4_80,0.15,0.0015,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig14_Grav_Comp_N4_80,0.26,0.0026,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig14_Grav_Comp_N4_80,0.5,0.005,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,Fig14_Grav_Comp_N4_80,0.52,0.0052,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig14_Grav_Comp_N4_80,1.03,0.0103,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig14_Grav_Comp_N4_80,2.17,0.0217,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig14_Grav_Comp_N4_80,5.42,0.0542,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig14_Grav_Comp_N4_80,17.29,0.1729,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,Fig14_Grav_Comp_N4_80,72.17,0.7217,14,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Fig15_Grav_Comp_N5_80,0.01,1.00010001e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig15_Grav_Comp_N5_80,0.01,1.00010001e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig15_Grav_Comp_N5_80,0.01,1.00010001e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig15_Grav_Comp_N5_80,0.01,1.00010001e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Polychaeta,Fig15_Grav_Comp_N5_80,0.01,1.00010001e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Caligoida,Fig15_Grav_Comp_N5_80,0.01,1.00010001e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Caprellidae,Fig15_Grav_Comp_N5_80,0.01,1.00010001e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Cyclopoida,Fig15_Grav_Comp_N5_80,0.01,1.00010001e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BG,Mollusca,Gastropoda,Fig15_Grav_Comp_N5_80,0.01,1.00010001e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Isopoda,Fig15_Grav_Comp_N5_80,0.01,1.00010001e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psocoptera,Fig15_Grav_Comp_N5_80,0.01,1.00010001e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Rock,Rock,Fig15_Grav_Comp_N5_80,0.02,2.00020002e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-branchyura,Fig15_Grav_Comp_N5_80,0.02,2.00020002e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,Fig15_Grav_Comp_N5_80,0.02,2.00020002e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arachnida,Acarina,Fig15_Grav_Comp_N5_80,0.02,2.00020002e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Cirripedia,Fig15_Grav_Comp_N5_80,0.04,4.00040004e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig15_Grav_Comp_N5_80,0.04,4.00040004e-4,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella sp.,Fig15_Grav_Comp_N5_80,0.12,0.001200120012,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Oncaea sp.,Fig15_Grav_Comp_N5_80,0.12,0.001200120012,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Pinnotheridae,Fig15_Grav_Comp_N5_80,0.12,0.001200120012,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Leptochelia sp.,Fig15_Grav_Comp_N5_80,0.13,0.001300130013,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig15_Grav_Comp_N5_80,0.25,0.002500250025,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Staphylinidae,Fig15_Grav_Comp_N5_80,0.25,0.002500250025,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera,Fig15_Grav_Comp_N5_80,0.26,0.002600260026,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,Fig15_Grav_Comp_N5_80,0.37,0.003700370037,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Fig15_Grav_Comp_N5_80,0.38,0.003800380038,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Anisogammarus pugettensis,Fig15_Grav_Comp_N5_80,0.38,0.003800380038,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Tanaids,Tanaidacea,Fig15_Grav_Comp_N5_80,0.42,0.004200420042,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydridae,Fig15_Grav_Comp_N5_80,0.49,0.004900490049,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Dolichopodidae,Fig15_Grav_Comp_N5_80,0.52,0.005200520052,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig15_Grav_Comp_N5_80,0.61,0.006100610061,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-brachycera,Fig15_Grav_Comp_N5_80,0.61,0.006100610061,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Nereidae,Fig15_Grav_Comp_N5_80,0.61,0.006100610061,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Heleidae,Fig15_Grav_Comp_N5_80,0.74,0.007400740074,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium insidiosum,Fig15_Grav_Comp_N5_80,0.74,0.007400740074,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Allorchestes angustus,Fig15_Grav_Comp_N5_80,0.74,0.007400740074,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cyclorrhapha,Fig15_Grav_Comp_N5_80,1.1,0.01100110011,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig15_Grav_Comp_N5_80,1.12,0.01120112011,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig15_Grav_Comp_N5_80,1.51,0.01510151015,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig15_Grav_Comp_N5_80,1.62,0.01620162016,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Photis brevipes,Fig15_Grav_Comp_N5_80,2.7,0.02700270027,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig15_Grav_Comp_N5_80,4.05,0.04050405041,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,Fig15_Grav_Comp_N5_80,4.17,0.04170417042,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig15_Grav_Comp_N5_80,4.29,0.04290429043,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig15_Grav_Comp_N5_80,4.35,0.04350435044,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium brevis,Fig15_Grav_Comp_N5_80,5.76,0.05760576058,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig15_Grav_Comp_N5_80,6.12,0.06120612061,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Pontogeneia ivanovi,Fig15_Grav_Comp_N5_80,16.92,0.1692169217,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium ascherusicum,Fig15_Grav_Comp_N5_80,18.64,0.1864186419,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig15_Grav_Comp_N5_80,19.51,0.195119512,15,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig16_Grav_Comp_N7_80,0.02,2.003004507e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig16_Grav_Comp_N7_80,0.02,2.003004507e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig16_Grav_Comp_N7_80,0.02,2.003004507e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-branchyura,Fig16_Grav_Comp_N7_80,0.02,2.003004507e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydridae,Fig16_Grav_Comp_N7_80,0.02,2.003004507e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig16_Grav_Comp_N7_80,0.02,2.003004507e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig16_Grav_Comp_N7_80,0.02,2.003004507e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig16_Grav_Comp_N7_80,0.02,2.003004507e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Amphipoda-hyperiidea,Fig16_Grav_Comp_N7_80,0.02,2.003004507e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Cyclopoida,Fig16_Grav_Comp_N7_80,0.02,2.003004507e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Thysanoptera,Fig16_Grav_Comp_N7_80,0.02,2.003004507e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig16_Grav_Comp_N7_80,0.04,4.006009014e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig16_Grav_Comp_N7_80,0.04,4.006009014e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,Fig16_Grav_Comp_N7_80,0.04,4.006009014e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,Fig16_Grav_Comp_N7_80,0.04,4.006009014e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Hymenoptera,Fig16_Grav_Comp_N7_80,0.04,4.006009014e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Leptochelia sp.,Fig16_Grav_Comp_N7_80,0.04,4.006009014e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Oithona sp.,Fig16_Grav_Comp_N7_80,0.04,4.006009014e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda,Fig16_Grav_Comp_N7_80,0.06,6.00901352e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arachnida,Acarina,Fig16_Grav_Comp_N7_80,0.06,6.00901352e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera,Fig16_Grav_Comp_N7_80,0.09,9.01352028e-4,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium insidiosum,Fig16_Grav_Comp_N7_80,0.36,0.003605408112,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig16_Grav_Comp_N7_80,0.37,0.003705558338,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Tanaids,Tanaidacea,Fig16_Grav_Comp_N7_80,0.37,0.003705558338,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig16_Grav_Comp_N7_80,0.58,0.00580871307,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig16_Grav_Comp_N7_80,0.78,0.007811717576,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-brachycera,Fig16_Grav_Comp_N7_80,2.69,0.02694041062,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig16_Grav_Comp_N7_80,2.99,0.02994491738,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig16_Grav_Comp_N7_80,3.01,0.03014521783,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig16_Grav_Comp_N7_80,36.22,0.3627441162,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,Fig16_Grav_Comp_N7_80,51.77,0.5184777166,16,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig17_Grav_Comp_N9_80,0.06,6.164594678e-4,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Thysanoptera,Fig17_Grav_Comp_N9_80,0.06,6.164594678e-4,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Malacostraca,Fig17_Grav_Comp_N9_80,0.08,8.219459571e-4,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Rock,Rock,Fig17_Grav_Comp_N9_80,0.08,8.219459571e-4,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,Fig17_Grav_Comp_N9_80,0.08,8.219459571e-4,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera,Fig17_Grav_Comp_N9_80,0.08,8.219459571e-4,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig17_Grav_Comp_N9_80,0.12,0.001232918936,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig17_Grav_Comp_N9_80,0.24,0.002465837871,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Staphylinidae,Fig17_Grav_Comp_N9_80,0.24,0.002465837871,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Cumella sp.,Fig17_Grav_Comp_N9_80,0.44,0.004520702764,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig17_Grav_Comp_N9_80,0.44,0.004520702764,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cercopidae,Fig17_Grav_Comp_N9_80,0.71,0.007294770369,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Eogammarus confervicolus,Fig17_Grav_Comp_N9_80,0.82,0.00842494606,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium brevis,Fig17_Grav_Comp_N9_80,1.01,0.01037706771,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Photis brevipes,Fig17_Grav_Comp_N9_80,1.01,0.01037706771,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium salmonis,Fig17_Grav_Comp_N9_80,1.23,0.01263741909,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig17_Grav_Comp_N9_80,1.33,0.01366485154,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta-lepidoptera,Fig17_Grav_Comp_N9_80,1.61,0.01654166239,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-chironomidae,Fig17_Grav_Comp_N9_80,1.69,0.01736360834,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Corycaeus sp.,Fig17_Grav_Comp_N9_80,1.75,0.01798006781,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig17_Grav_Comp_N9_80,1.75,0.01798006781,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig17_Grav_Comp_N9_80,2.1,0.02157608137,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-branchyura,Fig17_Grav_Comp_N9_80,3.85,0.03955614918,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,Fig17_Grav_Comp_N9_80,4.44,0.04561800062,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig17_Grav_Comp_N9_80,5.56,0.05712524402,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig17_Grav_Comp_N9_80,7.28,0.07479708209,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,Fig17_Grav_Comp_N9_80,8,0.08219459571,17,Salmon_Pearce_et_al_1982_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig17_Grav_Comp_N9_80,51.27,0.5267646152,17,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda-Hyperiidea,Fig18_Nisqually_Num. Comp,0.16,0.001703577513,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Coleoptera,Fig18_Nisqually_Num. Comp,0.22,0.00234241908,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,Fig18_Nisqually_Num. Comp,0.31,0.003300681431,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Crustacea,Calanoida,Fig18_Nisqually_Num. Comp,0.31,0.003300681431,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Araneae,Araneae,Fig18_Nisqually_Num. Comp,0.37,0.003939522998,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Apocrita,Fig18_Nisqually_Num. Comp,0.4,0.004258943782,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus confervicolus,Fig18_Nisqually_Num. Comp,0.45,0.004791311755,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Ephydridae,Fig18_Nisqually_Num. Comp,0.46,0.004897785349,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Crustacea,Cirripedia,Fig18_Nisqually_Num. Comp,0.5,0.005323679727,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Porcellanidae,Fig18_Nisqually_Num. Comp,0.73,0.007772572402,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Ostracoda,Fig18_Nisqually_Num. Comp,0.75,0.007985519591,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium sp.,Fig18_Nisqually_Num. Comp,0.81,0.008624361158,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Empididae,Fig18_Nisqually_Num. Comp,0.87,0.009263202726,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Nematocera,Fig18_Nisqually_Num. Comp,1,0.01064735945,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelida,Nereidae,Fig18_Nisqually_Num. Comp,1.03,0.01096678024,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hemiptera,Fig18_Nisqually_Num. Comp,1.31,0.01394804089,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Cercopidae,Fig18_Nisqually_Num. Comp,1.44,0.01533219761,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Pleocyemata-caridea,Fig18_Nisqually_Num. Comp,1.55,0.01650340716,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psocoptera,Fig18_Nisqually_Num. Comp,2,0.02129471891,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Mysida,Fig18_Nisqually_Num. Comp,2.21,0.0235306644,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Urochordata,Oikopleura sp.,Fig18_Nisqually_Num. Comp,2.23,0.02374361158,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Harpacticoida,Fig18_Nisqually_Num. Comp,2.27,0.02416950596,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium brevis,Fig18_Nisqually_Num. Comp,2.39,0.0254471891,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig18_Nisqually_Num. Comp,2.46,0.02619250426,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Fig18_Nisqually_Num. Comp,2.81,0.02991908007,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Aphididae,Fig18_Nisqually_Num. Comp,3.64,0.03875638842,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Other Diptera,Diptera,Fig18_Nisqually_Num. Comp,3.85,0.0409923339,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Formicidae,Fig18_Nisqually_Num. Comp,4.11,0.04376064736,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Aphididae,Insecta,Fig18_Nisqually_Num. Comp,4.47,0.04759369676,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda-brachyura,Fig18_Nisqually_Num. Comp,4.81,0.05121379898,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera-chironomidae,Fig18_Nisqually_Num. Comp,6.26,0.06665247019,18,Salmon_Pearce_et_al_1982_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Cumella vulgaris,Fig18_Nisqually_Num. Comp,37.74,0.4018313458,18,Salmon_Pearce_et_al_1982_A

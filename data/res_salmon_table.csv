@@ -1,0 +1,6 @@
+atlantis_fg,atlantis_name,long_name,follows_distribution,code,long_name_base
+CRH,ChinookResH_Fish,Chinook resident Hood canal,ChinookHY_Fish,CHC,Chinook Hood Canal Subyearling
+CRC,ChinookResN_Fish,Chinook resident North Puget Sound,ChinookSSY_Fish,CSN,Chinook Snohomish Subyearling
+CRW,ChinookResW_Fish,Chinook resident central south Puget Sound,ChinookDSY_Fish,CDS,Chinook Duwamish Subyearling
+COR,CohoRes_Fish,Coho resident Puget Sound wide,CohoHY_Fish,COH,Coho Hatch Yearling
+CDR,CohoResD_Fish,Coho resident Deep South Yearling,CohoDSY_Fish,COD,Coho Deep South Yearling

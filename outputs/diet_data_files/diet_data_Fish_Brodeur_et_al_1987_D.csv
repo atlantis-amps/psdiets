@@ -1,0 +1,238 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+DOG,adult,Chordata,Squalus acanthias,ZG,Cnidaria,Velella velella,Table4_%W_1981,46.8,0.4675324675,1,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,BMS,Cephalopoda,Cephalopoda,Table4_%W_1981,1.1,0.01098901099,1,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,ZL,Euphausiacea,Euphausiacea,Table4_%W_1981,0.1,9.99000999e-4,1,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FPS,Osteichthyes,Engraulis mordax,Table4_%W_1981,17.8,0.1778221778,1,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Pleuronectidae,Table4_%W_1981,3.5,0.03496503497,1,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FISH,Osteichthyes,Osteichthyes,Table4_%W_1981,24.9,0.2487512488,1,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,NA,Unidentified,Unidentified,Table4_%W_1981,5.9,0.05894105894,1,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,BMS,Cephalopoda,Cephalopoda,Table4_%W_1982,0.3,0.003174603175,2,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,ZL,Euphausiacea,Euphausiacea,Table4_%W_1982,0.1,0.001058201058,2,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,HE,Osteichthyes,Clupea harengus pallasii,Table4_%W_1982,0.6,0.006349206349,2,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FPS,Osteichthyes,Engraulis mordax,Table4_%W_1982,0.3,0.003174603175,2,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FMM,Osteichthyes,Merluccius productus,Table4_%W_1982,31.2,0.3301587302,2,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Citharichthys spp.,Table4_%W_1982,3.8,0.04021164021,2,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Pleuronectidae,Table4_%W_1982,3.1,0.0328042328,2,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Glyptocephalus zachirus,Table4_%W_1982,1.8,0.01904761905,2,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Parophrys vetulus,Table4_%W_1982,1.6,0.01693121693,2,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Unidentified flatfish,Table4_%W_1982,0.8,0.008465608466,2,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FISH,Osteichthyes,Osteichthyes,Table4_%W_1982,46.7,0.4941798942,2,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,NA,Unidentified,Unidentified,Table4_%W_1982,4.2,0.04444444444,2,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,ZG,Ctenophora,Ctenophora,Table4_%W_1983,0.2,0.001998001998,3,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,ZL,Euphausiacea,Thysanoessa spinifera,Table4_%W_1983,0.9,0.008991008991,3,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FPS,Osteichthyes,Engraulis mordax,Table4_%W_1983,7.5,0.07492507493,3,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Unidentified flatfish,Table4_%W_1983,38.5,0.3846153846,3,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FISH,Osteichthyes,Osteichthyes,Table4_%W_1983,52.8,0.5274725275,3,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,NA,Unidentified,Unidentified,Table4_%W_1983,0.2,0.001998001998,3,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,ZG,Cnidaria,Cnidaria,Table4_%W_1984,2.5,0.0250501002,4,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,ZL,Euphausiacea,Euphausia pacifica,Table4_%W_1984,28.8,0.2885771543,4,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,PWN,Decapoda,Pandalus jordani,Table4_%W_1984,0.3,0.003006012024,4,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FMM,Osteichthyes,Merluccius productus,Table4_%W_1984,6.5,0.06513026052,4,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Citharichthys spp.,Table4_%W_1984,1.7,0.01703406814,4,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Pleuronectidae,Table4_%W_1984,7.6,0.07615230461,4,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Glyptocephalus zachirus,Table4_%W_1984,7.1,0.07114228457,4,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Unidentified flatfish,Table4_%W_1984,6.6,0.06613226453,4,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FISH,Osteichthyes,Osteichthyes,Table4_%W_1984,34.2,0.3426853707,4,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,NA,Unidentified,Unidentified,Table4_%W_1984,4.5,0.04509018036,4,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,HE,Osteichthyes,Clupea harengus pallasii,Table4_%W_1979_1980,5.3,0.0537525355,5,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FMM,Osteichthyes,Merluccius productus,Table4_%W_1979_1980,18.3,0.1855983773,5,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Pleuronectidae,Table4_%W_1979_1980,60,0.6085192698,5,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,FDF,Osteichthyes,Unidentified flatfish,Table4_%W_1979_1980,12.5,0.1267748479,5,Fish_Brodeur_et_al_1987_D
+DOG,adult,Chordata,Squalus acanthias,NA,Unidentified,Unidentified,Table4_%W_1979_1980,2.5,0.02535496957,5,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Alosa sapidissima,BMS,Cephalopoda,Cephalopoda,Table8_%W_1981_1984,0.6,0.006,6,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Alosa sapidissima,ZM,Copepda,Calanus spp.,Table8_%W_1981_1984,39.2,0.392,6,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Alosa sapidissima,BD,Amphipoda,Hyperia medusarum,Table8_%W_1981_1984,0.7,0.007,6,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Alosa sapidissima,ZL,Euphausiacea,Euphausia pacifica,Table8_%W_1981_1984,1.4,0.014,6,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Alosa sapidissima,ZL,Euphausiacea,Nyctiphanes simplex,Table8_%W_1981_1984,0.1,0.001,6,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Alosa sapidissima,ZL,Euphausiacea,Thysanoessa spinifera,Table8_%W_1981_1984,23.9,0.239,6,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Alosa sapidissima,ZL,Euphausiacea,Euphausiacea,Table8_%W_1981_1984,25.6,0.256,6,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Alosa sapidissima,BML,Decapoda,Cancer magister zoea,Table8_%W_1981_1984,0.1,0.001,6,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Alosa sapidissima,BML,Decapoda,Decapoda,Table8_%W_1981_1984,0.1,0.001,6,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Alosa sapidissima,NA,Unidentified,Unidentified,Table8_%W_1981_1984,8.3,0.083,6,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZL,Mollusca,Limacina helicina,Table9_%W_1981,0.2,0.001998001998,7,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZM,Arthropoda,Calanus spp.,Table9_%W_1981,7.9,0.07892107892,7,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,BD,Amphipoda,Hyperia medusarum,Table9_%W_1981,0.1,9.99000999e-4,7,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,BD,Amphipoda,Unidentified Hyperiidea,Table9_%W_1981,0.3,0.002997002997,7,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZL,Euphausiacea,Euphausia pacifica,Table9_%W_1981,37.3,0.3726273726,7,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZL,Euphausiacea,Thysanoessa spinifera,Table9_%W_1981,14.3,0.1428571429,7,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZL,Euphausiacea,Euphausiacea,Table9_%W_1981,36.5,0.3646353646,7,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,FPS,Osteichthyes,Osmeridae,Table9_%W_1981,1.1,0.01098901099,7,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,FISH,Osteichthyes,Osteichthyes,Table9_%W_1981,0.2,0.001998001998,7,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,NA,Unidentified,Unidentified,Table9_%W_1981,2.2,0.02197802198,7,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,BD,Amphipoda,Hyperia medusarum,Table9_%W_1982,3.7,0.03645320197,8,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,BD,Amphipoda,Themisto pacifica,Table9_%W_1982,0.2,0.00197044335,8,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,BD,Amphipoda,Themisto pacifica,Table9_%W_1982,1.5,0.01477832512,8,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZL,Euphausiacea,Euphausia pacifica,Table9_%W_1982,31.7,0.3123152709,8,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZL,Euphausiacea,Thysanoessa spinifera,Table9_%W_1982,51.7,0.5093596059,8,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZL,Euphausiacea,Euphausiacea,Table9_%W_1982,7.8,0.07684729064,8,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,BML,Decapoda,Decapoda,Table9_%W_1982,1.2,0.0118226601,8,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,NA,Unidentified,Unidentified,Table9_%W_1982,3.7,0.03645320197,8,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZM,Arthropoda,Calanus spp.,Table9_%W_1983,11.6,0.1176470588,9,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,BD,Amphipoda,Hyperia medusarum,Table9_%W_1983,0.9,0.009127789047,9,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,BD,Amphipoda,Hyperoche medusarum,Table9_%W_1983,0.9,0.009127789047,9,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,BD,Amphipoda,Vibilia armata,Table9_%W_1983,3.4,0.03448275862,9,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZL,Euphausiacea,Nyctiphanes simplex,Table9_%W_1983,7.8,0.07910750507,9,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZL,Euphausiacea,Euphausiacea,Table9_%W_1983,33.6,0.3407707911,9,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,BML,Decapoda,Paguridae,Table9_%W_1983,0.1,0.001014198783,9,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,FISH,Osteichthyes,Osteichthyes,Table9_%W_1983,0.7,0.007099391481,9,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,NA,Unidentified,Unidentified,Table9_%W_1983,39.6,0.4016227181,9,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZM,Arthropoda,Calanus spp.,Table9_%W_1984,67.2,0.6686567164,10,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,ZL,Euphausiacea,Thysanoessa spinifera,Table9_%W_1984,0.5,0.004975124378,10,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,BML,Decapoda,Cancer spp. Zoea,Table9_%W_1984,31.3,0.3114427861,10,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,FISH,Osteichthyes,Osteichthyes,Table9_%W_1984,0.2,0.001990049751,10,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,FISH,Osteichthyes,Osteichthyes,Table9_%W_1984,0.1,9.950248756e-4,10,Fish_Brodeur_et_al_1987_D
+HE,adult,Chordata,Clupea harengus pallasii,NA,Unidentified,Unidentified,Table9_%W_1984,1.2,0.01194029851,10,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Engraulis mordax,ZL,Mollusca,Limacina helicina,Table11_%W_1981,18.5,0.1848151848,11,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Engraulis mordax,BMS,Cephalopoda,Cephalopoda,Table11_%W_1981,0.2,0.001998001998,11,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Engraulis mordax,ZM,Copepoda,Copepoda,Table11_%W_1981,5.4,0.05394605395,11,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Engraulis mordax,BD,Amphipoda,Themisto pacifica,Table11_%W_1981,0.3,0.002997002997,11,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Engraulis mordax,ZL,Euphausiacea,Euphausia pacifica,Table11_%W_1981,7.4,0.07392607393,11,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Engraulis mordax,ZL,Euphausiacea,Thysanoessa spinifera,Table11_%W_1981,1.2,0.01198801199,11,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Engraulis mordax,ZL,Euphausiacea,Euphausiacea,Table11_%W_1981,5,0.04995004995,11,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Engraulis mordax,BML,Decapoda,Cancer magister megalopae,Table11_%W_1981,2.7,0.02697302697,11,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Engraulis mordax,NA,Osteichthyes,Unidentified eggs,Table11_%W_1981,0.4,0.003996003996,11,Fish_Brodeur_et_al_1987_D
+FPS,adult,Chordata,Engraulis mordax,NA,Unidentified,Unidentified,Table11_%W_1981,59,0.5894105894,11,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZG,Cnidaria,Velella velella,Table12_%W_1981,8.1,0.07972440945,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Gastropoda,Limacina helicina,Table12_%W_1981,1.1,0.01082677165,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,SQX,Gastropoda,Loligo opalescens,Table12_%W_1981,10.3,0.1013779528,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BD,Amphipoda,Parathemisto pacifica,Table12_%W_1981,1.5,0.01476377953,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Euphausia pacifica,Table12_%W_1981,1.5,0.01476377953,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Thysanoessa spinifera,Table12_%W_1981,0.1,9.842519685e-4,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Euphausiacea,Table12_%W_1981,0.3,0.002952755906,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer magister megalopae,Table12_%W_1981,2.2,0.02165354331,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer oregonensis megalopae,Table12_%W_1981,0.1,9.842519685e-4,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer spp. Zoea,Table12_%W_1981,0.2,0.001968503937,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Pinotheridae megalopae,Table12_%W_1981,0.8,0.007874015748,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,HE,Osteichthyes,Clupea harengus pallasii,Table12_%W_1981,13.5,0.1328740157,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FPS,Osteichthyes,Engraulis mordax,Table12_%W_1981,55.3,0.5442913386,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ROCKFISH,Osteichthyes,Sebastes spp.,Table12_%W_1981,0.1,9.842519685e-4,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ROC,Osteichthyes,Hemilepidotus spinosus,Table12_%W_1981,0.3,0.002952755906,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FISH,Osteichthyes,Osteichthyes,Table12_%W_1981,6.2,0.06102362205,12,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Gastropoda,Limacina helicina,Table12_%W_1982,0.2,0.002008032129,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,SQX,Gastropoda,Loligo opalescens,Table12_%W_1982,3.8,0.03815261044,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Euphausia pacifica,Table12_%W_1982,5,0.05020080321,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Thysanoessa spinifera,Table12_%W_1982,38.6,0.3875502008,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Euphausiacea,Table12_%W_1982,1.9,0.01907630522,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer magister megalopae,Table12_%W_1982,3.2,0.03212851406,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer oregonensis megalopae,Table12_%W_1982,0.9,0.009036144578,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,HE,Osteichthyes,Clupea harengus pallasii,Table12_%W_1982,6.2,0.06224899598,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FPS,Osteichthyes,Engraulis mordax,Table12_%W_1982,25.2,0.2530120482,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FMM,Osteichthyes,Gadidae,Table12_%W_1982,0.2,0.002008032129,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ROCKFISH,Osteichthyes,Sebastes spp.,Table12_%W_1982,3.5,0.03514056225,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,SMD,Osteichthyes,Cottidae,Table12_%W_1982,0.2,0.002008032129,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FPS,Osteichthyes,Ammodytes hexapterus,Table12_%W_1982,1.9,0.01907630522,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FISH,Osteichthyes,Osteichthyes,Table12_%W_1982,0.7,0.00702811245,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FISH,Osteichthyes,Unidentified fish remains,Table12_%W_1982,8,0.08032128514,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FISH,Osteichthyes,Osteichthyes,Table12_%W_1982,0.1,0.001004016064,13,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZG,Cnidaria,Cnidaria,Table12_%W_1983,0.2,0.001951219512,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Gastropoda,Limacina helicina,Table12_%W_1983,0.2,0.001951219512,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Thysanoessa spinifera,Table12_%W_1983,0.3,0.002926829268,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Euphausiacea,Table12_%W_1983,0.1,9.756097561e-4,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,PWN,Decapoda,Pandalus spp. zoea,Table12_%W_1983,0.1,9.756097561e-4,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer magister megalopae,Table12_%W_1983,28.6,0.2790243902,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer oregonensis megalopae,Table12_%W_1983,0.6,0.005853658537,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer spp. Zoea,Table12_%W_1983,0.7,0.006829268293,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Fabia subquadrata zoea,Table12_%W_1983,0.5,0.00487804878,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Pinotheridae megalopae,Table12_%W_1983,3,0.02926829268,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,HE,Osteichthyes,Clupea harengus pallasii,Table12_%W_1983,18.1,0.1765853659,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FPS,Osteichthyes,Engraulis mordax,Table12_%W_1983,35.1,0.3424390244,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ROCKFISH,Osteichthyes,Sebastes spp.,Table12_%W_1983,2.7,0.02634146341,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FVS,Osteichthyes,Scorpaenichthys marmoratus,Table12_%W_1983,0.4,0.003902439024,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FPS,Osteichthyes,Ammodytes hexapterus,Table12_%W_1983,0.3,0.002926829268,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FDF,Osteichthyes,Glyptocephalus zachirus,Table12_%W_1983,0.2,0.001951219512,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FDF,Osteichthyes,Isopsetta isolepis,Table12_%W_1983,0.1,9.756097561e-4,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FDF,Osteichthyes,Psettichthys melanostictus,Table12_%W_1983,0.1,9.756097561e-4,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FISH,Osteichthyes,Osteichthyes,Table12_%W_1983,0.2,0.001951219512,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FISH,Osteichthyes,Unidentified fish remains,Table12_%W_1983,8.4,0.08195121951,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FISH,Osteichthyes,Osteichthyes,Table12_%W_1983,2.6,0.02536585366,14,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,SQX,Gastropoda,Loligo opalescens,Table12_%W_1984,3.9,0.03865213082,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Euphausia pacifica,Table12_%W_1984,23.3,0.2309217047,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Thysanoessa spinifera,Table12_%W_1984,7,0.06937561943,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Euphausiacea,Table12_%W_1984,6,0.05946481665,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer magister megalopae,Table12_%W_1984,2.8,0.02775024777,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer oregonensis megalopae,Table12_%W_1984,7.9,0.07829534192,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer spp. Zoea,Table12_%W_1984,0.1,9.910802775e-4,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Fabia subquadrata zoea,Table12_%W_1984,10.3,0.1020812686,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,INSECT,Insecta,Choristoneura occidentalis,Table12_%W_1984,1.3,0.01288404361,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,INSECT,Insecta,Diptera,Table12_%W_1984,0.3,0.002973240833,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,INSECT,Insecta,Insecta,Table12_%W_1984,0.3,0.002973240833,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,HE,Osteichthyes,Clupea harengus pallasii,Table12_%W_1984,18.2,0.1803766105,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FPS,Osteichthyes,Engraulis mordax,Table12_%W_1984,9.6,0.09514370664,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FPS,Osteichthyes,Cololabis saira,Table12_%W_1984,2.2,0.02180376611,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,SMD,Osteichthyes,Cottidae,Table12_%W_1984,0.1,9.910802775e-4,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FDF,Osteichthyes,Citharichthys spp.,Table12_%W_1984,1.5,0.01486620416,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FISH,Osteichthyes,Unidentified fish remains,Table12_%W_1984,5.5,0.05450941526,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FISH,Osteichthyes,Osteichthyes,Table12_%W_1984,0.6,0.005946481665,15,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,SQX,Gastropoda,Loligo opalescens,Table12_%W_1979_1980,1.8,0.01823708207,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BD,Amphipoda,Atylus tridens,Table12_%W_1979_1980,0.1,0.001013171226,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Thysanoessa spinifera,Table12_%W_1979_1980,10,0.1013171226,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ZL,Euphausiacea,Euphausiacea,Table12_%W_1979_1980,0.5,0.00506585613,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,PWN,Decapoda,Crangon spp. Zoea,Table12_%W_1979_1980,0.1,0.001013171226,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer magister megalopae,Table12_%W_1979_1980,23.3,0.2360688956,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Cancer oregonensis megalopae,Table12_%W_1979_1980,0.3,0.003039513678,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Pinotheridae megalopae,Table12_%W_1979_1980,4.2,0.04255319149,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,BML,Decapoda,Decapoda,Table12_%W_1979_1980,0.1,0.001013171226,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FPS,Osteichthyes,Engraulis mordax,Table12_%W_1979_1980,44,0.4457953394,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FPS,Osteichthyes,Hypomesus pretiosus,Table12_%W_1979_1980,1.6,0.01621073961,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FPS,Osteichthyes,Allosmerus elongatus,Table12_%W_1979_1980,6.2,0.06281661601,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,ROCKFISH,Osteichthyes,Sebastes spp.,Table12_%W_1979_1980,2.1,0.02127659574,16,Fish_Brodeur_et_al_1987_D
+CO,adult,Chordata,Onchorhynchus kisutch,FISH,Osteichthyes,Osteichthyes,Table12_%W_1979_1980,4.4,0.04457953394,16,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ZG,Cnidaria,Hidromedusae,Table14_%W_1981,0.3,0.003003003003,17,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ZL,Gastropoda,Limacina helicina,Table14_%W_1981,1.3,0.01301301301,17,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FPS,Osteichthyes,Engraulis mordax,Table14_%W_1981,86.8,0.8688688689,17,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ROCKFISH,Osteichthyes,Sebastes spp. Juvenile,Table14_%W_1981,0.2,0.002002002002,17,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FISH,Osteichthyes,Unidentified fish remains,Table14_%W_1981,11.3,0.1131131131,17,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ZL,Gastropoda,Limacina helicina,Table14_%W_1982,0.2,0.003294892916,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,SQX,Gastropoda,Loligo opalescens,Table14_%W_1982,0.4,0.006589785832,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,BG,Gastropoda,Gastropoda,Table14_%W_1982,0.4,0.006589785832,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ZL,Euphausiacea,Euphausia pacifica,Table14_%W_1982,2.9,0.04777594728,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,BML,Decapoda,Cancer magister megalopae,Table14_%W_1982,0.6,0.009884678748,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,HE,Osteichthyes,Clupea harengus pallasii,Table14_%W_1982,2.6,0.04283360791,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FPS,Osteichthyes,Engraulis mordax,Table14_%W_1982,34.6,0.5700164745,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FPS,Osteichthyes,Allosmerus elongatus,Table14_%W_1982,2.2,0.03624382208,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FMM,Osteichthyes,Merluccius productus,Table14_%W_1982,10,0.1647446458,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ROCKFISH,Osteichthyes,Sebastes spp. Juvenile,Table14_%W_1982,0.1,0.001647446458,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ROC,Osteichthyes,Hemilepidotus spinosus,Table14_%W_1982,0.3,0.004942339374,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FPS,Osteichthyes,Ammodytes hexapterus,Table14_%W_1982,0.1,0.001647446458,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FISH,Osteichthyes,Unidentified fish remains,Table14_%W_1982,6.3,0.1037891269,18,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ZG,Cnidaria,Cnidaria,Table14_%W_1983,0.1,0.001050420168,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,SQX,Gastropoda,Loligo opalescens,Table14_%W_1983,0.1,0.001050420168,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,BMS,Gastropoda,Octopus spp.,Table14_%W_1983,0.2,0.002100840336,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ZL,Euphausiacea,Euphausia pacifica,Table14_%W_1983,0.1,0.001050420168,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ZL,Euphausiacea,Thysanoessa spinifera,Table14_%W_1983,1.8,0.01890756303,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,BML,Decapoda,Cancer magister megalopae,Table14_%W_1983,1.9,0.01995798319,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,HE,Osteichthyes,Clupea harengus pallasii,Table14_%W_1983,15.4,0.1617647059,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FPS,Osteichthyes,Engraulis mordax,Table14_%W_1983,46.9,0.4926470588,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,MYCTOPHID,Osteichthyes,Stenobranchius leucopsarus,Table14_%W_1983,15.2,0.1596638655,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FMM,Osteichthyes,Theragra chalcogramma,Table14_%W_1983,0.2,0.002100840336,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ROCKFISH,Osteichthyes,Sebastes spp. Juvenile,Table14_%W_1983,0.2,0.002100840336,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ROC,Osteichthyes,Hemilepidotus spinosus,Table14_%W_1983,3.6,0.03781512605,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,SMD,Osteichthyes,Cottidae,Table14_%W_1983,1,0.01050420168,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FDF,Osteichthyes,Glyptocephalus zachirus,Table14_%W_1983,0.2,0.002100840336,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FDF,Osteichthyes,Psettichthys melanostictus,Table14_%W_1983,3.8,0.03991596639,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FISH,Osteichthyes,Unidentified fish remains,Table14_%W_1983,3.1,0.03256302521,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FISH,Osteichthyes,Osteichthyes,Table14_%W_1983,1.4,0.01470588235,19,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,BG,Gastropoda,Gastropoda,Table14_%W_1984,0.7,0.00773480663,20,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ZL,Euphausiacea,Euphausia pacifica,Table14_%W_1984,1.7,0.01878453039,20,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,BML,Decapoda,Cancer magister megalopae,Table14_%W_1984,16.1,0.1779005525,20,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,BML,Decapoda,Cancer aragonensis megalopae,Table14_%W_1984,3.4,0.03756906077,20,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,BML,Decapoda,Fabia subquadrata zoea,Table14_%W_1984,0.7,0.00773480663,20,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FPS,Osteichthyes,Engraulis mordax,Table14_%W_1984,43.9,0.4850828729,20,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ROCKFISH,Osteichthyes,Sebastes spp. Juvenile,Table14_%W_1984,8.1,0.08950276243,20,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,ROC,Osteichthyes,Hemilepidotus spinosus,Table14_%W_1984,0.4,0.004419889503,20,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FISH,Osteichthyes,Unidentified fish larvae,Table14_%W_1984,0.3,0.003314917127,20,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FISH,Osteichthyes,Unidentified fish remains,Table14_%W_1984,14.1,0.155801105,20,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,NA,Unidentified,Unidentified,Table14_%W_1984,1.1,0.01215469613,20,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,BML,Decapoda,Cancer magister megalopae,Table14_%W_1979_1980,1,0.00999000999,21,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,HE,Osteichthyes,Clupea harengus pallasii,Table14_%W_1979_1980,84.2,0.8411588412,21,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FPS,Osteichthyes,Engraulis mordax,Table14_%W_1979_1980,12,0.1198801199,21,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FPS,Osteichthyes,Ammodytes hexapterus,Table14_%W_1979_1980,0.6,0.005994005994,21,Fish_Brodeur_et_al_1987_D
+CI,adult,Chordata,Onchorhynchus tshawytscha,FISH,Osteichthyes,Unidentified fish remains,Table14_%W_1979_1980,2.3,0.02297702298,21,Fish_Brodeur_et_al_1987_D
+PIS,adult,Chordata,Oncorhynchus gorbuscha,ZL,Gastropoda,Limacina helicina,Table16_%W_1981,42,0.4682274247,22,Fish_Brodeur_et_al_1987_D
+PIS,adult,Chordata,Oncorhynchus gorbuscha,BD,Amphipoda,Primno macropa,Table16_%W_1981,0.1,0.001114827202,22,Fish_Brodeur_et_al_1987_D
+PIS,adult,Chordata,Oncorhynchus gorbuscha,ZL,Euphausiacea,Thysanoessa spinifera,Table16_%W_1981,13.3,0.1482720178,22,Fish_Brodeur_et_al_1987_D
+PIS,adult,Chordata,Oncorhynchus gorbuscha,BML,Decapoda,Cancer magister megalopae,Table16_%W_1981,15.4,0.1716833891,22,Fish_Brodeur_et_al_1987_D
+PIS,adult,Chordata,Oncorhynchus gorbuscha,BML,Decapoda,Cancer oregonensis megalopae,Table16_%W_1981,1.6,0.01783723523,22,Fish_Brodeur_et_al_1987_D
+PIS,adult,Chordata,Oncorhynchus gorbuscha,ROC,Osteichthyes,Hemilepidotus spinosus,Table16_%W_1981,0.5,0.005574136009,22,Fish_Brodeur_et_al_1987_D
+PIS,adult,Chordata,Oncorhynchus gorbuscha,FISH,Osteichthyes,Osteichthyes,Table16_%W_1981,16.5,0.1839464883,22,Fish_Brodeur_et_al_1987_D
+PIS,adult,Chordata,Oncorhynchus gorbuscha,NA,Unidentified,Unidentified,Table16_%W_1981,0.3,0.003344481605,22,Fish_Brodeur_et_al_1987_D

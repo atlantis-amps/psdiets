@@ -1,0 +1,421 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0.45,0.45,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0.24,0.24,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0.04,0.04,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0.01,0.01,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0,0,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0,0,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0,0,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0.17,0.17,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0,0,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0,0,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0.09,0.09,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0,0,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0,0,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_1_MAY_NorthPugetSound,0,0,1,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0.33,0.33,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0.25,0.25,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0.01,0.01,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0,0,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0,0,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0,0,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0,0,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0,0,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0,0,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0,0,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0.36,0.36,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0,0,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0,0,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_1_JUN_NorthPugetSound,0.05,0.05,2,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0.23,0.23,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0.1,0.1,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0.16,0.16,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0,0,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0,0,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0,0,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0,0,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0,0,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0.02,0.02,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0,0,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0.39,0.39,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0,0,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0.04,0.04,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_1_JUL_NorthPugetSound,0.06,0.06,3,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0,0,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0,0,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0,0,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0.25,0.25,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0,0,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0,0,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0,0,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0,0,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0,0,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0,0,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0,0,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0.11,0.11,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0.39,0.39,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_1_AUG_NorthPugetSound,0.25,0.25,4,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0.39,0.39,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0,0,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0,0,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0,0,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0,0,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0,0,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0,0,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0,0,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0,0,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0.29,0.29,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0.22,0.22,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0,0,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0,0,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_1_SEP_NorthPugetSound,0.1,0.1,5,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0.09,0.09,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0,0,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0,0,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0.03,0.03,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0,0,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0.07,0.07,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0,0,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0.4,0.4,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0.12,0.12,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0,0,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0.18,0.18,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0,0,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0,0,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_2_APR_NorthPugetSound,0.11,0.11,6,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0.38,0.38,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0.1,0.1,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0,0,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0.09,0.09,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0.11,0.11,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0,0,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0,0,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0.09,0.09,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0.1,0.1,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0,0,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0.04,0.04,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0,0,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0,0,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_2_MAY_NorthPugetSound,0.09,0.09,7,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0.44,0.44,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0.1,0.1,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0.09,0.09,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0,0,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0,0,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0,0,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0,0,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0,0,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0,0,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0,0,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0.35,0.35,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0,0,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0,0,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_2_JUN_NorthPugetSound,0.02,0.02,8,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0.23,0.23,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0.1,0.1,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0.16,0.16,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0,0,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0,0,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0,0,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0,0,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0,0,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0.02,0.02,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0,0,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0.39,0.39,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0,0,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0.04,0.04,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_2_JUL_NorthPugetSound,0.06,0.06,9,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0,0,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0,0,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0,0,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0.25,0.25,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0,0,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0,0,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0,0,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0,0,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0,0,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0,0,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0,0,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0.11,0.11,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0.39,0.39,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_2_AUG_NorthPugetSound,0.25,0.25,10,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0.39,0.39,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0,0,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0,0,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0,0,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0,0,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0,0,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0,0,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0,0,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0,0,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0.29,0.29,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0.22,0.22,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0,0,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0,0,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_2_SEP_NorthPugetSound,0.1,0.1,11,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0.71,0.702970297,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0.01,0.009900990099,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0,0,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0.07,0.06930693069,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0,0,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0.07,0.06930693069,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0,0,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0.07,0.06930693069,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0,0,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0,0,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0.04,0.0396039604,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0.04,0.0396039604,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0,0,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_3_APR_NorthPugetSound,0,0,12,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0.32,0.3232323232,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0.15,0.1515151515,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0.11,0.1111111111,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0.08,0.08080808081,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0,0,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0,0,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0.27,0.2727272727,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0,0,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0.06,0.06060606061,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0,0,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0,0,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0,0,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0,0,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_3_MAY_NorthPugetSound,0,0,13,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0,0,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0,0,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0,0,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0,0,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0.08,0.08,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0,0,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0.02,0.02,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0,0,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0.1,0.1,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0.6,0.6,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0,0,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0,0,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0.1,0.1,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_3_JUN_NorthPugetSound,0.1,0.1,14,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0.17,0.17,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0,0,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0,0,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0,0,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0.17,0.17,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0,0,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0,0,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0,0,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0,0,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0.17,0.17,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0.33,0.33,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0,0,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0,0,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_3_JUL-AUG_NorthPugetSound,0.16,0.16,15,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0.29,0.29,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0,0,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0,0,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0,0,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0,0,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0,0,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0,0,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0,0,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0,0,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0.2,0.2,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0.31,0.31,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0,0,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0.1,0.1,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_3_SEP_NorthPugetSound,0.1,0.1,16,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0.53,0.5353535354,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0.15,0.1515151515,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0.01,0.0101010101,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0.01,0.0101010101,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0,0,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0.11,0.1111111111,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0,0,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0,0,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0.04,0.0404040404,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0,0,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0.04,0.0404040404,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0,0,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0,0,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_1_JUN_SouthernPugetSound,0.1,0.101010101,17,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0.54,0.54,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0.23,0.23,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0.23,0.23,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0,0,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0,0,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0,0,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0,0,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0,0,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0,0,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0,0,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0,0,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0,0,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0,0,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_1_JUL_SouthernPugetSound,0,0,18,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0.5,0.5,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0.28,0.28,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0.19,0.19,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0.03,0.03,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0,0,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0,0,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0,0,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0,0,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0,0,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0,0,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0,0,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0,0,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0,0,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_1_AUG_SouthernPugetSound,0,0,19,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0.88,0.88,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0.02,0.02,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0.1,0.1,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0,0,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0,0,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0,0,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0,0,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0,0,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0,0,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0,0,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0,0,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0,0,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0,0,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_1_SEP_SouthernPugetSound,0,0,20,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0.43,0.4257425743,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0.24,0.2376237624,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0.01,0.009900990099,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0.04,0.0396039604,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0.03,0.0297029703,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0,0,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0,0,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0.08,0.07920792079,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0.05,0.0495049505,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0.03,0.0297029703,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0.02,0.0198019802,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0,0,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0,0,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_2_APR-MAY_SouthernPugetSound,0.08,0.07920792079,21,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0.31,0.3039215686,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0.09,0.08823529412,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0.02,0.01960784314,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0.06,0.05882352941,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0.1,0.09803921569,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0.03,0.02941176471,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0,0,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0,0,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0.2,0.1960784314,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0.05,0.04901960784,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0,0,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0.03,0.02941176471,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0,0,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_2_JUN_SouthernPugetSound,0.13,0.1274509804,22,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0.52,0.52,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0.18,0.18,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0.04,0.04,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0.13,0.13,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0,0,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0,0,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0,0,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0.03,0.03,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0.07,0.07,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0,0,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0,0,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0,0,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0.03,0.03,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_2_JUL_SouthernPugetSound,0,0,23,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0.31,0.3069306931,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0.22,0.2178217822,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0.01,0.009900990099,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0,0,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0,0,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0,0,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0,0,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0,0,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0,0,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0.25,0.2475247525,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0,0,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0,0,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0.22,0.2178217822,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_2_AUG_SouthernPugetSound,0,0,24,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0.73,0.73,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0.07,0.07,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0.05,0.05,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0.01,0.01,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0,0,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0,0,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0,0,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0,0,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0,0,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0,0,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0.03,0.03,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0,0,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0.09,0.09,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_2_SEP_SouthernPugetSound,0.02,0.02,25,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0.81,0.81,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0,0,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0,0,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0,0,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0,0,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0,0,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0,0,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0,0,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0,0,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0,0,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0.19,0.19,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0,0,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0,0,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_3_APR_SouthernPugetSound,0,0,26,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0.14,0.1414141414,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0,0,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0,0,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0,0,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0.43,0.4343434343,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0,0,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0.14,0.1414141414,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0,0,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0.14,0.1414141414,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0,0,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0,0,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0,0,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0.14,0.1414141414,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_3_MAY_SouthernPugetSound,0,0,27,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0,0,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0,0,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0,0,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0,0,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0.33,0.33,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0,0,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0,0,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0,0,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0,0,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0.3,0.3,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0,0,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0,0,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0.2,0.2,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_3_JUN_SouthernPugetSound,0.17,0.17,28,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0.25,0.25,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0,0,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0,0,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0,0,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0.25,0.25,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0,0,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0,0,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0,0,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0,0,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0.25,0.25,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0,0,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0.25,0.25,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0,0,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_3_AUG_SouthernPugetSound,0,0,29,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Benthic invertebrates,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0,0,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,ZM,Invertebrates,Planktonic,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0.08,0.08,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INSECT,Invertebrates,Insect,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0,0,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,INVERT,Invertebrates,Other invertebrates,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0,0,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CI,Salmonids,Chinook salmon,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0,0,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CU,Salmonids,Chum salmon,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0,0,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,CO,Salmonids,Coho salmon,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0,0,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,PIS,Salmonids,Pink,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0,0,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,SALMON,Salmonids,Unidentified salmon,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0,0,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,HE,Nonsalmonid fishes,Pacific herring,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0.25,0.25,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Pacific sandlance,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0,0,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FPS,Nonsalmonid fishes,Surf smelt,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0.24,0.24,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,POP,Nonsalmonid fishes,Shiner perch,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0,0,30,Salmon_Duffy_et_al_2008
+SAL,adult,Chordata,Cutthroat trout,FISH,Nonsalmonid fishes,Other fish,Table_2_Wet_weight_prop_3_SEP_SouthernPugetSound,0.43,0.43,30,Salmon_Duffy_et_al_2008

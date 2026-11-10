@@ -1,0 +1,87 @@
+page,text,species,value_1,value_2,value_3,value_4,value_5,value_6,value_7,value_8,value_9,value_10,value_11,value_12
+1,Shrimp 33 148 167 86 50 28 19 2 533,Shrimp,NA,NA,NA,33,148,167,86,50,28,19,2,533
+1,Sand lance 16 95 87 77 37 15 8 335,Sand lance,NA,NA,NA,NA,16,95,87,77,37,15,8,335
+1,Tanner crab 6 23 42 69 75 32 12 14 273,Tanner crab,NA,NA,NA,6,23,42,69,75,32,12,14,273
+1,Hermit crab 2 19 59 84 39 27 6 2 238,Hermit crab,NA,NA,NA,2,19,59,84,39,27,6,2,238
+1,Unidentified crab 3 36 36 55 47 24 13 5 1 220,Unidentified crab,NA,NA,3,36,36,55,47,24,13,5,1,220
+1,Walleye pollock 2 4 12 29 25 16 6 94,Walleye pollock,NA,NA,NA,NA,2,4,12,29,25,16,6,94
+1,Sand fish 9 32 12 7 13 14 5 92,Sand fish,NA,NA,NA,NA,9,32,12,7,13,14,5,92
+1,Eel pout 4 18 10 15 13 5 65,Eel pout,NA,NA,NA,NA,NA,4,18,10,15,13,5,65
+1,Octopus 6 3 13 20 6 4 1 53,Octopus,NA,NA,NA,NA,6,3,13,20,6,4,1,53
+1,Rock sole 2 21 13 8 1 1 | 1 48,Rock sole,NA,NA,NA,2,21,13,8,1,1,1,1,48
+1,Pacific cod 1 6 10 12 5 4 1 39,Pacific cod,NA,NA,NA,NA,1,6,10,12,5,4,1,39
+1,Cottids 10 4 3 7 4 3 2 33,Cottids,NA,NA,NA,NA,10,4,3,7,4,3,2,33
+1,Clam siphons 1 5 13 6 6 31,Clam siphons,NA,NA,NA,NA,NA,NA,1,5,13,6,6,31
+1,Pacific herring 1 2 13 7 5 2 30,Pacific herring,NA,NA,NA,NA,NA,1,2,13,7,5,2,30
+1,Blennie 4 5 6 8 4 1 28,Blennie,NA,NA,NA,NA,NA,4,5,6,8,4,1,28
+1,Poachers 2 1 4 8 8 2 25,Poachers,NA,NA,NA,NA,NA,2,1,4,8,8,2,25
+1,Amphipod 10 2 5 2 2 1 22,Amphipod,NA,NA,NA,NA,NA,10,2,5,2,2,1,22
+1,Euphausid 5 11 1 2 1 1 21,Euphausid,NA,NA,NA,NA,NA,5,11,1,2,1,1,21
+1,Osmerid 2 5 4 6 3 ; 20,Osmerid,NA,NA,NA,NA,NA,2,5,4,6,3,;,20
+1,Ronquil 1 1 6 5 4 1 18,Ronquil,NA,NA,NA,NA,NA,1,1,6,5,4,1,18
+1,Annelid worm . 1 4 4 4 1 14,Annelid worm .,NA,NA,NA,NA,NA,NA,1,4,4,4,1,14
+1,Squid 1 2 3 4 1 2 13,Squid,NA,NA,NA,NA,NA,1,2,3,4,1,2,13
+1,Lingcod 5 2 4 11,Lingcod,NA,NA,NA,NA,NA,NA,NA,NA,5,2,4,11
+1,Unidentified eggs 3 2 1 1 1 8,Unidentified eggs,NA,NA,NA,NA,NA,NA,3,2,1,1,1,8
+1,Dungeness crab 1 1 2 1 5,Dungeness crab,NA,NA,NA,NA,NA,NA,NA,1,1,2,1,5
+1,Sand sole 1 1 2 1 5,Sand sole,NA,NA,NA,NA,NA,NA,NA,1,1,2,1,5
+1,Rex sole 2 1 1 4,Rex sole,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,4
+1,Flathead sole 2 1 3,Flathead sole,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,3
+1,~ Dover sole 1 1 1 3,~ Dover sole,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,3
+1,Arrowtooth,Arrowtooth,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+1,flounder 1 1 1 3,flounder,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,3
+1,"Pacific halibut 1 , 1 2",Pacific halibut,NA,NA,NA,NA,NA,NA,NA,NA,1,",",1,2
+1,Salmonid 2 2 .,Salmonid,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,.
+1,King crab 1 1 2,King crab,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2
+1,Brittle star 1 1 2,Brittle star,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2
+1,Wrymouth 1 1,Wrymouth,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+1,Sablefish 1 1,Sablefish,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+1,Snail fish 1 1,Snail fish,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+1,Box crab 1 1,Box crab,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+1,Scallop 1 1,Scallop,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+1,Starfish 1 1,Starfish,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+1,Digested flatfish 13 9 8 5 3 3 4 1 46,Digested flatfish,NA,NA,NA,13,9,8,5,3,3,4,1,46
+1,Digested fish 7 52 97 126 113 84 72 28 9 588,Digested fish,NA,NA,7,52,97,126,113,84,72,28,9,588
+1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2,Table 2. Food items identified in stomachs of adult halibut from northern British,Table,2.,Food,items,identified,in,stomachs,of,adult,halibut,from,northern,British
+2,"Columbia and Gulf of Alaska waters, 1955, 1980, 1981, and 1983. Numbers of stomachs","Columbia and Gulf of Alaska waters,",NA,NA,NA,NA,"1955,","1980,","1981,",and,1983.,Numbers,of,stomachs
+2,in which each item was observed.,in which each item was observed.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+2,Food Item Strait Masset QCcI* Islet Alaska Island Island Total,Food Item Strait Masset QCcI* Islet Alaska Island Island Total,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+2,Octopus 12 5 13 13 1 16 32 92,Octopus,NA,NA,NA,NA,12,5,13,13,1,16,32,92
+2,Crab** 39 22 3 4 6 8 3 85,Crab**,NA,NA,NA,NA,39,22,3,4,6,8,3,85
+2,Pacific herring 16 3 33 1 53,Pacific herring,NA,NA,NA,NA,NA,NA,NA,16,3,33,1,53
+2,Pacific cod 6 13 5 3 5 5 1 38,Pacific cod,NA,NA,NA,NA,6,13,5,3,5,5,1,38
+2,Sand lance 34 3 1 38,Sand lance,NA,NA,NA,NA,NA,NA,NA,NA,34,3,1,38
+2,Arrowtooth,Arrowtooth,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+2,flounder 14 1 5 20,flounder,NA,NA,NA,NA,NA,NA,NA,NA,14,1,5,20
+2,Walleye pollock 5 13 1 19,Walleye pollock,NA,NA,NA,NA,NA,NA,NA,NA,5,13,1,19
+2,Tanner crab 18 18,Tanner crab,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,18
+2,Pacific halibut 8 9 17,Pacific halibut,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,9,17
+2,Rockfish 4 4 3 1 12,Rockfish,NA,NA,NA,NA,NA,NA,NA,4,4,3,1,12
+2,Salmonid 4 4 1 1 10,Salmonid,NA,NA,NA,NA,NA,NA,NA,4,4,1,1,10
+2,Unidentified eggs | 2 7 10,Unidentified eggs |,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,7,10
+2,Starfish 1 1 1 1 4 8,Starfish,NA,NA,NA,NA,NA,NA,1,1,1,1,4,8
+2,Sablefish 2 1 2 1 6,Sablefish,NA,NA,NA,NA,NA,NA,NA,2,1,2,1,6
+2,Clam siphon 4 1 5,Clam siphon,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,5
+2,Flathead sole 4 4,Flathead sole,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4
+2,Skate 1 2 1 4,Skate,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,4
+2,Dogfish 2 1 1 4,Dogfish,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,4
+2,Hermit crab 4 4,Hermit crab,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4
+2,Snail fish 2 1 3,Snail fish,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,3
+2,Ratfish 1 1 1 3,Ratfish,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,3
+2,Snails 1 1 1 3,Snails,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,3
+2,Petrale sole 1 1 2,Petrale sole,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2
+2,Rex sole 2 2,Rex sole,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2
+2,Sea urchin 2 2,Sea urchin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2
+2,Lingcod 1 1,Lingcod,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+2,Rock sole 1 1,Rock sole,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+2,Poacher 1 1 ;,Poacher,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,;
+2,Mussel 1 1,Mussel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+2,Scallop 1 1,Scallop,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+2,Digested flatfish 8 27 20 10 1 66,Digested flatfish,NA,NA,NA,NA,NA,NA,8,27,20,10,1,66
+2,Digested fish 59 47 11 34 10 54 79 294,Digested fish,NA,NA,NA,NA,59,47,11,34,10,54,79,294
+2,"*West Coast, Queen Charlotte Islands","*West Coast, Queen Charlotte Islands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+2,**Crabs from British Columbia and S.E. Alaska include at least 6 identifiable species plus,**Crabs from British Columbia and S.E. Alaska include at least,NA,NA,NA,NA,NA,NA,NA,NA,6,identifiable,species,plus
+2,unidentified crabs; Chirikof Island had 6 Tanner and 2 unidentified crabs; and Shumagin Islands,unidentified crabs; Chirikof Island had,NA,NA,NA,6,Tanner,and,2,unidentified,crabs;,and,Shumagin,Islands
+2,"had 1 rock, 1 hair, and 1 unidentified crab.",had,NA,NA,NA,NA,1,"rock,",1,"hair,",and,1,unidentified,crab.
+2,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9

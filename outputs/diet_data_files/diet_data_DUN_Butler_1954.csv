@@ -1,0 +1,86 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,clams,Razor clams,Table_1_male_0-10cm,20,0.1739130435,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,clams,Other clams,Table_1_male_0-10cm,18,0.1565217391,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Crustacea,Amphipods,Table_1_male_0-10cm,15,0.1304347826,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crustacea,Mysids,Table_1_male_0-10cm,12,0.1043478261,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crustacea,Cragonid shrimps,Table_1_male_0-10cm,2,0.01739130435,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Crustacea,Barnacles,Table_1_male_0-10cm,6,0.05217391304,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Crustacea,Isopods,Table_1_male_0-10cm,1,0.008695652174,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Commercial crab,Table_1_male_0-10cm,14,0.1217391304,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Other crabs,Table_1_male_0-10cm,1,0.008695652174,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Crustacea,Unidentified,Table_1_male_0-10cm,2,0.01739130435,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Fish,Fish remains,Table_1_male_0-10cm,1,0.008695652174,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Worms,Worms,Table_1_male_0-10cm,1,0.008695652174,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,MA,Sea weed,Sea weed,Table_1_male_0-10cm,4,0.0347826087,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Sponge,Sponge,Table_1_male_0-10cm,2,0.01739130435,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Sand,Sand,Table_1_male_0-10cm,8,0.06956521739,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Unidentified debris,Unidentified debris,Table_1_male_0-10cm,6,0.05217391304,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Empty,Empty,Table_1_male_0-10cm,2,0.01739130435,1,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,clams,Razor clams,Table_1_male_10.1-16.5cm,3,0.06,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,clams,Other clams,Table_1_male_10.1-16.5cm,15,0.3,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Crustacea,Amphipods,Table_1_male_10.1-16.5cm,0,0,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crustacea,Mysids,Table_1_male_10.1-16.5cm,0,0,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crustacea,Cragonid shrimps,Table_1_male_10.1-16.5cm,2,0.04,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Crustacea,Barnacles,Table_1_male_10.1-16.5cm,1,0.02,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Crustacea,Isopods,Table_1_male_10.1-16.5cm,1,0.02,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Commercial crab,Table_1_male_10.1-16.5cm,3,0.06,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Other crabs,Table_1_male_10.1-16.5cm,5,0.1,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Crustacea,Unidentified,Table_1_male_10.1-16.5cm,1,0.02,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Fish,Fish remains,Table_1_male_10.1-16.5cm,2,0.04,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Worms,Worms,Table_1_male_10.1-16.5cm,1,0.02,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,MA,Sea weed,Sea weed,Table_1_male_10.1-16.5cm,0,0,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Sponge,Sponge,Table_1_male_10.1-16.5cm,0,0,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Sand,Sand,Table_1_male_10.1-16.5cm,11,0.22,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Unidentified debris,Unidentified debris,Table_1_male_10.1-16.5cm,0,0,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Empty,Empty,Table_1_male_10.1-16.5cm,5,0.1,2,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,clams,Razor clams,Table_1_male_>16.6cm,2,0.1111111111,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,clams,Other clams,Table_1_male_>16.6cm,4,0.2222222222,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Crustacea,Amphipods,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crustacea,Mysids,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crustacea,Cragonid shrimps,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Crustacea,Barnacles,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Crustacea,Isopods,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Commercial crab,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Other crabs,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Crustacea,Unidentified,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Fish,Fish remains,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Worms,Worms,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,MA,Sea weed,Sea weed,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Sponge,Sponge,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Sand,Sand,Table_1_male_>16.6cm,2,0.1111111111,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Unidentified debris,Unidentified debris,Table_1_male_>16.6cm,0,0,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Empty,Empty,Table_1_male_>16.6cm,10,0.5555555556,3,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,clams,Razor clams,Table_1_female_0-10cm,10,0.1587301587,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,clams,Other clams,Table_1_female_0-10cm,6,0.09523809524,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Crustacea,Amphipods,Table_1_female_0-10cm,12,0.1904761905,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crustacea,Mysids,Table_1_female_0-10cm,8,0.126984127,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crustacea,Cragonid shrimps,Table_1_female_0-10cm,2,0.03174603175,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Crustacea,Barnacles,Table_1_female_0-10cm,2,0.03174603175,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Crustacea,Isopods,Table_1_female_0-10cm,0,0,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Commercial crab,Table_1_female_0-10cm,8,0.126984127,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Other crabs,Table_1_female_0-10cm,2,0.03174603175,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Crustacea,Unidentified,Table_1_female_0-10cm,3,0.04761904762,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Fish,Fish remains,Table_1_female_0-10cm,0,0,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Worms,Worms,Table_1_female_0-10cm,0,0,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,MA,Sea weed,Sea weed,Table_1_female_0-10cm,1,0.01587301587,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Sponge,Sponge,Table_1_female_0-10cm,2,0.03174603175,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Sand,Sand,Table_1_female_0-10cm,3,0.04761904762,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Unidentified debris,Unidentified debris,Table_1_female_0-10cm,1,0.01587301587,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Empty,Empty,Table_1_female_0-10cm,3,0.04761904762,4,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,clams,Razor clams,Table_1_female_10.1-16.5cm,6,0.2307692308,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,clams,Other clams,Table_1_female_10.1-16.5cm,2,0.07692307692,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Crustacea,Amphipods,Table_1_female_10.1-16.5cm,0,0,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crustacea,Mysids,Table_1_female_10.1-16.5cm,1,0.03846153846,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crustacea,Cragonid shrimps,Table_1_female_10.1-16.5cm,0,0,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Crustacea,Barnacles,Table_1_female_10.1-16.5cm,1,0.03846153846,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Crustacea,Isopods,Table_1_female_10.1-16.5cm,0,0,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Commercial crab,Table_1_female_10.1-16.5cm,0,0,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Other crabs,Table_1_female_10.1-16.5cm,0,0,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Crustacea,Unidentified,Table_1_female_10.1-16.5cm,0,0,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Fish,Fish remains,Table_1_female_10.1-16.5cm,1,0.03846153846,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Worms,Worms,Table_1_female_10.1-16.5cm,0,0,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,MA,Sea weed,Sea weed,Table_1_female_10.1-16.5cm,1,0.03846153846,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Sponge,Sponge,Table_1_female_10.1-16.5cm,0,0,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Sand,Sand,Table_1_female_10.1-16.5cm,3,0.1153846154,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Unidentified debris,Unidentified debris,Table_1_female_10.1-16.5cm,0,0,5,DUN_Butler_1954
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Empty,Empty,Table_1_female_10.1-16.5cm,11,0.4230769231,5,DUN_Butler_1954

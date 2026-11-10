@@ -1,0 +1,7 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,adult,Great blue heron,Ardea herodias fannini,FDF,starry flounder,Platichthys stellatus,Table_1_TFC_Heron_catches_N,12,0.1100917431,1,SB_Huang_et_al_2015
+SB,adult,Great blue heron,Ardea herodias fannini,SMD,staghorn sculpin,Leptocottus armatus,Table_1_TFC_Heron_catches_N,8,0.07339449541,1,SB_Huang_et_al_2015
+SB,adult,Great blue heron,Ardea herodias fannini,SMD,Saddleback gunnel,Pholis ornata,Table_1_TFC_Heron_catches_N,14,0.128440367,1,SB_Huang_et_al_2015
+SB,adult,Great blue heron,Ardea herodias fannini,SMD,Tube snout,Aulorhynchus flavidus,Table_1_TFC_Heron_catches_N,3,0.02752293578,1,SB_Huang_et_al_2015
+SB,adult,Great blue heron,Ardea herodias fannini,SMD,Three-spined stickleback,Gasterosteus aculeatus,Table_1_TFC_Heron_catches_N,0,0,1,SB_Huang_et_al_2015
+SB,adult,Great blue heron,Ardea herodias fannini,NA,Unidentified,Multiple unidentified,Table_1_TFC_Heron_catches_N,72,0.6605504587,1,SB_Huang_et_al_2015

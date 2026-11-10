@@ -1,0 +1,93 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Crustacea,Amphipods,Table_4_stomach_contents_Fish1,23,0.2613636364,1,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Crustacea,Isopod,Table_4_stomach_contents_Fish1,1,0.01136363636,1,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Crustacea,Tanaids,Table_4_stomach_contents_Fish1,29,0.3295454545,1,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Crustacea,Cumaceans,Table_4_stomach_contents_Fish1,2,0.02272727273,1,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,ZM,Crustacea,Copepoda,Table_4_stomach_contents_Fish1,12,0.1363636364,1,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BMD,Ophiura,Brittle star,Table_4_stomach_contents_Fish1,4,0.04545454545,1,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BIV,Mollusca,Clams,Table_4_stomach_contents_Fish1,6,0.06818181818,1,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BC,Annelida,Polychaetes,Table_4_stomach_contents_Fish1,10,0.1136363636,1,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,MA,Algae,Algae,Table_4_stomach_contents_Fish1,1,0.01136363636,1,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Annelida,Amphipods,Table_4_stomach_contents_Fish2,82,0.4432432432,2,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Crustacea,Tanaids,Table_4_stomach_contents_Fish2,13,0.07027027027,2,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,ZL,Crustacea,Ostracods,Table_4_stomach_contents_Fish2,24,0.1297297297,2,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Crustacea,Cumaceans,Table_4_stomach_contents_Fish2,12,0.06486486486,2,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,ZM,Crustacea,Copepoda,Table_4_stomach_contents_Fish2,46,0.2486486486,2,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BC,Annelida,Polychaetes,Table_4_stomach_contents_Fish2,6,0.03243243243,2,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BIV,Mollusca,Clams,Table_4_stomach_contents_Fish2,2,0.01081081081,2,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Crustacea,Amphipods,Table_4_stomach_contents_Fish3,55,0.7236842105,3,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Crustacea,Tanaids,Table_4_stomach_contents_Fish3,1,0.01315789474,3,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Crustacea,Cumaceans,Table_4_stomach_contents_Fish3,13,0.1710526316,3,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,ZL,Crustacea,Ostracods,Table_4_stomach_contents_Fish3,7,0.09210526316,3,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Crustacea,Amphipods,Table_4_stomach_contents_Fish4,33,0.07268722467,4,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Crustacea,Tanaids,Table_4_stomach_contents_Fish4,10,0.02202643172,4,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BD,Crustacea,Cumaceans,Table_4_stomach_contents_Fish4,8,0.01762114537,4,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,ZL,Crustacea,Ostracod,Table_4_stomach_contents_Fish4,1,0.002202643172,4,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,BIV,Crustacea,Clam siphons,Table_4_stomach_contents_Fish4,2,0.004405286344,4,SMD_Dinnel_et_al_1990
+SMD,adult,Snake prickleback,Lumpenus sagitta,ZM,Crustacea,Copepoda,Table_4_stomach_contents_Fish4,400,0.8810572687,4,SMD_Dinnel_et_al_1990
+SMD,adult,Tadpole sculpin,Psychrolutes paradoxus,BD,Crustacea,Amphipods,Table_4_stomach_contents_Fish1,3,0.5,5,SMD_Dinnel_et_al_1990
+SMD,adult,Tadpole sculpin,Psychrolutes paradoxus,BD,Crustacea,Isopod,Table_4_stomach_contents_Fish1,1,0.1666666667,5,SMD_Dinnel_et_al_1990
+SMD,adult,Tadpole sculpin,Psychrolutes paradoxus,BD,Crustacea,Tanaids,Table_4_stomach_contents_Fish1,1,0.1666666667,5,SMD_Dinnel_et_al_1990
+SMD,adult,Tadpole sculpin,Psychrolutes paradoxus,ZL,Crustacea,Ostracods,Table_4_stomach_contents_Fish1,1,0.1666666667,5,SMD_Dinnel_et_al_1990
+SMD,adult,Tadpole sculpin,Psychrolutes paradoxus,BML,Crustacea,Pinnixed crab,Table_4_stomach_contents_Fish2,1,1,6,SMD_Dinnel_et_al_1990
+SMD,adult,Tadpole sculpin,Psychrolutes paradoxus,BD,Crustacea,Isopod,Table_4_stomach_contents_Fish3,1,1,7,SMD_Dinnel_et_al_1990
+SMD,adult,Crescent gunnel,Pholis laeta,BD,Crustacea,Amphipods,Table_4_stomach_contents_Fish1,19,0.6551724138,8,SMD_Dinnel_et_al_1990
+SMD,adult,Crescent gunnel,Pholis laeta,BD,Crustacea,Isopod,Table_4_stomach_contents_Fish1,9,0.3103448276,8,SMD_Dinnel_et_al_1990
+SMD,adult,Crescent gunnel,Pholis laeta,BD,Crustacea,Tanaids,Table_4_stomach_contents_Fish1,1,0.03448275862,8,SMD_Dinnel_et_al_1990
+SMD,adult,Crescent gunnel,Pholis laeta,BD,Crustacea,Amphipods,Table_4_stomach_contents_Fish2,40,0.7142857143,9,SMD_Dinnel_et_al_1990
+SMD,adult,Crescent gunnel,Pholis laeta,BD,Crustacea,Isopod,Table_4_stomach_contents_Fish2,12,0.2142857143,9,SMD_Dinnel_et_al_1990
+SMD,adult,Crescent gunnel,Pholis laeta,BD,Crustacea,Tanaids,Table_4_stomach_contents_Fish2,2,0.03571428571,9,SMD_Dinnel_et_al_1990
+SMD,adult,Crescent gunnel,Pholis laeta,BC,Crustacea,Polychaetes,Table_4_stomach_contents_Fish2,2,0.03571428571,9,SMD_Dinnel_et_al_1990
+SMD,adult,Crescent gunnel,Pholis laeta,BD,Crustacea,Amphipods,Table_4_stomach_contents_Fish3,35,0.7777777778,10,SMD_Dinnel_et_al_1990
+SMD,adult,Crescent gunnel,Pholis laeta,BD,Crustacea,Tanaids,Table_4_stomach_contents_Fish3,1,0.02222222222,10,SMD_Dinnel_et_al_1990
+SMD,adult,Crescent gunnel,Pholis laeta,BD,Crustacea,Isopods,Table_4_stomach_contents_Fish3,9,0.2,10,SMD_Dinnel_et_al_1990
+SMD,adult,Buffalo sculpin,Enophrys bison,BML,Crustacea,Pinnixed crab,Table_4_stomach_contents_Fish1,1,0.3333333333,11,SMD_Dinnel_et_al_1990
+SMD,adult,Buffalo sculpin,Enophrys bison,BC,Crustacea,Polychaete,Table_4_stomach_contents_Fish1,1,0.3333333333,11,SMD_Dinnel_et_al_1990
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Algae,Algae,Table_4_stomach_contents_Fish1,1,0.3333333333,11,SMD_Dinnel_et_al_1990
+SMD,adult,Buffalo sculpin,Enophrys bison,BML,Crustacea,Pinnixed crab,Table_4_stomach_contents_Fish2,2,0.5,12,SMD_Dinnel_et_al_1990
+SMD,adult,Buffalo sculpin,Enophrys bison,PWN,Crustacea,Shrimp,Table_4_stomach_contents_Fish2,1,0.25,12,SMD_Dinnel_et_al_1990
+SMD,adult,Buffalo sculpin,Enophrys bison,SG,Eelgrass,Eelgrass,Table_4_stomach_contents_Fish2,1,0.25,12,SMD_Dinnel_et_al_1990
+MYCTOPHID,adult,Plainfin midshipman,Porichthys notatus,BC,Crustacea,Polychaetes,Table_4_stomach_contents_Fish1,8,0.5714285714,13,SMD_Dinnel_et_al_1990
+MYCTOPHID,adult,Plainfin midshipman,Porichthys notatus,BML,Crustacea,Pinnixed crab,Table_4_stomach_contents_Fish1,3,0.2142857143,13,SMD_Dinnel_et_al_1990
+MYCTOPHID,adult,Plainfin midshipman,Porichthys notatus,BD,Crustacea,Isopods,Table_4_stomach_contents_Fish1,2,0.1428571429,13,SMD_Dinnel_et_al_1990
+MYCTOPHID,adult,Plainfin midshipman,Porichthys notatus,MA,Algae,Algae,Table_4_stomach_contents_Fish1,1,0.07142857143,13,SMD_Dinnel_et_al_1990
+SMD,adult, Podothecus accipenserinus ,Sturgeon poacher,PWN,Crustacea,Shrimp,Table_4_stomach_contents_Fish1,1,1,14,SMD_Dinnel_et_al_1990
+FDF,adult,Pacific sand sole,Psettichthys melanostictus,SMD,Crustacea,Eelpout,Table_4_stomach_contents_Fish1,1,1,15,SMD_Dinnel_et_al_1990
+POP,adult,Shiner perch,Cymatogaster aggregata,BD,Crustacea,Tanaids,Table_4_stomach_contents_Fish1,75,0.75,16,SMD_Dinnel_et_al_1990
+POP,adult,Shiner perch,Cymatogaster aggregata,BIV,Mollusca,Clams,Table_4_stomach_contents_Fish1,25,0.25,16,SMD_Dinnel_et_al_1990
+SMD,adult,Penpoint gunnel,Apodichthys flavidus,BD,Crustacea,Isopods,Table_4_stomach_contents_Fish1,17,0.9444444444,17,SMD_Dinnel_et_al_1990
+SMD,adult,Penpoint gunnel,Apodichthys flavidus,PWN,Crustacea,Shrimp,Table_4_stomach_contents_Fish1,1,0.05555555556,17,SMD_Dinnel_et_al_1990
+FDF,adult,Rock sole,Lepidopsetta bilineata,BD,Crustacea,Amphipods,Table_4_stomach_contents_Fish1,3,0.2,18,SMD_Dinnel_et_al_1990
+FDF,adult,Rock sole,Lepidopsetta bilineata,BIV,Mollusca,Clam siphons,Table_4_stomach_contents_Fish1,12,0.8,18,SMD_Dinnel_et_al_1990
+SMD,adult,Rock greenling,Hexagrammos superciliosus,BD,Crustacea,Isopod,Table_4_stomach_contents_Fish1,1,1,19,SMD_Dinnel_et_al_1990
+SMD,adult,Rock greenling,Hexagrammos superciliosus,MA,Algae,Algae,Table_4_stomach_contents_Fish1,NA,0,19,SMD_Dinnel_et_al_1990
+SMD,adult,Rock greenling,Hexagrammos superciliosus,SG,Eelgrass,Eelgrass,Table_4_stomach_contents_Fish1,NA,0,19,SMD_Dinnel_et_al_1990
+SSK,adult,Big skate,Raja binoculata ,BML,Crustacea,Cancer magister juvenil,Table_4_stomach_contents_Fish1,1,0.2,20,SMD_Dinnel_et_al_1990
+SSK,adult,Big skate,Raja binoculata ,PWN,Crustacea,Shrimp,Table_4_stomach_contents_Fish1,4,0.8,20,SMD_Dinnel_et_al_1990
+SMD,juvenile,Staghorn sculpin,Leptocottus armatus,BD,Crustacea,Amphipod,Table_11_%IRI_size_I,54.3,0.5424575425,21,SMD_Dinnel_et_al_1990
+SMD,juvenile,Staghorn sculpin,Leptocottus armatus,BD,Crustacea,Isopod,Table_11_%IRI_size_I,21.6,0.2157842158,21,SMD_Dinnel_et_al_1990
+SMD,juvenile,Staghorn sculpin,Leptocottus armatus,BML,Crustacea,Crab,Table_11_%IRI_size_I,1.2,0.01198801199,21,SMD_Dinnel_et_al_1990
+SMD,juvenile,Staghorn sculpin,Leptocottus armatus,BC,Annelida,Polychaete,Table_11_%IRI_size_I,8.6,0.08591408591,21,SMD_Dinnel_et_al_1990
+SMD,juvenile,Staghorn sculpin,Leptocottus armatus,BIV,Mollusca,Mollusc,Table_11_%IRI_size_I,8.4,0.08391608392,21,SMD_Dinnel_et_al_1990
+SMD,juvenile,Staghorn sculpin,Leptocottus armatus,FISH,Fish,Fish,Table_11_%IRI_size_I,0.1,9.99000999e-4,21,SMD_Dinnel_et_al_1990
+SMD,juvenile,Staghorn sculpin,Leptocottus armatus,MA,Algae_wood_rock,Algae_wood_rock,Table_11_%IRI_size_I,1,0.00999000999,21,SMD_Dinnel_et_al_1990
+SMD,juvenile,Staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Shrimp,Table_11_%IRI_size_I,3.9,0.03896103896,21,SMD_Dinnel_et_al_1990
+SMD,juvenile,Staghorn sculpin,Leptocottus armatus,BML,Crustacea,Crustacea parts,Table_11_%IRI_size_I,1,0.00999000999,21,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Crustacea,Amphipod,Table_11_%IRI_size_II,27.6,0.276,22,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Crustacea,Isopod,Table_11_%IRI_size_II,21.7,0.217,22,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Crustacea,Crab,Table_11_%IRI_size_II,33.6,0.336,22,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Annelida,Polychaete,Table_11_%IRI_size_II,7.9,0.079,22,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BIV,Mollusca,Mollusc,Table_11_%IRI_size_II,3.5,0.035,22,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fish,Fish,Table_11_%IRI_size_II,1.8,0.018,22,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Crustacea,Algae_wood_rock,Table_11_%IRI_size_II,2.8,0.028,22,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Shrimp,Table_11_%IRI_size_II,1,0.01,22,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Crustacea,Crustacea parts,Table_11_%IRI_size_II,0.1,0.001,22,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Crustacea,Amphipod,Table_11_%IRI_size_III,6.5,0.065,23,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Crustacea,Isopod,Table_11_%IRI_size_III,29,0.29,23,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Crustacea,Crab,Table_11_%IRI_size_III,29.1,0.291,23,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Annelida,Polychaete,Table_11_%IRI_size_III,2.2,0.022,23,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BIV,Mollusca,Mollusc,Table_11_%IRI_size_III,2.1,0.021,23,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fish,Fish,Table_11_%IRI_size_III,18.8,0.188,23,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Algae_wood_rock,Algae_wood_rock,Table_11_%IRI_size_III,11.4,0.114,23,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Shrimp,Table_11_%IRI_size_III,0.3,0.003,23,SMD_Dinnel_et_al_1990
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Crustacea,Crustacea parts,Table_11_%IRI_size_III,0.6,0.006,23,SMD_Dinnel_et_al_1990

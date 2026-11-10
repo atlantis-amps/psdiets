@@ -1,0 +1,111 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Polychaeta,Unidentified Polychaeta,Table_A1,0.121,0.001201006861,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Gastropoda,Limacina spp.,Table_A1,0.019,1.885878541e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Gastropoda,Unidentified Pteropoda,Table_A1,0.006,5.95540592e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Cephalopoda,Enteroctopus dofleini,Table_A1,0.057,5.657635624e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Cephalopoda,Octopus rubescens,Table_A1,0.88,0.00873459535,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SQX,Teuthida,Unidentified Teuthida,Table_A1,0.039,3.871013848e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BMS,Cephalopoda,Unidentified Cephalopoda,Table_A1,0.028,2.77918943e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Euchirella rostrata,Table_A1,0.016,1.588108245e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Calamus mashallae,Table_A1,0.051,5.062095032e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Euchaeta spp.,Table_A1,0.163,0.001617885275,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Pseudocalamus spp.,Table_A1,0.001,9.925676534e-6,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Acartia spp.,Table_A1,0.001,9.925676534e-6,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Unidentified Calonoida,Table_A1,0.005,4.962838267e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepoda,Unidentified Copepoda,Table_A1,0.002,1.985135307e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Cirripedia,Unidentified Cirripedia molt,Table_A1,0.021,2.084392072e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Cirripedia,Unidentified Cirripedia larvae,Table_A1,0.007,6.947973574e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Cirripedia,Mysida,Table_A1,0.032,3.176216491e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Cirripedia,Neomysis kadiakensis,Table_A1,0.013,1.290337949e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Cirripedia,Neomysis rayii,Table_A1,0.011,1.091824419e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Cirripedia,Unidentified Mysida,Table_A1,0.012,1.191081184e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Cumacea,Diastylopsis dawsoni,Table_A1,0.016,1.588108245e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Cumacea,Diastylis spp.,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Cumacea,Unidentified Cumacea,Table_A1,0.086,8.536081819e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Isopoda,Synidotea berolzheimeri,Table_A1,0.006,5.95540592e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Isopoda,Gnorimosphaeroma oregonensis,Table_A1,0.007,6.947973574e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Isopoda,Idotea fewkesi,Table_A1,0.004,3.970270614e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Isopoda,Unidentified isopoda,Table_A1,0.012,1.191081184e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Atylus tridens,Table_A1,0.162,0.001607959599,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Unidentified Gammaridae,Table_A1,0.044,4.367297675e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Hyperia medusarum,Table_A1,0.59,0.005856149155,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Hyperoche medusarum,Table_A1,0.59,0.005856149155,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Themisto pacifica,Table_A1,0.06,5.95540592e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Primno spp.,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Primno brevidens,Table_A1,0.002,1.985135307e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Primno macropa,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Vibilia pyripes,Table_A1,0.051,5.062095032e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Unidentified Vibiliidae,Table_A1,0.223,0.002213425867,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Unidentified Hyperiidae,Table_A1,0.381,0.003781682759,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Caaprella anomala,Table_A1,0.009,8.933108881e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Caprella equilibra,Table_A1,0.002,1.985135307e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Caprella natalensis,Table_A1,0.002,1.985135307e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Caprella verrucosa,Table_A1,0.007,6.947973574e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Metacaprella anomala,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Unidentified Caprellidae,Table_A1,0.045,4.46655444e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Unidentified Amphipoda,Table_A1,0.016,1.588108245e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Euphausiacea,Euphausia pacifica,Table_A1,0.986,0.009786717063,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Euphausiacea,Thysanoessa spinifera,Table_A1,1.443,0.01432275124,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Euphausiacea,Unidentiefied Euphausiidae,Table_A1,0.41,0.004069527379,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Decapoda,Unidentified Pandalidae,Table_A1,0.049,4.863581502e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Decapoda,Unidentified Caridea,Table_A1,0.04,3.970270614e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Decapoda,Unidentified Crangonidae,Table_A1,0.509,0.005052169356,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Unidentified Paguridae,Table_A1,0.006,5.95540592e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Pachycheles pubescens,Table_A1,0.023,2.282905603e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Unidentified Porcellanidae,Table_A1,0.13,0.001290337949,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Cancer antennarius/gracilis,Table_A1,0.032,3.176216491e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,DUN,Decapoda,Cancer magister,Table_A1,0.371,0.003682425994,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Cancer oregonesis/productus,Table_A1,1.762,0.01748904205,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Cancer spp.,Table_A1,0.117,0.001161304154,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Decapoda,Neotrypaea californiensis,Table_A1,0.014,1.389594715e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Hemigrapsus oregonensis,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Pachygrapsus spp.,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Unidentified Grapsidae,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Pinnixa spp.,Table_A1,0.009,8.933108881e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Unidentified Pinnotheridae,Table_A1,0.006,5.95540592e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Lophopanopeus spp.,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Lophopanopeus bellus,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Unidentified Xanthidae,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,Unidentified Crustacea,Table_A1,0.243,0.002411939398,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psocoptera,Table_A1,0.001,9.925676534e-6,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hemiptera,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Coleoptera,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera,Table_A1,0.005,4.962838267e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Ichneumonidae,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,Table_A1,0.002,1.985135307e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Plecoptera,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Pterygota,Table_A1,0.019,1.885878541e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Unidentified Insecta,Table_A1,0.876,0.008694892644,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arachnida,Unidentified Araneae,Table_A1,0.003,2.97770296e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arachnida,Unidentified Arachnida,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Chaetognatha,Sagitta elegans,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Chaetognatha,Unidentified Chaetognatha,Table_A1,0.002,1.985135307e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,HE,Chordata,Clupea pallasii,Table_A1,5.231,0.05192121395,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,HE,Chordata,Unidentified Clupeidae,Table_A1,0.812,0.008059649346,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Chordata,Engraulis mordax,Table_A1,33.069,0.3282321973,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Chordata,Sardinops sagax,Table_A1,1.037,0.01029292657,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Chordata,Allosmerus elongatus,Table_A1,5.164,0.05125619362,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Chordata,Unidentified Osmeridae,Table_A1,2,0.01985135307,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Microgadus proximus,Table_A1,0.002,1.985135307e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROC,Chordata,Sebastes proriger,Table_A1,1.063,0.01055099416,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROCKFISH,Chordata,Unidentified Scorpaenidae,Table_A1,0.015,1.48885148e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FVS,Chordata,Ophiodon elongatus,Table_A1,0.514,0.005101797739,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Agonopsis vulsa,Table_A1,0.002,1.985135307e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Xeneretmus latifrons,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Unidentified Agonidae,Table_A1,0.001,9.925676534e-6,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Liparis spp.,Table_A1,0.01,9.925676534e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Unidentified Cyclopteridae,Table_A1,0.077,7.642770931e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Artedius fenestralis,Table_A1,0.003,2.97770296e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Leptocottus armatus,Table_A1,0.005,4.962838267e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Dasycottus setiger,Table_A1,0.005,4.962838267e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Unidentified Cottidae,Table_A1,0.13,0.001290337949,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Anoplopoma fimbria,Table_A1,0.259,0.002570750222,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Unidentified Syngnathidae,Table_A1,1e-4,9.925676534e-7,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Chordata,Ammodytes hexapterus,Table_A1,0.081,8.039797993e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SMD,Chordata,Ronquilus jordani,Table_A1,0.037,3.672500318e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FDF,Chordata,Glyptocephalus zachirus,Table_A1,0.017,1.687365011e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FDF,Chordata,Isopsetta isolepis,Table_A1,0.004,3.970270614e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FDF,Chordata,Pleuronichthys coenosus,Table_A1,0.003,2.97770296e-5,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FDF,Chordata,Unidentified Pleuronectidae,Table_A1,0.073,7.24574387e-4,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Chordata,Unidentified Osteichthyes,Table_A1,38.328,0.3804313302,1,Salmon_Dale_et_al 2017
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Chordata,Unidentified material,Table_A1,1.947,0.01932529221,1,Salmon_Dale_et_al 2017

@@ -1,0 +1,83 @@
+species,atlantis_fg,atlantis_name
+Ammodytes hexapterus,FPS,Small Planktivorous Fish
+Aulorhynchus flavidus,SMD,Small demersal fish
+Bathylagus sp.,SMD,Small demersal fish
+Bathymaster signatus,SMD,Small demersal fish
+Bothidae sp.,FDF,Small-mouthed Flatfish
+Citharichthys sordidus,FDF,Small-mouthed Flatfish
+Citharichthys sp.,FDF,Small-mouthed Flatfish
+Cephalopoda sp.,SQX,Squid
+Gastropoda sp.,BG,Benthic grazers
+Clupea harengus pallasii,HE,Herring
+Clupeidae sp.,HE,Herring
+Artedius sp.,SMD,Small demersal fish
+Ascelichthys rhodorus,SMD,Small demersal fish
+Chitonotus pugetensis,SMD,Small demersal fish
+Clinocottus sp.,SMD,Small demersal fish
+Cottidae sp.,SMD,Small demersal fish
+Hemilepidotus hemilepidotus,ROC,Demersal rockfish
+Hemilepidotus sp.,ROC,Demersal rockfish
+Icelinus sp.,SMD,Small demersal fish
+Jordania zonope,SMD,Small demersal fish
+Leptocottus armatus,SMD,Small demersal fish
+Myoxocephalus polyacanthocephalus,ROC,Demersal rockfish
+Nautichthys oculofasciatus,SMD,Small demersal fish
+Oligocottus sp.,SMD,Small demersal fish
+Radulinus asprellus,SMD,Small demersal fish
+Crangon alaskensis,PWN,Shrimp
+Crangonidae sp.,PWN,Shrimp
+Eggs,Other,Other
+Cymatogaster aggregata,POP,Perch
+Embiotocidae sp.,POP,Perch
+Engraulis mordax mordax,FPS,Small Planktivorous Fish
+Gadidae sp.,FMM,Hake /Large gadoids
+Gadus macrocephalus,FMM,Hake /Large gadoids
+Merluccius productus,FMM,Hake /Large gadoids
+Theragra chalcogramma,FMM,Hake /Large gadoids
+Hexagrammidae sp.,SMD,Small demersal fish
+Hexagrammos decagrammus,SMD,Small demersal fish
+Hexagrammos sp.,SMD,Small demersal fish
+Ophiodon elongatus,FVS,Large demersal predators
+Loliginidae sp.,SQX,Squid
+Loligo opalescens,SQX,Squid
+Myctophidae sp.,Other,Other
+Octopodidae sp.,BMS,Octopi
+Octopus dofleini,BMS,Octopi
+Octopus sp.,BMS,Octopi
+Decapoda sp.,BML,Crabs
+Euphausia pacifica,ZL,Large zooplankton
+Euphausiacea sp.,ZL,Large zooplankton
+Thysanoessa raschii,ZL,Large zooplankton
+Harpacticoida sp.,BD,Deposit feeders
+Pleuronectiformes sp.,FDF,Small-mouthed Flatfish
+Pleuronectiformes sp._1,FDF,Small-mouthed Flatfish
+Scorpaeniformes sp.,ROC,Demersal rockfish
+Teuthida sp.,SQX,Squid
+Osmeridae sp.,FPS,Small Planktivorous Fish
+Pandalidae sp.,PWN,Shrimp
+Pandalus danae,PWN,Shrimp
+Pandalus sp.,PWN,Shrimp
+Pandalus tridens,PWN,Shrimp
+Pholidae sp.,SMD,Small demersal fish
+Pholis ornata,SMD,Small demersal fish
+Pholis sp.,SMD,Small demersal fish
+Lepidopsetta bilineata,FDF,Small-mouthed Flatfish
+Microstomus pacificus,FDF,Small-mouthed Flatfish
+Platichthys stellatus,FDF,Small-mouthed Flatfish
+Pleuronectidae sp.,FDF,Small-mouthed Flatfish
+Reinhardtius hippoglossoides,HAP,Piscivorous flatfish
+Onchorhynchus sp.,Salmon,Salmon
+Sebastes caurinus,ROC,Demersal rockfish
+Sebastes emphaeus,ROC,Demersal rockfish
+Sebastes sp.,ROC,Demersal rockfish
+Squalus acanthias,DOG,Spiny dogfish
+Chirolophis nugator,SMD,Small demersal fish
+Lumpenus sagitta,SMD,Small demersal fish
+Stichaeidae sp.,SMD,Small demersal fish
+Xiphister atropurpureus,SMD,Small demersal fish
+Natantia sp.,PWN,Shrimp
+Repantia sp.,BML,Crabs
+Zoarcoidei sp.,SMD,Small demersal fish
+Crustacea sp.,BFF,Benthic filter feeder
+Teleostei NEI,Fish,Fish
+Zoarcidae sp.,SMD,Small demersal fish

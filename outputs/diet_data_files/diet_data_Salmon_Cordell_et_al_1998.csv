@@ -1,0 +1,88 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_33_39,3.61111111111111,0.036111111110000003,1,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae adults/pupae,%_composition_by_W_33_39,83.19444444444568,0.8319444444,1,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Other Diptera,%_composition_by_W_33_39,2.6388888888889994,0.02638888889,1,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae(spiders),%_composition_by_W_33_39,0,0,1,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Crangonyx sp.,%_composition_by_W_33_39,5.5555555555557135,0.05555555556,1,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_33_39,0.9722222222222001,0.009722222222,1,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Caecidotea spp.,%_composition_by_W_33_39,2.6388888888889994,0.02638888889,1,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,%_composition_by_W_33_39,1.3888888888872941,0.01388888889,1,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_33_39,0,0,1,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_37_46,15,0.15,2,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae adults/pupae,%_composition_by_W_37_46,55.694444444445395,0.5569444444,2,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Other Diptera,%_composition_by_W_37_46,12.222222222222499,0.1222222222,2,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae(spiders),%_composition_by_W_37_46,0,0,2,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Crangonyx sp.,%_composition_by_W_37_46,0,0,2,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_37_46,13.194444444444812,0.1319444444,2,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Caecidotea spp.,%_composition_by_W_37_46,1.3888888888889,0.01388888889,2,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,%_composition_by_W_37_46,2.499999999998394,0.025,2,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_37_46,0,0,2,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_34_50,0.694444444444445,0.006944444444,3,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae adults/pupae,%_composition_by_W_34_50,6.111111111111096,0.06111111111,3,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Other Diptera,%_composition_by_W_34_50,0.55555555555555,0.005555555556,3,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae(spiders),%_composition_by_W_34_50,0.5555555555555598,0.005555555556,3,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Crangonyx sp.,%_composition_by_W_34_50,0,0,3,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_34_50,0.55555555555555,0.005555555556,3,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Caecidotea spp.,%_composition_by_W_34_50,0,0,3,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,%_composition_by_W_34_50,85.4166666666681,0.8541666667,3,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_34_50,6.111111111109693,0.06111111111,3,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_35_46,9.44444444444444,0.09444444444,4,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae adults/pupae,%_composition_by_W_35_46,63.61111111111205,0.6361111111,4,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Other Diptera,%_composition_by_W_35_46,2.6388888888889994,0.02638888889,4,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae(spiders),%_composition_by_W_35_46,11.805555555555799,0.1180555556,4,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Crangonyx sp.,%_composition_by_W_35_46,1.6666666666666998,0.01666666667,4,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_35_46,2.7777777777779136,0.02777777778,4,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Caecidotea spp.,%_composition_by_W_35_46,6.388888888888999,0.06388888889,4,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,%_composition_by_W_35_46,1.666666666665094,0.01666666667,4,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_35_46,0,0,4,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_35_40,1.25,0.0125,5,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae adults/pupae,%_composition_by_W_35_40,79.4444444444456,0.7944444444,5,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Other Diptera,%_composition_by_W_35_40,13.194444444444713,0.1319444444,5,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae(spiders),%_composition_by_W_35_40,1.2500000000000995,0.0125,5,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Crangonyx sp.,%_composition_by_W_35_40,0,0,5,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_35_40,0,0,5,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Caecidotea spp.,%_composition_by_W_35_40,0,0,5,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,%_composition_by_W_35_40,4.861111111109594,0.04861111111,5,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_35_40,0,0,5,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_41_43,0,0,6,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae adults/pupae,%_composition_by_W_41_43,85.9722222222235,0.8597222222,6,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Other Diptera,%_composition_by_W_41_43,14.027777777776507,0.1402777778,6,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae(spiders),%_composition_by_W_41_43,0,0,6,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Crangonyx sp.,%_composition_by_W_41_43,0,0,6,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_41_43,0,0,6,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Caecidotea spp.,%_composition_by_W_41_43,0,0,6,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Neomysis mercedis,%_composition_by_W_41_43,0,0,6,Salmon_Cordell_et_al_1998
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_41_43,0,0,6,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Chironomidae larvae,Percent_composition_by_w_81_129,3.2258064516129,0.03225806452,7,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Chironomidae pupae/adults,Percent_composition_by_w_81_129,46.563814866760104,0.4656381487,7,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Tipulidae,Percent_composition_by_w_81_129,16.269284712482495,0.1626928471,7,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Other diptera,Percent_composition_by_w_81_129,8.695652173913004,0.08695652174,7,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Coleoptera,Percent_composition_by_w_81_129,4.488078541374506,0.04488078541,7,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Other Insecta,Percent_composition_by_w_81_129,0.8415147265076968,0.008415147265,7,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Caecidotea spp.,Percent_composition_by_w_81_129,1.8232819074333975,0.01823281907,7,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Other crustacea,Percent_composition_by_w_81_129,6.451612903225794,0.06451612903,7,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Araneae,Araneae,Percent_composition_by_w_81_129,0.9817671809257007,0.009817671809,7,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Ephemeroptera nymphs,Percent_composition_by_w_81_129,9.39691444600281,0.09396914446,7,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Percent_composition_by_w_81_129,1.2622720897615949,0.0126227209,7,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Chironomidae larvae,Percent_composition_by_w_85_93,4.48807854137447,0.04488078541,8,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Chironomidae pupae/adults,Percent_composition_by_w_85_93,41.23422159887793,0.412342216,8,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Tipulidae,Percent_composition_by_w_85_93,0,0,8,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Other diptera,Percent_composition_by_w_85_93,8.274894810659198,0.08274894811,8,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Coleoptera,Percent_composition_by_w_85_93,25.5259467040673,0.255259467,8,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Other Insecta,Percent_composition_by_w_85_93,10.238429172510493,0.1023842917,8,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Caecidotea spp.,Percent_composition_by_w_85_93,1.1220196353437046,0.01122019635,8,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Other crustacea,Percent_composition_by_w_85_93,1.4025245441794993,0.01402524544,8,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Araneae,Araneae,Percent_composition_by_w_85_93,5.0490883590463085,0.05049088359,8,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Ephemeroptera nymphs,Percent_composition_by_w_85_93,0,0,8,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Percent_composition_by_w_85_93,2.6647966339410942,0.02664796634,8,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Chironomidae larvae,Percent_composition_by_w_55_82,3.64656381486676,0.03646563815,9,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Chironomidae pupae/adults,Percent_composition_by_w_55_82,1.54277699859747,0.01542776999,9,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Tipulidae,Percent_composition_by_w_55_82,0,0,9,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Other diptera,Percent_composition_by_w_55_82,1.1220196353436203,0.01122019635,9,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Coleoptera,Percent_composition_by_w_55_82,0,0,9,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Other Insecta,Percent_composition_by_w_55_82,0.5610098176718097,0.005610098177,9,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Caecidotea spp.,Percent_composition_by_w_55_82,90.74333800841514,0.9074333801,9,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Other crustacea,Percent_composition_by_w_55_82,1.4025245441794993,0.01402524544,9,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Araneae,Araneae,Percent_composition_by_w_55_82,0.9817671809257007,0.009817671809,9,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Ephemeroptera nymphs,Percent_composition_by_w_55_82,0,0,9,Salmon_Cordell_et_al_1998
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Percent_composition_by_w_55_82,0,0,9,Salmon_Cordell_et_al_1998

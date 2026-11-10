@@ -1,0 +1,13 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Fish,Teleost fish,Figure_2_5,94,0.7286821705,1,HSL_Steingass_2014
+HSL,adult,Harbor seal,Phoca vitulina,BML,Crustacea,Crustacean,Figure_2_5,10,0.07751937984,1,HSL_Steingass_2014
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopod,Cephalopod,Figure_2_5,9,0.06976744186,1,HSL_Steingass_2014
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Fish,Lampreys,Figure_2_5,4,0.03100775194,1,HSL_Steingass_2014
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Shrimp,Shrimp,Figure_2_5,5,0.03875968992,1,HSL_Steingass_2014
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Fish,Skate,Figure_2_5,1,0.007751937984,1,HSL_Steingass_2014
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Fish,Hagfish,Figure_2_5,1,0.007751937984,1,HSL_Steingass_2014
+HSL,adult,Harbor seal,Phoca vitulina,BMD,Gastropod,Gastropod,Figure_2_5,1,0.007751937984,1,HSL_Steingass_2014
+HSL,adult,Harbor seal,Phoca vitulina,BIV,Bivalve,Bivalve,Figure_2_5,1,0.007751937984,1,HSL_Steingass_2014
+HSL,adult,Harbor seal,Phoca vitulina,FVS,Fish,Wolf Eel,Figure_2_5,1,0.007751937984,1,HSL_Steingass_2014
+HSL,adult,Harbor seal,Phoca vitulina,BIRD,Bird,Bird,Figure_2_5,1,0.007751937984,1,HSL_Steingass_2014
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Fish,Agnathan,Figure_2_5,1,0.007751937984,1,HSL_Steingass_2014

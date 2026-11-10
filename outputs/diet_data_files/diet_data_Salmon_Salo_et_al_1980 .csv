@@ -1,0 +1,274 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CU,adult,Oncorrhynchus keta,Chum salmon,BD,Harpacticoida,Harpacticoida,fig6_3_Hood_Canal,29.53,0.3187952067,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BD,Gammaridea,Gammaridea,fig6_3_Hood_Canal,20.42,0.2204469394,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,ZM,Calanoida,Calanoida,fig6_3_Hood_Canal,8.77,0.09467775019,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,INSECT,Diptera,Diptera,fig6_3_Hood_Canal,8.65,0.09338227356,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BD,Amphipoda-Hyperiidea,Amphipoda-Hyperiidea,fig6_3_Hood_Canal,5.42,0.05851236101,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,INSECT,Insecta,Insecta,fig6_3_Hood_Canal,4.84,0.05225089064,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,ZL,Euphausiacea,Euphausiacea,fig6_3_Hood_Canal,3.34,0.0360574328,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,PWN,Cumacea,Cumacea,fig6_3_Hood_Canal,2.19,0.02364244845,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,PWN,Pandalidae,Pandalidae,fig6_3_Hood_Canal,2.19,0.02364244845,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BFF,Cirripedia thoracida,Cirripedia Thoracica,fig6_3_Hood_Canal,2.08,0.02245492821,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BML,Crustacea,Crustacea,fig6_3_Hood_Canal,1.73,0.01867645471,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,NA,Unidentified,Unidentified,fig6_3_Hood_Canal,1.27,0.01371046097,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BC,Polychaeta,Polychaeta,fig6_3_Hood_Canal,1.04,0.0112274641,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BML,Decapoda,Decapoda,fig6_3_Hood_Canal,1.04,0.0112274641,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BD,Harpacticoida,Harpacticoida,fig6_3_Hood_Canal,0.12,0.001295476627,1,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BD,Harpacticoida,Harpacticoida,fig6_4_Hood_Canal,16.03,0.1809255079,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,ZM,Calanoida,Calanoida,fig6_4_Hood_Canal,12.18,0.1374717833,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,ZL,Euphausiacea,Euphausiacea,fig6_4_Hood_Canal,11.67,0.1317155756,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BD,Amphipoda-Hyperiidea,Amphipoda-Hyperiidea,fig6_4_Hood_Canal,10,0.1128668172,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BD,Gammaridea,Gammaridea,fig6_4_Hood_Canal,8.59,0.09695259594,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,INSECT,Diptera,Diptera,fig6_4_Hood_Canal,5.38,0.06072234763,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,FISH,Teleostei,Teleostei,fig6_4_Hood_Canal,4.74,0.05349887133,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BML,Decapoda,Decapoda,fig6_4_Hood_Canal,3.59,0.04051918736,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,INSECT,Insecta,Insecta,fig6_4_Hood_Canal,2.18,0.02460496614,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BD,Cumella,Cumella,fig6_4_Hood_Canal,1.67,0.01884875847,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BC,Polychaeta,Polychaeta,fig6_4_Hood_Canal,1.67,0.01884875847,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,NA,Unidentified,Unidentified,fig6_4_Hood_Canal,1.67,0.01884875847,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BML,Crustacea,Crustacea,fig6_4_Hood_Canal,1.54,0.01738148984,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BFF,Balanomorpha,Balanomorpha,fig6_4_Hood_Canal,1.41,0.01591422122,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,INSECT,Aphidoidea,Aphidoidea,fig6_4_Hood_Canal,1.28,0.0144469526,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,INSECT,Hymenoptera,Hymenoptera,fig6_4_Hood_Canal,1.15,0.01297968397,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,ZL,Chaetognatha,Chaetognatha,fig6_4_Hood_Canal,1.15,0.01297968397,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BD,Hyperiidae,Hyperiidae,fig6_4_Hood_Canal,1.03,0.01162528217,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,BFF,Cirripedia Thoracica,Cirripedia Thoracica,fig6_4_Hood_Canal,1.03,0.01162528217,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,CLADOCERA,Cladocera,Cladocera,fig6_4_Hood_Canal,0.51,0.005756207675,2,Salmon_Salo_et_al_1980 
+CU,adult,Oncorrhynchus keta,Chum salmon,ZM,Copepoda,Copepoda,fig6_4_Hood_Canal,0.13,0.001467268623,2,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,BD,Harpacticoida,Harpacticoida,fig6_5_Hood_Canal,5.42,0.05552709763,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,ZM,Calanoida,Calanoida,fig6_5_Hood_Canal,37.06,0.3796742137,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,ZM,Copepoda,Copepoda,fig6_5_Hood_Canal,3.42,0.03503739371,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,PL,Bacillariophyceae pennales,Bacillariophyceae pennales,fig6_5_Hood_Canal,0.5,0.005122425981,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,ZL,Euphausiacea,Euphausiacea,fig6_5_Hood_Canal,4.25,0.04354062084,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,BFF,Gymnolaemata,Gymnolaemata,fig6_5_Hood_Canal,1.71,0.01751869685,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,FISH,Teleostei,Teleostei,fig6_5_Hood_Canal,5.02,0.05142915685,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,BD,Gammaridea,Gammaridea,fig6_5_Hood_Canal,1.31,0.01342075607,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,BFF,Balanomorpha,Balanomorpha,fig6_5_Hood_Canal,0.27,0.00276611003,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,ZM,Cyclopoida,Cyclopoida,fig6_5_Hood_Canal,0.23,0.002356315951,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,ZM,Calanus sp.,Calanus sp.,fig6_5_Hood_Canal,12.3,0.1260116791,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,BG,Mesogastropoda,Mesogastropoda,fig6_5_Hood_Canal,0.38,0.003893043746,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,NA,Unidentified,Unidentified,fig6_5_Hood_Canal,0.38,0.003893043746,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,ZM,Epilabidocera amphitrites,Epilabidocera amphitrites,fig6_5_Hood_Canal,6.3,0.06454256736,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,ZM,Corycaeus anglicus,Corycaeus anglicus,fig6_5_Hood_Canal,0.74,0.007581190452,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,BFF,Oikopleura sp,Oikopleura sp,fig6_5_Hood_Canal,11.72,0.120069665,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,ZM,Pseudocalanus minutus,Pseudocalanus minutus,fig6_5_Hood_Canal,0.93,0.009527712325,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,PWN,Pleocyemata - Caridea,Pleocyemata - Caridea,fig6_5_Hood_Canal,0.52,0.00532732302,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,INSECT,Nematocera,Nematocera,fig6_5_Hood_Canal,0.74,0.007581190452,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,BML,Crustacea,Crustacea,fig6_5_Hood_Canal,0.29,0.002971007069,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,BFF,Ascidiacea,Ascidiacea,fig6_5_Hood_Canal,0.09,9.220366766e-4,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,BML,Decapoda-Brachyura,Decapoda-Brachyura,fig6_5_Hood_Canal,0.09,9.220366766e-4,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,INSECT,Homoptera - Aphidoidea,Homoptera - Aphidoidea,fig6_5_Hood_Canal,1.13,0.01157668272,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,INSECT,Diptera,Diptera,fig6_5_Hood_Canal,0.09,9.220366766e-4,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,BD,Parathemisto sp.,Parathemisto sp.,fig6_5_Hood_Canal,2.25,0.02305091691,3,Salmon_Salo_et_al_1980 
+PIS,adult,NA,Pink salmon,BD,Calliopiidae,Calliopiidae,fig6_5_Hood_Canal,0.47,0.004815080422,3,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpacticoid copepods,Harpacticoid copepods,Table_6_1_April_May_1977_length30-39,34.85,0.3493033978,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BC,Polychaete annelids,Polychaete annelids,Table_6_1_April_May_1977_length30-39,22.2,0.2225117771,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_April_May_1977_length30-39,24.37,0.2442618021,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_April_May_1977_length30-39,6.23,0.06244362033,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_April_May_1977_length30-39,4.58,0.04590558284,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_April_May_1977_length30-39,4.26,0.04269820587,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Barnacle larvae,Barnacle larvae,Table_6_1_April_May_1977_length30-39,2.28,0.02285256089,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_April_May_1977_length30-39,0.28,0.002806454846,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_April_May_1977_length30-39,0.24,0.002405532725,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Tunicate larvae,Tunicate larvae,Table_6_1_April_May_1977_length30-39,0.24,0.002405532725,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_April_May_1977_length30-39,0.24,0.002405532725,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_April_May_1977_length30-39,0,0,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_April_May_1977_length30-39,0,0,4,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpacticoid copepods,Harpacticoid copepods,Table_6_1_May-June_1977_length30-39,55.43,0.5544663399,5,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_May-June_1977_length30-39,17.43,0.1743523057,5,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_May-June_1977_length30-39,13.91,0.1391417425,5,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_May-June_1977_length30-39,13.2,0.1320396119,5,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_May-June_1977_length30-39,0,0,5,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_May-June_1977_length30-39,0,0,5,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_May-June_1977_length30-39,0,0,5,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BG,Mesogastropods,Mesogastropods,Table_6_1_May-June_1977_length30-39,0,0,5,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_May-June_1977_length30-39,0,0,5,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_May-June_1977_length30-39,0,0,5,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Bopyrid isopod,Bopyrid isopod,Table_6_1_May-June_1977_length30-39,0,0,5,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_May-June_1977_length30-40,0,0,6,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpacticoid copepods,Harpacticoid copepods,Table_6_1_April_May_1977_length40-49,10.65,0.1064893511,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BC,Polychaete annelids,Polychaete annelids,Table_6_1_April_May_1977_length40-49,0.46,0.004599540046,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_April_May_1977_length40-49,2.55,0.02549745025,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_April_May_1977_length40-49,4.97,0.0496950305,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_April_May_1977_length40-49,5.42,0.05419458054,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_April_May_1977_length40-49,73.89,0.7388261174,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Barnacle larvae,Barnacle larvae,Table_6_1_April_May_1977_length40-49,0.24,0.002399760024,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_April_May_1977_length40-49,0.6,0.00599940006,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_April_May_1977_length40-49,0.33,0.003299670033,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Tunicate larvae,Tunicate larvae,Table_6_1_April_May_1977_length40-49,0.04,3.99960004e-4,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_April_May_1977_length40-49,0.15,0.001499850015,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_April_May_1977_length40-49,0.59,0.005899410059,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_April_May_1977_length40-49,0.08,7.99920008e-4,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BG,Mesogastropods,Mesogastropods,Table_6_1_April_May_1977_length40-49,0.04,3.99960004e-4,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,CLADOCERA,Cladocerans,Cladocerans,Table_6_1_April_May_1977_length40-49,0,0,7,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpacticoid copepods,Harpacticoid copepods,Table_6_1_May-June_1977_length40-49,4.91,0.0491,8,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_May-June_1977_length40-49,26.55,0.2655,8,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_May-June_1977_length40-49,0,0,8,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_May-June_1977_length40-49,0,0,8,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_May-June_1977_length40-49,60.32,0.6032,8,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_May-June_1977_length40-49,4.11,0.0411,8,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_May-June_1977_length40-49,4.11,0.0411,8,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BG,Mesogastropods,Mesogastropods,Table_6_1_May-June_1977_length40-49,0,0,8,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_May-June_1977_length40-49,0,0,8,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_May-June_1977_length40-49,0,0,8,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Bopyrid isopod,Bopyrid isopod,Table_6_1_May-June_1977_length40-49,0,0,8,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_May-June_1977_length40-49,0,0,8,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpacticoid copepods,Harpacticoid copepods,Table_6_1_April_May_1977_length50-59,13.89,0.1393738712,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BC,Polychaete annelids,Polychaete annelids,Table_6_1_April_May_1977_length50-59,0.57,0.005719446117,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_April_May_1977_length50-59,0.19,0.001906482039,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_April_May_1977_length50-59,8.35,0.08378486855,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_April_May_1977_length50-59,5.33,0.05348183825,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_April_May_1977_length50-59,65.88,0.6610475617,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Barnacle larvae,Barnacle larvae,Table_6_1_April_May_1977_length50-59,0.92,0.009231386715,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_April_May_1977_length50-59,0.91,0.009131045555,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_April_May_1977_length50-59,1.3,0.01304435079,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Tunicate larvae,Tunicate larvae,Table_6_1_April_May_1977_length50-59,0.17,0.001705799719,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_April_May_1977_length50-59,0,0,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_April_May_1977_length50-59,0.32,0.003210917118,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_April_May_1977_length50-59,0,0,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BG,Mesogastropods,Mesogastropods,Table_6_1_April_May_1977_length50-59,0.14,0.001404776239,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,CLADOCERA,Cladocerans,Cladocerans,Table_6_1_April_May_1977_length50-59,1.69,0.01695765603,9,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpacticoid copepods,Harpacticoid copepods,Table_6_1_May-June_1977_length50-59,52.84,0.5282943411,10,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_May-June_1977_length50-59,13.67,0.1366726655,10,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_May-June_1977_length50-59,11.69,0.1168766247,10,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_May-June_1977_length50-59,0,0,10,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_May-June_1977_length50-59,7.55,0.07548490302,10,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_May-June_1977_length50-59,2.14,0.02139572086,10,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_May-June_1977_length50-59,0.23,0.002299540092,10,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BG,Mesogastropods,Mesogastropods,Table_6_1_May-June_1977_length50-59,6.59,0.06588682264,10,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_May-June_1977_length50-59,2.97,0.02969406119,10,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_May-June_1977_length50-59,1.88,0.01879624075,10,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Bopyrid isopod,Bopyrid isopod,Table_6_1_May-June_1977_length50-59,0.23,0.002299540092,10,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_May-June_1977_length50-59,0.23,0.002299540092,10,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_June-July_1977_length50-59,22.28,0.2238970958,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_June-July_1977_length50-59,16.19,0.1626972164,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_June-July_1977_length50-59,14.36,0.1443071048,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpaticoid copepods,Harpaticoid copepods,Table_6_1_June-July_1977_length50-59,12.57,0.1263189629,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_June-July_1977_length50-59,12.33,0.123907145,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Copepod larvae,Copepod larvae,Table_6_1_June-July_1977_length50-59,7.65,0.07687669581,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_June-July_1977_length50-59,7.38,0.07416340066,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_June-July_1977_length50-59,2.07,0.02080192945,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Sphaeromatid isopods,Sphaeromatid isopods,Table_6_1_June-July_1977_length50-59,1.22,0.01226007436,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BC,Polychaete annelids,Polychaete annelids,Table_6_1_June-July_1977_length50-59,0.66,0.006632499246,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Caligoid copepods,Caligoid copepods,Table_6_1_June-July_1977_length50-59,0.56,0.005627575118,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Ostracods,Ostracods,Table_6_1_June-July_1977_length50-59,0.56,0.005627575118,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Caprellid amphipods,Caprellid amphipods,Table_6_1_June-July_1977_length50-59,0.56,0.005627575118,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_June-July_1977_length50-59,0.56,0.005627575118,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_June-July_1977_length50-59,0.56,0.005627575118,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_June-July_1977_length50-59,0,0,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Chaetognaths,Chaetognaths,Table_6_1_June-July_1977_length50-59,0,0,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,CLADOCERA,Cladocerans,Cladocerans,Table_6_1_June-July_1977_length50-59,0,0,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Barnacle larvae,Barnacle larvae,Table_6_1_June-July_1977_length50-59,0,0,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Bopyrid isopod,Bopyrid isopod,Table_6_1_June-July_1977_length50-59,0,0,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,PWN,Mysids,Mysids,Table_6_1_June-July_1977_length50-59,0,0,11,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpacticoid copepods,Harpacticoid copepods,Table_6_1_April_May_1977_length60-69,22.78,0.2278,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BC,Polychaete annelids,Polychaete annelids,Table_6_1_April_May_1977_length60-69,0,0,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_April_May_1977_length60-69,0,0,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_April_May_1977_length60-69,5.64,0.0564,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_April_May_1977_length60-69,0,0,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_April_May_1977_length60-69,66.87,0.6687,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Barnacle larvae,Barnacle larvae,Table_6_1_April_May_1977_length60-69,0,0,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_April_May_1977_length60-69,0,0,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_April_May_1977_length60-69,4.71,0.0471,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Tunicate larvae,Tunicate larvae,Table_6_1_April_May_1977_length60-69,0,0,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_April_May_1977_length60-69,0,0,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_April_May_1977_length60-69,0,0,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_April_May_1977_length60-69,0,0,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BG,Mesogastropods,Mesogastropods,Table_6_1_April_May_1977_length60-69,0,0,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,CLADOCERA,Cladocerans,Cladocerans,Table_6_1_April_May_1977_length60-69,0,0,12,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpacticoid copepods,Harpacticoid copepods,Table_6_1_May-June_1977_length60-69,0,0,13,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_May-June_1977_length60-69,0,0,13,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_May-June_1977_length60-69,29.46,0.2946294629,13,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_May-June_1977_length60-69,3.8,0.03800380038,13,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_May-June_1977_length60-69,3.8,0.03800380038,13,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_May-June_1977_length60-69,51.4,0.5140514051,13,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_May-June_1977_length60-69,0,0,13,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BG,Mesogastropods,Mesogastropods,Table_6_1_May-June_1977_length60-69,3.8,0.03800380038,13,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_May-June_1977_length60-69,0,0,13,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_May-June_1977_length60-69,7.73,0.07730773077,13,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Bopyrid isopod,Bopyrid isopod,Table_6_1_May-June_1977_length60-69,0,0,13,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_May-June_1977_length60-69,0,0,13,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_June-July_1977_length60-69,22.34,0.2264112699,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_June-July_1977_length60-69,29.58,0.2997871694,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_June-July_1977_length60-69,18.39,0.1863788386,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpaticoid copepods,Harpaticoid copepods,Table_6_1_June-July_1977_length60-69,7.59,0.07692307692,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_June-July_1977_length60-69,4.41,0.044694436,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Copepod larvae,Copepod larvae,Table_6_1_June-July_1977_length60-69,0,0,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_June-July_1977_length60-69,1.64,0.0166210601,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_June-July_1977_length60-69,2.31,0.02341137124,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Sphaeromatid isopods,Sphaeromatid isopods,Table_6_1_June-July_1977_length60-69,0,0,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BC,Polychaete annelids,Polychaete annelids,Table_6_1_June-July_1977_length60-69,0,0,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Caligoid copepods,Caligoid copepods,Table_6_1_June-July_1977_length60-69,0,0,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Ostracods,Ostracods,Table_6_1_June-July_1977_length60-69,3.01,0.03050572616,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Caprellid amphipods,Caprellid amphipods,Table_6_1_June-July_1977_length60-69,0,0,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_June-July_1977_length60-69,0.57,0.005776831864,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_June-July_1977_length60-69,0,0,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_June-July_1977_length60-69,6.42,0.06506536941,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Chaetognaths,Chaetognaths,Table_6_1_June-July_1977_length60-69,0.57,0.005776831864,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,CLADOCERA,Cladocerans,Cladocerans,Table_6_1_June-July_1977_length60-69,1.84,0.01864801865,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Barnacle larvae,Barnacle larvae,Table_6_1_June-July_1977_length60-69,0,0,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Bopyrid isopod,Bopyrid isopod,Table_6_1_June-July_1977_length60-69,0,0,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,PWN,Mysids,Mysids,Table_6_1_June-July_1977_length60-69,0,0,14,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_June-July_1977_length80-89,41.33,0.4133413341,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_June-July_1977_length80-89,42.15,0.4215421542,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_June-July_1977_length80-89,1.14,0.01140114011,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpaticoid copepods,Harpaticoid copepods,Table_6_1_June-July_1977_length80-89,4.19,0.04190419042,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_June-July_1977_length80-89,0.94,0.009400940094,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Copepod larvae,Copepod larvae,Table_6_1_June-July_1977_length80-89,0,0,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_June-July_1977_length80-89,0.22,0.002200220022,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_June-July_1977_length80-89,4.67,0.04670467047,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Sphaeromatid isopods,Sphaeromatid isopods,Table_6_1_June-July_1977_length80-89,0,0,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BC,Polychaete annelids,Polychaete annelids,Table_6_1_June-July_1977_length80-89,0,0,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Caligoid copepods,Caligoid copepods,Table_6_1_June-July_1977_length80-89,0,0,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Ostracods,Ostracods,Table_6_1_June-July_1977_length80-89,0,0,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Caprellid amphipods,Caprellid amphipods,Table_6_1_June-July_1977_length80-89,0,0,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_June-July_1977_length80-89,0.22,0.002200220022,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_June-July_1977_length80-89,0.89,0.008900890089,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_June-July_1977_length80-89,3.58,0.03580358036,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Chaetognaths,Chaetognaths,Table_6_1_June-July_1977_length80-89,0.22,0.002200220022,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,CLADOCERA,Cladocerans,Cladocerans,Table_6_1_June-July_1977_length80-89,0,0,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Barnacle larvae,Barnacle larvae,Table_6_1_June-July_1977_length80-89,0.22,0.002200220022,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Bopyrid isopod,Bopyrid isopod,Table_6_1_June-July_1977_length80-89,0.22,0.002200220022,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,PWN,Mysids,Mysids,Table_6_1_June-July_1977_length80-89,0,0,15,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_June-July_1977_length90-99,31.5,0.3149685031,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_June-July_1977_length90-99,55.84,0.5583441656,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpaticoid copepods,Harpaticoid copepods,Table_6_1_June-July_1977_length90-99,2.5,0.02499750025,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Copepod larvae,Copepod larvae,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_June-July_1977_length90-99,3.05,0.0304969503,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Sphaeromatid isopods,Sphaeromatid isopods,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BC,Polychaete annelids,Polychaete annelids,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Caligoid copepods,Caligoid copepods,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Ostracods,Ostracods,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Caprellid amphipods,Caprellid amphipods,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_June-July_1977_length90-99,0.58,0.005799420058,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_June-July_1977_length90-99,5.36,0.05359464054,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Chaetognaths,Chaetognaths,Table_6_1_June-July_1977_length90-99,0.59,0.005899410059,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,CLADOCERA,Cladocerans,Cladocerans,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Barnacle larvae,Barnacle larvae,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Bopyrid isopod,Bopyrid isopod,Table_6_1_June-July_1977_length90-99,0.59,0.005899410059,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,PWN,Mysids,Mysids,Table_6_1_June-July_1977_length90-99,0,0,16,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Calanoid copepods,Calanoid copepods,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Hyperiid amphipods,Hyperiid amphipods,Table_6_1_June-July_1977_length100-109,53.93,0.5676842105,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,INSECT,Insects,Insects,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Harpaticoid copepods,Harpaticoid copepods,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Gammarid amphipods,Gammarid amphipods,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Copepod larvae,Copepod larvae,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Cumaceans,Cumaceans,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BML,Decapod larvae,Decapod larvae,Table_6_1_June-July_1977_length100-109,41.07,0.4323157895,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Sphaeromatid isopods,Sphaeromatid isopods,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BC,Polychaete annelids,Polychaete annelids,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZM,Caligoid copepods,Caligoid copepods,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Ostracods,Ostracods,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Caprellid amphipods,Caprellid amphipods,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,FISH,Fish larvae,Fish larvae,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,NA,Unidentified eggs,Unidentified eggs,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Euphausiids,Euphausiids,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,ZL,Chaetognaths,Chaetognaths,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,CLADOCERA,Cladocerans,Cladocerans,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BFF,Barnacle larvae,Barnacle larvae,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,BD,Bopyrid isopod,Bopyrid isopod,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 
+CU,juvenile,Oncorrhynchus keta,Chum fry,PWN,Mysids,Mysids,Table_6_1_June-July_1977_length100-109,0,0,17,Salmon_Salo_et_al_1980 

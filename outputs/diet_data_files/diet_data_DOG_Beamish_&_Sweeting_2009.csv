@@ -1,0 +1,33 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+DOG,juvenile,Spiny dogfish,Squalus acanthias,NA,Other,Other,Proportion_in_diet_July<600,0.03649635036496002,0.03649635036,1,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,NA,Digested Matter,Digested Matter,Proportion_in_diet_July<600,0.051094890510948954,0.05109489051,1,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,BMS,Mollusca,Cephalopod,Proportion_in_diet_July<600,0.01459854014598505,0.01459854015,1,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,BD,Crustacea,Amphipod,Proportion_in_diet_July<600,0.018248175182482007,0.01824817518,1,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,ZG,Jellyfish,Ctenol/Jellyfish,Proportion_in_diet_July<600,0.113138686131387,0.1131386861,1,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,BML,Crustacea,Decapod,Proportion_in_diet_July<600,0.036496350364963015,0.03649635036,1,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,ZL,Crustacea,Euphausiid,Proportion_in_diet_July<600,0.540145985401464,0.5401459854,1,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,FISH,Actinopterygii,Teleost,Proportion_in_diet_July<600,0.18978102189781,0.1897810219,1,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,NA,Other,Other,Proportion_in_diet_July>600,0.014598540145984051,0.01459854015,2,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,NA,Digested Matter,Digested Matter,Proportion_in_diet_July>600,0.05839416058394198,0.05839416058,2,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,BMS,Mollusca,Cephalopod,Proportion_in_diet_July>600,0.051094890510948954,0.05109489051,2,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,BD,Crustacea,Amphipod,Proportion_in_diet_July>600,0,0,2,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,ZG,Jellyfish,Ctenol/Jellyfish,Proportion_in_diet_July>600,0.07299270072992603,0.07299270073,2,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,BML,Crustacea,Decapod,Proportion_in_diet_July>600,0.018248175182482007,0.01824817518,2,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,ZL,Crustacea,Euphausiid,Proportion_in_diet_July>600,0.284671532846717,0.2846715328,2,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,FISH,Actinopterygii,Teleost,Proportion_in_diet_July>600,0.5,0.5,2,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,NA,Other,Other,Proportion_in_diet_Sept<600,0.007299270072989028,0.007299270073,3,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,NA,Digested Matter,Digested Matter,Proportion_in_diet_Sept<600,0.05474452554744502,0.05474452555,3,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,BMS,Mollusca,Cephalopod,Proportion_in_diet_Sept<600,0.05474452554744491,0.05474452555,3,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,BD,Crustacea,Amphipod,Proportion_in_diet_Sept<600,0.047445255474452996,0.04744525547,3,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,ZG,Jellyfish,Ctenol/Jellyfish,Proportion_in_diet_Sept<600,0.15328467153284708,0.1532846715,3,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,BML,Crustacea,Decapod,Proportion_in_diet_Sept<600,0.02919708029197099,0.02919708029,3,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,ZL,Crustacea,Euphausiid,Proportion_in_diet_Sept<600,0.49270072992701097,0.4927007299,3,DOG_Beamish_&_Sweeting_2009
+DOG,juvenile,Spiny dogfish,Squalus acanthias,FISH,Actinopterygii,Teleost,Proportion_in_diet_Sept<600,0.160583941605839,0.1605839416,3,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,NA,Other,Other,Proportion_in_diet_Sept>600,0.014598540145984051,0.01459854015,4,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,NA,Digested Matter,Digested Matter,Proportion_in_diet_Sept>600,0.07664233576642299,0.07664233577,4,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,BMS,Mollusca,Cephalopod,Proportion_in_diet_Sept>600,0.025547445255473922,0.02554744526,4,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,BD,Crustacea,Amphipod,Proportion_in_diet_Sept>600,0,0,4,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,ZG,Jellyfish,Ctenol/Jellyfish,Proportion_in_diet_Sept>600,0.02919708029197099,0.02919708029,4,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,BML,Crustacea,Decapod,Proportion_in_diet_Sept>600,0.10948905109489104,0.1094890511,4,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,ZL,Crustacea,Euphausiid,Proportion_in_diet_Sept>600,0.317518248175185,0.3175182482,4,DOG_Beamish_&_Sweeting_2009
+DOG,adult,Spiny dogfish,Squalus acanthias,FISH,Actinopterygii,Teleost,Proportion_in_diet_Sept>600,0.427007299270072,0.4270072993,4,DOG_Beamish_&_Sweeting_2009

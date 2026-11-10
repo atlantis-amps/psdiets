@@ -1,0 +1,41 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Walleye pollock,Theragra chalcogramma,No. Otholits_Prot_Is,129,0.258,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,English sole,Parophrys vetulus,No. Otholits_Prot_Is,114,0.228,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,POP,Shiner perch,Cymatogaster aggregata,No. Otholits_Prot_Is,51,0.102,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,HE,Pacific herring,Clupea harengus,No. Otholits_Prot_Is,43,0.086,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Pacific cod,Gadus macrocephalus,No. Otholits_Prot_Is,39,0.078,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Rex sole,Glyptocephalus zachirus,No. Otholits_Prot_Is,22,0.044,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pacific tomcod,Microgadus proximus,No. Otholits_Prot_Is,19,0.038,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockfish,Sebastes sp.,No. Otholits_Prot_Is,18,0.036,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Dover sole,Microstomus pacificus,No. Otholits_Prot_Is,16,0.032,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Petrale sole,Eopsetta jordani,No. Otholits_Prot_Is,9,0.018,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pacific sanddab,Citharichthys sordidus,No. Otholits_Prot_Is,9,0.018,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Staghorn sculpin,Leptocottus armatus,No. Otholits_Prot_Is,8,0.016,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Pink salmon,Oncorhynchus gorbuscha,No. Otholits_Prot_Is,6,0.012,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Sculpin,Enophrys sp.,No. Otholits_Prot_Is,3,0.006,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,HAP,Arrowtooth flounder,Atheresthes stomias,No. Otholits_Prot_Is,2,0.004,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Speckled sanddab,Citharichthys stigmaeus,No. Otholits_Prot_Is,2,0.004,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Sculpin,Myoxocephalus sp.,No. Otholits_Prot_Is,2,0.004,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Sablefish,Anoplopoma fimbria,No. Otholits_Prot_Is,2,0.004,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pacific sand sole,Psettichthys melanostictus,No. Otholits_Prot_Is,1,0.002,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Flathead sole,Hippoglossoides elassodon,No. Otholits_Prot_Is,1,0.002,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FVS,Lingcod,Ophiodon elongatus,No. Otholits_Prot_Is,1,0.002,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,NA,Steelhead,Salmo gairdnerii,No. Otholits_Prot_Is,1,0.002,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Kelp greenling,Hexagrammos decagrammus,No. Otholits_Prot_Is,1,0.002,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Sailfin sculpin,Nautichthys oculofasciatus,No. Otholits_Prot_Is,1,0.002,1,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Pacific hake,Merluccius productus,No. Otholits_Ger_Is,340,0.5564648118,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Plainfin midshipman,Porichthys notatus,No. Otholits_Ger_Is,83,0.1358428805,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,POP,Shiner perch,Cymatogaster aggregata,No. Otholits_Ger_Is,60,0.09819967267,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,English sole,Parophrys vetulus,No. Otholits_Ger_Is,45,0.0736497545,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pacific tomcod,Microgadus proximus,No. Otholits_Ger_Is,30,0.04909983633,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,POP,Pile perch,Damalichthys vacca,No. Otholits_Ger_Is,12,0.01963993453,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Slender sole,Lyopsetta exilis,No. Otholits_Ger_Is,9,0.0147299509,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Staghorn sculpin,Leptocottus armatus,No. Otholits_Ger_Is,9,0.0147299509,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Rex sole,Glyptocephalus zachirus,No. Otholits_Ger_Is,6,0.009819967267,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Walleye pollock,Theragra chalcogramma,No. Otholits_Ger_Is,4,0.006546644845,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Dover sole,Microstomus pacificus,No. Otholits_Ger_Is,3,0.004909983633,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,HE,Pacific herring,Clupea harengus,No. Otholits_Ger_Is,2,0.003273322422,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockfish,Sebastes sp.,No. Otholits_Ger_Is,2,0.003273322422,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Sculpin,Enophrys sp.,No. Otholits_Ger_Is,2,0.003273322422,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Speckled sanddab,Citharichthys stigmaeus,No. Otholits_Ger_Is,2,0.003273322422,2,HSL_CSL_Everrit_et_al_1981
+HSL,adult,Harbor seal,Phoca vitulina,POP,White surfperch,Phanerodon furcatus,No. Otholits_Ger_Is,2,0.003273322422,2,HSL_CSL_Everrit_et_al_1981

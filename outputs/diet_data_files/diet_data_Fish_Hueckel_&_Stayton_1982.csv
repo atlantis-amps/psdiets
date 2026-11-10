@@ -1,0 +1,64 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+POP,juvenile,Striped seaperch,Striped seaperch,BC,Annelida,Annelida,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BC,Polychaeta sp,Polychaeta,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BC,Serpulidae,Serpulidae,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BML,Chordata,Crustacea,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BD,Crustacea,Harpaticoida,Table3_small,58.5,0.5861723447,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BFF,Crustacea,Balanus glandula,Table3_small,0.8,0.008016032064,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,PWN,Crustacea,Acanthomysis sp.,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BD,Crustacea,Tanaidacea,Table3_small,0.3,0.003006012024,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BD,Crustacea,Gammaridea,Table3_small,35.3,0.3537074148,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BD,Crustacea,Caprellidea,Table3_small,4.7,0.04709418838,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BD,Hippolytidae,Hippolytidae,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,PWN,Hippolytidae,Eualus spp.,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,PWN,Hippolytidae,Heptacarpus brevirostris,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,PWN,Crustacea,Pandalus danae,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BML,Crustacea,Brachyura,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BML,Crustacea,Brachyura (zoea),Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BML,Crustacea,Brachyrhyncha sp.,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BML,Crustacea,Cancer oregonensis,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BML,Crustacea,Pugettia gracilis,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,BD,Ectoprocta,Membranipora sp.,Table3_small,0.2,0.002004008016,1,Fish_Hueckel_&_Stayton_1982
+POP,juvenile,Striped seaperch,Striped seaperch,MA,Chlorophyta,Ulva spp.,Table3_small,0,0,1,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BC,Annelida,Annelida,Table3_medium,0,0,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BC,Polychaeta sp,Polychaeta,Table3_medium,0.9,0.009,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BC,Serpulidae,Serpulidae,Table3_medium,0.8,0.008,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BML,Chordata,Crustacea,Table3_medium,0,0,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BD,Crustacea,Harpaticoida,Table3_medium,4.4,0.044,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BFF,Crustacea,Balanus glandula,Table3_medium,1.3,0.013,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,PWN,Crustacea,Acanthomysis sp.,Table3_medium,0,0,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BD,Crustacea,Tanaidacea,Table3_medium,0,0,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BD,Crustacea,Gammaridea,Table3_medium,39,0.39,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BD,Crustacea,Caprellidea,Table3_medium,0.2,0.002,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BD,Hippolytidae,Hippolytidae,Table3_medium,0,0,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,PWN,Hippolytidae,Eualus spp.,Table3_medium,0,0,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,PWN,Hippolytidae,Heptacarpus brevirostris,Table3_medium,0,0,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,PWN,Crustacea,Pandalus danae,Table3_medium,0,0,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BML,Crustacea,Brachyura,Table3_medium,10.4,0.104,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BML,Crustacea,Brachyura (zoea),Table3_medium,42.8,0.428,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BML,Crustacea,Brachyrhyncha sp.,Table3_medium,0.2,0.002,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BML,Crustacea,Cancer oregonensis,Table3_medium,0,0,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BML,Crustacea,Pugettia gracilis,Table3_medium,0,0,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BD,Ectoprocta,Membranipora sp.,Table3_medium,0,0,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,MA,Chlorophyta,Ulva spp.,Table3_medium,0,0,2,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BC,Annelida,Annelida,Table3_large,0,0,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BC,Polychaeta sp,Polychaeta,Table3_large,11.6,0.1040358744,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BC,Serpulidae,Serpulidae,Table3_large,0.4,0.003587443946,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BML,Chordata,Crustacea,Table3_large,0.7,0.006278026906,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BD,Crustacea,Harpaticoida,Table3_large,0,0,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BFF,Crustacea,Balanus glandula,Table3_large,0.4,0.003587443946,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,PWN,Crustacea,Acanthomysis sp.,Table3_large,0.3,0.00269058296,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BD,Crustacea,Tanaidacea,Table3_large,0.5,0.004484304933,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BD,Crustacea,Gammaridea,Table3_large,28.1,0.2520179372,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BD,Crustacea,Caprellidea,Table3_large,6.4,0.05739910314,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BD,Hippolytidae,Hippolytidae,Table3_large,2.4,0.02152466368,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,PWN,Hippolytidae,Eualus spp.,Table3_large,2.1,0.01883408072,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,PWN,Hippolytidae,Heptacarpus brevirostris,Table3_large,0.4,0.003587443946,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,PWN,Crustacea,Pandalus danae,Table3_large,1.4,0.01255605381,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BML,Crustacea,Brachyura,Table3_large,4.6,0.04125560538,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BML,Crustacea,Brachyura (zoea),Table3_large,38,0.3408071749,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BML,Crustacea,Brachyrhyncha sp.,Table3_large,0,0,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BML,Crustacea,Cancer oregonensis,Table3_large,0.7,0.006278026906,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BML,Crustacea,Pugettia gracilis,Table3_large,13,0.1165919283,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,BD,Ectoprocta,Membranipora sp.,Table3_large,0,0,3,Fish_Hueckel_&_Stayton_1982
+POP,adult,Striped seaperch,Striped seaperch,MA,Chlorophyta,Ulva spp.,Table3_large,0.5,0.004484304933,3,Fish_Hueckel_&_Stayton_1982

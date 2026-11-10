@@ -1,0 +1,70 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ROC,juvenile,Copper rockfish,Copper rockfish,HE,Pacific Herring,Clupea harengus pallasii,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,POP,Shiner perch,Cymatogaster aggregata,Table_4_100-199mm,1,0.01851851852,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,POP,Striped sea perch,Embiotoca lateralis,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,POP,Surfperch,Surfperch,Table_4_100-199mm,1,0.01851851852,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,ROCKFISH,Rockfish,Sebastes spp.,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,SMD,Gunnel,Gunnel,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,SMD,Sculpin,Sculpin,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,FISH,Fish,Fish,Table_4_100-199mm,4,0.07407407407,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,BML,Purple crab,Hemigrapsis nudis,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,BML,Spider crab,Pugettia gracilis,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,BML,Red crab,Cancer productus,Table_4_100-199mm,4,0.07407407407,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,BML,Hermit crab,Hermit crab,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,PWN,Shrimp,Crangon spp.,Table_4_100-199mm,5,0.09259259259,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,PWN,Shrimp,Heptacarpus stimpsoni,Table_4_100-199mm,3,0.05555555556,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,PWN,Coon-stripe shrimp,Pandalus danae,Table_4_100-199mm,19,0.3518518519,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,PWN,Shrimp,Shrimp,Table_4_100-199mm,6,0.1111111111,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,BD,Isopod,Isopod,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,BFF,Barnacle,Barnacle,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,BML,Crustacea,Crustacea,Table_4_100-199mm,7,0.1296296296,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,BIV,Mollusca,Mollusca,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,BC,Annelida,Annelida,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,PLANT,Plant,Plant,Table_4_100-199mm,0,0,1,Rockfish_Patten_1981
+ROC,juvenile,Copper rockfish,Copper rockfish,NA,Other and unidentifiable,Other and unidentifiable,Table_4_100-199mm,4,0.07407407407,1,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,HE,Pacific Herring,Clupea harengus pallasii,Table_4_200-299mm,0,0,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,POP,Shiner perch,Cymatogaster aggregata,Table_4_200-299mm,7,0.056,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,POP,Striped sea perch,Embiotoca lateralis,Table_4_200-299mm,2,0.016,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,POP,Surfperch,Surfperch,Table_4_200-299mm,13,0.104,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,ROCKFISH,Rockfish,Sebastes spp.,Table_4_200-299mm,0,0,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,SMD,Gunnel,Gunnel,Table_4_200-299mm,2,0.016,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,SMD,Sculpin,Sculpin,Table_4_200-299mm,4,0.032,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,FISH,Fish,Fish,Table_4_200-299mm,21,0.168,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BML,Purple crab,Hemigrapsis nudis,Table_4_200-299mm,0,0,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BML,Spider crab,Pugettia gracilis,Table_4_200-299mm,0,0,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BML,Red crab,Cancer productus,Table_4_200-299mm,4,0.032,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BML,Hermit crab,Hermit crab,Table_4_200-299mm,3,0.024,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Shrimp,Crangon spp.,Table_4_200-299mm,11,0.088,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Shrimp,Heptacarpus stimpsoni,Table_4_200-299mm,0,0,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Coon-stripe shrimp,Pandalus danae,Table_4_200-299mm,23,0.184,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Shrimp,Shrimp,Table_4_200-299mm,10,0.08,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BD,Isopod,Isopod,Table_4_200-299mm,1,0.008,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BFF,Barnacle,Barnacle,Table_4_200-299mm,2,0.016,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BML,Crustacea,Crustacea,Table_4_200-299mm,11,0.088,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BIV,Mollusca,Mollusca,Table_4_200-299mm,1,0.008,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BC,Annelida,Annelida,Table_4_200-299mm,0,0,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,PLANT,Plant,Plant,Table_4_200-299mm,6,0.048,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,NA,Other and unidentifiable,Other and unidentifiable,Table_4_200-299mm,4,0.032,2,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,HE,Pacific Herring,Clupea harengus pallasii,Table_4_>300mm,1,0.01724137931,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,POP,Shiner perch,Cymatogaster aggregata,Table_4_>300mm,0,0,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,POP,Striped sea perch,Embiotoca lateralis,Table_4_>300mm,1,0.01724137931,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,POP,Surfperch,Surfperch,Table_4_>300mm,4,0.06896551724,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,ROCKFISH,Rockfish,Sebastes spp.,Table_4_>300mm,1,0.01724137931,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,SMD,Gunnel,Gunnel,Table_4_>300mm,1,0.01724137931,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,SMD,Sculpin,Sculpin,Table_4_>300mm,7,0.1206896552,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,FISH,Fish,Fish,Table_4_>300mm,14,0.2413793103,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BML,Purple crab,Hemigrapsis nudis,Table_4_>300mm,1,0.01724137931,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BML,Spider crab,Pugettia gracilis,Table_4_>300mm,2,0.03448275862,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BML,Red crab,Cancer productus,Table_4_>300mm,2,0.03448275862,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BML,Hermit crab,Hermit crab,Table_4_>300mm,0,0,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Shrimp,Crangon spp.,Table_4_>300mm,2,0.03448275862,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Shrimp,Heptacarpus stimpsoni,Table_4_>300mm,1,0.01724137931,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Coon-stripe shrimp,Pandalus danae,Table_4_>300mm,7,0.1206896552,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Shrimp,Shrimp,Table_4_>300mm,5,0.08620689655,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BD,Isopod,Isopod,Table_4_>300mm,0,0,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BFF,Barnacle,Barnacle,Table_4_>300mm,0,0,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BML,Crustacea,Crustacea,Table_4_>300mm,0,0,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BIV,Mollusca,Mollusca,Table_4_>300mm,0,0,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,BC,Annelida,Annelida,Table_4_>300mm,1,0.01724137931,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,PLANT,Plant,Plant,Table_4_>300mm,4,0.06896551724,3,Rockfish_Patten_1981
+ROC,adult,Copper rockfish,Copper rockfish,NA,Other and unidentifiable,Other and unidentifiable,Table_4_>300mm,4,0.06896551724,3,Rockfish_Patten_1981

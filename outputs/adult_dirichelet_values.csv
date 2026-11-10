@@ -1,0 +1,911 @@
+atlantis_pred_fg,pred,pred_stage,prey,mode_corr,atlantis_prey_fg
+COH,Coho Hatch Yearling,adult,Deposit feeders,1.76085044086024e-11,BD
+COH,Coho Hatch Yearling,adult,Carnivorous infauna,1.76085044086024e-11,BC
+COH,Coho Hatch Yearling,adult,Benthic filter feeder,1.76085044086024e-11,BFF
+COH,Coho Hatch Yearling,adult,Benthic grazers,1.76085044086024e-11,BG
+COH,Coho Hatch Yearling,adult,Crabs,1.76085044086024e-11,BML
+COH,Coho Hatch Yearling,adult,Chinook Duwamish Subyearling,1.76085044086024e-11,CDS
+COH,Coho Hatch Yearling,adult,Demersal vulnerable rockfish,1.76085044086024e-11,DVR
+COH,Coho Hatch Yearling,adult,Small-mouthed Flatfish,1.76085044086024e-11,FDF
+COH,Coho Hatch Yearling,adult,Hake_Large gadoids,1.76085044086024e-11,FMM
+COH,Coho Hatch Yearling,adult,Small Planktivorous Fish,1.76085044086024e-11,FPS
+COH,Coho Hatch Yearling,adult,Pacific Herring Cherry Point,1.76085044086024e-11,HEC
+COH,Coho Hatch Yearling,adult,Pacific Herring Puget Sound,1.76085044086024e-11,HEP
+COH,Coho Hatch Yearling,adult,Shrimp,1.76085044086024e-11,PWN
+COH,Coho Hatch Yearling,adult,Large zooplankton,0.00483280950742318,ZL
+COH,Coho Hatch Yearling,adult,Octopi,1.76085044086024e-11,BMS
+COH,Coho Hatch Yearling,adult,Ratfish,1.76085044086024e-11,RAT
+COH,Coho Hatch Yearling,adult,Seagrass,1.76085044086024e-11,SG
+COH,Coho Hatch Yearling,adult,Bivalves,1.76085044086024e-11,BIV
+COH,Coho Hatch Yearling,adult,Deep macro-zoobenthos,1.76085044086024e-11,BMD
+COH,Coho Hatch Yearling,adult,Macroalgae,1.76085044086024e-11,MA
+COH,Coho Hatch Yearling,adult,Perch,1.76085044086024e-11,POP
+COH,Coho Hatch Yearling,adult,Small demersal fish,1.76085044086024e-11,SMD
+COH,Coho Hatch Yearling,adult,Squid,1.76085044086024e-11,SQX
+COH,Coho Hatch Yearling,adult,Mesozooplankton,1.76085044086024e-11,ZM
+COH,Coho Hatch Yearling,adult,Chum Fall Subyearling,1.40965509692712e-4,CMF
+COH,Coho Hatch Yearling,adult,Carrion,1.76085044086024e-11,DC
+COH,Coho Hatch Yearling,adult,Large phytoplankton,1.76085044086024e-11,PL
+COH,Coho Hatch Yearling,adult,Large demersal predators,1.76085044086024e-11,FVS
+COH,Coho Hatch Yearling,adult,Demersal rockfish,1.76085044086024e-11,ROC
+COH,Coho Hatch Yearling,adult,Small phytoplankton,1.76085044086024e-11,PS
+COH,Coho Hatch Yearling,adult,Coho Deep South Yearling,1.76085044086024e-11,COD
+COH,Coho Hatch Yearling,adult,Spiny dogfish,1.76085044086024e-11,DOG
+COH,Coho Hatch Yearling,adult,Skates,1.76085044086024e-11,SSK
+COH,Coho Hatch Yearling,adult,Microzooplankton,1.76085044086024e-11,ZS
+COH,Coho Hatch Yearling,adult,Piscivorous flatfish,1.76085044086024e-11,HAP
+COH,Coho Hatch Yearling,adult,California sea lions,1.76085044086024e-11,CSL
+COH,Coho Hatch Yearling,adult,Harbor seals,1.76085044086024e-11,HSL
+COH,Coho Hatch Yearling,adult,Chinook Hood Canal Subyearling,1.76085044086024e-11,CHC
+COH,Coho Hatch Yearling,adult,Chum Hood Canal summer run Subyearling,1.76085044086024e-11,CMH
+COH,Coho Hatch Yearling,adult,Gelatinous zooplankton,1.76085044086024e-11,ZG
+COH,Coho Hatch Yearling,adult,Labile detritus,1.76085044086024e-11,DL
+COH,Coho Hatch Yearling,adult,Dungeness crab,1.76085044086024e-11,DUN
+COH,Coho Hatch Yearling,adult,Coho Hatch Yearling,1.76085044086024e-11,COH
+COH,Coho Hatch Yearling,adult,Midwater rockfish,1.76085044086024e-11,MRO
+COH,Coho Hatch Yearling,adult,Pink Salmon Subyearling,1.76085044086024e-11,PIS
+COH,Coho Hatch Yearling,adult,Seabirds (mainly non-piscivorous),1.76085044086024e-11,SP
+COH,Coho Hatch Yearling,adult,Chinook Hatch Subyearling,1.76085044086024e-11,CHS
+COH,Coho Hatch Yearling,adult,Chum Hatch Subyearling,7.74737746963616e-4,CMS
+COH,Coho Hatch Yearling,adult,Refractory detritus,1.76085044086024e-11,DR
+COH,Coho Hatch Yearling,adult,Coho Skagit Yearling,1.76085044086024e-11,COS
+COH,Coho Hatch Yearling,adult,Midwater vulnerable rockfish,1.76085044086024e-11,MVR
+COH,Coho Hatch Yearling,adult,Harbor porpoise,1.76085044086024e-11,PHR
+COH,Coho Hatch Yearling,adult,Chinook Hatch Yearling,1.76085044086024e-11,CHY
+COH,Coho Hatch Yearling,adult,Coho other Yearling,2.23421095453968e-4,COY
+COH,Coho Hatch Yearling,adult,Steller sea lions,1.76085044086024e-11,PIN
+COH,Coho Hatch Yearling,adult,Chinook other Subyearling,1.76085044086024e-11,CKS
+COH,Coho Hatch Yearling,adult,Seabirds (piscivorous),1.76085044086024e-11,SB
+COH,Coho Hatch Yearling,adult,Chinook Nisqually Subyearling,1.76085044086024e-11,CNS
+COH,Coho Hatch Yearling,adult,Chinook Nisqually Yearling,1.76085044086024e-11,CNY
+COH,Coho Hatch Yearling,adult,Chinook Snohomish Subyearling,1.76085044086024e-11,CSN
+COH,Coho Hatch Yearling,adult,Chinook Skagit Subyearling,1.76085044086024e-11,CSS
+COH,Coho Hatch Yearling,adult,Other salmonids,0.0020191949107205,SAL
+COH,Coho Hatch Yearling,adult,Chinook Skagit Yearling,1.76085044086024e-11,CSY
+COH,Coho Hatch Yearling,adult,Chinook other Yearling,2.00965531198532e-4,CYE
+COH,Coho Hatch Yearling,adult,Strait of Georgia salmonids,0.00180790467725422,SAF
+COS,Coho Skagit Yearling,adult,Deposit feeders,1.81862528747126e-11,BD
+COS,Coho Skagit Yearling,adult,Carnivorous infauna,1.81862528747126e-11,BC
+COS,Coho Skagit Yearling,adult,Benthic filter feeder,1.81862528747126e-11,BFF
+COS,Coho Skagit Yearling,adult,Benthic grazers,1.81862528747126e-11,BG
+COS,Coho Skagit Yearling,adult,Crabs,1.81862528747126e-11,BML
+COS,Coho Skagit Yearling,adult,Chinook Duwamish Subyearling,1.81862528747126e-11,CDS
+COS,Coho Skagit Yearling,adult,Demersal vulnerable rockfish,1.81862528747126e-11,DVR
+COS,Coho Skagit Yearling,adult,Small-mouthed Flatfish,1.81862528747126e-11,FDF
+COS,Coho Skagit Yearling,adult,Hake_Large gadoids,1.81862528747126e-11,FMM
+COS,Coho Skagit Yearling,adult,Small Planktivorous Fish,1.81862528747126e-11,FPS
+COS,Coho Skagit Yearling,adult,Pacific Herring Cherry Point,1.81862528747126e-11,HEC
+COS,Coho Skagit Yearling,adult,Pacific Herring Puget Sound,1.81862528747126e-11,HEP
+COS,Coho Skagit Yearling,adult,Shrimp,1.81862528747126e-11,PWN
+COS,Coho Skagit Yearling,adult,Large zooplankton,0.00490026966041657,ZL
+COS,Coho Skagit Yearling,adult,Octopi,1.81862528747126e-11,BMS
+COS,Coho Skagit Yearling,adult,Ratfish,1.81862528747126e-11,RAT
+COS,Coho Skagit Yearling,adult,Seagrass,1.81862528747126e-11,SG
+COS,Coho Skagit Yearling,adult,Bivalves,1.81862528747126e-11,BIV
+COS,Coho Skagit Yearling,adult,Deep macro-zoobenthos,1.81862528747126e-11,BMD
+COS,Coho Skagit Yearling,adult,Macroalgae,1.81862528747126e-11,MA
+COS,Coho Skagit Yearling,adult,Perch,1.81862528747126e-11,POP
+COS,Coho Skagit Yearling,adult,Small demersal fish,1.81862528747126e-11,SMD
+COS,Coho Skagit Yearling,adult,Squid,1.81862528747126e-11,SQX
+COS,Coho Skagit Yearling,adult,Mesozooplankton,1.81862528747126e-11,ZM
+COS,Coho Skagit Yearling,adult,Chum Fall Subyearling,1.81862528747126e-11,CMF
+COS,Coho Skagit Yearling,adult,Carrion,1.81862528747126e-11,DC
+COS,Coho Skagit Yearling,adult,Large phytoplankton,1.81862528747126e-11,PL
+COS,Coho Skagit Yearling,adult,Large demersal predators,1.81862528747126e-11,FVS
+COS,Coho Skagit Yearling,adult,Demersal rockfish,1.81862528747126e-11,ROC
+COS,Coho Skagit Yearling,adult,Small phytoplankton,1.81862528747126e-11,PS
+COS,Coho Skagit Yearling,adult,Coho Deep South Yearling,1.81862528747126e-11,COD
+COS,Coho Skagit Yearling,adult,Spiny dogfish,1.81862528747126e-11,DOG
+COS,Coho Skagit Yearling,adult,Skates,1.81862528747126e-11,SSK
+COS,Coho Skagit Yearling,adult,Microzooplankton,1.81862528747126e-11,ZS
+COS,Coho Skagit Yearling,adult,Piscivorous flatfish,1.81862528747126e-11,HAP
+COS,Coho Skagit Yearling,adult,California sea lions,1.81862528747126e-11,CSL
+COS,Coho Skagit Yearling,adult,Harbor seals,1.81862528747126e-11,HSL
+COS,Coho Skagit Yearling,adult,Chinook Hood Canal Subyearling,1.81862528747126e-11,CHC
+COS,Coho Skagit Yearling,adult,Chum Hood Canal summer run Subyearling,1.81862528747126e-11,CMH
+COS,Coho Skagit Yearling,adult,Gelatinous zooplankton,1.81862528747126e-11,ZG
+COS,Coho Skagit Yearling,adult,Labile detritus,1.81862528747126e-11,DL
+COS,Coho Skagit Yearling,adult,Dungeness crab,1.81862528747126e-11,DUN
+COS,Coho Skagit Yearling,adult,Coho Hatch Yearling,1.81862528747126e-11,COH
+COS,Coho Skagit Yearling,adult,Midwater rockfish,1.81862528747126e-11,MRO
+COS,Coho Skagit Yearling,adult,Pink Salmon Subyearling,9.05987010099542e-5,PIS
+COS,Coho Skagit Yearling,adult,Seabirds (mainly non-piscivorous),1.81862528747126e-11,SP
+COS,Coho Skagit Yearling,adult,Chinook Hatch Subyearling,1.81862528747126e-11,CHS
+COS,Coho Skagit Yearling,adult,Chum Hatch Subyearling,3.43680361042276e-4,CMS
+COS,Coho Skagit Yearling,adult,Refractory detritus,1.81862528747126e-11,DR
+COS,Coho Skagit Yearling,adult,Coho Skagit Yearling,1.81862528747126e-11,COS
+COS,Coho Skagit Yearling,adult,Midwater vulnerable rockfish,1.81862528747126e-11,MVR
+COS,Coho Skagit Yearling,adult,Harbor porpoise,1.81862528747126e-11,PHR
+COS,Coho Skagit Yearling,adult,Chinook Hatch Yearling,1.81862528747126e-11,CHY
+COS,Coho Skagit Yearling,adult,Coho other Yearling,4.32673574354135e-4,COY
+COS,Coho Skagit Yearling,adult,Steller sea lions,1.81862528747126e-11,PIN
+COS,Coho Skagit Yearling,adult,Chinook other Subyearling,1.81862528747126e-11,CKS
+COS,Coho Skagit Yearling,adult,Seabirds (piscivorous),1.81862528747126e-11,SB
+COS,Coho Skagit Yearling,adult,Chinook Nisqually Subyearling,1.81862528747126e-11,CNS
+COS,Coho Skagit Yearling,adult,Chinook Nisqually Yearling,1.81862528747126e-11,CNY
+COS,Coho Skagit Yearling,adult,Chinook Snohomish Subyearling,1.81862528747126e-11,CSN
+COS,Coho Skagit Yearling,adult,Chinook Skagit Subyearling,1.53156299760789e-4,CSS
+COS,Coho Skagit Yearling,adult,Other salmonids,0.00231313799900722,SAL
+COS,Coho Skagit Yearling,adult,Chinook Skagit Yearling,1.81862528747126e-11,CSY
+COS,Coho Skagit Yearling,adult,Chinook other Yearling,3.5657888348696395e-4,CYE
+COS,Coho Skagit Yearling,adult,Strait of Georgia salmonids,0.00140990348430567,SAF
+COD,Coho Deep South Yearling,adult,Deposit feeders,2.17372506851748e-11,BD
+COD,Coho Deep South Yearling,adult,Carnivorous infauna,2.17372506851748e-11,BC
+COD,Coho Deep South Yearling,adult,Benthic filter feeder,2.17372506851748e-11,BFF
+COD,Coho Deep South Yearling,adult,Benthic grazers,2.17372506851748e-11,BG
+COD,Coho Deep South Yearling,adult,Crabs,2.17372506851748e-11,BML
+COD,Coho Deep South Yearling,adult,Chinook Duwamish Subyearling,2.17372506851748e-11,CDS
+COD,Coho Deep South Yearling,adult,Demersal vulnerable rockfish,2.17372506851748e-11,DVR
+COD,Coho Deep South Yearling,adult,Small-mouthed Flatfish,2.17372506851748e-11,FDF
+COD,Coho Deep South Yearling,adult,Hake_Large gadoids,2.17372506851748e-11,FMM
+COD,Coho Deep South Yearling,adult,Small Planktivorous Fish,2.17372506851748e-11,FPS
+COD,Coho Deep South Yearling,adult,Pacific Herring Cherry Point,2.17372506851748e-11,HEC
+COD,Coho Deep South Yearling,adult,Pacific Herring Puget Sound,2.17372506851748e-11,HEP
+COD,Coho Deep South Yearling,adult,Shrimp,2.17372506851748e-11,PWN
+COD,Coho Deep South Yearling,adult,Large zooplankton,0.006062925286854401,ZL
+COD,Coho Deep South Yearling,adult,Octopi,2.17372506851748e-11,BMS
+COD,Coho Deep South Yearling,adult,Ratfish,2.17372506851748e-11,RAT
+COD,Coho Deep South Yearling,adult,Seagrass,2.17372506851748e-11,SG
+COD,Coho Deep South Yearling,adult,Bivalves,2.17372506851748e-11,BIV
+COD,Coho Deep South Yearling,adult,Deep macro-zoobenthos,2.17372506851748e-11,BMD
+COD,Coho Deep South Yearling,adult,Macroalgae,2.17372506851748e-11,MA
+COD,Coho Deep South Yearling,adult,Perch,2.17372506851748e-11,POP
+COD,Coho Deep South Yearling,adult,Small demersal fish,2.17372506851748e-11,SMD
+COD,Coho Deep South Yearling,adult,Squid,2.17372506851748e-11,SQX
+COD,Coho Deep South Yearling,adult,Mesozooplankton,2.17372506851748e-11,ZM
+COD,Coho Deep South Yearling,adult,Chum Fall Subyearling,2.17372506851748e-11,CMF
+COD,Coho Deep South Yearling,adult,Carrion,2.17372506851748e-11,DC
+COD,Coho Deep South Yearling,adult,Large phytoplankton,2.17372506851748e-11,PL
+COD,Coho Deep South Yearling,adult,Large demersal predators,2.17372506851748e-11,FVS
+COD,Coho Deep South Yearling,adult,Demersal rockfish,2.17372506851748e-11,ROC
+COD,Coho Deep South Yearling,adult,Small phytoplankton,2.17372506851748e-11,PS
+COD,Coho Deep South Yearling,adult,Coho Deep South Yearling,2.17372506851748e-11,COD
+COD,Coho Deep South Yearling,adult,Spiny dogfish,2.17372506851748e-11,DOG
+COD,Coho Deep South Yearling,adult,Skates,2.17372506851748e-11,SSK
+COD,Coho Deep South Yearling,adult,Microzooplankton,2.17372506851748e-11,ZS
+COD,Coho Deep South Yearling,adult,Piscivorous flatfish,2.17372506851748e-11,HAP
+COD,Coho Deep South Yearling,adult,California sea lions,2.17372506851748e-11,CSL
+COD,Coho Deep South Yearling,adult,Harbor seals,2.17372506851748e-11,HSL
+COD,Coho Deep South Yearling,adult,Chinook Hood Canal Subyearling,2.17372506851748e-11,CHC
+COD,Coho Deep South Yearling,adult,Chum Hood Canal summer run Subyearling,2.17372506851748e-11,CMH
+COD,Coho Deep South Yearling,adult,Gelatinous zooplankton,2.17372506851748e-11,ZG
+COD,Coho Deep South Yearling,adult,Labile detritus,2.17372506851748e-11,DL
+COD,Coho Deep South Yearling,adult,Dungeness crab,2.17372506851748e-11,DUN
+COD,Coho Deep South Yearling,adult,Coho Hatch Yearling,2.17372506851748e-11,COH
+COD,Coho Deep South Yearling,adult,Midwater rockfish,2.17372506851748e-11,MRO
+COD,Coho Deep South Yearling,adult,Pink Salmon Subyearling,2.17372506851748e-11,PIS
+COD,Coho Deep South Yearling,adult,Seabirds (mainly non-piscivorous),2.17372506851748e-11,SP
+COD,Coho Deep South Yearling,adult,Chinook Hatch Subyearling,2.17372506851748e-11,CHS
+COD,Coho Deep South Yearling,adult,Chum Hatch Subyearling,3.18867225761834e-4,CMS
+COD,Coho Deep South Yearling,adult,Refractory detritus,2.17372506851748e-11,DR
+COD,Coho Deep South Yearling,adult,Coho Skagit Yearling,2.21077394032967e-5,COS
+COD,Coho Deep South Yearling,adult,Midwater vulnerable rockfish,2.17372506851748e-11,MVR
+COD,Coho Deep South Yearling,adult,Harbor porpoise,2.17372506851748e-11,PHR
+COD,Coho Deep South Yearling,adult,Chinook Hatch Yearling,2.17372506851748e-11,CHY
+COD,Coho Deep South Yearling,adult,Coho other Yearling,4.41182073491777e-4,COY
+COD,Coho Deep South Yearling,adult,Steller sea lions,2.17372506851748e-11,PIN
+COD,Coho Deep South Yearling,adult,Chinook other Subyearling,2.17372506851748e-11,CKS
+COD,Coho Deep South Yearling,adult,Seabirds (piscivorous),2.17372506851748e-11,SB
+COD,Coho Deep South Yearling,adult,Chinook Nisqually Subyearling,2.17372506851748e-11,CNS
+COD,Coho Deep South Yearling,adult,Chinook Nisqually Yearling,2.17372506851748e-11,CNY
+COD,Coho Deep South Yearling,adult,Chinook Snohomish Subyearling,1.97943671799745e-5,CSN
+COD,Coho Deep South Yearling,adult,Chinook Skagit Subyearling,4.8035619443400596e-5,CSS
+COD,Coho Deep South Yearling,adult,Other salmonids,0.00189956304936922,SAL
+COD,Coho Deep South Yearling,adult,Chinook Skagit Yearling,2.17372506851748e-11,CSY
+COD,Coho Deep South Yearling,adult,Chinook other Yearling,2.17372506851748e-11,CYE
+COD,Coho Deep South Yearling,adult,Strait of Georgia salmonids,0.0011875233994728001,SAF
+COY,Coho other Yearling,adult,Deposit feeders,2.20251007455841e-11,BD
+COY,Coho other Yearling,adult,Carnivorous infauna,2.20251007455841e-11,BC
+COY,Coho other Yearling,adult,Benthic filter feeder,2.20251007455841e-11,BFF
+COY,Coho other Yearling,adult,Benthic grazers,2.20251007455841e-11,BG
+COY,Coho other Yearling,adult,Crabs,2.20251007455841e-11,BML
+COY,Coho other Yearling,adult,Chinook Duwamish Subyearling,2.20251007455841e-11,CDS
+COY,Coho other Yearling,adult,Demersal vulnerable rockfish,2.20251007455841e-11,DVR
+COY,Coho other Yearling,adult,Small-mouthed Flatfish,2.20251007455841e-11,FDF
+COY,Coho other Yearling,adult,Hake_Large gadoids,2.20251007455841e-11,FMM
+COY,Coho other Yearling,adult,Small Planktivorous Fish,2.20251007455841e-11,FPS
+COY,Coho other Yearling,adult,Pacific Herring Cherry Point,2.20251007455841e-11,HEC
+COY,Coho other Yearling,adult,Pacific Herring Puget Sound,2.20251007455841e-11,HEP
+COY,Coho other Yearling,adult,Shrimp,2.20251007455841e-11,PWN
+COY,Coho other Yearling,adult,Large zooplankton,0.00593464380456713,ZL
+COY,Coho other Yearling,adult,Octopi,2.20251007455841e-11,BMS
+COY,Coho other Yearling,adult,Ratfish,2.20251007455841e-11,RAT
+COY,Coho other Yearling,adult,Seagrass,2.20251007455841e-11,SG
+COY,Coho other Yearling,adult,Bivalves,2.20251007455841e-11,BIV
+COY,Coho other Yearling,adult,Deep macro-zoobenthos,2.20251007455841e-11,BMD
+COY,Coho other Yearling,adult,Macroalgae,2.20251007455841e-11,MA
+COY,Coho other Yearling,adult,Perch,2.20251007455841e-11,POP
+COY,Coho other Yearling,adult,Small demersal fish,2.20251007455841e-11,SMD
+COY,Coho other Yearling,adult,Squid,2.20251007455841e-11,SQX
+COY,Coho other Yearling,adult,Mesozooplankton,2.20251007455841e-11,ZM
+COY,Coho other Yearling,adult,Chum Fall Subyearling,2.20251007455841e-11,CMF
+COY,Coho other Yearling,adult,Carrion,2.20251007455841e-11,DC
+COY,Coho other Yearling,adult,Large phytoplankton,2.20251007455841e-11,PL
+COY,Coho other Yearling,adult,Large demersal predators,2.20251007455841e-11,FVS
+COY,Coho other Yearling,adult,Demersal rockfish,2.20251007455841e-11,ROC
+COY,Coho other Yearling,adult,Small phytoplankton,2.20251007455841e-11,PS
+COY,Coho other Yearling,adult,Coho Deep South Yearling,2.20251007455841e-11,COD
+COY,Coho other Yearling,adult,Spiny dogfish,2.20251007455841e-11,DOG
+COY,Coho other Yearling,adult,Skates,2.20251007455841e-11,SSK
+COY,Coho other Yearling,adult,Microzooplankton,2.20251007455841e-11,ZS
+COY,Coho other Yearling,adult,Piscivorous flatfish,2.20251007455841e-11,HAP
+COY,Coho other Yearling,adult,California sea lions,2.20251007455841e-11,CSL
+COY,Coho other Yearling,adult,Harbor seals,2.20251007455841e-11,HSL
+COY,Coho other Yearling,adult,Chinook Hood Canal Subyearling,2.20251007455841e-11,CHC
+COY,Coho other Yearling,adult,Chum Hood Canal summer run Subyearling,2.20251007455841e-11,CMH
+COY,Coho other Yearling,adult,Gelatinous zooplankton,2.20251007455841e-11,ZG
+COY,Coho other Yearling,adult,Labile detritus,2.20251007455841e-11,DL
+COY,Coho other Yearling,adult,Dungeness crab,2.20251007455841e-11,DUN
+COY,Coho other Yearling,adult,Coho Hatch Yearling,2.20251007455841e-11,COH
+COY,Coho other Yearling,adult,Midwater rockfish,2.20251007455841e-11,MRO
+COY,Coho other Yearling,adult,Pink Salmon Subyearling,3.82232227620579e-4,PIS
+COY,Coho other Yearling,adult,Seabirds (mainly non-piscivorous),2.20251007455841e-11,SP
+COY,Coho other Yearling,adult,Chinook Hatch Subyearling,2.20251007455841e-11,CHS
+COY,Coho other Yearling,adult,Chum Hatch Subyearling,2.85969802613231e-4,CMS
+COY,Coho other Yearling,adult,Refractory detritus,2.20251007455841e-11,DR
+COY,Coho other Yearling,adult,Coho Skagit Yearling,2.20251007455841e-11,COS
+COY,Coho other Yearling,adult,Midwater vulnerable rockfish,2.20251007455841e-11,MVR
+COY,Coho other Yearling,adult,Harbor porpoise,2.20251007455841e-11,PHR
+COY,Coho other Yearling,adult,Chinook Hatch Yearling,2.20251007455841e-11,CHY
+COY,Coho other Yearling,adult,Coho other Yearling,7.57334155294958e-5,COY
+COY,Coho other Yearling,adult,Steller sea lions,2.20251007455841e-11,PIN
+COY,Coho other Yearling,adult,Chinook other Subyearling,2.20251007455841e-11,CKS
+COY,Coho other Yearling,adult,Seabirds (piscivorous),2.20251007455841e-11,SB
+COY,Coho other Yearling,adult,Chinook Nisqually Subyearling,2.20251007455841e-11,CNS
+COY,Coho other Yearling,adult,Chinook Nisqually Yearling,2.20251007455841e-11,CNY
+COY,Coho other Yearling,adult,Chinook Snohomish Subyearling,2.20251007455841e-11,CSN
+COY,Coho other Yearling,adult,Chinook Skagit Subyearling,2.2558714634603302e-4,CSS
+COY,Coho other Yearling,adult,Other salmonids,0.00169185771318002,SAL
+COY,Coho other Yearling,adult,Chinook Skagit Yearling,2.20251007455841e-11,CSY
+COY,Coho other Yearling,adult,Chinook other Yearling,2.20251007455841e-11,CYE
+COY,Coho other Yearling,adult,Strait of Georgia salmonids,0.00140397461268766,SAF
+SAL,Other salmonids,adult,Deposit feeders,0,BD
+SAL,Other salmonids,adult,Carnivorous infauna,0,BC
+SAL,Other salmonids,adult,Benthic filter feeder,0,BFF
+SAL,Other salmonids,adult,Benthic grazers,0,BG
+SAL,Other salmonids,adult,Crabs,0,BML
+SAL,Other salmonids,adult,Chinook Duwamish Subyearling,0,CDS
+SAL,Other salmonids,adult,Demersal vulnerable rockfish,0,DVR
+SAL,Other salmonids,adult,Small-mouthed Flatfish,0,FDF
+SAL,Other salmonids,adult,Hake_Large gadoids,0,FMM
+SAL,Other salmonids,adult,Small Planktivorous Fish,0,FPS
+SAL,Other salmonids,adult,Pacific Herring Cherry Point,0,HEC
+SAL,Other salmonids,adult,Pacific Herring Puget Sound,0,HEP
+SAL,Other salmonids,adult,Shrimp,0,PWN
+SAL,Other salmonids,adult,Large zooplankton,0,ZL
+SAL,Other salmonids,adult,Octopi,0,BMS
+SAL,Other salmonids,adult,Ratfish,0,RAT
+SAL,Other salmonids,adult,Seagrass,0,SG
+SAL,Other salmonids,adult,Bivalves,0,BIV
+SAL,Other salmonids,adult,Deep macro-zoobenthos,0,BMD
+SAL,Other salmonids,adult,Macroalgae,0,MA
+SAL,Other salmonids,adult,Perch,0,POP
+SAL,Other salmonids,adult,Small demersal fish,0,SMD
+SAL,Other salmonids,adult,Squid,0,SQX
+SAL,Other salmonids,adult,Mesozooplankton,0,ZM
+SAL,Other salmonids,adult,Chum Fall Subyearling,0.00220013525860712,CMF
+SAL,Other salmonids,adult,Carrion,0,DC
+SAL,Other salmonids,adult,Large phytoplankton,0,PL
+SAL,Other salmonids,adult,Large demersal predators,0,FVS
+SAL,Other salmonids,adult,Demersal rockfish,0,ROC
+SAL,Other salmonids,adult,Small phytoplankton,0,PS
+SAL,Other salmonids,adult,Coho Deep South Yearling,0,COD
+SAL,Other salmonids,adult,Spiny dogfish,0,DOG
+SAL,Other salmonids,adult,Skates,0,SSK
+SAL,Other salmonids,adult,Microzooplankton,0,ZS
+SAL,Other salmonids,adult,Piscivorous flatfish,0,HAP
+SAL,Other salmonids,adult,California sea lions,0,CSL
+SAL,Other salmonids,adult,Harbor seals,0,HSL
+SAL,Other salmonids,adult,Chinook Hood Canal Subyearling,0,CHC
+SAL,Other salmonids,adult,Chum Hood Canal summer run Subyearling,3.4541990203062104e-5,CMH
+SAL,Other salmonids,adult,Gelatinous zooplankton,0,ZG
+SAL,Other salmonids,adult,Labile detritus,0,DL
+SAL,Other salmonids,adult,Dungeness crab,0,DUN
+SAL,Other salmonids,adult,Coho Hatch Yearling,6.10123678630616e-4,COH
+SAL,Other salmonids,adult,Midwater rockfish,0,MRO
+SAL,Other salmonids,adult,Pink Salmon Subyearling,0.00221538673312172,PIS
+SAL,Other salmonids,adult,Seabirds (mainly non-piscivorous),0,SP
+SAL,Other salmonids,adult,Chinook Hatch Subyearling,4.0124310930771297e-4,CHS
+SAL,Other salmonids,adult,Chum Hatch Subyearling,0.00155396359832703,CMS
+SAL,Other salmonids,adult,Refractory detritus,0,DR
+SAL,Other salmonids,adult,Coho Skagit Yearling,3.61747086682756e-4,COS
+SAL,Other salmonids,adult,Midwater vulnerable rockfish,0,MVR
+SAL,Other salmonids,adult,Harbor porpoise,0,PHR
+SAL,Other salmonids,adult,Chinook Hatch Yearling,0,CHY
+SAL,Other salmonids,adult,Coho other Yearling,0.0010950457019830398,COY
+SAL,Other salmonids,adult,Steller sea lions,0,PIN
+SAL,Other salmonids,adult,Chinook other Subyearling,2.3729117333736e-6,CKS
+SAL,Other salmonids,adult,Seabirds (piscivorous),0,SB
+SAL,Other salmonids,adult,Chinook Nisqually Subyearling,0,CNS
+SAL,Other salmonids,adult,Chinook Nisqually Yearling,0,CNY
+SAL,Other salmonids,adult,Chinook Snohomish Subyearling,0,CSN
+SAL,Other salmonids,adult,Chinook Skagit Subyearling,8.518625500417119e-5,CSS
+SAL,Other salmonids,adult,Other salmonids,0,SAL
+SAL,Other salmonids,adult,Chinook Skagit Yearling,0,CSY
+SAL,Other salmonids,adult,Chinook other Yearling,0,CYE
+SAL,Other salmonids,adult,Strait of Georgia salmonids,0.0014402536181466199,SAF
+SMD,Small demersal fish,adult,Deposit feeders,3.8763642567478303e-4,BD
+SMD,Small demersal fish,adult,Carnivorous infauna,0,BC
+SMD,Small demersal fish,adult,Benthic filter feeder,0,BFF
+SMD,Small demersal fish,adult,Benthic grazers,8.961663068428711e-5,BG
+SMD,Small demersal fish,adult,Crabs,9.71509709952998e-4,BML
+SMD,Small demersal fish,adult,Chinook Duwamish Subyearling,0,CDS
+SMD,Small demersal fish,adult,Demersal vulnerable rockfish,0,DVR
+SMD,Small demersal fish,adult,Small-mouthed Flatfish,0,FDF
+SMD,Small demersal fish,adult,Hake_Large gadoids,0,FMM
+SMD,Small demersal fish,adult,Small Planktivorous Fish,0,FPS
+SMD,Small demersal fish,adult,Pacific Herring Cherry Point,0,HEC
+SMD,Small demersal fish,adult,Pacific Herring Puget Sound,0,HEP
+SMD,Small demersal fish,adult,Shrimp,6.5529593633274e-4,PWN
+SMD,Small demersal fish,adult,Large zooplankton,4.82425163872302e-4,ZL
+SMD,Small demersal fish,adult,Octopi,0,BMS
+SMD,Small demersal fish,adult,Ratfish,0,RAT
+SMD,Small demersal fish,adult,Seagrass,0,SG
+SMD,Small demersal fish,adult,Bivalves,0,BIV
+SMD,Small demersal fish,adult,Deep macro-zoobenthos,0,BMD
+SMD,Small demersal fish,adult,Macroalgae,6.59838488538751e-4,MA
+SMD,Small demersal fish,adult,Perch,0,POP
+SMD,Small demersal fish,adult,Small demersal fish,4.53285546773835e-5,SMD
+SMD,Small demersal fish,adult,Squid,0,SQX
+SMD,Small demersal fish,adult,Mesozooplankton,6.49287808871885e-4,ZM
+SMD,Small demersal fish,adult,Chum Fall Subyearling,7.16868802051633e-4,CMF
+SMD,Small demersal fish,adult,Carrion,0,DC
+SMD,Small demersal fish,adult,Large phytoplankton,0,PL
+SMD,Small demersal fish,adult,Large demersal predators,0,FVS
+SMD,Small demersal fish,adult,Demersal rockfish,0,ROC
+SMD,Small demersal fish,adult,Small phytoplankton,0,PS
+SMD,Small demersal fish,adult,Coho Deep South Yearling,1.47028244192834e-4,COD
+SMD,Small demersal fish,adult,Spiny dogfish,0,DOG
+SMD,Small demersal fish,adult,Skates,0,SSK
+SMD,Small demersal fish,adult,Microzooplankton,0,ZS
+SMD,Small demersal fish,adult,Piscivorous flatfish,0,HAP
+SMD,Small demersal fish,adult,California sea lions,0,CSL
+SMD,Small demersal fish,adult,Harbor seals,0,HSL
+SMD,Small demersal fish,adult,Chinook Hood Canal Subyearling,0,CHC
+SMD,Small demersal fish,adult,Chum Hood Canal summer run Subyearling,0,CMH
+SMD,Small demersal fish,adult,Gelatinous zooplankton,0,ZG
+SMD,Small demersal fish,adult,Labile detritus,0,DL
+SMD,Small demersal fish,adult,Dungeness crab,0,DUN
+SMD,Small demersal fish,adult,Coho Hatch Yearling,8.738653999011619e-4,COH
+SMD,Small demersal fish,adult,Midwater rockfish,0,MRO
+SMD,Small demersal fish,adult,Pink Salmon Subyearling,0,PIS
+SMD,Small demersal fish,adult,Seabirds (mainly non-piscivorous),0,SP
+SMD,Small demersal fish,adult,Chinook Hatch Subyearling,5.97633883922046e-4,CHS
+SMD,Small demersal fish,adult,Chum Hatch Subyearling,8.618748437173659e-4,CMS
+SMD,Small demersal fish,adult,Refractory detritus,0,DR
+SMD,Small demersal fish,adult,Coho Skagit Yearling,1.96068506280338e-4,COS
+SMD,Small demersal fish,adult,Midwater vulnerable rockfish,0,MVR
+SMD,Small demersal fish,adult,Harbor porpoise,0,PHR
+SMD,Small demersal fish,adult,Chinook Hatch Yearling,0,CHY
+SMD,Small demersal fish,adult,Coho other Yearling,6.1437833304694e-4,COY
+SMD,Small demersal fish,adult,Steller sea lions,0,PIN
+SMD,Small demersal fish,adult,Chinook other Subyearling,0,CKS
+SMD,Small demersal fish,adult,Seabirds (piscivorous),0,SB
+SMD,Small demersal fish,adult,Chinook Nisqually Subyearling,0,CNS
+SMD,Small demersal fish,adult,Chinook Nisqually Yearling,0,CNY
+SMD,Small demersal fish,adult,Chinook Snohomish Subyearling,0,CSN
+SMD,Small demersal fish,adult,Chinook Skagit Subyearling,4.6177336417703197e-4,CSS
+SMD,Small demersal fish,adult,Other salmonids,5.45045741028966e-4,SAL
+SMD,Small demersal fish,adult,Chinook Skagit Yearling,6.62798021091793e-5,CSY
+SMD,Small demersal fish,adult,Chinook other Yearling,0,CYE
+SMD,Small demersal fish,adult,Strait of Georgia salmonids,9.782442757139361e-4,SAF
+DOG,Spiny dogfish,adult,Deposit feeders,0,BD
+DOG,Spiny dogfish,adult,Carnivorous infauna,0,BC
+DOG,Spiny dogfish,adult,Benthic filter feeder,0,BFF
+DOG,Spiny dogfish,adult,Benthic grazers,0,BG
+DOG,Spiny dogfish,adult,Crabs,0,BML
+DOG,Spiny dogfish,adult,Chinook Duwamish Subyearling,0,CDS
+DOG,Spiny dogfish,adult,Demersal vulnerable rockfish,0,DVR
+DOG,Spiny dogfish,adult,Small-mouthed Flatfish,1.26079725286768e-4,FDF
+DOG,Spiny dogfish,adult,Hake_Large gadoids,2.83573184979198e-4,FMM
+DOG,Spiny dogfish,adult,Small Planktivorous Fish,3.52103609511566e-4,FPS
+DOG,Spiny dogfish,adult,Pacific Herring Cherry Point,0,HEC
+DOG,Spiny dogfish,adult,Pacific Herring Puget Sound,4.93945224134255e-4,HEP
+DOG,Spiny dogfish,adult,Shrimp,1.1739335124909401e-4,PWN
+DOG,Spiny dogfish,adult,Large zooplankton,9.050939553994481e-4,ZL
+DOG,Spiny dogfish,adult,Octopi,0,BMS
+DOG,Spiny dogfish,adult,Ratfish,0,RAT
+DOG,Spiny dogfish,adult,Seagrass,0,SG
+DOG,Spiny dogfish,adult,Bivalves,0,BIV
+DOG,Spiny dogfish,adult,Deep macro-zoobenthos,0,BMD
+DOG,Spiny dogfish,adult,Macroalgae,0,MA
+DOG,Spiny dogfish,adult,Perch,0,POP
+DOG,Spiny dogfish,adult,Small demersal fish,0,SMD
+DOG,Spiny dogfish,adult,Squid,0,SQX
+DOG,Spiny dogfish,adult,Mesozooplankton,0,ZM
+DOG,Spiny dogfish,adult,Chum Fall Subyearling,3.6954868804949496e-4,CMF
+DOG,Spiny dogfish,adult,Carrion,0,DC
+DOG,Spiny dogfish,adult,Large phytoplankton,0,PL
+DOG,Spiny dogfish,adult,Large demersal predators,0,FVS
+DOG,Spiny dogfish,adult,Demersal rockfish,0,ROC
+DOG,Spiny dogfish,adult,Small phytoplankton,0,PS
+DOG,Spiny dogfish,adult,Coho Deep South Yearling,5.937816340811e-5,COD
+DOG,Spiny dogfish,adult,Spiny dogfish,0,DOG
+DOG,Spiny dogfish,adult,Skates,0,SSK
+DOG,Spiny dogfish,adult,Microzooplankton,0,ZS
+DOG,Spiny dogfish,adult,Piscivorous flatfish,0,HAP
+DOG,Spiny dogfish,adult,California sea lions,0,CSL
+DOG,Spiny dogfish,adult,Harbor seals,0,HSL
+DOG,Spiny dogfish,adult,Chinook Hood Canal Subyearling,0,CHC
+DOG,Spiny dogfish,adult,Chum Hood Canal summer run Subyearling,3.87858088215984e-4,CMH
+DOG,Spiny dogfish,adult,Gelatinous zooplankton,2.64644860597011e-4,ZG
+DOG,Spiny dogfish,adult,Labile detritus,0,DL
+DOG,Spiny dogfish,adult,Dungeness crab,0,DUN
+DOG,Spiny dogfish,adult,Coho Hatch Yearling,4.432779539929e-4,COH
+DOG,Spiny dogfish,adult,Midwater rockfish,0,MRO
+DOG,Spiny dogfish,adult,Pink Salmon Subyearling,0,PIS
+DOG,Spiny dogfish,adult,Seabirds (mainly non-piscivorous),0,SP
+DOG,Spiny dogfish,adult,Chinook Hatch Subyearling,3.82536176856845e-4,CHS
+DOG,Spiny dogfish,adult,Chum Hatch Subyearling,8.29261523880627e-4,CMS
+DOG,Spiny dogfish,adult,Refractory detritus,0,DR
+DOG,Spiny dogfish,adult,Coho Skagit Yearling,0.00125228055970309,COS
+DOG,Spiny dogfish,adult,Midwater vulnerable rockfish,0,MVR
+DOG,Spiny dogfish,adult,Harbor porpoise,0,PHR
+DOG,Spiny dogfish,adult,Chinook Hatch Yearling,0,CHY
+DOG,Spiny dogfish,adult,Coho other Yearling,0.0011713859175133498,COY
+DOG,Spiny dogfish,adult,Steller sea lions,0,PIN
+DOG,Spiny dogfish,adult,Chinook other Subyearling,2.7644451948467503e-5,CKS
+DOG,Spiny dogfish,adult,Seabirds (piscivorous),0,SB
+DOG,Spiny dogfish,adult,Chinook Nisqually Subyearling,0,CNS
+DOG,Spiny dogfish,adult,Chinook Nisqually Yearling,0,CNY
+DOG,Spiny dogfish,adult,Chinook Snohomish Subyearling,0,CSN
+DOG,Spiny dogfish,adult,Chinook Skagit Subyearling,2.15108897562211e-4,CSS
+DOG,Spiny dogfish,adult,Other salmonids,0.00106585390302394,SAL
+DOG,Spiny dogfish,adult,Chinook Skagit Yearling,1.50866602658153e-5,CSY
+DOG,Spiny dogfish,adult,Chinook other Yearling,0,CYE
+DOG,Spiny dogfish,adult,Strait of Georgia salmonids,0.00123794501663768,SAF
+SB,Seabirds (piscivorous),adult,Deposit feeders,0,BD
+SB,Seabirds (piscivorous),adult,Carnivorous infauna,0,BC
+SB,Seabirds (piscivorous),adult,Benthic filter feeder,0,BFF
+SB,Seabirds (piscivorous),adult,Benthic grazers,0,BG
+SB,Seabirds (piscivorous),adult,Crabs,0,BML
+SB,Seabirds (piscivorous),adult,Chinook Duwamish Subyearling,0,CDS
+SB,Seabirds (piscivorous),adult,Demersal vulnerable rockfish,0,DVR
+SB,Seabirds (piscivorous),adult,Small-mouthed Flatfish,0,FDF
+SB,Seabirds (piscivorous),adult,Hake_Large gadoids,0,FMM
+SB,Seabirds (piscivorous),adult,Small Planktivorous Fish,0,FPS
+SB,Seabirds (piscivorous),adult,Pacific Herring Cherry Point,0,HEC
+SB,Seabirds (piscivorous),adult,Pacific Herring Puget Sound,0,HEP
+SB,Seabirds (piscivorous),adult,Shrimp,0,PWN
+SB,Seabirds (piscivorous),adult,Large zooplankton,0,ZL
+SB,Seabirds (piscivorous),adult,Octopi,0,BMS
+SB,Seabirds (piscivorous),adult,Ratfish,0,RAT
+SB,Seabirds (piscivorous),adult,Seagrass,0,SG
+SB,Seabirds (piscivorous),adult,Bivalves,0,BIV
+SB,Seabirds (piscivorous),adult,Deep macro-zoobenthos,0,BMD
+SB,Seabirds (piscivorous),adult,Macroalgae,0,MA
+SB,Seabirds (piscivorous),adult,Perch,0,POP
+SB,Seabirds (piscivorous),adult,Small demersal fish,0,SMD
+SB,Seabirds (piscivorous),adult,Squid,0,SQX
+SB,Seabirds (piscivorous),adult,Mesozooplankton,0,ZM
+SB,Seabirds (piscivorous),adult,Chum Fall Subyearling,0.00120411386421497,CMF
+SB,Seabirds (piscivorous),adult,Carrion,0,DC
+SB,Seabirds (piscivorous),adult,Large phytoplankton,0,PL
+SB,Seabirds (piscivorous),adult,Large demersal predators,0,FVS
+SB,Seabirds (piscivorous),adult,Demersal rockfish,0,ROC
+SB,Seabirds (piscivorous),adult,Small phytoplankton,0,PS
+SB,Seabirds (piscivorous),adult,Coho Deep South Yearling,0,COD
+SB,Seabirds (piscivorous),adult,Spiny dogfish,0,DOG
+SB,Seabirds (piscivorous),adult,Skates,0,SSK
+SB,Seabirds (piscivorous),adult,Microzooplankton,0,ZS
+SB,Seabirds (piscivorous),adult,Piscivorous flatfish,0,HAP
+SB,Seabirds (piscivorous),adult,California sea lions,0,CSL
+SB,Seabirds (piscivorous),adult,Harbor seals,0,HSL
+SB,Seabirds (piscivorous),adult,Chinook Hood Canal Subyearling,1.12603738065436e-5,CHC
+SB,Seabirds (piscivorous),adult,Chum Hood Canal summer run Subyearling,1.52953820604781e-5,CMH
+SB,Seabirds (piscivorous),adult,Gelatinous zooplankton,0,ZG
+SB,Seabirds (piscivorous),adult,Labile detritus,0,DL
+SB,Seabirds (piscivorous),adult,Dungeness crab,0,DUN
+SB,Seabirds (piscivorous),adult,Coho Hatch Yearling,0.00102958856670234,COH
+SB,Seabirds (piscivorous),adult,Midwater rockfish,0,MRO
+SB,Seabirds (piscivorous),adult,Pink Salmon Subyearling,0.00111343696166578,PIS
+SB,Seabirds (piscivorous),adult,Seabirds (mainly non-piscivorous),0,SP
+SB,Seabirds (piscivorous),adult,Chinook Hatch Subyearling,0.00116055747200336,CHS
+SB,Seabirds (piscivorous),adult,Chum Hatch Subyearling,0.0015728022335229999,CMS
+SB,Seabirds (piscivorous),adult,Refractory detritus,0,DR
+SB,Seabirds (piscivorous),adult,Coho Skagit Yearling,5.04250316312052e-4,COS
+SB,Seabirds (piscivorous),adult,Midwater vulnerable rockfish,0,MVR
+SB,Seabirds (piscivorous),adult,Harbor porpoise,0,PHR
+SB,Seabirds (piscivorous),adult,Chinook Hatch Yearling,0,CHY
+SB,Seabirds (piscivorous),adult,Coho other Yearling,0.00122368025602177,COY
+SB,Seabirds (piscivorous),adult,Steller sea lions,0,PIN
+SB,Seabirds (piscivorous),adult,Chinook other Subyearling,1.0532977774604e-5,CKS
+SB,Seabirds (piscivorous),adult,Seabirds (piscivorous),0,SB
+SB,Seabirds (piscivorous),adult,Chinook Nisqually Subyearling,0,CNS
+SB,Seabirds (piscivorous),adult,Chinook Nisqually Yearling,0,CNY
+SB,Seabirds (piscivorous),adult,Chinook Snohomish Subyearling,0,CSN
+SB,Seabirds (piscivorous),adult,Chinook Skagit Subyearling,2.58600749058164e-4,CSS
+SB,Seabirds (piscivorous),adult,Other salmonids,0.00117129658818908,SAL
+SB,Seabirds (piscivorous),adult,Chinook Skagit Yearling,1.72013769830019e-5,CSY
+SB,Seabirds (piscivorous),adult,Chinook other Yearling,0,CYE
+SB,Seabirds (piscivorous),adult,Strait of Georgia salmonids,7.073827952403979e-4,SAF
+SP,Seabirds (mainly non-piscivorous),adult,Deposit feeders,0,BD
+SP,Seabirds (mainly non-piscivorous),adult,Carnivorous infauna,1.15516997718709e-4,BC
+SP,Seabirds (mainly non-piscivorous),adult,Benthic filter feeder,0,BFF
+SP,Seabirds (mainly non-piscivorous),adult,Benthic grazers,3.8078092830739e-4,BG
+SP,Seabirds (mainly non-piscivorous),adult,Crabs,0.00178942373236446,BML
+SP,Seabirds (mainly non-piscivorous),adult,Chinook Duwamish Subyearling,0,CDS
+SP,Seabirds (mainly non-piscivorous),adult,Demersal vulnerable rockfish,0,DVR
+SP,Seabirds (mainly non-piscivorous),adult,Small-mouthed Flatfish,0,FDF
+SP,Seabirds (mainly non-piscivorous),adult,Hake_Large gadoids,0,FMM
+SP,Seabirds (mainly non-piscivorous),adult,Small Planktivorous Fish,0,FPS
+SP,Seabirds (mainly non-piscivorous),adult,Pacific Herring Cherry Point,0,HEC
+SP,Seabirds (mainly non-piscivorous),adult,Pacific Herring Puget Sound,0,HEP
+SP,Seabirds (mainly non-piscivorous),adult,Shrimp,1.22362208508943e-4,PWN
+SP,Seabirds (mainly non-piscivorous),adult,Large zooplankton,0,ZL
+SP,Seabirds (mainly non-piscivorous),adult,Octopi,0,BMS
+SP,Seabirds (mainly non-piscivorous),adult,Ratfish,0,RAT
+SP,Seabirds (mainly non-piscivorous),adult,Seagrass,9.134750271930531e-4,SG
+SP,Seabirds (mainly non-piscivorous),adult,Bivalves,0.00448472438622401,BIV
+SP,Seabirds (mainly non-piscivorous),adult,Deep macro-zoobenthos,0.00161328333623144,BMD
+SP,Seabirds (mainly non-piscivorous),adult,Macroalgae,0,MA
+SP,Seabirds (mainly non-piscivorous),adult,Perch,0,POP
+SP,Seabirds (mainly non-piscivorous),adult,Small demersal fish,0,SMD
+SP,Seabirds (mainly non-piscivorous),adult,Squid,0,SQX
+SP,Seabirds (mainly non-piscivorous),adult,Mesozooplankton,0,ZM
+SP,Seabirds (mainly non-piscivorous),adult,Chum Fall Subyearling,1.76441095106738e-5,CMF
+SP,Seabirds (mainly non-piscivorous),adult,Carrion,0,DC
+SP,Seabirds (mainly non-piscivorous),adult,Large phytoplankton,0,PL
+SP,Seabirds (mainly non-piscivorous),adult,Large demersal predators,0,FVS
+SP,Seabirds (mainly non-piscivorous),adult,Demersal rockfish,0,ROC
+SP,Seabirds (mainly non-piscivorous),adult,Small phytoplankton,0,PS
+SP,Seabirds (mainly non-piscivorous),adult,Coho Deep South Yearling,0,COD
+SP,Seabirds (mainly non-piscivorous),adult,Spiny dogfish,0,DOG
+SP,Seabirds (mainly non-piscivorous),adult,Skates,0,SSK
+SP,Seabirds (mainly non-piscivorous),adult,Microzooplankton,0,ZS
+SP,Seabirds (mainly non-piscivorous),adult,Piscivorous flatfish,0,HAP
+SP,Seabirds (mainly non-piscivorous),adult,California sea lions,0,CSL
+SP,Seabirds (mainly non-piscivorous),adult,Harbor seals,0,HSL
+SP,Seabirds (mainly non-piscivorous),adult,Chinook Hood Canal Subyearling,0,CHC
+SP,Seabirds (mainly non-piscivorous),adult,Chum Hood Canal summer run Subyearling,0,CMH
+SP,Seabirds (mainly non-piscivorous),adult,Gelatinous zooplankton,0,ZG
+SP,Seabirds (mainly non-piscivorous),adult,Labile detritus,0,DL
+SP,Seabirds (mainly non-piscivorous),adult,Dungeness crab,0,DUN
+SP,Seabirds (mainly non-piscivorous),adult,Coho Hatch Yearling,0,COH
+SP,Seabirds (mainly non-piscivorous),adult,Midwater rockfish,0,MRO
+SP,Seabirds (mainly non-piscivorous),adult,Pink Salmon Subyearling,0,PIS
+SP,Seabirds (mainly non-piscivorous),adult,Seabirds (mainly non-piscivorous),0,SP
+SP,Seabirds (mainly non-piscivorous),adult,Chinook Hatch Subyearling,0,CHS
+SP,Seabirds (mainly non-piscivorous),adult,Chum Hatch Subyearling,0,CMS
+SP,Seabirds (mainly non-piscivorous),adult,Refractory detritus,0,DR
+SP,Seabirds (mainly non-piscivorous),adult,Coho Skagit Yearling,0,COS
+SP,Seabirds (mainly non-piscivorous),adult,Midwater vulnerable rockfish,0,MVR
+SP,Seabirds (mainly non-piscivorous),adult,Harbor porpoise,0,PHR
+SP,Seabirds (mainly non-piscivorous),adult,Chinook Hatch Yearling,0,CHY
+SP,Seabirds (mainly non-piscivorous),adult,Coho other Yearling,0,COY
+SP,Seabirds (mainly non-piscivorous),adult,Steller sea lions,0,PIN
+SP,Seabirds (mainly non-piscivorous),adult,Chinook other Subyearling,0,CKS
+SP,Seabirds (mainly non-piscivorous),adult,Seabirds (piscivorous),0,SB
+SP,Seabirds (mainly non-piscivorous),adult,Chinook Nisqually Subyearling,0,CNS
+SP,Seabirds (mainly non-piscivorous),adult,Chinook Nisqually Yearling,0,CNY
+SP,Seabirds (mainly non-piscivorous),adult,Chinook Snohomish Subyearling,0,CSN
+SP,Seabirds (mainly non-piscivorous),adult,Chinook Skagit Subyearling,1.16035118927333e-5,CSS
+SP,Seabirds (mainly non-piscivorous),adult,Other salmonids,3.10935430222936e-4,SAL
+SP,Seabirds (mainly non-piscivorous),adult,Chinook Skagit Yearling,0,CSY
+SP,Seabirds (mainly non-piscivorous),adult,Chinook other Yearling,0,CYE
+SP,Seabirds (mainly non-piscivorous),adult,Strait of Georgia salmonids,2.40250266122137e-4,SAF
+BE,Raptors,adult,Deposit feeders,8.86225775230451e-11,BD
+BE,Raptors,adult,Carnivorous infauna,8.86225775230451e-11,BC
+BE,Raptors,adult,Benthic filter feeder,8.86225775230451e-11,BFF
+BE,Raptors,adult,Benthic grazers,8.86225775230451e-11,BG
+BE,Raptors,adult,Crabs,8.86225775230451e-11,BML
+BE,Raptors,adult,Chinook Duwamish Subyearling,8.86225775230451e-11,CDS
+BE,Raptors,adult,Demersal vulnerable rockfish,8.86225775230451e-11,DVR
+BE,Raptors,adult,Small-mouthed Flatfish,8.86225775230451e-11,FDF
+BE,Raptors,adult,Hake_Large gadoids,8.86225775230451e-11,FMM
+BE,Raptors,adult,Small Planktivorous Fish,8.86225775230451e-11,FPS
+BE,Raptors,adult,Pacific Herring Cherry Point,8.86225775230451e-11,HEC
+BE,Raptors,adult,Pacific Herring Puget Sound,8.86225775230451e-11,HEP
+BE,Raptors,adult,Shrimp,8.86225775230451e-11,PWN
+BE,Raptors,adult,Large zooplankton,8.86225775230451e-11,ZL
+BE,Raptors,adult,Octopi,8.86225775230451e-11,BMS
+BE,Raptors,adult,Ratfish,8.86225775230451e-11,RAT
+BE,Raptors,adult,Seagrass,8.86225775230451e-11,SG
+BE,Raptors,adult,Bivalves,8.86225775230451e-11,BIV
+BE,Raptors,adult,Deep macro-zoobenthos,8.86225775230451e-11,BMD
+BE,Raptors,adult,Macroalgae,8.86225775230451e-11,MA
+BE,Raptors,adult,Perch,8.86225775230451e-11,POP
+BE,Raptors,adult,Small demersal fish,8.86225775230451e-11,SMD
+BE,Raptors,adult,Squid,8.86225775230451e-11,SQX
+BE,Raptors,adult,Mesozooplankton,8.86225775230451e-11,ZM
+BE,Raptors,adult,Chum Fall Subyearling,8.86225775230451e-11,CMF
+BE,Raptors,adult,Carrion,8.86225775230451e-11,DC
+BE,Raptors,adult,Large phytoplankton,8.86225775230451e-11,PL
+BE,Raptors,adult,Large demersal predators,8.86225775230451e-11,FVS
+BE,Raptors,adult,Demersal rockfish,8.86225775230451e-11,ROC
+BE,Raptors,adult,Small phytoplankton,8.86225775230451e-11,PS
+BE,Raptors,adult,Coho Deep South Yearling,8.86225775230451e-11,COD
+BE,Raptors,adult,Spiny dogfish,8.86225775230451e-11,DOG
+BE,Raptors,adult,Skates,8.86225775230451e-11,SSK
+BE,Raptors,adult,Microzooplankton,8.86225775230451e-11,ZS
+BE,Raptors,adult,Piscivorous flatfish,8.86225775230451e-11,HAP
+BE,Raptors,adult,California sea lions,8.86225775230451e-11,CSL
+BE,Raptors,adult,Harbor seals,8.86225775230451e-11,HSL
+BE,Raptors,adult,Chinook Hood Canal Subyearling,8.86225775230451e-11,CHC
+BE,Raptors,adult,Chum Hood Canal summer run Subyearling,8.86225775230451e-11,CMH
+BE,Raptors,adult,Gelatinous zooplankton,8.86225775230451e-11,ZG
+BE,Raptors,adult,Labile detritus,8.86225775230451e-11,DL
+BE,Raptors,adult,Dungeness crab,8.86225775230451e-11,DUN
+BE,Raptors,adult,Coho Hatch Yearling,8.86225775230451e-11,COH
+BE,Raptors,adult,Midwater rockfish,8.86225775230451e-11,MRO
+BE,Raptors,adult,Pink Salmon Subyearling,8.86225775230451e-11,PIS
+BE,Raptors,adult,Seabirds (mainly non-piscivorous),8.86225775230451e-11,SP
+BE,Raptors,adult,Chinook Hatch Subyearling,8.86225775230451e-11,CHS
+BE,Raptors,adult,Chum Hatch Subyearling,8.86225775230451e-11,CMS
+BE,Raptors,adult,Refractory detritus,8.86225775230451e-11,DR
+BE,Raptors,adult,Coho Skagit Yearling,8.86225775230451e-11,COS
+BE,Raptors,adult,Midwater vulnerable rockfish,8.86225775230451e-11,MVR
+BE,Raptors,adult,Harbor porpoise,8.86225775230451e-11,PHR
+BE,Raptors,adult,Chinook Hatch Yearling,8.86225775230451e-11,CHY
+BE,Raptors,adult,Coho other Yearling,8.86225775230451e-11,COY
+BE,Raptors,adult,Steller sea lions,8.86225775230451e-11,PIN
+BE,Raptors,adult,Chinook other Subyearling,8.86225775230451e-11,CKS
+BE,Raptors,adult,Seabirds (piscivorous),0.00999999432815504,SB
+BE,Raptors,adult,Chinook Nisqually Subyearling,8.86225775230451e-11,CNS
+BE,Raptors,adult,Chinook Nisqually Yearling,8.86225775230451e-11,CNY
+BE,Raptors,adult,Chinook Snohomish Subyearling,8.86225775230451e-11,CSN
+BE,Raptors,adult,Chinook Skagit Subyearling,8.86225775230451e-11,CSS
+BE,Raptors,adult,Other salmonids,8.86225775230451e-11,SAL
+BE,Raptors,adult,Chinook Skagit Yearling,8.86225775230451e-11,CSY
+BE,Raptors,adult,Chinook other Yearling,8.86225775230451e-11,CYE
+BE,Raptors,adult,Strait of Georgia salmonids,8.86225775230451e-11,SAF
+HSL,Harbor seals,adult,Deposit feeders,0,BD
+HSL,Harbor seals,adult,Carnivorous infauna,0,BC
+HSL,Harbor seals,adult,Benthic filter feeder,0,BFF
+HSL,Harbor seals,adult,Benthic grazers,0,BG
+HSL,Harbor seals,adult,Crabs,0,BML
+HSL,Harbor seals,adult,Chinook Duwamish Subyearling,0,CDS
+HSL,Harbor seals,adult,Demersal vulnerable rockfish,0,DVR
+HSL,Harbor seals,adult,Small-mouthed Flatfish,0,FDF
+HSL,Harbor seals,adult,Hake_Large gadoids,0,FMM
+HSL,Harbor seals,adult,Small Planktivorous Fish,0,FPS
+HSL,Harbor seals,adult,Pacific Herring Cherry Point,0,HEC
+HSL,Harbor seals,adult,Pacific Herring Puget Sound,0,HEP
+HSL,Harbor seals,adult,Shrimp,0,PWN
+HSL,Harbor seals,adult,Large zooplankton,0,ZL
+HSL,Harbor seals,adult,Octopi,0,BMS
+HSL,Harbor seals,adult,Ratfish,0,RAT
+HSL,Harbor seals,adult,Seagrass,0,SG
+HSL,Harbor seals,adult,Bivalves,0,BIV
+HSL,Harbor seals,adult,Deep macro-zoobenthos,0,BMD
+HSL,Harbor seals,adult,Macroalgae,0,MA
+HSL,Harbor seals,adult,Perch,0,POP
+HSL,Harbor seals,adult,Small demersal fish,0,SMD
+HSL,Harbor seals,adult,Squid,0,SQX
+HSL,Harbor seals,adult,Mesozooplankton,0,ZM
+HSL,Harbor seals,adult,Chum Fall Subyearling,0.0014927888315423,CMF
+HSL,Harbor seals,adult,Carrion,0,DC
+HSL,Harbor seals,adult,Large phytoplankton,0,PL
+HSL,Harbor seals,adult,Large demersal predators,0,FVS
+HSL,Harbor seals,adult,Demersal rockfish,0,ROC
+HSL,Harbor seals,adult,Small phytoplankton,0,PS
+HSL,Harbor seals,adult,Coho Deep South Yearling,2.40933412332823e-5,COD
+HSL,Harbor seals,adult,Spiny dogfish,0,DOG
+HSL,Harbor seals,adult,Skates,0,SSK
+HSL,Harbor seals,adult,Microzooplankton,0,ZS
+HSL,Harbor seals,adult,Piscivorous flatfish,0,HAP
+HSL,Harbor seals,adult,California sea lions,0,CSL
+HSL,Harbor seals,adult,Harbor seals,0,HSL
+HSL,Harbor seals,adult,Chinook Hood Canal Subyearling,3.27268761772699e-5,CHC
+HSL,Harbor seals,adult,Chum Hood Canal summer run Subyearling,0,CMH
+HSL,Harbor seals,adult,Gelatinous zooplankton,0,ZG
+HSL,Harbor seals,adult,Labile detritus,0,DL
+HSL,Harbor seals,adult,Dungeness crab,0,DUN
+HSL,Harbor seals,adult,Coho Hatch Yearling,5.259842719475441e-4,COH
+HSL,Harbor seals,adult,Midwater rockfish,0,MRO
+HSL,Harbor seals,adult,Pink Salmon Subyearling,0.00148592970287903,PIS
+HSL,Harbor seals,adult,Seabirds (mainly non-piscivorous),0,SP
+HSL,Harbor seals,adult,Chinook Hatch Subyearling,6.20835911105782e-4,CHS
+HSL,Harbor seals,adult,Chum Hatch Subyearling,0.00126763540883369,CMS
+HSL,Harbor seals,adult,Refractory detritus,0,DR
+HSL,Harbor seals,adult,Coho Skagit Yearling,2.7099200008881704e-4,COS
+HSL,Harbor seals,adult,Midwater vulnerable rockfish,0,MVR
+HSL,Harbor seals,adult,Harbor porpoise,0,PHR
+HSL,Harbor seals,adult,Chinook Hatch Yearling,1.04696728983834e-4,CHY
+HSL,Harbor seals,adult,Coho other Yearling,0.0010138854158853999,COY
+HSL,Harbor seals,adult,Steller sea lions,0,PIN
+HSL,Harbor seals,adult,Chinook other Subyearling,0,CKS
+HSL,Harbor seals,adult,Seabirds (piscivorous),0,SB
+HSL,Harbor seals,adult,Chinook Nisqually Subyearling,0,CNS
+HSL,Harbor seals,adult,Chinook Nisqually Yearling,0,CNY
+HSL,Harbor seals,adult,Chinook Snohomish Subyearling,0,CSN
+HSL,Harbor seals,adult,Chinook Skagit Subyearling,2.61189410655323e-4,CSS
+HSL,Harbor seals,adult,Other salmonids,0.00150313693661034,SAL
+HSL,Harbor seals,adult,Chinook Skagit Yearling,2.2074703678326802e-5,CSY
+HSL,Harbor seals,adult,Chinook other Yearling,0,CYE
+HSL,Harbor seals,adult,Strait of Georgia salmonids,0.0013740303992772298,SAF
+CSL,California sea lions,adult,Deposit feeders,0,BD
+CSL,California sea lions,adult,Carnivorous infauna,0,BC
+CSL,California sea lions,adult,Benthic filter feeder,0,BFF
+CSL,California sea lions,adult,Benthic grazers,0,BG
+CSL,California sea lions,adult,Crabs,0,BML
+CSL,California sea lions,adult,Chinook Duwamish Subyearling,0,CDS
+CSL,California sea lions,adult,Demersal vulnerable rockfish,0,DVR
+CSL,California sea lions,adult,Small-mouthed Flatfish,0,FDF
+CSL,California sea lions,adult,Hake_Large gadoids,0,FMM
+CSL,California sea lions,adult,Small Planktivorous Fish,7.69242962605675e-5,FPS
+CSL,California sea lions,adult,Pacific Herring Cherry Point,0,HEC
+CSL,California sea lions,adult,Pacific Herring Puget Sound,0,HEP
+CSL,California sea lions,adult,Shrimp,0,PWN
+CSL,California sea lions,adult,Large zooplankton,0,ZL
+CSL,California sea lions,adult,Octopi,0,BMS
+CSL,California sea lions,adult,Ratfish,0,RAT
+CSL,California sea lions,adult,Seagrass,0,SG
+CSL,California sea lions,adult,Bivalves,0,BIV
+CSL,California sea lions,adult,Deep macro-zoobenthos,0,BMD
+CSL,California sea lions,adult,Macroalgae,0,MA
+CSL,California sea lions,adult,Perch,0,POP
+CSL,California sea lions,adult,Small demersal fish,0,SMD
+CSL,California sea lions,adult,Squid,0,SQX
+CSL,California sea lions,adult,Mesozooplankton,0,ZM
+CSL,California sea lions,adult,Chum Fall Subyearling,0.0014525654007906598,CMF
+CSL,California sea lions,adult,Carrion,0,DC
+CSL,California sea lions,adult,Large phytoplankton,0,PL
+CSL,California sea lions,adult,Large demersal predators,0,FVS
+CSL,California sea lions,adult,Demersal rockfish,0,ROC
+CSL,California sea lions,adult,Small phytoplankton,0,PS
+CSL,California sea lions,adult,Coho Deep South Yearling,0,COD
+CSL,California sea lions,adult,Spiny dogfish,0,DOG
+CSL,California sea lions,adult,Skates,2.30692754084553e-5,SSK
+CSL,California sea lions,adult,Microzooplankton,0,ZS
+CSL,California sea lions,adult,Piscivorous flatfish,0,HAP
+CSL,California sea lions,adult,California sea lions,0,CSL
+CSL,California sea lions,adult,Harbor seals,0,HSL
+CSL,California sea lions,adult,Chinook Hood Canal Subyearling,2.07056014480389e-4,CHC
+CSL,California sea lions,adult,Chum Hood Canal summer run Subyearling,0,CMH
+CSL,California sea lions,adult,Gelatinous zooplankton,0,ZG
+CSL,California sea lions,adult,Labile detritus,0,DL
+CSL,California sea lions,adult,Dungeness crab,0,DUN
+CSL,California sea lions,adult,Coho Hatch Yearling,8.41632101387534e-4,COH
+CSL,California sea lions,adult,Midwater rockfish,0,MRO
+CSL,California sea lions,adult,Pink Salmon Subyearling,0.00161487271537414,PIS
+CSL,California sea lions,adult,Seabirds (mainly non-piscivorous),0,SP
+CSL,California sea lions,adult,Chinook Hatch Subyearling,0.00100722547879583,CHS
+CSL,California sea lions,adult,Chum Hatch Subyearling,9.50879072502029e-4,CMS
+CSL,California sea lions,adult,Refractory detritus,0,DR
+CSL,California sea lions,adult,Coho Skagit Yearling,7.179899902820649e-4,COS
+CSL,California sea lions,adult,Midwater vulnerable rockfish,0,MVR
+CSL,California sea lions,adult,Harbor porpoise,0,PHR
+CSL,California sea lions,adult,Chinook Hatch Yearling,0,CHY
+CSL,California sea lions,adult,Coho other Yearling,0.00100722547879583,COY
+CSL,California sea lions,adult,Steller sea lions,0,PIN
+CSL,California sea lions,adult,Chinook other Subyearling,1.96827876032755e-4,CKS
+CSL,California sea lions,adult,Seabirds (piscivorous),0,SB
+CSL,California sea lions,adult,Chinook Nisqually Subyearling,0,CNS
+CSL,California sea lions,adult,Chinook Nisqually Yearling,0,CNY
+CSL,California sea lions,adult,Chinook Snohomish Subyearling,0,CSN
+CSL,California sea lions,adult,Chinook Skagit Subyearling,3.7766141061673197e-4,CSS
+CSL,California sea lions,adult,Other salmonids,8.01797226762082e-5,SAL
+CSL,California sea lions,adult,Chinook Skagit Yearling,0,CSY
+CSL,California sea lions,adult,Chinook other Yearling,0,CYE
+CSL,California sea lions,adult,Strait of Georgia salmonids,0.00144589109243216,SAF
+PIN,Steller sea lions,adult,Deposit feeders,0,BD
+PIN,Steller sea lions,adult,Carnivorous infauna,0,BC
+PIN,Steller sea lions,adult,Benthic filter feeder,0,BFF
+PIN,Steller sea lions,adult,Benthic grazers,0,BG
+PIN,Steller sea lions,adult,Crabs,0,BML
+PIN,Steller sea lions,adult,Chinook Duwamish Subyearling,0,CDS
+PIN,Steller sea lions,adult,Demersal vulnerable rockfish,0,DVR
+PIN,Steller sea lions,adult,Small-mouthed Flatfish,0,FDF
+PIN,Steller sea lions,adult,Hake_Large gadoids,0,FMM
+PIN,Steller sea lions,adult,Small Planktivorous Fish,2.56605519909084e-5,FPS
+PIN,Steller sea lions,adult,Pacific Herring Cherry Point,0,HEC
+PIN,Steller sea lions,adult,Pacific Herring Puget Sound,0,HEP
+PIN,Steller sea lions,adult,Shrimp,0,PWN
+PIN,Steller sea lions,adult,Large zooplankton,0,ZL
+PIN,Steller sea lions,adult,Octopi,0,BMS
+PIN,Steller sea lions,adult,Ratfish,0,RAT
+PIN,Steller sea lions,adult,Seagrass,0,SG
+PIN,Steller sea lions,adult,Bivalves,0,BIV
+PIN,Steller sea lions,adult,Deep macro-zoobenthos,0,BMD
+PIN,Steller sea lions,adult,Macroalgae,0,MA
+PIN,Steller sea lions,adult,Perch,0,POP
+PIN,Steller sea lions,adult,Small demersal fish,0,SMD
+PIN,Steller sea lions,adult,Squid,0,SQX
+PIN,Steller sea lions,adult,Mesozooplankton,0,ZM
+PIN,Steller sea lions,adult,Chum Fall Subyearling,0.00212507599671448,CMF
+PIN,Steller sea lions,adult,Carrion,0,DC
+PIN,Steller sea lions,adult,Large phytoplankton,0,PL
+PIN,Steller sea lions,adult,Large demersal predators,0,FVS
+PIN,Steller sea lions,adult,Demersal rockfish,0,ROC
+PIN,Steller sea lions,adult,Small phytoplankton,0,PS
+PIN,Steller sea lions,adult,Coho Deep South Yearling,0,COD
+PIN,Steller sea lions,adult,Spiny dogfish,0,DOG
+PIN,Steller sea lions,adult,Skates,0,SSK
+PIN,Steller sea lions,adult,Microzooplankton,0,ZS
+PIN,Steller sea lions,adult,Piscivorous flatfish,0,HAP
+PIN,Steller sea lions,adult,California sea lions,0,CSL
+PIN,Steller sea lions,adult,Harbor seals,0,HSL
+PIN,Steller sea lions,adult,Chinook Hood Canal Subyearling,4.92359134154235e-5,CHC
+PIN,Steller sea lions,adult,Chum Hood Canal summer run Subyearling,1.31312506572528e-4,CMH
+PIN,Steller sea lions,adult,Gelatinous zooplankton,0,ZG
+PIN,Steller sea lions,adult,Labile detritus,0,DL
+PIN,Steller sea lions,adult,Dungeness crab,0,DUN
+PIN,Steller sea lions,adult,Coho Hatch Yearling,4.05820333267418e-4,COH
+PIN,Steller sea lions,adult,Midwater rockfish,0,MRO
+PIN,Steller sea lions,adult,Pink Salmon Subyearling,0,PIS
+PIN,Steller sea lions,adult,Seabirds (mainly non-piscivorous),0,SP
+PIN,Steller sea lions,adult,Chinook Hatch Subyearling,0.00101008099258439,CHS
+PIN,Steller sea lions,adult,Chum Hatch Subyearling,0.00177570188043819,CMS
+PIN,Steller sea lions,adult,Refractory detritus,0,DR
+PIN,Steller sea lions,adult,Coho Skagit Yearling,5.42426537980742e-4,COS
+PIN,Steller sea lions,adult,Midwater vulnerable rockfish,0,MVR
+PIN,Steller sea lions,adult,Harbor porpoise,0,PHR
+PIN,Steller sea lions,adult,Chinook Hatch Yearling,5.85175642797025e-5,CHY
+PIN,Steller sea lions,adult,Coho other Yearling,8.36279712546396e-4,COY
+PIN,Steller sea lions,adult,Steller sea lions,0,PIN
+PIN,Steller sea lions,adult,Chinook other Subyearling,1.26562541300522e-4,CKS
+PIN,Steller sea lions,adult,Seabirds (piscivorous),0,SB
+PIN,Steller sea lions,adult,Chinook Nisqually Subyearling,0,CNS
+PIN,Steller sea lions,adult,Chinook Nisqually Yearling,0,CNY
+PIN,Steller sea lions,adult,Chinook Snohomish Subyearling,0,CSN
+PIN,Steller sea lions,adult,Chinook Skagit Subyearling,1.6155156941604701e-4,CSS
+PIN,Steller sea lions,adult,Other salmonids,8.837978049622611e-4,SAL
+PIN,Steller sea lions,adult,Chinook Skagit Yearling,0,CSY
+PIN,Steller sea lions,adult,Chinook other Yearling,0,CYE
+PIN,Steller sea lions,adult,Strait of Georgia salmonids,0.00186797602900353,SAF
+ROR,Resident Orca,adult,Deposit feeders,0,BD
+ROR,Resident Orca,adult,Carnivorous infauna,0,BC
+ROR,Resident Orca,adult,Benthic filter feeder,0,BFF
+ROR,Resident Orca,adult,Benthic grazers,0,BG
+ROR,Resident Orca,adult,Crabs,0,BML
+ROR,Resident Orca,adult,Chinook Duwamish Subyearling,2.35274328150734e-4,CDS
+ROR,Resident Orca,adult,Demersal vulnerable rockfish,0,DVR
+ROR,Resident Orca,adult,Small-mouthed Flatfish,0,FDF
+ROR,Resident Orca,adult,Hake_Large gadoids,0,FMM
+ROR,Resident Orca,adult,Small Planktivorous Fish,0,FPS
+ROR,Resident Orca,adult,Pacific Herring Cherry Point,0,HEC
+ROR,Resident Orca,adult,Pacific Herring Puget Sound,0,HEP
+ROR,Resident Orca,adult,Shrimp,0,PWN
+ROR,Resident Orca,adult,Large zooplankton,0,ZL
+ROR,Resident Orca,adult,Octopi,0,BMS
+ROR,Resident Orca,adult,Ratfish,0,RAT
+ROR,Resident Orca,adult,Seagrass,0,SG
+ROR,Resident Orca,adult,Bivalves,0,BIV
+ROR,Resident Orca,adult,Deep macro-zoobenthos,0,BMD
+ROR,Resident Orca,adult,Macroalgae,0,MA
+ROR,Resident Orca,adult,Perch,0,POP
+ROR,Resident Orca,adult,Small demersal fish,0,SMD
+ROR,Resident Orca,adult,Squid,0,SQX
+ROR,Resident Orca,adult,Mesozooplankton,0,ZM
+ROR,Resident Orca,adult,Chum Fall Subyearling,0.00133541787158105,CMF
+ROR,Resident Orca,adult,Carrion,0,DC
+ROR,Resident Orca,adult,Large phytoplankton,0,PL
+ROR,Resident Orca,adult,Large demersal predators,0,FVS
+ROR,Resident Orca,adult,Demersal rockfish,0,ROC
+ROR,Resident Orca,adult,Small phytoplankton,0,PS
+ROR,Resident Orca,adult,Coho Deep South Yearling,0,COD
+ROR,Resident Orca,adult,Spiny dogfish,0,DOG
+ROR,Resident Orca,adult,Skates,0,SSK
+ROR,Resident Orca,adult,Microzooplankton,0,ZS
+ROR,Resident Orca,adult,Piscivorous flatfish,0,HAP
+ROR,Resident Orca,adult,California sea lions,0,CSL
+ROR,Resident Orca,adult,Harbor seals,0,HSL
+ROR,Resident Orca,adult,Chinook Hood Canal Subyearling,2.75789955130504e-4,CHC
+ROR,Resident Orca,adult,Chum Hood Canal summer run Subyearling,0,CMH
+ROR,Resident Orca,adult,Gelatinous zooplankton,0,ZG
+ROR,Resident Orca,adult,Labile detritus,0,DL
+ROR,Resident Orca,adult,Dungeness crab,0,DUN
+ROR,Resident Orca,adult,Coho Hatch Yearling,5.57950601164788e-4,COH
+ROR,Resident Orca,adult,Midwater rockfish,0,MRO
+ROR,Resident Orca,adult,Pink Salmon Subyearling,6.27478188552555e-4,PIS
+ROR,Resident Orca,adult,Seabirds (mainly non-piscivorous),0,SP
+ROR,Resident Orca,adult,Chinook Hatch Subyearling,5.21908187273545e-4,CHS
+ROR,Resident Orca,adult,Chum Hatch Subyearling,9.51938453528073e-4,CMS
+ROR,Resident Orca,adult,Refractory detritus,0,DR
+ROR,Resident Orca,adult,Coho Skagit Yearling,2.1114066441781099e-4,COS
+ROR,Resident Orca,adult,Midwater vulnerable rockfish,0,MVR
+ROR,Resident Orca,adult,Harbor porpoise,0,PHR
+ROR,Resident Orca,adult,Chinook Hatch Yearling,6.896058751878869e-4,CHY
+ROR,Resident Orca,adult,Coho other Yearling,6.540329855354631e-4,COY
+ROR,Resident Orca,adult,Steller sea lions,0,PIN
+ROR,Resident Orca,adult,Chinook other Subyearling,2.1309443592970202e-4,CKS
+ROR,Resident Orca,adult,Seabirds (piscivorous),0,SB
+ROR,Resident Orca,adult,Chinook Nisqually Subyearling,1.93005496949525e-4,CNS
+ROR,Resident Orca,adult,Chinook Nisqually Yearling,3.99565101542175e-4,CNY
+ROR,Resident Orca,adult,Chinook Snohomish Subyearling,3.05901065098123e-4,CSN
+ROR,Resident Orca,adult,Chinook Skagit Subyearling,4.25195908110067e-4,CSS
+ROR,Resident Orca,adult,Other salmonids,4.24217929416204e-4,SAL
+ROR,Resident Orca,adult,Chinook Skagit Yearling,4.2715863449959405e-4,CSY
+ROR,Resident Orca,adult,Chinook other Yearling,4.04192110531759e-4,CYE
+ROR,Resident Orca,adult,Strait of Georgia salmonids,0.00114713214934209,SAF

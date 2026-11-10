@@ -1,0 +1,15 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Mussels,Mussels,Fig3_Nov-Dec_2003,100,1,1,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Gastropoda,Fig3_Dec_2005,1,0.01,2,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Crustacea,Fig3_Dec_2005,17,0.17,2,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Polychaeta,Polychaeta,Fig3_Dec_2005,82,0.82,2,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crabs,Crabs,Fig3_Aug_2005,61,0.61,3,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BD,Idotea resecata,Idotea resecata,Fig3_Aug_2005,12,0.12,3,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Polychaeta,Polychaeta,Fig3_Aug_2005,6,0.06,3,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Bivalvia,Fig3_Aug_2005,9,0.09,3,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Gastropoda,Fig3_Aug_2005,12,0.12,3,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Crustacea,Fig3_Mar_2006,33,0.33,4,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Gastropoda,Fig3_Mar_2006,27,0.27,4,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Bivalvia,Fig3_Mar_2006,20,0.2,4,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Ophiuroidea,Ophiuroidea,Fig3_Mar_2006,3,0.03,4,SP_Anderson_&_Lovvorn_2012
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Crustacea,Fig3_Mar_2006,17,0.17,4,SP_Anderson_&_Lovvorn_2012

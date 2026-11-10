@@ -1,0 +1,39 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ROC,juvenile,Chordata,Copper rockfish,PWN,Shrimp,Shrimp,<299mm_Total_length,9.25764192139738,0.09177489177,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,PWN,Pandalus danae,Pandalus danae,<299mm_Total_length,17.6419213973799,0.1748917749,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,PWN,Pandalus sp.,Pandalus sp.,<299mm_Total_length,23.6681222707423,0.2346320346,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,PWN,Crangonidae,Crangonidae,<299mm_Total_length,2.96943231441048,0.02943722944,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,PWN,Spirontocaris sp,Spirontocaris sp,<299mm_Total_length,2.44541484716157,0.02424242424,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,PWN,Pandalus euos,Pandalus euos,<299mm_Total_length,2.44541484716157,0.02424242424,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,BML,Scyra acutirons,Scyra acutirons,<299mm_Total_length,1.6593886462882,0.01645021645,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,BML,Petrolisthes sp.,Petrolisthes sp.,<299mm_Total_length,12.1397379912663,0.1203463203,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,BML,Lophopanopeus bellus,Lophopanopeus bellus,<299mm_Total_length,12.9257641921397,0.1281385281,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,BML,Glebocarcinus oregonensis,Glebocarcinus oregonensis,<299mm_Total_length,4.27947598253274,0.04242424242,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,BML,Crab parts,Crab parts,<299mm_Total_length,0,0,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,BC,Polychaeta,Polychaeta,<299mm_Total_length,0,0,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,BD,Grammaridea,Grammaridea,<299mm_Total_length,0,0,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,FISH,Teleost,Teleost,<299mm_Total_length,3.75545851528384,0.03722943723,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,ROCKFISH,Sebastes sp,Sebastes sp,<299mm_Total_length,0,0,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,SMD,Rhinogobiops nicjolsii,Rhinogobiops nicjolsii,<299mm_Total_length,1.13537117903929,0.01125541126,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,MA,Rhodophyta,Rhodophyta,<299mm_Total_length,0.873362445414841,0.008658008658,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,NA,Shell,Shell,<299mm_Total_length,1.13537117903929,0.01125541126,1,Rockfish_Turner_2015
+ROC,juvenile,Chordata,Copper rockfish,NA,Unidentified,Unidentified,<299mm_Total_length,4.5414847161572,0.04502164502,1,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,PWN,Shrimp,Shrimp,>300mm_Total_length,15.2417486421816,0.151468257,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,PWN,Pandalus danae,Pandalus danae,>300mm_Total_length,37.2953777203843,0.3706310863,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,PWN,Pandalus sp,Pandalus sp,>300mm_Total_length,0,0,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,PWN,Crangonidae,Crangonidae,>300mm_Total_length,6.00212693227999,0.05964746735,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,PWN,Spirontocaris sp,Spirontocaris sp,>300mm_Total_length,0,0,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,PWN,Pandalus euos,Pandalus euos,>300mm_Total_length,0,0,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,BML,Scyra acutirons,Scyra acutirons,>300mm_Total_length,0,0,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,BML,Petrolisthes sp.,Petrolisthes sp.,>300mm_Total_length,0,0,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,BML,Lophopanopeus bellus,Lophopanopeus bellus,>300mm_Total_length,0,0,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,BML,Glebocarcinus oregonensis,Glebocarcinus oregonensis,>300mm_Total_length,0,0,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,BML,Crab parts,Crab parts,>300mm_Total_length,0,0,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,BC,Polychaeta,Polychaeta,>300mm_Total_length,1.62786281286796,0.01617724768,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,BD,Grammaridea,Grammaridea,>300mm_Total_length,0.850772911998177,0.00845474447,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,FISH,Teleost,Teleost,>300mm_Total_length,20.2472558775494,0.2012115951,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,ROCKFISH,Sebastes sp,Sebastes sp,>300mm_Total_length,14.6902654867256,0.1459877708,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,SMD,Rhinogobiops nicjolsii,Rhinogobiops nicjolsii,>300mm_Total_length,0,0,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,MA,Rhodophyta,Rhodophyta,>300mm_Total_length,0,0,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,NA,Shell,Shell,>300mm_Total_length,0,0,2,Rockfish_Turner_2015
+ROC,adult,Chordata,Copper rockfish,NA,Unidentified,Unidentified,>300mm_Total_length,4.67127501994001,0.04642183136,2,Rockfish_Turner_2015

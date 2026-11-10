@@ -1,0 +1,22 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+BMS,INVERT,Mollusca,Octopus,BC,Olivella baetica,Olivella baetica,Table_1_Number_Occupied_old_bottles,27.75,0.6607929515,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BFF,Barnacle fragments,Barnacle fragments,Table_1_Number_Occupied_old_bottles,7.06,0.1681152518,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BG,Alia sp,Alia sp,Table_1_Number_Occupied_old_bottles,4.125,0.09822597928,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BMD,Kurtziella sp,Kurtziella sp,Table_1_Number_Occupied_old_bottles,0.875,0.02083581379,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BC,Nassarius mendicus,Nassarius mendicus,Table_1_Number_Occupied_old_bottles,0.625,0.01488272413,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BIV,Pododesmus macrochisma,Pododesmus macrochisma,Table_1_Number_Occupied_old_bottles,0.31,0.00738183117,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BIV,Clinocardium nuttallii,Clinocardium nuttallii,Table_1_Number_Occupied_old_bottles,0.25,0.005953089654,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BIV,Chlamys hastata,Chlamys hastata,Table_1_Number_Occupied_old_bottles,0.1875,0.00446481724,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BIV,Protothaca staminea,Protothaca staminea,Table_1_Number_Occupied_old_bottles,0.1875,0.00446481724,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BML,Cancer oregonensis,Cancer oregonensis,Table_1_Number_Occupied_old_bottles,0.125,0.002976544827,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BFF,Crepipatella lingulata,Crepipatella lingulata,Table_1_Number_Occupied_old_bottles,0.0625,0.001488272413,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BMD,Eulima sp,Eulima sp,Table_1_Number_Occupied_old_bottles,0.0625,0.001488272413,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BIV,Lucinoma annulata,Lucinoma annulata,Table_1_Number_Occupied_old_bottles,0.0625,0.001488272413,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BIV,Macoma nasuta,Macoma nasuta,Table_1_Number_Occupied_old_bottles,0.0625,0.001488272413,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BIV,Simomactra falcata,Simomactra falcata,Table_1_Number_Occupied_old_bottles,0.0625,0.001488272413,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BMD,Natica clausa,Natica clausa,Table_1_Number_Occupied_old_bottles,0.0625,0.001488272413,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BC,Odostomia sp,Odostomia sp,Table_1_Number_Occupied_old_bottles,0.0625,0.001488272413,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BMD,Polinices lewisii,Polinices lewisii,Table_1_Number_Occupied_old_bottles,0.0625,0.001488272413,1,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BC,Olivella baetica,Olivella baetica,Table_1_Number_Occupied_new_bottles,6,0.8571428571,2,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BC,Nassarius mendicus,Nassarius mendicus,Table_1_Number_Occupied_new_bottles,0.5,0.07142857143,2,BMS_Anderson_et_al_1999
+BMS,INVERT,Mollusca,Octopus,BG,Alia sp,Alia sp,Table_1_Number_Occupied_new_bottles,0.5,0.07142857143,2,BMS_Anderson_et_al_1999

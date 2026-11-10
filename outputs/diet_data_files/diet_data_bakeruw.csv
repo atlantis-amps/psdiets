@@ -1,0 +1,879 @@
+source,atlantis_pred_group,predator_stage,predator,atlantis_prey_group,prey,data,value,proportion,index
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,4,7,1,1
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,8,10,1,2
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,15,4,1,3
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,17,1,0.5,4
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,17,1,0.5,4
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,19,1,0.125,5
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,19,7,0.875,5
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,21,49,0.9074074074074074,6
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,21,5,0.09259259259259259,6
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,22,4,0.5714285714285714,7
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,22,3,0.42857142857142855,7
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,23,1,1,8
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,24,2,1,9
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,25,16,0.8421052631578947,10
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,25,3,0.15789473684210525,10
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,26,1,1,11
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,28,13,0.8666666666666667,12
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,28,2,0.13333333333333333,12
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,29,5,0.8333333333333334,13
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,29,1,0.16666666666666666,13
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,30,34,0.9714285714285714,14
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,30,1,0.02857142857142857,14
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,31,3,0.42857142857142855,15
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,31,1,0.14285714285714285,15
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,31,3,0.42857142857142855,15
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,32,3,1,16
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,33,2,1,17
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,47,1,1,18
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,49,4,0.26666666666666666,19
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,49,11,0.7333333333333333,19
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,50,6,1,20
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,57,1,0.5,21
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,57,1,0.5,21
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,58,1,1,22
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,59,9,1,23
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,60,2,1,24
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,61,18,1,25
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,62,9,1,26
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,63,1,1,27
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,64,7,1,28
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,66,6,1,29
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,67,1,1,30
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,68,1,1,31
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,69,1,1,32
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,99,1,1,33
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,101,3,1,34
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,113,5,1,35
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,114,5,1,36
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,117,2,1,37
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,126,57,1,38
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,129,13,1,39
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,133,17,1,40
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,138,1,1,41
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,139,1,1,42
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,140,1,1,43
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,141,1,1,44
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,142,1,1,45
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,143,1,1,46
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,144,1,1,47
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,145,1,1,48
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,146,1,1,49
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,147,1,1,50
+Baker_uw,FPS,adult,arctic sand lance,PWN,mysids,149,1,1,51
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,150,1,1,52
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,151,1,0.2,53
+Baker_uw,FPS,adult,arctic sand lance,PWN,mysids,151,4,0.8,53
+Baker_uw,FPS,adult,arctic sand lance,PWN,mysids,156,1,1,54
+Baker_uw,FPS,adult,arctic sand lance,PWN,mysids,157,2,1,55
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,158,1,1,56
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,159,1,1,57
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,160,1,1,58
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,161,1,1,59
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,162,1,1,60
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,163,1,1,61
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,165,1,1,62
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,166,1,1,63
+Baker_uw,FPS,adult,arctic sand lance,PL,coscinodiscus,167,1,1,64
+Baker_uw,HE,adult,pacific herring,ZM,copepod unident.,168,90,0.9278350515463918,65
+Baker_uw,HE,adult,pacific herring,ZM,copepod nauplii,168,7,0.07216494845360824,65
+Baker_uw,HE,adult,pacific herring,BD,amphipods,169,15,0.13636363636363635,66
+Baker_uw,HE,adult,pacific herring,ZL,euphausiid,169,1,0.00909090909090909,66
+Baker_uw,HE,adult,pacific herring,ZM,copepod unident.,169,90,0.8181818181818182,66
+Baker_uw,HE,adult,pacific herring,ZM,copepod nauplii,169,4,0.03636363636363636,66
+Baker_uw,HE,adult,pacific herring,BD,amphipods,170,5,0.1111111111111111,67
+Baker_uw,HE,adult,pacific herring,ZM,copepod unident.,170,40,0.8888888888888888,67
+Baker_uw,HE,adult,pacific herring,BD,amphipods,171,50,0.5882352941176471,68
+Baker_uw,HE,adult,pacific herring,ZM,copepod unident.,171,35,0.4117647058823529,68
+Baker_uw,HE,adult,pacific herring,BD,amphipods,172,10,0.6666666666666666,69
+Baker_uw,HE,adult,pacific herring,ZM,copepod unident.,172,5,0.3333333333333333,69
+Baker_uw,HE,adult,pacific herring,ZM,copepod unident.,173,40,1,70
+Baker_uw,HE,adult,pacific herring,BD,amphipods,174,5,0.2,71
+Baker_uw,HE,adult,pacific herring,ZM,copepod unident.,174,20,0.8,71
+Baker_uw,HE,adult,pacific herring,ZM,copepod unident.,175,15,1,72
+Baker_uw,HE,adult,pacific herring,BD,amphipods,176,10,0.16666666666666666,73
+Baker_uw,HE,adult,pacific herring,ZM,copepod unident.,176,50,0.8333333333333334,73
+Baker_uw,HE,adult,pacific herring,BD,amphipods,177,50,0.2,74
+Baker_uw,HE,adult,pacific herring,ZM,copepod unident.,177,200,0.8,74
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,178,2,1,75
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,179,7,0.7,76
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,179,2,0.2,76
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,179,1,0.1,76
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,180,84,0.8235294117647058,77
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,180,18,0.17647058823529413,77
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,181,131,0.8851351351351351,78
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,181,16,0.10810810810810811,78
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,181,1,0.006756756756756757,78
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,182,33,0.22602739726027396,79
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,182,113,0.773972602739726,79
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,183,15,0.5,80
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,183,13,0.43333333333333335,80
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,183,2,0.06666666666666667,80
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,184,10,0.5263157894736842,81
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,184,9,0.47368421052631576,81
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,186,12,0.7058823529411765,82
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,186,5,0.29411764705882354,82
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,187,13,0.2765957446808511,83
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,187,34,0.723404255319149,83
+Baker_uw,FPS,adult,smelt,BD,amphipods,188,20,0.036036036036036036,84
+Baker_uw,FPS,adult,smelt,ZM,copepod unident.,188,525,0.9459459459459459,84
+Baker_uw,FPS,adult,smelt,ZM,copepod nauplii,188,10,0.018018018018018018,84
+Baker_uw,FPS,adult,smelt,BD,amphipods,189,28,0.01602747567258157,85
+Baker_uw,FPS,adult,smelt,ZM,copepod unident.,189,1702,0.9742415569547797,85
+Baker_uw,FPS,adult,smelt,ZM,copepod nauplii,189,16,0.009158557527189467,85
+Baker_uw,FPS,adult,smelt,NA,egg,189,1,5.724098454493417e-4,85
+Baker_uw,FPS,adult,smelt,BD,amphipods,190,17,0.013957307060755337,86
+Baker_uw,FPS,adult,smelt,ZM,copepod unident.,190,1190,0.9770114942528736,86
+Baker_uw,FPS,adult,smelt,ZM,copepod nauplii,190,11,0.0090311986863711,86
+Baker_uw,FPS,adult,smelt,BD,amphipods,191,107,0.09570661896243292,87
+Baker_uw,FPS,adult,smelt,ZM,copepod unident.,191,970,0.8676207513416816,87
+Baker_uw,FPS,adult,smelt,ZM,copepod nauplii,191,41,0.03667262969588551,87
+Baker_uw,FPS,adult,smelt,BD,amphipods,192,136,0.17302798982188294,88
+Baker_uw,FPS,adult,smelt,ZM,copepod unident.,192,640,0.8142493638676844,88
+Baker_uw,FPS,adult,smelt,ZM,copepod nauplii,192,10,0.01272264631043257,88
+Baker_uw,FPS,adult,smelt,BC,polychaete,193,1,7.757951900698216e-4,89
+Baker_uw,FPS,adult,smelt,BD,amphipods,193,15,0.011636927851047323,89
+Baker_uw,FPS,adult,smelt,ZM,copepod unident.,193,1260,0.9775019394879751,89
+Baker_uw,FPS,adult,smelt,ZM,copepod nauplii,193,13,0.01008533747090768,89
+Baker_uw,FPS,adult,smelt,BC,polychaete,194,2,0.00423728813559322,90
+Baker_uw,FPS,adult,smelt,BD,amphipods,194,10,0.0211864406779661,90
+Baker_uw,FPS,adult,smelt,ZM,copepod unident.,194,460,0.9745762711864406,90
+Baker_uw,FPS,adult,smelt,ZM,copepod unident.,195,1350,0.999259807549963,91
+Baker_uw,FPS,adult,smelt,NA,egg,195,1,7.401924500370096e-4,91
+Baker_uw,FPS,adult,smelt,BD,amphipods,196,7,0.011904761904761904,92
+Baker_uw,FPS,adult,smelt,ZM,copepod unident.,196,580,0.9863945578231292,92
+Baker_uw,FPS,adult,smelt,ZM,copepod nauplii,196,1,0.0017006802721088435,92
+Baker_uw,FPS,adult,smelt,BD,amphipods,197,10,0.006006006006006006,93
+Baker_uw,FPS,adult,smelt,ZM,copepod unident.,197,1650,0.990990990990991,93
+Baker_uw,FPS,adult,smelt,ZM,copepod nauplii,197,5,0.003003003003003003,93
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,209,2,0.6666666666666666,94
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,209,1,0.3333333333333333,94
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,251,160,0.8648648648648649,95
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,251,25,0.13513513513513514,95
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,254,10,1,96
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,255,80,0.7920792079207921,97
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,255,10,0.09900990099009901,97
+Baker_uw,FPS,adult,pacific sand lance,NA,egg,255,11,0.10891089108910891,97
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,256,75,0.42857142857142855,98
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,256,100,0.5714285714285714,98
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,257,400,0.9411764705882353,99
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,257,5,0.011764705882352941,99
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,257,20,0.047058823529411764,99
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,258,50,0.6944444444444444,100
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,258,20,0.2777777777777778,100
+Baker_uw,FPS,adult,pacific sand lance,NA,egg,258,2,0.027777777777777776,100
+Baker_uw,HE,juvenile,pacific herring,BC,polychaete,293,1,0.005263157894736842,101
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,293,90,0.47368421052631576,101
+Baker_uw,HE,juvenile,pacific herring,BFF,barnacle cybrid,293,1,0.005263157894736842,101
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,293,98,0.5157894736842106,101
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,294,161,0.9757575757575757,102
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,294,4,0.024242424242424242,102
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,295,9,0.07758620689655173,103
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod unident.,295,1,0.008620689655172414,103
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,295,106,0.9137931034482759,103
+Baker_uw,HE,juvenile,pacific herring,BC,polychaete,298,1,0.0023148148148148147,104
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,298,292,0.6759259259259259,104
+Baker_uw,HE,juvenile,pacific herring,BFF,barnacle cybrid,298,1,0.0023148148148148147,104
+Baker_uw,HE,juvenile,pacific herring,ZL,euphausiid,298,2,0.004629629629629629,104
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod unident.,298,1,0.0023148148148148147,104
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,298,135,0.3125,104
+Baker_uw,HE,juvenile,pacific herring,BC,polychaete,299,4,0.020618556701030927,105
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,299,10,0.05154639175257732,105
+Baker_uw,HE,juvenile,pacific herring,BFF,barnacle cybrid,299,4,0.020618556701030927,105
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,299,176,0.9072164948453608,105
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,300,4,0.16666666666666666,106
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,300,20,0.8333333333333334,106
+Baker_uw,HE,juvenile,pacific herring,BC,polychaete,302,1,0.017543859649122806,107
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,302,56,0.9824561403508771,107
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,303,3,1,108
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,304,117,1,109
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,305,19,0.9047619047619048,110
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,305,2,0.09523809523809523,110
+Baker_uw,HE,juvenile,pacific herring,BC,polychaete,306,6,0.07407407407407407,111
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,306,62,0.7654320987654321,111
+Baker_uw,HE,juvenile,pacific herring,BFF,barnacle cybrid,306,1,0.012345679012345678,111
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,306,11,0.13580246913580246,111
+Baker_uw,HE,juvenile,pacific herring,NA,egg,306,1,0.012345679012345678,111
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,307,7,0.5833333333333334,112
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod unident.,307,1,0.08333333333333333,112
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,307,4,0.3333333333333333,112
+Baker_uw,FPS,juvenile,smelt,ZM,copepod calanoid,311,45,1,113
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,348,1,0.011235955056179775,114
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,euphausiid,348,1,0.011235955056179775,114
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,348,1,0.011235955056179775,114
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,348,86,0.9662921348314607,114
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,euphausiid,353,1,0.05,115
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,353,19,0.95,115
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,354,7,1,116
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,355,15,1,117
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,356,1,0.3333333333333333,118
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,356,2,0.6666666666666666,118
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,359,1,0.030303030303030304,119
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,359,32,0.9696969696969697,119
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,euphausiid,368,1,0.018518518518518517,120
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,368,53,0.9814814814814815,120
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,369,2,0.008547008547008548,121
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,369,232,0.9914529914529915,121
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,370,6,1,122
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,372,1,0.007518796992481203,123
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,372,132,0.9924812030075187,123
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,378,1,0.047619047619047616,124
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,378,20,0.9523809523809523,124
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,387,21,1,125
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,euphausiid,406,2,0.1,126
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,406,18,0.9,126
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,424,8,1,127
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,430,1,1,128
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,434,1,0.004651162790697674,129
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,434,214,0.9953488372093023,129
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,442,36,1,130
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,473,50,0.17667844522968199,131
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,473,6,0.02120141342756184,131
+Baker_uw,FPS,adult,pacific sand lance,FISH,larval fish,473,1,0.0035335689045936395,131
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,473,3,0.01060070671378092,131
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,473,4,0.014134275618374558,131
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,473,219,0.773851590106007,131
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,474,30,0.04457652303120357,132
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,474,9,0.01337295690936107,132
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,474,29,0.04309063893016345,132
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,474,605,0.8989598811292719,132
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,475,16,0.0443213296398892,133
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,475,1,0.002770083102493075,133
+Baker_uw,FPS,adult,pacific sand lance,FISH,larval fish,475,1,0.002770083102493075,133
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,475,30,0.08310249307479224,133
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,475,12,0.0332409972299169,133
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,475,301,0.8337950138504155,133
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,476,29,0.052823315118397086,134
+Baker_uw,FPS,adult,pacific sand lance,PL,coscinodiscus,476,1,0.0018214936247723133,134
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,476,6,0.01092896174863388,134
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,476,41,0.07468123861566485,134
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,476,472,0.8597449908925319,134
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,477,23,0.0583756345177665,135
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,477,24,0.06091370558375635,135
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,477,335,0.850253807106599,135
+Baker_uw,FPS,adult,pacific sand lance,NA,egg,477,12,0.030456852791878174,135
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,478,34,0.7555555555555555,136
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,478,11,0.24444444444444444,136
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,479,1,0.07692307692307693,137
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,479,12,0.9230769230769231,137
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,483,6,0.034482758620689655,138
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,483,13,0.07471264367816093,138
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,483,155,0.8908045977011494,138
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,488,65,0.8024691358024691,139
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,488,16,0.19753086419753085,139
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,489,14,0.7777777777777778,140
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,489,4,0.2222222222222222,140
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,490,20,0.4444444444444444,141
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,490,25,0.5555555555555556,141
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,491,9,0.08181818181818182,142
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,491,7,0.06363636363636363,142
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,491,94,0.8545454545454545,142
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,492,44,0.2543352601156069,143
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,492,16,0.09248554913294797,143
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,492,113,0.653179190751445,143
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,493,2,0.046511627906976744,144
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,493,2,0.046511627906976744,144
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,493,4,0.09302325581395349,144
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,493,35,0.813953488372093,144
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,494,1,0.043478260869565216,145
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,494,22,0.9565217391304348,145
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,495,3,0.23076923076923078,146
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,495,10,0.7692307692307693,146
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,496,1,0.017857142857142856,147
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,496,45,0.8035714285714286,147
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,496,7,0.125,147
+Baker_uw,FPS,adult,pacific sand lance,NA,egg,496,3,0.05357142857142857,147
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,498,4,0.058823529411764705,148
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,498,64,0.9411764705882353,148
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,503,25,0.5952380952380952,149
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,503,17,0.40476190476190477,149
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,504,5,0.07246376811594203,150
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,504,1,0.014492753623188406,150
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,504,29,0.42028985507246375,150
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,504,34,0.4927536231884058,150
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,505,3,0.15,151
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,505,1,0.05,151
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,505,16,0.8,151
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,506,1,0.5,152
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,506,1,0.5,152
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,507,2,0.05555555555555555,153
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,507,19,0.5277777777777778,153
+Baker_uw,FPS,adult,pacific sand lance,NA,egg,507,15,0.4166666666666667,153
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,508,9,0.6,154
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,508,6,0.4,154
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,509,3,0.1,155
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,509,22,0.7333333333333333,155
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,509,1,0.03333333333333333,155
+Baker_uw,FPS,adult,pacific sand lance,NA,egg,509,4,0.13333333333333333,155
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,510,5,0.8333333333333334,156
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,510,1,0.16666666666666666,156
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,511,3,0.75,157
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,511,1,0.25,157
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,512,1,0.5,158
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,512,1,0.5,158
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,513,9,0.8181818181818182,159
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,513,2,0.18181818181818182,159
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,514,10,0.07575757575757576,160
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,514,59,0.44696969696969696,160
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,514,63,0.4772727272727273,160
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,515,3,0.25,161
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,515,5,0.4166666666666667,161
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,515,4,0.3333333333333333,161
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,516,12,0.7058823529411765,162
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,516,5,0.29411764705882354,162
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,517,6,0.5454545454545454,163
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,517,1,0.09090909090909091,163
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,517,4,0.36363636363636365,163
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,518,4,0.36363636363636365,164
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,518,7,0.6363636363636364,164
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,519,71,0.6339285714285714,165
+Baker_uw,FPS,adult,pacific sand lance,PL,coscinodiscus,519,3,0.026785714285714284,165
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,519,11,0.09821428571428571,165
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,519,2,0.017857142857142856,165
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,519,25,0.22321428571428573,165
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,520,50,0.43859649122807015,166
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,520,1,0.008771929824561403,166
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,520,16,0.14035087719298245,166
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,520,47,0.41228070175438597,166
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,521,49,0.2916666666666667,167
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,521,1,0.005952380952380952,167
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,521,47,0.27976190476190477,167
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,521,71,0.4226190476190476,167
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,522,30,0.8333333333333334,168
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,522,2,0.05555555555555555,168
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,522,4,0.1111111111111111,168
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,523,27,0.5192307692307693,169
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,523,2,0.038461538461538464,169
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,523,7,0.1346153846153846,169
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,523,16,0.3076923076923077,169
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,524,133,0.5428571428571428,170
+Baker_uw,FPS,adult,pacific sand lance,PWN,mysids,524,13,0.053061224489795916,170
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,524,54,0.22040816326530613,170
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,524,45,0.1836734693877551,170
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,531,26,1,171
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,533,1,0.017241379310344827,172
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,533,57,0.9827586206896551,172
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,534,1,0.05,173
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,534,19,0.95,173
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,538,1,1,174
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,540,21,0.6176470588235294,175
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,540,6,0.17647058823529413,175
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,540,1,0.029411764705882353,175
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,540,4,0.11764705882352941,175
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,540,2,0.058823529411764705,175
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,541,20,0.35714285714285715,176
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,541,11,0.19642857142857142,176
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,541,11,0.19642857142857142,176
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,541,3,0.05357142857142857,176
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,541,9,0.16071428571428573,176
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,541,2,0.03571428571428571,176
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,542,18,0.6206896551724138,177
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,542,1,0.034482758620689655,177
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,542,2,0.06896551724137931,177
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,542,2,0.06896551724137931,177
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,542,6,0.20689655172413793,177
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,543,33,0.2214765100671141,178
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,543,1,0.006711409395973154,178
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,543,76,0.5100671140939598,178
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,543,10,0.06711409395973154,178
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,543,5,0.03355704697986577,178
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,543,24,0.1610738255033557,178
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,544,12,0.4444444444444444,179
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,544,2,0.07407407407407407,179
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,544,6,0.2222222222222222,179
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,544,6,0.2222222222222222,179
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,544,1,0.037037037037037035,179
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,545,67,0.7282608695652174,180
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,545,7,0.07608695652173914,180
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,545,7,0.07608695652173914,180
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,545,2,0.021739130434782608,180
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,545,9,0.09782608695652174,180
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,546,44,0.6027397260273972,181
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,546,13,0.1780821917808219,181
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,546,11,0.1506849315068493,181
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,546,4,0.0547945205479452,181
+Baker_uw,FPS,juvenile,pacific sand lance,NA,egg,546,1,0.0136986301369863,181
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,547,17,0.6538461538461539,182
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,547,6,0.23076923076923078,182
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,547,2,0.07692307692307693,182
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,547,1,0.038461538461538464,182
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,548,30,0.4918032786885246,183
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,548,1,0.01639344262295082,183
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,548,16,0.26229508196721313,183
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,548,1,0.01639344262295082,183
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,548,8,0.13114754098360656,183
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,548,5,0.08196721311475409,183
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,549,9,0.21951219512195122,184
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,549,19,0.4634146341463415,184
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,549,1,0.024390243902439025,184
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,549,1,0.024390243902439025,184
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,549,11,0.2682926829268293,184
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,560,1,0.3333333333333333,185
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,560,2,0.6666666666666666,185
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,561,1,1,186
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,563,8,0.2962962962962963,187
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,563,8,0.2962962962962963,187
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,563,5,0.18518518518518517,187
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,563,2,0.07407407407407407,187
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,563,4,0.14814814814814814,187
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,564,1,0.3333333333333333,188
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,564,2,0.6666666666666666,188
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,572,46,0.3511450381679389,189
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod unident.,572,85,0.648854961832061,189
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,573,1,0.3333333333333333,190
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,573,2,0.6666666666666666,190
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,574,3,0.0379746835443038,191
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,574,71,0.8987341772151899,191
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,574,3,0.0379746835443038,191
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,574,2,0.02531645569620253,191
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,576,3,0.1111111111111111,192
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,576,24,0.8888888888888888,192
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,577,10,1,193
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,579,2,1,194
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,586,16,1,195
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,587,2,0.015151515151515152,196
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,587,55,0.4166666666666667,196
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,587,49,0.3712121212121212,196
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,587,10,0.07575757575757576,196
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,587,16,0.12121212121212122,196
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,588,2,0.09523809523809523,197
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,588,19,0.9047619047619048,197
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,589,5,0.12195121951219512,198
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,589,36,0.8780487804878049,198
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,590,4,0.0106951871657754,199
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,590,4,0.0106951871657754,199
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,590,242,0.6470588235294118,199
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,590,14,0.0374331550802139,199
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,590,6,0.016042780748663103,199
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,590,104,0.27807486631016043,199
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,595,2,0.047619047619047616,200
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,595,37,0.8809523809523809,200
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod harpacticoid,595,3,0.07142857142857142,200
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,604,2,0.02247191011235955,201
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,604,87,0.9775280898876404,201
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,608,3,0.02912621359223301,202
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,608,98,0.9514563106796117,202
+Baker_uw,FPS,juvenile,pacific sand lance,NA,egg,608,2,0.019417475728155338,202
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,613,16,1,203
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,614,40,1,204
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,616,23,1,205
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,624,4,1,206
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,633,1,0.0037735849056603774,207
+Baker_uw,FPS,adult,pacific sand lance,PL,coscinodiscus,633,264,0.9962264150943396,207
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,634,4,0.4444444444444444,208
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,634,5,0.5555555555555556,208
+Baker_uw,FPS,juvenile,pacific sand lance,BC,polychaete,692,1,0.012658227848101266,209
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,692,6,0.0759493670886076,209
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,692,12,0.1518987341772152,209
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,692,35,0.4430379746835443,209
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod calanoid,692,14,0.17721518987341772,209
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod cyclopoid,692,11,0.13924050632911392,209
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,704,0.02,4.5433893684688776e-4,210
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,704,42,0.9541117673784643,210
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,704,1,0.022716946842344387,210
+Baker_uw,FPS,adult,pacific sand lance,NA,egg,704,1,0.022716946842344387,210
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,705,3,0.019734245494013945,211
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,705,0.02,1.3156163662675962e-4,211
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,705,143,0.9406657018813314,211
+Baker_uw,FPS,adult,pacific sand lance,NA,egg,705,6,0.03946849098802789,211
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,706,4,0.02409348271292615,212
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,706,0.02,1.2046741356463077e-4,212
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,706,162,0.9757860498735091,212
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,707,1,0.0028009635314548208,213
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,707,0.02,5.601927062909641e-5,213
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,707,355,0.9943420536664613,213
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod cyclopoid,707,1,0.0028009635314548208,213
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,708,0.02,3.702332469455757e-4,214
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,708,54,0.9996297667530544,214
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,709,0.02,5.405113237122318e-5,215
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,709,370,0.9999459488676288,215
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,710,3,0.022723829722769276,216
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,710,0.02,1.5149219815179516e-4,216
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,710,129,0.9771246780790789,216
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,711,9,0.06473888649115235,217
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,711,0.02,1.4386419220256078e-4,217
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,711,130,0.935117249316645,217
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,712,15,0.055143004190868324,218
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,712,0.02,7.352400558782443e-5,218
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,712,254,0.9337548709653702,218
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod cyclopoid,712,3,0.011028600838173664,218
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,713,2,0.0062107943605987205,219
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,713,0.02,6.21079436059872e-5,219
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,713,320,0.9937270976957954,219
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,714,6,0.013729348771223285,220
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,714,0.02,4.576449590407762e-5,220
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,714,430,0.9839366619376688,220
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,714,1,0.0022882247952038808,220
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,715,46,0.4692919812283208,221
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,715,0.02,2.0403999183840033e-4,221
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,715,52,0.5305039787798409,221
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,716,5,0.03124609423822022,222
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,716,0.02,1.2498437695288088e-4,222
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,716,155,0.9686289213848268,222
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,717,11,0.10888932884577311,223
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,717,0.02,1.9798059790140568e-4,223
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,717,89,0.8810136606612552,223
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,717,1,0.009899029895070284,223
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,718,22,0.13662899018755434,224
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,718,0.02,1.2420817289777666e-4,224
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,718,138,0.857036392994659,224
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,718,1,0.006210408644888833,224
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,719,6,0.07690335811330429,225
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,719,0.02,2.563445270443476e-4,225
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,719,72,0.9228402973596515,225
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,720,11,0.23902651021295088,226
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,720,0.02,4.3459365493263795e-4,226
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,720,35,0.7605388961321164,226
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,721,6,0.053087949035568925,227
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,721,0.02,1.769598301185631e-4,227
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,721,106,0.9378870996283843,227
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod cyclopoid,721,1,0.008847991505928155,227
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,722,14,0.31803725579282144,228
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,722,0.02,4.5433893684688776e-4,228
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,722,30,0.6815084052703316,228
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,723,2,0.023250406882120437,229
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,723,0.02,2.325040688212044e-4,229
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,723,83,0.9648918856079982,229
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod nauplii,723,1,0.011625203441060218,229
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,724,2,0.05878894767783656,230
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,724,0.02,5.878894767783657e-4,230
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,724,32,0.9406231628453849,230
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,725,1,0.005617346365576901,231
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,725,0.02,1.1234692731153802e-4,231
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,725,177,0.9942703067071115,231
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,726,1,0.025627883136852894,232
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,726,0.02,5.125576627370579e-4,232
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,726,38,0.97385955920041,232
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,727,10,0.054939017690363696,233
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,727,0.02,1.098780353807274e-4,233
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,727,171,0.9394572025052191,233
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod cyclopoid,727,1,0.005493901769036369,233
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,728,3,0.12489592006661115,234
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,728,0.02,8.326394671107411e-4,234
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,728,21,0.8742714404662781,234
+Baker_uw,FPS,adult,pacific sand lance,BD,amphipods,729,2,0.04164931278633902,235
+Baker_uw,FPS,adult,pacific sand lance,BFF,barnacle cybrid,729,0.02,4.164931278633902e-4,235
+Baker_uw,FPS,adult,pacific sand lance,ZM,copepod calanoid,729,46,0.9579341940857975,235
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,730,3,0.046875,236
+Baker_uw,POP,juvenile,surf perch,BD,ispods,730,22,0.34375,236
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,730,2,0.03125,236
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,730,16,0.25,236
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,730,18,0.28125,236
+Baker_uw,POP,juvenile,surf perch,ZM,copepod nauplii,730,1,0.015625,236
+Baker_uw,POP,juvenile,surf perch,NA,egg,730,2,0.03125,236
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,731,8,0.034334763948497854,237
+Baker_uw,POP,juvenile,surf perch,BD,ispods,731,120,0.5150214592274678,237
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,731,4,0.017167381974248927,237
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,731,35,0.15021459227467812,237
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,731,6,0.02575107296137339,237
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,731,56,0.24034334763948498,237
+Baker_uw,POP,juvenile,surf perch,ZM,copepod nauplii,731,2,0.008583690987124463,237
+Baker_uw,POP,juvenile,surf perch,NA,egg,731,2,0.008583690987124463,237
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,732,8,0.04878048780487805,238
+Baker_uw,POP,juvenile,surf perch,BD,ispods,732,62,0.3780487804878049,238
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,732,2,0.012195121951219513,238
+Baker_uw,POP,juvenile,surf perch,BFF,larvacean,732,1,0.006097560975609756,238
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,732,31,0.18902439024390244,238
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,732,2,0.012195121951219513,238
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,732,56,0.34146341463414637,238
+Baker_uw,POP,juvenile,surf perch,ZM,copepod nauplii,732,1,0.006097560975609756,238
+Baker_uw,POP,juvenile,surf perch,NA,egg,732,1,0.006097560975609756,238
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,733,5,0.03571428571428571,239
+Baker_uw,POP,juvenile,surf perch,BD,ispods,733,42,0.3,239
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,733,11,0.07857142857142857,239
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,733,35,0.25,239
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,733,19,0.1357142857142857,239
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,733,26,0.18571428571428572,239
+Baker_uw,POP,juvenile,surf perch,ZM,copepod nauplii,733,2,0.014285714285714285,239
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,734,8,0.10810810810810811,240
+Baker_uw,POP,juvenile,surf perch,BD,ispods,734,28,0.3783783783783784,240
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,734,3,0.04054054054054054,240
+Baker_uw,POP,juvenile,surf perch,BFF,larvacean,734,2,0.02702702702702703,240
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,734,15,0.20270270270270271,240
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,734,1,0.013513513513513514,240
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,734,14,0.1891891891891892,240
+Baker_uw,POP,juvenile,surf perch,ZM,copepod cyclopoid,734,1,0.013513513513513514,240
+Baker_uw,POP,juvenile,surf perch,ZM,copepod nauplii,734,1,0.013513513513513514,240
+Baker_uw,POP,juvenile,surf perch,NA,egg,734,1,0.013513513513513514,240
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,735,4,0.08695652173913043,241
+Baker_uw,POP,juvenile,surf perch,BD,ispods,735,13,0.2826086956521739,241
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,735,2,0.043478260869565216,241
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,735,15,0.32608695652173914,241
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,735,2,0.043478260869565216,241
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,735,9,0.1956521739130435,241
+Baker_uw,POP,juvenile,surf perch,ZM,copepod nauplii,735,1,0.021739130434782608,241
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,736,9,0.06569343065693431,242
+Baker_uw,POP,juvenile,surf perch,BD,ispods,736,44,0.32116788321167883,242
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,736,4,0.029197080291970802,242
+Baker_uw,POP,juvenile,surf perch,BFF,larvacean,736,2,0.014598540145985401,242
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,736,31,0.22627737226277372,242
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,736,10,0.072992700729927,242
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,736,32,0.23357664233576642,242
+Baker_uw,POP,juvenile,surf perch,ZM,copepod nauplii,736,2,0.014598540145985401,242
+Baker_uw,POP,juvenile,surf perch,NA,egg,736,3,0.021897810218978103,242
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,737,2,0.021052631578947368,243
+Baker_uw,POP,juvenile,surf perch,BD,ispods,737,38,0.4,243
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,737,1,0.010526315789473684,243
+Baker_uw,POP,juvenile,surf perch,BFF,larvacean,737,2,0.021052631578947368,243
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,737,18,0.18947368421052632,243
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,737,1,0.010526315789473684,243
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,737,32,0.3368421052631579,243
+Baker_uw,POP,juvenile,surf perch,NA,egg,737,1,0.010526315789473684,243
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,738,4,0.013029315960912053,244
+Baker_uw,POP,juvenile,surf perch,BD,ispods,738,110,0.3583061889250814,244
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,738,1,0.003257328990228013,244
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,738,75,0.24429967426710097,244
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,738,6,0.019543973941368076,244
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,738,110,0.3583061889250814,244
+Baker_uw,POP,juvenile,surf perch,ZM,copepod nauplii,738,1,0.003257328990228013,244
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,739,10,0.046511627906976744,245
+Baker_uw,POP,juvenile,surf perch,BD,ispods,739,80,0.37209302325581395,245
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,739,2,0.009302325581395349,245
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,739,42,0.19534883720930232,245
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,739,2,0.009302325581395349,245
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,739,77,0.3581395348837209,245
+Baker_uw,POP,juvenile,surf perch,ZM,copepod nauplii,739,1,0.004651162790697674,245
+Baker_uw,POP,juvenile,surf perch,NA,egg,739,1,0.004651162790697674,245
+Baker_uw,POP,juvenile,surf perch,BD,ispods,740,60,0.30456852791878175,246
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,740,1,0.005076142131979695,246
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,740,36,0.18274111675126903,246
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,740,2,0.01015228426395939,246
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,740,95,0.48223350253807107,246
+Baker_uw,POP,juvenile,surf perch,NA,egg,740,3,0.015228426395939087,246
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,741,10,0.14492753623188406,247
+Baker_uw,POP,juvenile,surf perch,BD,ispods,741,25,0.36231884057971014,247
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,741,1,0.014492753623188406,247
+Baker_uw,POP,juvenile,surf perch,BFF,larvacean,741,2,0.028985507246376812,247
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,741,6,0.08695652173913043,247
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,741,1,0.014492753623188406,247
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,741,20,0.2898550724637681,247
+Baker_uw,POP,juvenile,surf perch,NA,egg,741,4,0.057971014492753624,247
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,742,11,0.13580246913580246,248
+Baker_uw,POP,juvenile,surf perch,BD,ispods,742,24,0.2962962962962963,248
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,742,1,0.012345679012345678,248
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,742,15,0.18518518518518517,248
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,742,4,0.04938271604938271,248
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,742,25,0.30864197530864196,248
+Baker_uw,POP,juvenile,surf perch,NA,egg,742,1,0.012345679012345678,248
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,743,8,0.0449438202247191,249
+Baker_uw,POP,juvenile,surf perch,BD,ispods,743,63,0.3539325842696629,249
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,743,40,0.2247191011235955,249
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,743,4,0.02247191011235955,249
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,743,60,0.33707865168539325,249
+Baker_uw,POP,juvenile,surf perch,ZM,copepod nauplii,743,1,0.0056179775280898875,249
+Baker_uw,POP,juvenile,surf perch,NA,egg,743,2,0.011235955056179775,249
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,744,9,0.04838709677419355,250
+Baker_uw,POP,juvenile,surf perch,BD,ispods,744,65,0.34946236559139787,250
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,744,39,0.20967741935483872,250
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,744,3,0.016129032258064516,250
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,744,65,0.34946236559139787,250
+Baker_uw,POP,juvenile,surf perch,NA,egg,744,5,0.026881720430107527,250
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,745,35,0.23972602739726026,251
+Baker_uw,POP,juvenile,surf perch,BD,ispods,745,35,0.23972602739726026,251
+Baker_uw,POP,juvenile,surf perch,BFF,barnacle cybrid,745,1,0.00684931506849315,251
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,745,30,0.2054794520547945,251
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,745,4,0.0273972602739726,251
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,745,35,0.23972602739726026,251
+Baker_uw,POP,juvenile,surf perch,ZM,copepod nauplii,745,1,0.00684931506849315,251
+Baker_uw,POP,juvenile,surf perch,NA,egg,745,5,0.03424657534246575,251
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,746,3,0.75,252
+Baker_uw,POP,juvenile,surf perch,NA,egg,746,1,0.25,252
+Baker_uw,POP,juvenile,surf perch,BD,amphipods,747,5,0.22727272727272727,253
+Baker_uw,POP,juvenile,surf perch,BD,ispods,747,4,0.18181818181818182,253
+Baker_uw,POP,juvenile,surf perch,ZL,ostracods,747,2,0.09090909090909091,253
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,747,5,0.22727272727272727,253
+Baker_uw,POP,juvenile,surf perch,ZM,copepod calanoid,747,4,0.18181818181818182,253
+Baker_uw,POP,juvenile,surf perch,NA,egg,747,2,0.09090909090909091,253
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,748,5,0.8333333333333334,254
+Baker_uw,POP,juvenile,surf perch,NA,egg,748,1,0.16666666666666666,254
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,749,3,1,255
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,750,4,1,256
+Baker_uw,POP,juvenile,surf perch,ZL,euphausiid,751,7,1,257
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,781,6,0.02531645569620253,258
+Baker_uw,HE,juvenile,pacific herring,BD,ispods,781,4,0.016877637130801686,258
+Baker_uw,HE,juvenile,pacific herring,ZL,ostracods,781,7,0.029535864978902954,258
+Baker_uw,HE,juvenile,pacific herring,ZL,euphausiid,781,6,0.02531645569620253,258
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,781,205,0.8649789029535865,258
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod cyclopoid,781,1,0.004219409282700422,258
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod nauplii,781,3,0.012658227848101266,258
+Baker_uw,HE,juvenile,pacific herring,NA,egg,781,5,0.02109704641350211,258
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,782,10,0.04524886877828054,259
+Baker_uw,HE,juvenile,pacific herring,ZL,ostracods,782,1,0.004524886877828055,259
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,782,210,0.9502262443438914,259
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,786,19,0.03225806451612903,260
+Baker_uw,HE,juvenile,pacific herring,BD,ispods,786,2,0.003395585738539898,260
+Baker_uw,HE,juvenile,pacific herring,ZL,euphausiid,786,2,0.003395585738539898,260
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,786,565,0.9592529711375212,260
+Baker_uw,HE,juvenile,pacific herring,NA,egg,786,1,0.001697792869269949,260
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,787,12,0.045454545454545456,261
+Baker_uw,HE,juvenile,pacific herring,BD,ispods,787,2,0.007575757575757576,261
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,787,250,0.946969696969697,261
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,791,67,0.3031674208144796,262
+Baker_uw,HE,juvenile,pacific herring,BD,ispods,791,2,0.00904977375565611,262
+Baker_uw,HE,juvenile,pacific herring,BFF,larvacean,791,1,0.004524886877828055,262
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,791,150,0.6787330316742082,262
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod nauplii,791,1,0.004524886877828055,262
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,795,10,0.015625,263
+Baker_uw,HE,juvenile,pacific herring,BD,ispods,795,2,0.003125,263
+Baker_uw,HE,juvenile,pacific herring,ZL,euphausiid,795,1,0.0015625,263
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,795,625,0.9765625,263
+Baker_uw,HE,juvenile,pacific herring,NA,egg,795,2,0.003125,263
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,797,28,0.12844036697247707,264
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,797,190,0.8715596330275229,264
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,803,62,0.11397058823529412,265
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,803,482,0.8860294117647058,265
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,804,50,0.11627906976744186,266
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,804,380,0.8837209302325582,266
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,805,26,0.08333333333333333,267
+Baker_uw,HE,juvenile,pacific herring,BD,ispods,805,1,0.003205128205128205,267
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,805,285,0.9134615384615384,267
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,808,2,0.007722007722007722,268
+Baker_uw,HE,juvenile,pacific herring,BD,ispods,808,2,0.007722007722007722,268
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,808,255,0.9845559845559846,268
+Baker_uw,HE,juvenile,pacific herring,BD,amphipods,809,12,0.037267080745341616,269
+Baker_uw,HE,juvenile,pacific herring,ZM,copepod calanoid,809,310,0.9627329192546584,269
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,814,3,0.013245033112582781,270
+Baker_uw,FPS,juvenile,pacific sand lance,BD,ispods,814,2.5,0.011037527593818985,270
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,barnacle cybrid,814,2.5,0.011037527593818985,270
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,814,17.5,0.0772626931567329,270
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,814,45,0.1986754966887417,270
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,814,3,0.013245033112582781,270
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,814,153,0.6754966887417219,270
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,815,3,0.0032397408207343412,271
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,815,30,0.032397408207343416,271
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,815,255,0.275377969762419,271
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,815,598,0.6457883369330454,271
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,815,30,0.032397408207343416,271
+Baker_uw,FPS,juvenile,pacific sand lance,NA,egg,815,10,0.01079913606911447,271
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,816,6,0.007019185774450164,272
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,816,20,0.02339728591483388,272
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,816,256.3,0.2998362189985962,272
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,816,137.5,0.16085634066448293,272
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,816,420,0.4913430042115115,272
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,816,2.5,0.002924660739354235,272
+Baker_uw,FPS,juvenile,pacific sand lance,NA,egg,816,12.5,0.014623303696771176,272
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,817,23,0.06784660766961652,273
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,817,74,0.2182890855457227,273
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,817,15,0.04424778761061947,273
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,817,227,0.6696165191740413,273
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,818,8,0.007239819004524887,274
+Baker_uw,FPS,juvenile,pacific sand lance,BD,ispods,818,8,0.007239819004524887,274
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,818,50,0.04524886877828054,274
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,818,108,0.09773755656108597,274
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,818,8,0.007239819004524887,274
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,818,883,0.7990950226244344,274
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,818,40,0.03619909502262444,274
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,819,75,0.08108108108108109,275
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,819,193,0.20864864864864865,275
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,819,649,0.7016216216216217,275
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,819,8,0.008648648648648649,275
+Baker_uw,FPS,juvenile,pacific sand lance,BD,ispods,820,2,0.0064516129032258064,276
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,820,10,0.03225806451612903,276
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,820,13,0.041935483870967745,276
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,820,5,0.016129032258064516,276
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,820,276,0.8903225806451613,276
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,820,4,0.012903225806451613,276
+Baker_uw,FPS,juvenile,pacific sand lance,BD,ispods,821,1,0.0010482180293501049,277
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,821,97,0.10167714884696016,277
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,821,368,0.3857442348008386,277
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,821,8,0.008385744234800839,277
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,821,472,0.4947589098532495,277
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,821,4,0.0041928721174004195,277
+Baker_uw,FPS,juvenile,pacific sand lance,NA,egg,821,4,0.0041928721174004195,277
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,822,1,6.693440428380187e-4,278
+Baker_uw,FPS,juvenile,pacific sand lance,BD,ispods,822,4,0.002677376171352075,278
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,barnacle cybrid,822,9,0.006024096385542169,278
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,822,210,0.14056224899598393,278
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,822,109,0.07295850066934405,278
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,822,20,0.013386880856760375,278
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,822,1121,0.750334672021419,278
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,822,16,0.0107095046854083,278
+Baker_uw,FPS,juvenile,pacific sand lance,NA,egg,822,4,0.002677376171352075,278
+Baker_uw,FPS,juvenile,pacific sand lance,BD,ispods,823,1,0.006493506493506494,279
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,823,16,0.1038961038961039,279
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,823,52,0.33766233766233766,279
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,823,1,0.006493506493506494,279
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,823,84,0.5454545454545454,279
+Baker_uw,FPS,juvenile,pacific sand lance,BD,ispods,824,1,0.0011587485515643105,280
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,824,114,0.1320973348783314,280
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,824,351,0.406720741599073,280
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,824,40,0.046349942062572425,280
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,824,341,0.3951332560834299,280
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,824,16,0.01853997682502897,280
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,825,1,0.0017985611510791368,281
+Baker_uw,FPS,juvenile,pacific sand lance,BD,ispods,825,4,0.007194244604316547,281
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,barnacle cybrid,825,1,0.0017985611510791368,281
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,825,29,0.052158273381294966,281
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,825,10,0.017985611510791366,281
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,825,24,0.04316546762589928,281
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,825,483,0.8687050359712231,281
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,825,3,0.00539568345323741,281
+Baker_uw,FPS,juvenile,pacific sand lance,NA,egg,825,1,0.0017985611510791368,281
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,826,188,0.21559633027522937,282
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,826,8,0.009174311926605505,282
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,826,4,0.0045871559633027525,282
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,826,672,0.7706422018348624,282
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,barnacle cybrid,827,8,0.016666666666666666,283
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,827,40,0.08333333333333333,283
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,827,108,0.225,283
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,827,8,0.016666666666666666,283
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,827,300,0.625,283
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,827,16,0.03333333333333333,283
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,828,100,0.3048780487804878,284
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,828,36,0.10975609756097561,284
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,828,184,0.5609756097560976,284
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,828,4,0.012195121951219513,284
+Baker_uw,FPS,juvenile,pacific sand lance,NA,egg,828,4,0.012195121951219513,284
+Baker_uw,FPS,juvenile,pacific sand lance,BD,ispods,829,20,0.03571428571428571,285
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,barnacle cybrid,829,4,0.007142857142857143,285
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,829,8,0.014285714285714285,285
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,829,76,0.1357142857142857,285
+Baker_uw,FPS,juvenile,pacific sand lance,ZL,ostracods,829,40,0.07142857142857142,285
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,829,392,0.7,285
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,829,20,0.03571428571428571,285
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,830,2,0.0029069767441860465,286
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,830,4,0.005813953488372093,286
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,830,24,0.03488372093023256,286
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,830,654,0.9505813953488372,286
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,830,4,0.005813953488372093,286
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,831,1,0.0017271157167530224,287
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,barnacle cybrid,831,4,0.0069084628670120895,287
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,831,8,0.013816925734024179,287
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,831,288,0.49740932642487046,287
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,831,262,0.4525043177892919,287
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,831,16,0.027633851468048358,287
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,832,3,0.003537735849056604,288
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,barnacle cybrid,832,1,0.0011792452830188679,288
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,832,1,0.0011792452830188679,288
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,832,584,0.6886792452830188,288
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,832,235,0.27712264150943394,288
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,832,24,0.02830188679245283,288
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,833,2,0.002403846153846154,289
+Baker_uw,FPS,juvenile,pacific sand lance,BD,ispods,833,1,0.001201923076923077,289
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,833,44,0.052884615384615384,289
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,833,84,0.10096153846153846,289
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,833,476,0.5721153846153846,289
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,833,224,0.2692307692307692,289
+Baker_uw,FPS,juvenile,pacific sand lance,NA,egg,833,1,0.001201923076923077,289
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,834,16,0.06060606060606061,290
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,834,8,0.030303030303030304,290
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,834,200,0.7575757575757576,290
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,834,40,0.15151515151515152,290
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,835,1,0.002583979328165375,291
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,barnacle cybrid,835,1,0.002583979328165375,291
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,835,14,0.03617571059431524,291
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,835,68,0.17571059431524547,291
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,835,274,0.7080103359173127,291
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,835,29,0.07493540051679587,291
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,836,16,0.013245033112582781,292
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,836,48,0.039735099337748346,292
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,836,944,0.7814569536423841,292
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,836,200,0.16556291390728478,292
+Baker_uw,FPS,juvenile,pacific sand lance,BD,amphipods,837,3,0.008108108108108109,293
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,barnacle cybrid,837,2,0.005405405405405406,293
+Baker_uw,FPS,juvenile,pacific sand lance,BFF,larvacean,837,23,0.062162162162162166,293
+Baker_uw,FPS,juvenile,pacific sand lance,PL,coscinodiscus,837,4,0.010810810810810811,293
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod unident.,837,276,0.745945945945946,293
+Baker_uw,FPS,juvenile,pacific sand lance,ZM,copepod nauplii,837,61,0.16486486486486487,293
+Baker_uw,FPS,juvenile,pacific sand lance,NA,egg,837,1,0.002702702702702703,293

@@ -1,0 +1,31 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+FDF,juvenile,English sole,Pleuronectes vetulus,BD,crustacea,Harpacticus spinulosus,%W_bywater_19JN90,10.29411765,0.1029411765,1,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BD,crustacea,Ectinosomidae,%W_bywater_19JN90,0,0,1,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,ZM,Crustacea,Tisbe,%W_bywater_19JN90,2.941176471,0.02941176471,1,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BIV,Bivalves,Bivalve siphons,%W_bywater_19JN90,2.941176471,0.02941176471,1,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BC,Annelida,Polychaetes,%W_bywater_19JN90,83.82352941,0.8382352941,1,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BD,crustacea,Harpacticus uniremis,%W_bywater_19JN90,0,0,1,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,ZM,crustacea,Robertsonia,%W_bywater_19JN90,0,0,1,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,ZM,crustacea,Microarthidion,%W_bywater_19JN90,0,0,1,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BC,Polychaete,Spionid palps,%W_bywater_19JN90,0,0,1,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BD,crustacea,Harpacticus spinulosus,%W_bywater_25my90,2.20994475,0.0220994475,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BD,crustacea,Ectinosomidae,%W_bywater_25my90,0,0,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,ZM,crustacea,Tisbe,%W_bywater_25my90,0,0,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BIV,Bivalves,Bivalve siphons,%W_bywater_25my90,49.7237569,0.497237569,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,ZM,crustacea,Robertsonia,%W_bywater_25my90,0,0,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BC,Annelida,Polychaetes,%W_bywater_25my90,42.5414365,0.425414365,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,ZM,crustacea,Dactylopodia,%W_bywater_25my90,0,0,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BML,Chelicerata,Ameridae,%W_bywater_25my90,0,0,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,ZM,crustacea,Huntemannia jadensis,%W_bywater_25my90,0,0,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BD,crustacea,Cumella,%W_bywater_25my90,1.10497238,0.0110497238,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BD,crustacea,Leptochelia,%W_bywater_25my90,3.31491713,0.0331491713,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BD,crustacea,Photis,%W_bywater_25my90,0,0,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BC,Polychaete,Spionid palps,%W_bywater_25my90,1.10497238,0.0110497238,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,ZL,Unid. Harps,Unid. Harps,%W_bywater_25my90,0,0,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,ZM,crustacea,Amphiascus,%W_bywater_25my90,0,0,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,English sole,Pleuronectes vetulus,BIV,Bivalves,Juvenile bivalve,%W_bywater_25my90,NA,0,2,FDF_Simenstad_et_al_1991
+FDF,juvenile,Starry flounder,Platichthys stellatus,BD,crustacea,Harpacticus spinulosus,%W_27AP90,100,1,3,FDF_Simenstad_et_al_1991
+FDF,juvenile,Starry flounder,Platichthys stellatus,ZM,crustacea,Huntemannia jadensis,%W_27AP90,0,0,3,FDF_Simenstad_et_al_1991
+FDF,juvenile,Starry flounder,Platichthys stellatus,BD,crustacea,Harpacticus spinulosus,%W_bywater_25MY90,100,1,4,FDF_Simenstad_et_al_1991
+FDF,juvenile,Starry flounder,Platichthys stellatus,ZM,crustacea,Tisbe,%W_bywater_25MY90,0,0,4,FDF_Simenstad_et_al_1991
+FDF,juvenile,Starry flounder,Platichthys stellatus,BD,crustacea,Harpacticus articus,%W_bywater_25MY90,0,0,4,FDF_Simenstad_et_al_1991

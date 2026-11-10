@@ -1,0 +1,1621 @@
+atlantis_pred_fg,pred,pred_stage,prey,mode_corr,atlantis_prey_fg
+CHY,Chinook Hatch Yearling,juvenile,Carnivorous infauna,0,BC
+CHY,Chinook Hatch Yearling,juvenile,Deposit feeders,1.73665084023686e-4,BD
+CHY,Chinook Hatch Yearling,juvenile,Benthic filter feeder,0,BFF
+CHY,Chinook Hatch Yearling,juvenile,Benthic grazers,0,BG
+CHY,Chinook Hatch Yearling,juvenile,Bivalves,0,BIV
+CHY,Chinook Hatch Yearling,juvenile,Crabs,2.51606360715418e-4,BML
+CHY,Chinook Hatch Yearling,juvenile,Octopi,0,BMS
+CHY,Chinook Hatch Yearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CHY,Chinook Hatch Yearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CHY,Chinook Hatch Yearling,juvenile,Small-mouthed Flatfish,0,FDF
+CHY,Chinook Hatch Yearling,juvenile,Hake_Large gadoids,0,FMM
+CHY,Chinook Hatch Yearling,juvenile,Small Planktivorous Fish,3.4098013725998203e-4,FPS
+CHY,Chinook Hatch Yearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CHY,Chinook Hatch Yearling,juvenile,Pacific Herring Puget Sound,1.1819251042904e-6,HEP
+CHY,Chinook Hatch Yearling,juvenile,Pink Salmon Subyearling,0.0014885563376677898,PIS
+CHY,Chinook Hatch Yearling,juvenile,Shrimp,0.0011715461318867499,PWN
+CHY,Chinook Hatch Yearling,juvenile,Small demersal fish,0,SMD
+CHY,Chinook Hatch Yearling,juvenile,Gelatinous zooplankton,0,ZG
+CHY,Chinook Hatch Yearling,juvenile,Large zooplankton,4.56810695494808e-4,ZL
+CHY,Chinook Hatch Yearling,juvenile,Mesozooplankton,1.16869929866176e-4,ZM
+CHY,Chinook Hatch Yearling,juvenile,Large demersal predators,0,FVS
+CHY,Chinook Hatch Yearling,juvenile,Large phytoplankton,0,PL
+CHY,Chinook Hatch Yearling,juvenile,Small phytoplankton,0,PS
+CHY,Chinook Hatch Yearling,juvenile,Deep macro-zoobenthos,0,BMD
+CHY,Chinook Hatch Yearling,juvenile,Carrion,0,DC
+CHY,Chinook Hatch Yearling,juvenile,Macroalgae,0,MA
+CHY,Chinook Hatch Yearling,juvenile,Spiny dogfish,0,DOG
+CHY,Chinook Hatch Yearling,juvenile,Piscivorous flatfish,0,HAP
+CHY,Chinook Hatch Yearling,juvenile,Perch,0,POP
+CHY,Chinook Hatch Yearling,juvenile,Demersal rockfish,0,ROC
+CHY,Chinook Hatch Yearling,juvenile,Squid,0,SQX
+CHY,Chinook Hatch Yearling,juvenile,Microzooplankton,0,ZS
+CHY,Chinook Hatch Yearling,juvenile,Chum Fall Subyearling,9.19927191859877e-4,CMF
+CHY,Chinook Hatch Yearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CHY,Chinook Hatch Yearling,juvenile,Midwater rockfish,0,MRO
+CHY,Chinook Hatch Yearling,juvenile,V38,0,NA
+CHY,Chinook Hatch Yearling,juvenile,Labile detritus,0,DL
+CHY,Chinook Hatch Yearling,juvenile,Chum Hood Canal summer run Subyearling,1.80182834928465e-4,CMH
+CHY,Chinook Hatch Yearling,juvenile,Other salmonids,0.00127573798547998,SAL
+CHY,Chinook Hatch Yearling,juvenile,Chinook Hatch Subyearling,2.03544728161789e-5,CHS
+CHY,Chinook Hatch Yearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CHY,Chinook Hatch Yearling,juvenile,Refractory detritus,0,DR
+CHY,Chinook Hatch Yearling,juvenile,Chum Hatch Subyearling,7.46016288197182e-4,CMS
+CHY,Chinook Hatch Yearling,juvenile,Ratfish,0,RAT
+CHY,Chinook Hatch Yearling,juvenile,Chinook Hatch Yearling,0,CHY
+CHY,Chinook Hatch Yearling,juvenile,Coho Deep South Yearling,0,COD
+CHY,Chinook Hatch Yearling,juvenile,Chinook other Subyearling,0,CKS
+CHY,Chinook Hatch Yearling,juvenile,Coho Hatch Yearling,6.452748623474371e-4,COH
+CHY,Chinook Hatch Yearling,juvenile,Chinook Skagit Yearling,0,CSY
+CHY,Chinook Hatch Yearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CHY,Chinook Hatch Yearling,juvenile,Coho Skagit Yearling,3.42554119278482e-4,COS
+CHY,Chinook Hatch Yearling,juvenile,Chinook Skagit Subyearling,3.79905153443802e-5,CSS
+CHY,Chinook Hatch Yearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CHY,Chinook Hatch Yearling,juvenile,Coho other Yearling,3.96034259944859e-4,COY
+CHY,Chinook Hatch Yearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CHY,Chinook Hatch Yearling,juvenile,Dungeness crab,0,DUN
+CHY,Chinook Hatch Yearling,juvenile,Chinook other Yearling,0,CYE
+CHY,Chinook Hatch Yearling,juvenile,Strait of Georgia salmonids,0.0014347108122574502,SAF
+CHY,Chinook Hatch Yearling,juvenile,Seagrass,0,SG
+CHY,Chinook Hatch Yearling,juvenile,Harbor seals,0,HSL
+CHS,Chinook Hatch Subyearling,juvenile,Carnivorous infauna,0,BC
+CHS,Chinook Hatch Subyearling,juvenile,Deposit feeders,1.67289093969955e-4,BD
+CHS,Chinook Hatch Subyearling,juvenile,Benthic filter feeder,0,BFF
+CHS,Chinook Hatch Subyearling,juvenile,Benthic grazers,0,BG
+CHS,Chinook Hatch Subyearling,juvenile,Bivalves,0,BIV
+CHS,Chinook Hatch Subyearling,juvenile,Crabs,2.45740690157968e-4,BML
+CHS,Chinook Hatch Subyearling,juvenile,Octopi,0,BMS
+CHS,Chinook Hatch Subyearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CHS,Chinook Hatch Subyearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CHS,Chinook Hatch Subyearling,juvenile,Small-mouthed Flatfish,0,FDF
+CHS,Chinook Hatch Subyearling,juvenile,Hake_Large gadoids,0,FMM
+CHS,Chinook Hatch Subyearling,juvenile,Small Planktivorous Fish,3.2320926650360204e-4,FPS
+CHS,Chinook Hatch Subyearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CHS,Chinook Hatch Subyearling,juvenile,Pacific Herring Puget Sound,9.003178514936899e-6,HEP
+CHS,Chinook Hatch Subyearling,juvenile,Pink Salmon Subyearling,0.00148088449533125,PIS
+CHS,Chinook Hatch Subyearling,juvenile,Shrimp,0.0011817228788347201,PWN
+CHS,Chinook Hatch Subyearling,juvenile,Small demersal fish,0,SMD
+CHS,Chinook Hatch Subyearling,juvenile,Gelatinous zooplankton,0,ZG
+CHS,Chinook Hatch Subyearling,juvenile,Large zooplankton,4.62905804048837e-4,ZL
+CHS,Chinook Hatch Subyearling,juvenile,Mesozooplankton,1.20631186180965e-4,ZM
+CHS,Chinook Hatch Subyearling,juvenile,Large demersal predators,0,FVS
+CHS,Chinook Hatch Subyearling,juvenile,Large phytoplankton,0,PL
+CHS,Chinook Hatch Subyearling,juvenile,Small phytoplankton,0,PS
+CHS,Chinook Hatch Subyearling,juvenile,Deep macro-zoobenthos,0,BMD
+CHS,Chinook Hatch Subyearling,juvenile,Carrion,0,DC
+CHS,Chinook Hatch Subyearling,juvenile,Macroalgae,0,MA
+CHS,Chinook Hatch Subyearling,juvenile,Spiny dogfish,0,DOG
+CHS,Chinook Hatch Subyearling,juvenile,Piscivorous flatfish,0,HAP
+CHS,Chinook Hatch Subyearling,juvenile,Perch,0,POP
+CHS,Chinook Hatch Subyearling,juvenile,Demersal rockfish,0,ROC
+CHS,Chinook Hatch Subyearling,juvenile,Squid,0,SQX
+CHS,Chinook Hatch Subyearling,juvenile,Microzooplankton,0,ZS
+CHS,Chinook Hatch Subyearling,juvenile,Chum Fall Subyearling,8.86152719239604e-4,CMF
+CHS,Chinook Hatch Subyearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CHS,Chinook Hatch Subyearling,juvenile,Midwater rockfish,0,MRO
+CHS,Chinook Hatch Subyearling,juvenile,V38,0,NA
+CHS,Chinook Hatch Subyearling,juvenile,Labile detritus,0,DL
+CHS,Chinook Hatch Subyearling,juvenile,Chum Hood Canal summer run Subyearling,1.77610689181664e-4,CMH
+CHS,Chinook Hatch Subyearling,juvenile,Other salmonids,0.0012289001726155401,SAL
+CHS,Chinook Hatch Subyearling,juvenile,Chinook Hatch Subyearling,1.96071728223172e-5,CHS
+CHS,Chinook Hatch Subyearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CHS,Chinook Hatch Subyearling,juvenile,Refractory detritus,0,DR
+CHS,Chinook Hatch Subyearling,juvenile,Chum Hatch Subyearling,7.7715089391043e-4,CMS
+CHS,Chinook Hatch Subyearling,juvenile,Ratfish,0,RAT
+CHS,Chinook Hatch Subyearling,juvenile,Chinook Hatch Yearling,0,CHY
+CHS,Chinook Hatch Subyearling,juvenile,Coho Deep South Yearling,0,COD
+CHS,Chinook Hatch Subyearling,juvenile,Chinook other Subyearling,0,CKS
+CHS,Chinook Hatch Subyearling,juvenile,Coho Hatch Yearling,6.47889412667909e-4,COH
+CHS,Chinook Hatch Subyearling,juvenile,Chinook Skagit Yearling,0,CSY
+CHS,Chinook Hatch Subyearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CHS,Chinook Hatch Subyearling,juvenile,Coho Skagit Yearling,3.7280979136106597e-4,COS
+CHS,Chinook Hatch Subyearling,juvenile,Chinook Skagit Subyearling,3.44690117983348e-5,CSS
+CHS,Chinook Hatch Subyearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CHS,Chinook Hatch Subyearling,juvenile,Coho other Yearling,4.13513654630365e-4,COY
+CHS,Chinook Hatch Subyearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CHS,Chinook Hatch Subyearling,juvenile,Dungeness crab,0,DUN
+CHS,Chinook Hatch Subyearling,juvenile,Chinook other Yearling,0,CYE
+CHS,Chinook Hatch Subyearling,juvenile,Strait of Georgia salmonids,0.00145050983273491,SAF
+CHS,Chinook Hatch Subyearling,juvenile,Seagrass,0,SG
+CHS,Chinook Hatch Subyearling,juvenile,Harbor seals,0,HSL
+CSY,Chinook Skagit Yearling,juvenile,Carnivorous infauna,0,BC
+CSY,Chinook Skagit Yearling,juvenile,Deposit feeders,1.7368296326970698e-4,BD
+CSY,Chinook Skagit Yearling,juvenile,Benthic filter feeder,0,BFF
+CSY,Chinook Skagit Yearling,juvenile,Benthic grazers,0,BG
+CSY,Chinook Skagit Yearling,juvenile,Bivalves,0,BIV
+CSY,Chinook Skagit Yearling,juvenile,Crabs,2.5572119268701997e-4,BML
+CSY,Chinook Skagit Yearling,juvenile,Octopi,0,BMS
+CSY,Chinook Skagit Yearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CSY,Chinook Skagit Yearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CSY,Chinook Skagit Yearling,juvenile,Small-mouthed Flatfish,0,FDF
+CSY,Chinook Skagit Yearling,juvenile,Hake_Large gadoids,0,FMM
+CSY,Chinook Skagit Yearling,juvenile,Small Planktivorous Fish,3.21197621196702e-4,FPS
+CSY,Chinook Skagit Yearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CSY,Chinook Skagit Yearling,juvenile,Pacific Herring Puget Sound,1.02727748866986e-5,HEP
+CSY,Chinook Skagit Yearling,juvenile,Pink Salmon Subyearling,0.00146153605337246,PIS
+CSY,Chinook Skagit Yearling,juvenile,Shrimp,0.00117436786915637,PWN
+CSY,Chinook Skagit Yearling,juvenile,Small demersal fish,0,SMD
+CSY,Chinook Skagit Yearling,juvenile,Gelatinous zooplankton,0,ZG
+CSY,Chinook Skagit Yearling,juvenile,Large zooplankton,4.43384225396251e-4,ZL
+CSY,Chinook Skagit Yearling,juvenile,Mesozooplankton,1.2295571992097e-4,ZM
+CSY,Chinook Skagit Yearling,juvenile,Large demersal predators,0,FVS
+CSY,Chinook Skagit Yearling,juvenile,Large phytoplankton,0,PL
+CSY,Chinook Skagit Yearling,juvenile,Small phytoplankton,0,PS
+CSY,Chinook Skagit Yearling,juvenile,Deep macro-zoobenthos,0,BMD
+CSY,Chinook Skagit Yearling,juvenile,Carrion,0,DC
+CSY,Chinook Skagit Yearling,juvenile,Macroalgae,0,MA
+CSY,Chinook Skagit Yearling,juvenile,Spiny dogfish,0,DOG
+CSY,Chinook Skagit Yearling,juvenile,Piscivorous flatfish,0,HAP
+CSY,Chinook Skagit Yearling,juvenile,Perch,0,POP
+CSY,Chinook Skagit Yearling,juvenile,Demersal rockfish,0,ROC
+CSY,Chinook Skagit Yearling,juvenile,Squid,0,SQX
+CSY,Chinook Skagit Yearling,juvenile,Microzooplankton,0,ZS
+CSY,Chinook Skagit Yearling,juvenile,Chum Fall Subyearling,9.22142890219475e-4,CMF
+CSY,Chinook Skagit Yearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CSY,Chinook Skagit Yearling,juvenile,Midwater rockfish,0,MRO
+CSY,Chinook Skagit Yearling,juvenile,V38,0,NA
+CSY,Chinook Skagit Yearling,juvenile,Labile detritus,0,DL
+CSY,Chinook Skagit Yearling,juvenile,Chum Hood Canal summer run Subyearling,1.7813852100656e-4,CMH
+CSY,Chinook Skagit Yearling,juvenile,Other salmonids,0.00125546844169544,SAL
+CSY,Chinook Skagit Yearling,juvenile,Chinook Hatch Subyearling,2.01699277122949e-5,CHS
+CSY,Chinook Skagit Yearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CSY,Chinook Skagit Yearling,juvenile,Refractory detritus,0,DR
+CSY,Chinook Skagit Yearling,juvenile,Chum Hatch Subyearling,7.42664912603998e-4,CMS
+CSY,Chinook Skagit Yearling,juvenile,Ratfish,0,RAT
+CSY,Chinook Skagit Yearling,juvenile,Chinook Hatch Yearling,0,CHY
+CSY,Chinook Skagit Yearling,juvenile,Coho Deep South Yearling,0,COD
+CSY,Chinook Skagit Yearling,juvenile,Chinook other Subyearling,0,CKS
+CSY,Chinook Skagit Yearling,juvenile,Coho Hatch Yearling,6.513129037186351e-4,COH
+CSY,Chinook Skagit Yearling,juvenile,Chinook Skagit Yearling,0,CSY
+CSY,Chinook Skagit Yearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CSY,Chinook Skagit Yearling,juvenile,Coho Skagit Yearling,3.4655660983599e-4,COS
+CSY,Chinook Skagit Yearling,juvenile,Chinook Skagit Subyearling,3.78198481781105e-5,CSS
+CSY,Chinook Skagit Yearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CSY,Chinook Skagit Yearling,juvenile,Coho other Yearling,4.10939957373246e-4,COY
+CSY,Chinook Skagit Yearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CSY,Chinook Skagit Yearling,juvenile,Dungeness crab,0,DUN
+CSY,Chinook Skagit Yearling,juvenile,Chinook other Yearling,0,CYE
+CSY,Chinook Skagit Yearling,juvenile,Strait of Georgia salmonids,0.00147166751223754,SAF
+CSY,Chinook Skagit Yearling,juvenile,Seagrass,0,SG
+CSY,Chinook Skagit Yearling,juvenile,Harbor seals,0,HSL
+CSS,Chinook Skagit Subyearling,juvenile,Carnivorous infauna,0,BC
+CSS,Chinook Skagit Subyearling,juvenile,Deposit feeders,1.66487413416892e-4,BD
+CSS,Chinook Skagit Subyearling,juvenile,Benthic filter feeder,0,BFF
+CSS,Chinook Skagit Subyearling,juvenile,Benthic grazers,0,BG
+CSS,Chinook Skagit Subyearling,juvenile,Bivalves,0,BIV
+CSS,Chinook Skagit Subyearling,juvenile,Crabs,2.51415199250505e-4,BML
+CSS,Chinook Skagit Subyearling,juvenile,Octopi,0,BMS
+CSS,Chinook Skagit Subyearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CSS,Chinook Skagit Subyearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CSS,Chinook Skagit Subyearling,juvenile,Small-mouthed Flatfish,0,FDF
+CSS,Chinook Skagit Subyearling,juvenile,Hake_Large gadoids,0,FMM
+CSS,Chinook Skagit Subyearling,juvenile,Small Planktivorous Fish,3.2764084180083e-4,FPS
+CSS,Chinook Skagit Subyearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CSS,Chinook Skagit Subyearling,juvenile,Pacific Herring Puget Sound,1.47001510610617e-5,HEP
+CSS,Chinook Skagit Subyearling,juvenile,Pink Salmon Subyearling,0.0014670159984871201,PIS
+CSS,Chinook Skagit Subyearling,juvenile,Shrimp,0.00117335482692546,PWN
+CSS,Chinook Skagit Subyearling,juvenile,Small demersal fish,0,SMD
+CSS,Chinook Skagit Subyearling,juvenile,Gelatinous zooplankton,0,ZG
+CSS,Chinook Skagit Subyearling,juvenile,Large zooplankton,4.4710102750247804e-4,ZL
+CSS,Chinook Skagit Subyearling,juvenile,Mesozooplankton,1.20329865672789e-4,ZM
+CSS,Chinook Skagit Subyearling,juvenile,Large demersal predators,0,FVS
+CSS,Chinook Skagit Subyearling,juvenile,Large phytoplankton,0,PL
+CSS,Chinook Skagit Subyearling,juvenile,Small phytoplankton,0,PS
+CSS,Chinook Skagit Subyearling,juvenile,Deep macro-zoobenthos,0,BMD
+CSS,Chinook Skagit Subyearling,juvenile,Carrion,0,DC
+CSS,Chinook Skagit Subyearling,juvenile,Macroalgae,0,MA
+CSS,Chinook Skagit Subyearling,juvenile,Spiny dogfish,0,DOG
+CSS,Chinook Skagit Subyearling,juvenile,Piscivorous flatfish,0,HAP
+CSS,Chinook Skagit Subyearling,juvenile,Perch,0,POP
+CSS,Chinook Skagit Subyearling,juvenile,Demersal rockfish,0,ROC
+CSS,Chinook Skagit Subyearling,juvenile,Squid,0,SQX
+CSS,Chinook Skagit Subyearling,juvenile,Microzooplankton,0,ZS
+CSS,Chinook Skagit Subyearling,juvenile,Chum Fall Subyearling,9.25600411787016e-4,CMF
+CSS,Chinook Skagit Subyearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CSS,Chinook Skagit Subyearling,juvenile,Midwater rockfish,0,MRO
+CSS,Chinook Skagit Subyearling,juvenile,V38,0,NA
+CSS,Chinook Skagit Subyearling,juvenile,Labile detritus,0,DL
+CSS,Chinook Skagit Subyearling,juvenile,Chum Hood Canal summer run Subyearling,1.9696340093592598e-4,CMH
+CSS,Chinook Skagit Subyearling,juvenile,Other salmonids,0.00122583054496591,SAL
+CSS,Chinook Skagit Subyearling,juvenile,Chinook Hatch Subyearling,1.89377342833054e-5,CHS
+CSS,Chinook Skagit Subyearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CSS,Chinook Skagit Subyearling,juvenile,Refractory detritus,0,DR
+CSS,Chinook Skagit Subyearling,juvenile,Chum Hatch Subyearling,7.66335424569824e-4,CMS
+CSS,Chinook Skagit Subyearling,juvenile,Ratfish,0,RAT
+CSS,Chinook Skagit Subyearling,juvenile,Chinook Hatch Yearling,0,CHY
+CSS,Chinook Skagit Subyearling,juvenile,Coho Deep South Yearling,0,COD
+CSS,Chinook Skagit Subyearling,juvenile,Chinook other Subyearling,0,CKS
+CSS,Chinook Skagit Subyearling,juvenile,Coho Hatch Yearling,6.643782331109831e-4,COH
+CSS,Chinook Skagit Subyearling,juvenile,Chinook Skagit Yearling,0,CSY
+CSS,Chinook Skagit Subyearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CSS,Chinook Skagit Subyearling,juvenile,Coho Skagit Yearling,3.64250900908403e-4,COS
+CSS,Chinook Skagit Subyearling,juvenile,Chinook Skagit Subyearling,3.43829128343753e-5,CSS
+CSS,Chinook Skagit Subyearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CSS,Chinook Skagit Subyearling,juvenile,Coho other Yearling,4.0495170896074695e-4,COY
+CSS,Chinook Skagit Subyearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CSS,Chinook Skagit Subyearling,juvenile,Dungeness crab,0,DUN
+CSS,Chinook Skagit Subyearling,juvenile,Chinook other Yearling,0,CYE
+CSS,Chinook Skagit Subyearling,juvenile,Strait of Georgia salmonids,0.00143032334804176,SAF
+CSS,Chinook Skagit Subyearling,juvenile,Seagrass,0,SG
+CSS,Chinook Skagit Subyearling,juvenile,Harbor seals,0,HSL
+CSN,Chinook Snohomish Subyearling,juvenile,Carnivorous infauna,0,BC
+CSN,Chinook Snohomish Subyearling,juvenile,Deposit feeders,1.82281604149141e-4,BD
+CSN,Chinook Snohomish Subyearling,juvenile,Benthic filter feeder,0,BFF
+CSN,Chinook Snohomish Subyearling,juvenile,Benthic grazers,0,BG
+CSN,Chinook Snohomish Subyearling,juvenile,Bivalves,0,BIV
+CSN,Chinook Snohomish Subyearling,juvenile,Crabs,2.4874277596754297e-4,BML
+CSN,Chinook Snohomish Subyearling,juvenile,Octopi,0,BMS
+CSN,Chinook Snohomish Subyearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CSN,Chinook Snohomish Subyearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CSN,Chinook Snohomish Subyearling,juvenile,Small-mouthed Flatfish,0,FDF
+CSN,Chinook Snohomish Subyearling,juvenile,Hake_Large gadoids,0,FMM
+CSN,Chinook Snohomish Subyearling,juvenile,Small Planktivorous Fish,3.19710309690168e-4,FPS
+CSN,Chinook Snohomish Subyearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CSN,Chinook Snohomish Subyearling,juvenile,Pacific Herring Puget Sound,6.9448455404269e-6,HEP
+CSN,Chinook Snohomish Subyearling,juvenile,Pink Salmon Subyearling,0.00147840781604054,PIS
+CSN,Chinook Snohomish Subyearling,juvenile,Shrimp,0.00118246627773959,PWN
+CSN,Chinook Snohomish Subyearling,juvenile,Small demersal fish,0,SMD
+CSN,Chinook Snohomish Subyearling,juvenile,Gelatinous zooplankton,0,ZG
+CSN,Chinook Snohomish Subyearling,juvenile,Large zooplankton,4.7072378412469203e-4,ZL
+CSN,Chinook Snohomish Subyearling,juvenile,Mesozooplankton,1.1395445404795699e-4,ZM
+CSN,Chinook Snohomish Subyearling,juvenile,Large demersal predators,0,FVS
+CSN,Chinook Snohomish Subyearling,juvenile,Large phytoplankton,0,PL
+CSN,Chinook Snohomish Subyearling,juvenile,Small phytoplankton,0,PS
+CSN,Chinook Snohomish Subyearling,juvenile,Deep macro-zoobenthos,0,BMD
+CSN,Chinook Snohomish Subyearling,juvenile,Carrion,0,DC
+CSN,Chinook Snohomish Subyearling,juvenile,Macroalgae,0,MA
+CSN,Chinook Snohomish Subyearling,juvenile,Spiny dogfish,0,DOG
+CSN,Chinook Snohomish Subyearling,juvenile,Piscivorous flatfish,0,HAP
+CSN,Chinook Snohomish Subyearling,juvenile,Perch,0,POP
+CSN,Chinook Snohomish Subyearling,juvenile,Demersal rockfish,0,ROC
+CSN,Chinook Snohomish Subyearling,juvenile,Squid,0,SQX
+CSN,Chinook Snohomish Subyearling,juvenile,Microzooplankton,0,ZS
+CSN,Chinook Snohomish Subyearling,juvenile,Chum Fall Subyearling,9.221098394878301e-4,CMF
+CSN,Chinook Snohomish Subyearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CSN,Chinook Snohomish Subyearling,juvenile,Midwater rockfish,0,MRO
+CSN,Chinook Snohomish Subyearling,juvenile,V38,0,NA
+CSN,Chinook Snohomish Subyearling,juvenile,Labile detritus,0,DL
+CSN,Chinook Snohomish Subyearling,juvenile,Chum Hood Canal summer run Subyearling,1.7367673825938401e-4,CMH
+CSN,Chinook Snohomish Subyearling,juvenile,Other salmonids,0.00123534948540968,SAL
+CSN,Chinook Snohomish Subyearling,juvenile,Chinook Hatch Subyearling,1.7526101639735902e-5,CHS
+CSN,Chinook Snohomish Subyearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CSN,Chinook Snohomish Subyearling,juvenile,Refractory detritus,0,DR
+CSN,Chinook Snohomish Subyearling,juvenile,Chum Hatch Subyearling,7.58189645646019e-4,CMS
+CSN,Chinook Snohomish Subyearling,juvenile,Ratfish,0,RAT
+CSN,Chinook Snohomish Subyearling,juvenile,Chinook Hatch Yearling,0,CHY
+CSN,Chinook Snohomish Subyearling,juvenile,Coho Deep South Yearling,0,COD
+CSN,Chinook Snohomish Subyearling,juvenile,Chinook other Subyearling,0,CKS
+CSN,Chinook Snohomish Subyearling,juvenile,Coho Hatch Yearling,6.482969873103949e-4,COH
+CSN,Chinook Snohomish Subyearling,juvenile,Chinook Skagit Yearling,0,CSY
+CSN,Chinook Snohomish Subyearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CSN,Chinook Snohomish Subyearling,juvenile,Coho Skagit Yearling,3.2791196468887903e-4,COS
+CSN,Chinook Snohomish Subyearling,juvenile,Chinook Skagit Subyearling,3.11673203314618e-5,CSS
+CSN,Chinook Snohomish Subyearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CSN,Chinook Snohomish Subyearling,juvenile,Coho other Yearling,4.10925228781399e-4,COY
+CSN,Chinook Snohomish Subyearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CSN,Chinook Snohomish Subyearling,juvenile,Dungeness crab,0,DUN
+CSN,Chinook Snohomish Subyearling,juvenile,Chinook other Yearling,0,CYE
+CSN,Chinook Snohomish Subyearling,juvenile,Strait of Georgia salmonids,0.0014716147658697801,SAF
+CSN,Chinook Snohomish Subyearling,juvenile,Seagrass,0,SG
+CSN,Chinook Snohomish Subyearling,juvenile,Harbor seals,0,HSL
+CDS,Chinook Duwamish Subyearling,juvenile,Carnivorous infauna,0,BC
+CDS,Chinook Duwamish Subyearling,juvenile,Deposit feeders,1.7690035425471401e-4,BD
+CDS,Chinook Duwamish Subyearling,juvenile,Benthic filter feeder,0,BFF
+CDS,Chinook Duwamish Subyearling,juvenile,Benthic grazers,0,BG
+CDS,Chinook Duwamish Subyearling,juvenile,Bivalves,0,BIV
+CDS,Chinook Duwamish Subyearling,juvenile,Crabs,2.47592200435533e-4,BML
+CDS,Chinook Duwamish Subyearling,juvenile,Octopi,0,BMS
+CDS,Chinook Duwamish Subyearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CDS,Chinook Duwamish Subyearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CDS,Chinook Duwamish Subyearling,juvenile,Small-mouthed Flatfish,0,FDF
+CDS,Chinook Duwamish Subyearling,juvenile,Hake_Large gadoids,0,FMM
+CDS,Chinook Duwamish Subyearling,juvenile,Small Planktivorous Fish,3.25644456534001e-4,FPS
+CDS,Chinook Duwamish Subyearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CDS,Chinook Duwamish Subyearling,juvenile,Pacific Herring Puget Sound,1.3825030459038499e-5,HEP
+CDS,Chinook Duwamish Subyearling,juvenile,Pink Salmon Subyearling,0.0014648077181653098,PIS
+CDS,Chinook Duwamish Subyearling,juvenile,Shrimp,0.00116889385978912,PWN
+CDS,Chinook Duwamish Subyearling,juvenile,Small demersal fish,0,SMD
+CDS,Chinook Duwamish Subyearling,juvenile,Gelatinous zooplankton,0,ZG
+CDS,Chinook Duwamish Subyearling,juvenile,Large zooplankton,4.7288207429560996e-4,ZL
+CDS,Chinook Duwamish Subyearling,juvenile,Mesozooplankton,1.17413662675284e-4,ZM
+CDS,Chinook Duwamish Subyearling,juvenile,Large demersal predators,0,FVS
+CDS,Chinook Duwamish Subyearling,juvenile,Large phytoplankton,0,PL
+CDS,Chinook Duwamish Subyearling,juvenile,Small phytoplankton,0,PS
+CDS,Chinook Duwamish Subyearling,juvenile,Deep macro-zoobenthos,0,BMD
+CDS,Chinook Duwamish Subyearling,juvenile,Carrion,0,DC
+CDS,Chinook Duwamish Subyearling,juvenile,Macroalgae,0,MA
+CDS,Chinook Duwamish Subyearling,juvenile,Spiny dogfish,0,DOG
+CDS,Chinook Duwamish Subyearling,juvenile,Piscivorous flatfish,0,HAP
+CDS,Chinook Duwamish Subyearling,juvenile,Perch,0,POP
+CDS,Chinook Duwamish Subyearling,juvenile,Demersal rockfish,0,ROC
+CDS,Chinook Duwamish Subyearling,juvenile,Squid,0,SQX
+CDS,Chinook Duwamish Subyearling,juvenile,Microzooplankton,0,ZS
+CDS,Chinook Duwamish Subyearling,juvenile,Chum Fall Subyearling,9.13627211127319e-4,CMF
+CDS,Chinook Duwamish Subyearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CDS,Chinook Duwamish Subyearling,juvenile,Midwater rockfish,0,MRO
+CDS,Chinook Duwamish Subyearling,juvenile,V38,0,NA
+CDS,Chinook Duwamish Subyearling,juvenile,Labile detritus,0,DL
+CDS,Chinook Duwamish Subyearling,juvenile,Chum Hood Canal summer run Subyearling,1.7812663851791402e-4,CMH
+CDS,Chinook Duwamish Subyearling,juvenile,Other salmonids,0.00122398531800648,SAL
+CDS,Chinook Duwamish Subyearling,juvenile,Chinook Hatch Subyearling,1.73648763708449e-5,CHS
+CDS,Chinook Duwamish Subyearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CDS,Chinook Duwamish Subyearling,juvenile,Refractory detritus,0,DR
+CDS,Chinook Duwamish Subyearling,juvenile,Chum Hatch Subyearling,7.564224127623929e-4,CMS
+CDS,Chinook Duwamish Subyearling,juvenile,Ratfish,0,RAT
+CDS,Chinook Duwamish Subyearling,juvenile,Chinook Hatch Yearling,0,CHY
+CDS,Chinook Duwamish Subyearling,juvenile,Coho Deep South Yearling,0,COD
+CDS,Chinook Duwamish Subyearling,juvenile,Chinook other Subyearling,0,CKS
+CDS,Chinook Duwamish Subyearling,juvenile,Coho Hatch Yearling,6.36443927198335e-4,COH
+CDS,Chinook Duwamish Subyearling,juvenile,Chinook Skagit Yearling,0,CSY
+CDS,Chinook Duwamish Subyearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CDS,Chinook Duwamish Subyearling,juvenile,Coho Skagit Yearling,3.6706808862249895e-4,COS
+CDS,Chinook Duwamish Subyearling,juvenile,Chinook Skagit Subyearling,3.10231539088101e-5,CSS
+CDS,Chinook Duwamish Subyearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CDS,Chinook Duwamish Subyearling,juvenile,Coho other Yearling,4.0620860467430604e-4,COY
+CDS,Chinook Duwamish Subyearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CDS,Chinook Duwamish Subyearling,juvenile,Dungeness crab,0,DUN
+CDS,Chinook Duwamish Subyearling,juvenile,Chinook other Yearling,0,CYE
+CDS,Chinook Duwamish Subyearling,juvenile,Strait of Georgia salmonids,0.00148177035692881,SAF
+CDS,Chinook Duwamish Subyearling,juvenile,Seagrass,0,SG
+CDS,Chinook Duwamish Subyearling,juvenile,Harbor seals,0,HSL
+CNY,Chinook Nisqually Yearling,juvenile,Carnivorous infauna,0,BC
+CNY,Chinook Nisqually Yearling,juvenile,Deposit feeders,1.74598154756288e-4,BD
+CNY,Chinook Nisqually Yearling,juvenile,Benthic filter feeder,0,BFF
+CNY,Chinook Nisqually Yearling,juvenile,Benthic grazers,0,BG
+CNY,Chinook Nisqually Yearling,juvenile,Bivalves,0,BIV
+CNY,Chinook Nisqually Yearling,juvenile,Crabs,2.48913446937263e-4,BML
+CNY,Chinook Nisqually Yearling,juvenile,Octopi,0,BMS
+CNY,Chinook Nisqually Yearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CNY,Chinook Nisqually Yearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CNY,Chinook Nisqually Yearling,juvenile,Small-mouthed Flatfish,0,FDF
+CNY,Chinook Nisqually Yearling,juvenile,Hake_Large gadoids,0,FMM
+CNY,Chinook Nisqually Yearling,juvenile,Small Planktivorous Fish,3.37330666288368e-4,FPS
+CNY,Chinook Nisqually Yearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CNY,Chinook Nisqually Yearling,juvenile,Pacific Herring Puget Sound,1.35824129599271e-5,HEP
+CNY,Chinook Nisqually Yearling,juvenile,Pink Salmon Subyearling,0.00146585801464274,PIS
+CNY,Chinook Nisqually Yearling,juvenile,Shrimp,0.00117242864347913,PWN
+CNY,Chinook Nisqually Yearling,juvenile,Small demersal fish,0,SMD
+CNY,Chinook Nisqually Yearling,juvenile,Gelatinous zooplankton,0,ZG
+CNY,Chinook Nisqually Yearling,juvenile,Large zooplankton,4.66727938093653e-4,ZL
+CNY,Chinook Nisqually Yearling,juvenile,Mesozooplankton,1.26191956961531e-4,ZM
+CNY,Chinook Nisqually Yearling,juvenile,Large demersal predators,0,FVS
+CNY,Chinook Nisqually Yearling,juvenile,Large phytoplankton,0,PL
+CNY,Chinook Nisqually Yearling,juvenile,Small phytoplankton,0,PS
+CNY,Chinook Nisqually Yearling,juvenile,Deep macro-zoobenthos,0,BMD
+CNY,Chinook Nisqually Yearling,juvenile,Carrion,0,DC
+CNY,Chinook Nisqually Yearling,juvenile,Macroalgae,0,MA
+CNY,Chinook Nisqually Yearling,juvenile,Spiny dogfish,0,DOG
+CNY,Chinook Nisqually Yearling,juvenile,Piscivorous flatfish,0,HAP
+CNY,Chinook Nisqually Yearling,juvenile,Perch,0,POP
+CNY,Chinook Nisqually Yearling,juvenile,Demersal rockfish,0,ROC
+CNY,Chinook Nisqually Yearling,juvenile,Squid,0,SQX
+CNY,Chinook Nisqually Yearling,juvenile,Microzooplankton,0,ZS
+CNY,Chinook Nisqually Yearling,juvenile,Chum Fall Subyearling,8.99663117049653e-4,CMF
+CNY,Chinook Nisqually Yearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CNY,Chinook Nisqually Yearling,juvenile,Midwater rockfish,0,MRO
+CNY,Chinook Nisqually Yearling,juvenile,V38,0,NA
+CNY,Chinook Nisqually Yearling,juvenile,Labile detritus,0,DL
+CNY,Chinook Nisqually Yearling,juvenile,Chum Hood Canal summer run Subyearling,1.67123905091847e-4,CMH
+CNY,Chinook Nisqually Yearling,juvenile,Other salmonids,0.00125339529519421,SAL
+CNY,Chinook Nisqually Yearling,juvenile,Chinook Hatch Subyearling,1.8620214455376398e-5,CHS
+CNY,Chinook Nisqually Yearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CNY,Chinook Nisqually Yearling,juvenile,Refractory detritus,0,DR
+CNY,Chinook Nisqually Yearling,juvenile,Chum Hatch Subyearling,7.56964782785247e-4,CMS
+CNY,Chinook Nisqually Yearling,juvenile,Ratfish,0,RAT
+CNY,Chinook Nisqually Yearling,juvenile,Chinook Hatch Yearling,0,CHY
+CNY,Chinook Nisqually Yearling,juvenile,Coho Deep South Yearling,0,COD
+CNY,Chinook Nisqually Yearling,juvenile,Chinook other Subyearling,0,CKS
+CNY,Chinook Nisqually Yearling,juvenile,Coho Hatch Yearling,6.398402349611761e-4,COH
+CNY,Chinook Nisqually Yearling,juvenile,Chinook Skagit Yearling,0,CSY
+CNY,Chinook Nisqually Yearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CNY,Chinook Nisqually Yearling,juvenile,Coho Skagit Yearling,3.59796892124929e-4,COS
+CNY,Chinook Nisqually Yearling,juvenile,Chinook Skagit Subyearling,3.4276752256453e-5,CSS
+CNY,Chinook Nisqually Yearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CNY,Chinook Nisqually Yearling,juvenile,Coho other Yearling,4.0556488782367403e-4,COY
+CNY,Chinook Nisqually Yearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CNY,Chinook Nisqually Yearling,juvenile,Dungeness crab,0,DUN
+CNY,Chinook Nisqually Yearling,juvenile,Chinook other Yearling,0,CYE
+CNY,Chinook Nisqually Yearling,juvenile,Strait of Georgia salmonids,0.00145912262882522,SAF
+CNY,Chinook Nisqually Yearling,juvenile,Seagrass,0,SG
+CNY,Chinook Nisqually Yearling,juvenile,Harbor seals,0,HSL
+CNS,Chinook Nisqually Subyearling,juvenile,Carnivorous infauna,0,BC
+CNS,Chinook Nisqually Subyearling,juvenile,Deposit feeders,1.6610956039168502e-4,BD
+CNS,Chinook Nisqually Subyearling,juvenile,Benthic filter feeder,0,BFF
+CNS,Chinook Nisqually Subyearling,juvenile,Benthic grazers,0,BG
+CNS,Chinook Nisqually Subyearling,juvenile,Bivalves,0,BIV
+CNS,Chinook Nisqually Subyearling,juvenile,Crabs,2.50844597595581e-4,BML
+CNS,Chinook Nisqually Subyearling,juvenile,Octopi,0,BMS
+CNS,Chinook Nisqually Subyearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CNS,Chinook Nisqually Subyearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CNS,Chinook Nisqually Subyearling,juvenile,Small-mouthed Flatfish,0,FDF
+CNS,Chinook Nisqually Subyearling,juvenile,Hake_Large gadoids,0,FMM
+CNS,Chinook Nisqually Subyearling,juvenile,Small Planktivorous Fish,3.2315506935509496e-4,FPS
+CNS,Chinook Nisqually Subyearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CNS,Chinook Nisqually Subyearling,juvenile,Pacific Herring Puget Sound,1.9424145389700102e-5,HEP
+CNS,Chinook Nisqually Subyearling,juvenile,Pink Salmon Subyearling,0.00147723061304917,PIS
+CNS,Chinook Nisqually Subyearling,juvenile,Shrimp,0.0011952069120427,PWN
+CNS,Chinook Nisqually Subyearling,juvenile,Small demersal fish,0,SMD
+CNS,Chinook Nisqually Subyearling,juvenile,Gelatinous zooplankton,0,ZG
+CNS,Chinook Nisqually Subyearling,juvenile,Large zooplankton,4.79093902910449e-4,ZL
+CNS,Chinook Nisqually Subyearling,juvenile,Mesozooplankton,1.1598072157196e-4,ZM
+CNS,Chinook Nisqually Subyearling,juvenile,Large demersal predators,0,FVS
+CNS,Chinook Nisqually Subyearling,juvenile,Large phytoplankton,0,PL
+CNS,Chinook Nisqually Subyearling,juvenile,Small phytoplankton,0,PS
+CNS,Chinook Nisqually Subyearling,juvenile,Deep macro-zoobenthos,0,BMD
+CNS,Chinook Nisqually Subyearling,juvenile,Carrion,0,DC
+CNS,Chinook Nisqually Subyearling,juvenile,Macroalgae,0,MA
+CNS,Chinook Nisqually Subyearling,juvenile,Spiny dogfish,0,DOG
+CNS,Chinook Nisqually Subyearling,juvenile,Piscivorous flatfish,0,HAP
+CNS,Chinook Nisqually Subyearling,juvenile,Perch,0,POP
+CNS,Chinook Nisqually Subyearling,juvenile,Demersal rockfish,0,ROC
+CNS,Chinook Nisqually Subyearling,juvenile,Squid,0,SQX
+CNS,Chinook Nisqually Subyearling,juvenile,Microzooplankton,0,ZS
+CNS,Chinook Nisqually Subyearling,juvenile,Chum Fall Subyearling,9.04557654342866e-4,CMF
+CNS,Chinook Nisqually Subyearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CNS,Chinook Nisqually Subyearling,juvenile,Midwater rockfish,0,MRO
+CNS,Chinook Nisqually Subyearling,juvenile,V38,0,NA
+CNS,Chinook Nisqually Subyearling,juvenile,Labile detritus,0,DL
+CNS,Chinook Nisqually Subyearling,juvenile,Chum Hood Canal summer run Subyearling,1.8171753396445002e-4,CMH
+CNS,Chinook Nisqually Subyearling,juvenile,Other salmonids,0.00121183484327259,SAL
+CNS,Chinook Nisqually Subyearling,juvenile,Chinook Hatch Subyearling,1.7113498834299998e-5,CHS
+CNS,Chinook Nisqually Subyearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CNS,Chinook Nisqually Subyearling,juvenile,Refractory detritus,0,DR
+CNS,Chinook Nisqually Subyearling,juvenile,Chum Hatch Subyearling,7.64596181028502e-4,CMS
+CNS,Chinook Nisqually Subyearling,juvenile,Ratfish,0,RAT
+CNS,Chinook Nisqually Subyearling,juvenile,Chinook Hatch Yearling,0,CHY
+CNS,Chinook Nisqually Subyearling,juvenile,Coho Deep South Yearling,0,COD
+CNS,Chinook Nisqually Subyearling,juvenile,Chinook other Subyearling,0,CKS
+CNS,Chinook Nisqually Subyearling,juvenile,Coho Hatch Yearling,6.34494035023935e-4,COH
+CNS,Chinook Nisqually Subyearling,juvenile,Chinook Skagit Yearling,0,CSY
+CNS,Chinook Nisqually Subyearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CNS,Chinook Nisqually Subyearling,juvenile,Coho Skagit Yearling,3.43093463050348e-4,COS
+CNS,Chinook Nisqually Subyearling,juvenile,Chinook Skagit Subyearling,2.99469468869063e-5,CSS
+CNS,Chinook Nisqually Subyearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CNS,Chinook Nisqually Subyearling,juvenile,Coho other Yearling,4.04964091299946e-4,COY
+CNS,Chinook Nisqually Subyearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CNS,Chinook Nisqually Subyearling,juvenile,Dungeness crab,0,DUN
+CNS,Chinook Nisqually Subyearling,juvenile,Chinook other Yearling,0,CYE
+CNS,Chinook Nisqually Subyearling,juvenile,Strait of Georgia salmonids,0.00148063617411886,SAF
+CNS,Chinook Nisqually Subyearling,juvenile,Seagrass,0,SG
+CNS,Chinook Nisqually Subyearling,juvenile,Harbor seals,0,HSL
+CHC,Chinook Hood Canal Subyearling,juvenile,Carnivorous infauna,0,BC
+CHC,Chinook Hood Canal Subyearling,juvenile,Deposit feeders,1.74662844210839e-4,BD
+CHC,Chinook Hood Canal Subyearling,juvenile,Benthic filter feeder,0,BFF
+CHC,Chinook Hood Canal Subyearling,juvenile,Benthic grazers,0,BG
+CHC,Chinook Hood Canal Subyearling,juvenile,Bivalves,0,BIV
+CHC,Chinook Hood Canal Subyearling,juvenile,Crabs,2.4389827478039398e-4,BML
+CHC,Chinook Hood Canal Subyearling,juvenile,Octopi,0,BMS
+CHC,Chinook Hood Canal Subyearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CHC,Chinook Hood Canal Subyearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CHC,Chinook Hood Canal Subyearling,juvenile,Small-mouthed Flatfish,0,FDF
+CHC,Chinook Hood Canal Subyearling,juvenile,Hake_Large gadoids,0,FMM
+CHC,Chinook Hood Canal Subyearling,juvenile,Small Planktivorous Fish,3.33592608844308e-4,FPS
+CHC,Chinook Hood Canal Subyearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CHC,Chinook Hood Canal Subyearling,juvenile,Pacific Herring Puget Sound,1.86700556964062e-5,HEP
+CHC,Chinook Hood Canal Subyearling,juvenile,Pink Salmon Subyearling,0.00148338221263517,PIS
+CHC,Chinook Hood Canal Subyearling,juvenile,Shrimp,0.0011621095556652,PWN
+CHC,Chinook Hood Canal Subyearling,juvenile,Small demersal fish,0,SMD
+CHC,Chinook Hood Canal Subyearling,juvenile,Gelatinous zooplankton,0,ZG
+CHC,Chinook Hood Canal Subyearling,juvenile,Large zooplankton,4.60494383237565e-4,ZL
+CHC,Chinook Hood Canal Subyearling,juvenile,Mesozooplankton,1.18629042970178e-4,ZM
+CHC,Chinook Hood Canal Subyearling,juvenile,Large demersal predators,0,FVS
+CHC,Chinook Hood Canal Subyearling,juvenile,Large phytoplankton,0,PL
+CHC,Chinook Hood Canal Subyearling,juvenile,Small phytoplankton,0,PS
+CHC,Chinook Hood Canal Subyearling,juvenile,Deep macro-zoobenthos,0,BMD
+CHC,Chinook Hood Canal Subyearling,juvenile,Carrion,0,DC
+CHC,Chinook Hood Canal Subyearling,juvenile,Macroalgae,0,MA
+CHC,Chinook Hood Canal Subyearling,juvenile,Spiny dogfish,0,DOG
+CHC,Chinook Hood Canal Subyearling,juvenile,Piscivorous flatfish,0,HAP
+CHC,Chinook Hood Canal Subyearling,juvenile,Perch,0,POP
+CHC,Chinook Hood Canal Subyearling,juvenile,Demersal rockfish,0,ROC
+CHC,Chinook Hood Canal Subyearling,juvenile,Squid,0,SQX
+CHC,Chinook Hood Canal Subyearling,juvenile,Microzooplankton,0,ZS
+CHC,Chinook Hood Canal Subyearling,juvenile,Chum Fall Subyearling,8.876473388319709e-4,CMF
+CHC,Chinook Hood Canal Subyearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CHC,Chinook Hood Canal Subyearling,juvenile,Midwater rockfish,0,MRO
+CHC,Chinook Hood Canal Subyearling,juvenile,V38,0,NA
+CHC,Chinook Hood Canal Subyearling,juvenile,Labile detritus,0,DL
+CHC,Chinook Hood Canal Subyearling,juvenile,Chum Hood Canal summer run Subyearling,1.73460405883795e-4,CMH
+CHC,Chinook Hood Canal Subyearling,juvenile,Other salmonids,0.00126255151751964,SAL
+CHC,Chinook Hood Canal Subyearling,juvenile,Chinook Hatch Subyearling,2.33427005802171e-5,CHS
+CHC,Chinook Hood Canal Subyearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CHC,Chinook Hood Canal Subyearling,juvenile,Refractory detritus,0,DR
+CHC,Chinook Hood Canal Subyearling,juvenile,Chum Hatch Subyearling,7.856650931505379e-4,CMS
+CHC,Chinook Hood Canal Subyearling,juvenile,Ratfish,0,RAT
+CHC,Chinook Hood Canal Subyearling,juvenile,Chinook Hatch Yearling,0,CHY
+CHC,Chinook Hood Canal Subyearling,juvenile,Coho Deep South Yearling,0,COD
+CHC,Chinook Hood Canal Subyearling,juvenile,Chinook other Subyearling,0,CKS
+CHC,Chinook Hood Canal Subyearling,juvenile,Coho Hatch Yearling,6.44514354503927e-4,COH
+CHC,Chinook Hood Canal Subyearling,juvenile,Chinook Skagit Yearling,0,CSY
+CHC,Chinook Hood Canal Subyearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CHC,Chinook Hood Canal Subyearling,juvenile,Coho Skagit Yearling,3.66622182531882e-4,COS
+CHC,Chinook Hood Canal Subyearling,juvenile,Chinook Skagit Subyearling,3.7771385816646604e-5,CSS
+CHC,Chinook Hood Canal Subyearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CHC,Chinook Hood Canal Subyearling,juvenile,Coho other Yearling,4.16123122778107e-4,COY
+CHC,Chinook Hood Canal Subyearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CHC,Chinook Hood Canal Subyearling,juvenile,Dungeness crab,0,DUN
+CHC,Chinook Hood Canal Subyearling,juvenile,Chinook other Yearling,0,CYE
+CHC,Chinook Hood Canal Subyearling,juvenile,Strait of Georgia salmonids,0.00140686286490185,SAF
+CHC,Chinook Hood Canal Subyearling,juvenile,Seagrass,0,SG
+CHC,Chinook Hood Canal Subyearling,juvenile,Harbor seals,0,HSL
+CYE,Chinook other Yearling,juvenile,Carnivorous infauna,0,BC
+CYE,Chinook other Yearling,juvenile,Deposit feeders,1.7156376547482698e-4,BD
+CYE,Chinook other Yearling,juvenile,Benthic filter feeder,0,BFF
+CYE,Chinook other Yearling,juvenile,Benthic grazers,0,BG
+CYE,Chinook other Yearling,juvenile,Bivalves,0,BIV
+CYE,Chinook other Yearling,juvenile,Crabs,2.49709340659401e-4,BML
+CYE,Chinook other Yearling,juvenile,Octopi,0,BMS
+CYE,Chinook other Yearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CYE,Chinook other Yearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CYE,Chinook other Yearling,juvenile,Small-mouthed Flatfish,0,FDF
+CYE,Chinook other Yearling,juvenile,Hake_Large gadoids,0,FMM
+CYE,Chinook other Yearling,juvenile,Small Planktivorous Fish,3.19477913391623e-4,FPS
+CYE,Chinook other Yearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CYE,Chinook other Yearling,juvenile,Pacific Herring Puget Sound,1.73527894716002e-5,HEP
+CYE,Chinook other Yearling,juvenile,Pink Salmon Subyearling,0.0014841526132093898,PIS
+CYE,Chinook other Yearling,juvenile,Shrimp,0.0011627131019807501,PWN
+CYE,Chinook other Yearling,juvenile,Small demersal fish,0,SMD
+CYE,Chinook other Yearling,juvenile,Gelatinous zooplankton,0,ZG
+CYE,Chinook other Yearling,juvenile,Large zooplankton,4.69299707852953e-4,ZL
+CYE,Chinook other Yearling,juvenile,Mesozooplankton,1.1787354668502001e-4,ZM
+CYE,Chinook other Yearling,juvenile,Large demersal predators,0,FVS
+CYE,Chinook other Yearling,juvenile,Large phytoplankton,0,PL
+CYE,Chinook other Yearling,juvenile,Small phytoplankton,0,PS
+CYE,Chinook other Yearling,juvenile,Deep macro-zoobenthos,0,BMD
+CYE,Chinook other Yearling,juvenile,Carrion,0,DC
+CYE,Chinook other Yearling,juvenile,Macroalgae,0,MA
+CYE,Chinook other Yearling,juvenile,Spiny dogfish,0,DOG
+CYE,Chinook other Yearling,juvenile,Piscivorous flatfish,0,HAP
+CYE,Chinook other Yearling,juvenile,Perch,0,POP
+CYE,Chinook other Yearling,juvenile,Demersal rockfish,0,ROC
+CYE,Chinook other Yearling,juvenile,Squid,0,SQX
+CYE,Chinook other Yearling,juvenile,Microzooplankton,0,ZS
+CYE,Chinook other Yearling,juvenile,Chum Fall Subyearling,9.04620451310456e-4,CMF
+CYE,Chinook other Yearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CYE,Chinook other Yearling,juvenile,Midwater rockfish,0,MRO
+CYE,Chinook other Yearling,juvenile,V38,0,NA
+CYE,Chinook other Yearling,juvenile,Labile detritus,0,DL
+CYE,Chinook other Yearling,juvenile,Chum Hood Canal summer run Subyearling,1.95177044167422e-4,CMH
+CYE,Chinook other Yearling,juvenile,Other salmonids,0.0012035757105800001,SAL
+CYE,Chinook other Yearling,juvenile,Chinook Hatch Subyearling,1.96957447963624e-5,CHS
+CYE,Chinook other Yearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CYE,Chinook other Yearling,juvenile,Refractory detritus,0,DR
+CYE,Chinook other Yearling,juvenile,Chum Hatch Subyearling,7.717248759577449e-4,CMS
+CYE,Chinook other Yearling,juvenile,Ratfish,0,RAT
+CYE,Chinook other Yearling,juvenile,Chinook Hatch Yearling,0,CHY
+CYE,Chinook other Yearling,juvenile,Coho Deep South Yearling,0,COD
+CYE,Chinook other Yearling,juvenile,Chinook other Subyearling,0,CKS
+CYE,Chinook other Yearling,juvenile,Coho Hatch Yearling,6.478257425127069e-4,COH
+CYE,Chinook other Yearling,juvenile,Chinook Skagit Yearling,0,CSY
+CYE,Chinook other Yearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CYE,Chinook other Yearling,juvenile,Coho Skagit Yearling,3.6681258925075696e-4,COS
+CYE,Chinook other Yearling,juvenile,Chinook Skagit Subyearling,3.05761788639459e-5,CSS
+CYE,Chinook other Yearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CYE,Chinook other Yearling,juvenile,Coho other Yearling,4.0406069621867996e-4,COY
+CYE,Chinook other Yearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CYE,Chinook other Yearling,juvenile,Dungeness crab,0,DUN
+CYE,Chinook other Yearling,juvenile,Chinook other Yearling,0,CYE
+CYE,Chinook other Yearling,juvenile,Strait of Georgia salmonids,0.0014637881322538198,SAF
+CYE,Chinook other Yearling,juvenile,Seagrass,0,SG
+CYE,Chinook other Yearling,juvenile,Harbor seals,0,HSL
+CKS,Chinook other Subyearling,juvenile,Carnivorous infauna,0,BC
+CKS,Chinook other Subyearling,juvenile,Deposit feeders,1.7359253367537099e-4,BD
+CKS,Chinook other Subyearling,juvenile,Benthic filter feeder,0,BFF
+CKS,Chinook other Subyearling,juvenile,Benthic grazers,0,BG
+CKS,Chinook other Subyearling,juvenile,Bivalves,0,BIV
+CKS,Chinook other Subyearling,juvenile,Crabs,2.52081052692721e-4,BML
+CKS,Chinook other Subyearling,juvenile,Octopi,0,BMS
+CKS,Chinook other Subyearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CKS,Chinook other Subyearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CKS,Chinook other Subyearling,juvenile,Small-mouthed Flatfish,0,FDF
+CKS,Chinook other Subyearling,juvenile,Hake_Large gadoids,0,FMM
+CKS,Chinook other Subyearling,juvenile,Small Planktivorous Fish,3.1300085214014e-4,FPS
+CKS,Chinook other Subyearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CKS,Chinook other Subyearling,juvenile,Pacific Herring Puget Sound,1.2778120101231401e-5,HEP
+CKS,Chinook other Subyearling,juvenile,Pink Salmon Subyearling,0.0014374176027789301,PIS
+CKS,Chinook other Subyearling,juvenile,Shrimp,0.00117375642398058,PWN
+CKS,Chinook other Subyearling,juvenile,Small demersal fish,0,SMD
+CKS,Chinook other Subyearling,juvenile,Gelatinous zooplankton,0,ZG
+CKS,Chinook other Subyearling,juvenile,Large zooplankton,4.7594395241266403e-4,ZL
+CKS,Chinook other Subyearling,juvenile,Mesozooplankton,1.2721063107693702e-4,ZM
+CKS,Chinook other Subyearling,juvenile,Large demersal predators,0,FVS
+CKS,Chinook other Subyearling,juvenile,Large phytoplankton,0,PL
+CKS,Chinook other Subyearling,juvenile,Small phytoplankton,0,PS
+CKS,Chinook other Subyearling,juvenile,Deep macro-zoobenthos,0,BMD
+CKS,Chinook other Subyearling,juvenile,Carrion,0,DC
+CKS,Chinook other Subyearling,juvenile,Macroalgae,0,MA
+CKS,Chinook other Subyearling,juvenile,Spiny dogfish,0,DOG
+CKS,Chinook other Subyearling,juvenile,Piscivorous flatfish,0,HAP
+CKS,Chinook other Subyearling,juvenile,Perch,0,POP
+CKS,Chinook other Subyearling,juvenile,Demersal rockfish,0,ROC
+CKS,Chinook other Subyearling,juvenile,Squid,0,SQX
+CKS,Chinook other Subyearling,juvenile,Microzooplankton,0,ZS
+CKS,Chinook other Subyearling,juvenile,Chum Fall Subyearling,9.30191293362878e-4,CMF
+CKS,Chinook other Subyearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CKS,Chinook other Subyearling,juvenile,Midwater rockfish,0,MRO
+CKS,Chinook other Subyearling,juvenile,V38,0,NA
+CKS,Chinook other Subyearling,juvenile,Labile detritus,0,DL
+CKS,Chinook other Subyearling,juvenile,Chum Hood Canal summer run Subyearling,1.83034241022689e-4,CMH
+CKS,Chinook other Subyearling,juvenile,Other salmonids,0.00122061567722265,SAL
+CKS,Chinook other Subyearling,juvenile,Chinook Hatch Subyearling,1.88571703097203e-5,CHS
+CKS,Chinook other Subyearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CKS,Chinook other Subyearling,juvenile,Refractory detritus,0,DR
+CKS,Chinook other Subyearling,juvenile,Chum Hatch Subyearling,7.719118166089101e-4,CMS
+CKS,Chinook other Subyearling,juvenile,Ratfish,0,RAT
+CKS,Chinook other Subyearling,juvenile,Chinook Hatch Yearling,0,CHY
+CKS,Chinook other Subyearling,juvenile,Coho Deep South Yearling,0,COD
+CKS,Chinook other Subyearling,juvenile,Chinook other Subyearling,0,CKS
+CKS,Chinook other Subyearling,juvenile,Coho Hatch Yearling,6.420415948970359e-4,COH
+CKS,Chinook other Subyearling,juvenile,Chinook Skagit Yearling,0,CSY
+CKS,Chinook other Subyearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CKS,Chinook other Subyearling,juvenile,Coho Skagit Yearling,3.68595081110836e-4,COS
+CKS,Chinook other Subyearling,juvenile,Chinook Skagit Subyearling,3.27710303743362e-5,CSS
+CKS,Chinook other Subyearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CKS,Chinook other Subyearling,juvenile,Coho other Yearling,4.15482251222916e-4,COY
+CKS,Chinook other Subyearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CKS,Chinook other Subyearling,juvenile,Dungeness crab,0,DUN
+CKS,Chinook other Subyearling,juvenile,Chinook other Yearling,0,CYE
+CKS,Chinook other Subyearling,juvenile,Strait of Georgia salmonids,0.0014507186197608702,SAF
+CKS,Chinook other Subyearling,juvenile,Seagrass,0,SG
+CKS,Chinook other Subyearling,juvenile,Harbor seals,0,HSL
+COH,Coho Hatch Yearling,juvenile,Carnivorous infauna,0,BC
+COH,Coho Hatch Yearling,juvenile,Deposit feeders,7.914960959315701e-6,BD
+COH,Coho Hatch Yearling,juvenile,Benthic filter feeder,0,BFF
+COH,Coho Hatch Yearling,juvenile,Benthic grazers,0,BG
+COH,Coho Hatch Yearling,juvenile,Bivalves,0,BIV
+COH,Coho Hatch Yearling,juvenile,Crabs,1.29573871218164e-4,BML
+COH,Coho Hatch Yearling,juvenile,Octopi,0,BMS
+COH,Coho Hatch Yearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+COH,Coho Hatch Yearling,juvenile,Demersal vulnerable rockfish,0,DVR
+COH,Coho Hatch Yearling,juvenile,Small-mouthed Flatfish,0,FDF
+COH,Coho Hatch Yearling,juvenile,Hake_Large gadoids,0,FMM
+COH,Coho Hatch Yearling,juvenile,Small Planktivorous Fish,0,FPS
+COH,Coho Hatch Yearling,juvenile,Pacific Herring Cherry Point,0,HEC
+COH,Coho Hatch Yearling,juvenile,Pacific Herring Puget Sound,0,HEP
+COH,Coho Hatch Yearling,juvenile,Pink Salmon Subyearling,0.00165798287306211,PIS
+COH,Coho Hatch Yearling,juvenile,Shrimp,2.44643140522569e-4,PWN
+COH,Coho Hatch Yearling,juvenile,Small demersal fish,0,SMD
+COH,Coho Hatch Yearling,juvenile,Gelatinous zooplankton,0,ZG
+COH,Coho Hatch Yearling,juvenile,Large zooplankton,3.91331295218791e-4,ZL
+COH,Coho Hatch Yearling,juvenile,Mesozooplankton,1.48088288654026e-4,ZM
+COH,Coho Hatch Yearling,juvenile,Large demersal predators,0,FVS
+COH,Coho Hatch Yearling,juvenile,Large phytoplankton,0,PL
+COH,Coho Hatch Yearling,juvenile,Small phytoplankton,0,PS
+COH,Coho Hatch Yearling,juvenile,Deep macro-zoobenthos,0,BMD
+COH,Coho Hatch Yearling,juvenile,Carrion,0,DC
+COH,Coho Hatch Yearling,juvenile,Macroalgae,0,MA
+COH,Coho Hatch Yearling,juvenile,Spiny dogfish,0,DOG
+COH,Coho Hatch Yearling,juvenile,Piscivorous flatfish,0,HAP
+COH,Coho Hatch Yearling,juvenile,Perch,0,POP
+COH,Coho Hatch Yearling,juvenile,Demersal rockfish,0,ROC
+COH,Coho Hatch Yearling,juvenile,Squid,0,SQX
+COH,Coho Hatch Yearling,juvenile,Microzooplankton,0,ZS
+COH,Coho Hatch Yearling,juvenile,Chum Fall Subyearling,5.34013474097218e-4,CMF
+COH,Coho Hatch Yearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+COH,Coho Hatch Yearling,juvenile,Midwater rockfish,0,MRO
+COH,Coho Hatch Yearling,juvenile,V38,0,NA
+COH,Coho Hatch Yearling,juvenile,Labile detritus,0,DL
+COH,Coho Hatch Yearling,juvenile,Chum Hood Canal summer run Subyearling,3.00980343227718e-4,CMH
+COH,Coho Hatch Yearling,juvenile,Other salmonids,8.157604036742371e-4,SAL
+COH,Coho Hatch Yearling,juvenile,Chinook Hatch Subyearling,0.00130188943231068,CHS
+COH,Coho Hatch Yearling,juvenile,Midwater vulnerable rockfish,0,MVR
+COH,Coho Hatch Yearling,juvenile,Refractory detritus,0,DR
+COH,Coho Hatch Yearling,juvenile,Chum Hatch Subyearling,0.0013950051097847299,CMS
+COH,Coho Hatch Yearling,juvenile,Ratfish,0,RAT
+COH,Coho Hatch Yearling,juvenile,Chinook Hatch Yearling,0,CHY
+COH,Coho Hatch Yearling,juvenile,Coho Deep South Yearling,6.62980838855523e-5,COD
+COH,Coho Hatch Yearling,juvenile,Chinook other Subyearling,0,CKS
+COH,Coho Hatch Yearling,juvenile,Coho Hatch Yearling,3.33073914748989e-4,COH
+COH,Coho Hatch Yearling,juvenile,Chinook Skagit Yearling,3.19508965483088e-5,CSY
+COH,Coho Hatch Yearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+COH,Coho Hatch Yearling,juvenile,Coho Skagit Yearling,5.72207982161224e-4,COS
+COH,Coho Hatch Yearling,juvenile,Chinook Skagit Subyearling,1.3198296683574e-4,CSS
+COH,Coho Hatch Yearling,juvenile,Chinook Nisqually Yearling,0,CNY
+COH,Coho Hatch Yearling,juvenile,Coho other Yearling,8.44429641192348e-4,COY
+COH,Coho Hatch Yearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+COH,Coho Hatch Yearling,juvenile,Dungeness crab,0,DUN
+COH,Coho Hatch Yearling,juvenile,Chinook other Yearling,0,CYE
+COH,Coho Hatch Yearling,juvenile,Strait of Georgia salmonids,0.0010928732692585701,SAF
+COH,Coho Hatch Yearling,juvenile,Seagrass,0,SG
+COH,Coho Hatch Yearling,juvenile,Harbor seals,0,HSL
+COS,Coho Skagit Yearling,juvenile,Carnivorous infauna,0,BC
+COS,Coho Skagit Yearling,juvenile,Deposit feeders,1.18289400606464e-5,BD
+COS,Coho Skagit Yearling,juvenile,Benthic filter feeder,0,BFF
+COS,Coho Skagit Yearling,juvenile,Benthic grazers,0,BG
+COS,Coho Skagit Yearling,juvenile,Bivalves,0,BIV
+COS,Coho Skagit Yearling,juvenile,Crabs,1.42891706573655e-4,BML
+COS,Coho Skagit Yearling,juvenile,Octopi,0,BMS
+COS,Coho Skagit Yearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+COS,Coho Skagit Yearling,juvenile,Demersal vulnerable rockfish,0,DVR
+COS,Coho Skagit Yearling,juvenile,Small-mouthed Flatfish,0,FDF
+COS,Coho Skagit Yearling,juvenile,Hake_Large gadoids,0,FMM
+COS,Coho Skagit Yearling,juvenile,Small Planktivorous Fish,0,FPS
+COS,Coho Skagit Yearling,juvenile,Pacific Herring Cherry Point,0,HEC
+COS,Coho Skagit Yearling,juvenile,Pacific Herring Puget Sound,0,HEP
+COS,Coho Skagit Yearling,juvenile,Pink Salmon Subyearling,0.00161089234746994,PIS
+COS,Coho Skagit Yearling,juvenile,Shrimp,2.6304012971841697e-4,PWN
+COS,Coho Skagit Yearling,juvenile,Small demersal fish,0,SMD
+COS,Coho Skagit Yearling,juvenile,Gelatinous zooplankton,0,ZG
+COS,Coho Skagit Yearling,juvenile,Large zooplankton,3.9813667928792403e-4,ZL
+COS,Coho Skagit Yearling,juvenile,Mesozooplankton,1.46557364026584e-4,ZM
+COS,Coho Skagit Yearling,juvenile,Large demersal predators,0,FVS
+COS,Coho Skagit Yearling,juvenile,Large phytoplankton,0,PL
+COS,Coho Skagit Yearling,juvenile,Small phytoplankton,0,PS
+COS,Coho Skagit Yearling,juvenile,Deep macro-zoobenthos,0,BMD
+COS,Coho Skagit Yearling,juvenile,Carrion,0,DC
+COS,Coho Skagit Yearling,juvenile,Macroalgae,0,MA
+COS,Coho Skagit Yearling,juvenile,Spiny dogfish,0,DOG
+COS,Coho Skagit Yearling,juvenile,Piscivorous flatfish,0,HAP
+COS,Coho Skagit Yearling,juvenile,Perch,0,POP
+COS,Coho Skagit Yearling,juvenile,Demersal rockfish,0,ROC
+COS,Coho Skagit Yearling,juvenile,Squid,0,SQX
+COS,Coho Skagit Yearling,juvenile,Microzooplankton,0,ZS
+COS,Coho Skagit Yearling,juvenile,Chum Fall Subyearling,5.23647361770287e-4,CMF
+COS,Coho Skagit Yearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+COS,Coho Skagit Yearling,juvenile,Midwater rockfish,0,MRO
+COS,Coho Skagit Yearling,juvenile,V38,0,NA
+COS,Coho Skagit Yearling,juvenile,Labile detritus,0,DL
+COS,Coho Skagit Yearling,juvenile,Chum Hood Canal summer run Subyearling,2.97868833033285e-4,CMH
+COS,Coho Skagit Yearling,juvenile,Other salmonids,8.223373280993709e-4,SAL
+COS,Coho Skagit Yearling,juvenile,Chinook Hatch Subyearling,0.00128546713018234,CHS
+COS,Coho Skagit Yearling,juvenile,Midwater vulnerable rockfish,0,MVR
+COS,Coho Skagit Yearling,juvenile,Refractory detritus,0,DR
+COS,Coho Skagit Yearling,juvenile,Chum Hatch Subyearling,0.00141926472220642,CMS
+COS,Coho Skagit Yearling,juvenile,Ratfish,0,RAT
+COS,Coho Skagit Yearling,juvenile,Chinook Hatch Yearling,0,CHY
+COS,Coho Skagit Yearling,juvenile,Coho Deep South Yearling,7.69115935925436e-5,COD
+COS,Coho Skagit Yearling,juvenile,Chinook other Subyearling,0,CKS
+COS,Coho Skagit Yearling,juvenile,Coho Hatch Yearling,3.40430407091885e-4,COH
+COS,Coho Skagit Yearling,juvenile,Chinook Skagit Yearling,3.6641529972054e-5,CSY
+COS,Coho Skagit Yearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+COS,Coho Skagit Yearling,juvenile,Coho Skagit Yearling,5.74170905417052e-4,COS
+COS,Coho Skagit Yearling,juvenile,Chinook Skagit Subyearling,1.2764513057479e-4,CSS
+COS,Coho Skagit Yearling,juvenile,Chinook Nisqually Yearling,0,CNY
+COS,Coho Skagit Yearling,juvenile,Coho other Yearling,8.35699996562155e-4,COY
+COS,Coho Skagit Yearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+COS,Coho Skagit Yearling,juvenile,Dungeness crab,0,DUN
+COS,Coho Skagit Yearling,juvenile,Chinook other Yearling,0,CYE
+COS,Coho Skagit Yearling,juvenile,Strait of Georgia salmonids,0.00108656784214502,SAF
+COS,Coho Skagit Yearling,juvenile,Seagrass,0,SG
+COS,Coho Skagit Yearling,juvenile,Harbor seals,0,HSL
+COD,Coho Deep South Yearling,juvenile,Carnivorous infauna,0,BC
+COD,Coho Deep South Yearling,juvenile,Deposit feeders,5.8272079044705e-6,BD
+COD,Coho Deep South Yearling,juvenile,Benthic filter feeder,0,BFF
+COD,Coho Deep South Yearling,juvenile,Benthic grazers,0,BG
+COD,Coho Deep South Yearling,juvenile,Bivalves,0,BIV
+COD,Coho Deep South Yearling,juvenile,Crabs,1.3981010388278001e-4,BML
+COD,Coho Deep South Yearling,juvenile,Octopi,0,BMS
+COD,Coho Deep South Yearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+COD,Coho Deep South Yearling,juvenile,Demersal vulnerable rockfish,0,DVR
+COD,Coho Deep South Yearling,juvenile,Small-mouthed Flatfish,0,FDF
+COD,Coho Deep South Yearling,juvenile,Hake_Large gadoids,0,FMM
+COD,Coho Deep South Yearling,juvenile,Small Planktivorous Fish,0,FPS
+COD,Coho Deep South Yearling,juvenile,Pacific Herring Cherry Point,0,HEC
+COD,Coho Deep South Yearling,juvenile,Pacific Herring Puget Sound,0,HEP
+COD,Coho Deep South Yearling,juvenile,Pink Salmon Subyearling,0.0016353057303742798,PIS
+COD,Coho Deep South Yearling,juvenile,Shrimp,2.676421480337e-4,PWN
+COD,Coho Deep South Yearling,juvenile,Small demersal fish,0,SMD
+COD,Coho Deep South Yearling,juvenile,Gelatinous zooplankton,0,ZG
+COD,Coho Deep South Yearling,juvenile,Large zooplankton,3.86868665590558e-4,ZL
+COD,Coho Deep South Yearling,juvenile,Mesozooplankton,1.49121458236133e-4,ZM
+COD,Coho Deep South Yearling,juvenile,Large demersal predators,0,FVS
+COD,Coho Deep South Yearling,juvenile,Large phytoplankton,0,PL
+COD,Coho Deep South Yearling,juvenile,Small phytoplankton,0,PS
+COD,Coho Deep South Yearling,juvenile,Deep macro-zoobenthos,0,BMD
+COD,Coho Deep South Yearling,juvenile,Carrion,0,DC
+COD,Coho Deep South Yearling,juvenile,Macroalgae,0,MA
+COD,Coho Deep South Yearling,juvenile,Spiny dogfish,0,DOG
+COD,Coho Deep South Yearling,juvenile,Piscivorous flatfish,0,HAP
+COD,Coho Deep South Yearling,juvenile,Perch,0,POP
+COD,Coho Deep South Yearling,juvenile,Demersal rockfish,0,ROC
+COD,Coho Deep South Yearling,juvenile,Squid,0,SQX
+COD,Coho Deep South Yearling,juvenile,Microzooplankton,0,ZS
+COD,Coho Deep South Yearling,juvenile,Chum Fall Subyearling,5.34037154396932e-4,CMF
+COD,Coho Deep South Yearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+COD,Coho Deep South Yearling,juvenile,Midwater rockfish,0,MRO
+COD,Coho Deep South Yearling,juvenile,V38,0,NA
+COD,Coho Deep South Yearling,juvenile,Labile detritus,0,DL
+COD,Coho Deep South Yearling,juvenile,Chum Hood Canal summer run Subyearling,2.78327083116254e-4,CMH
+COD,Coho Deep South Yearling,juvenile,Other salmonids,8.21451730402529e-4,SAL
+COD,Coho Deep South Yearling,juvenile,Chinook Hatch Subyearling,0.00134151055763757,CHS
+COD,Coho Deep South Yearling,juvenile,Midwater vulnerable rockfish,0,MVR
+COD,Coho Deep South Yearling,juvenile,Refractory detritus,0,DR
+COD,Coho Deep South Yearling,juvenile,Chum Hatch Subyearling,0.00142100468166869,CMS
+COD,Coho Deep South Yearling,juvenile,Ratfish,0,RAT
+COD,Coho Deep South Yearling,juvenile,Chinook Hatch Yearling,0,CHY
+COD,Coho Deep South Yearling,juvenile,Coho Deep South Yearling,7.61243553740772e-5,COD
+COD,Coho Deep South Yearling,juvenile,Chinook other Subyearling,0,CKS
+COD,Coho Deep South Yearling,juvenile,Coho Hatch Yearling,3.36170891341081e-4,COH
+COD,Coho Deep South Yearling,juvenile,Chinook Skagit Yearling,3.5851318699005404e-5,CSY
+COD,Coho Deep South Yearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+COD,Coho Deep South Yearling,juvenile,Coho Skagit Yearling,5.4773702069496e-4,COS
+COD,Coho Deep South Yearling,juvenile,Chinook Skagit Subyearling,1.3694243611639701e-4,CSS
+COD,Coho Deep South Yearling,juvenile,Chinook Nisqually Yearling,0,CNY
+COD,Coho Deep South Yearling,juvenile,Coho other Yearling,8.32879913041185e-4,COY
+COD,Coho Deep South Yearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+COD,Coho Deep South Yearling,juvenile,Dungeness crab,0,DUN
+COD,Coho Deep South Yearling,juvenile,Chinook other Yearling,0,CYE
+COD,Coho Deep South Yearling,juvenile,Strait of Georgia salmonids,0.00105338749072598,SAF
+COD,Coho Deep South Yearling,juvenile,Seagrass,0,SG
+COD,Coho Deep South Yearling,juvenile,Harbor seals,0,HSL
+COY,Coho other Yearling,juvenile,Carnivorous infauna,0,BC
+COY,Coho other Yearling,juvenile,Deposit feeders,1.22127442687184e-5,BD
+COY,Coho other Yearling,juvenile,Benthic filter feeder,0,BFF
+COY,Coho other Yearling,juvenile,Benthic grazers,0,BG
+COY,Coho other Yearling,juvenile,Bivalves,0,BIV
+COY,Coho other Yearling,juvenile,Crabs,1.4284783525356302e-4,BML
+COY,Coho other Yearling,juvenile,Octopi,0,BMS
+COY,Coho other Yearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+COY,Coho other Yearling,juvenile,Demersal vulnerable rockfish,0,DVR
+COY,Coho other Yearling,juvenile,Small-mouthed Flatfish,0,FDF
+COY,Coho other Yearling,juvenile,Hake_Large gadoids,0,FMM
+COY,Coho other Yearling,juvenile,Small Planktivorous Fish,0,FPS
+COY,Coho other Yearling,juvenile,Pacific Herring Cherry Point,0,HEC
+COY,Coho other Yearling,juvenile,Pacific Herring Puget Sound,0,HEP
+COY,Coho other Yearling,juvenile,Pink Salmon Subyearling,0.00165170993394383,PIS
+COY,Coho other Yearling,juvenile,Shrimp,2.517025270311e-4,PWN
+COY,Coho other Yearling,juvenile,Small demersal fish,0,SMD
+COY,Coho other Yearling,juvenile,Gelatinous zooplankton,0,ZG
+COY,Coho other Yearling,juvenile,Large zooplankton,3.9893201138638403e-4,ZL
+COY,Coho other Yearling,juvenile,Mesozooplankton,1.56630352585227e-4,ZM
+COY,Coho other Yearling,juvenile,Large demersal predators,0,FVS
+COY,Coho other Yearling,juvenile,Large phytoplankton,0,PL
+COY,Coho other Yearling,juvenile,Small phytoplankton,0,PS
+COY,Coho other Yearling,juvenile,Deep macro-zoobenthos,0,BMD
+COY,Coho other Yearling,juvenile,Carrion,0,DC
+COY,Coho other Yearling,juvenile,Macroalgae,0,MA
+COY,Coho other Yearling,juvenile,Spiny dogfish,0,DOG
+COY,Coho other Yearling,juvenile,Piscivorous flatfish,0,HAP
+COY,Coho other Yearling,juvenile,Perch,0,POP
+COY,Coho other Yearling,juvenile,Demersal rockfish,0,ROC
+COY,Coho other Yearling,juvenile,Squid,0,SQX
+COY,Coho other Yearling,juvenile,Microzooplankton,0,ZS
+COY,Coho other Yearling,juvenile,Chum Fall Subyearling,5.21081250851133e-4,CMF
+COY,Coho other Yearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+COY,Coho other Yearling,juvenile,Midwater rockfish,0,MRO
+COY,Coho other Yearling,juvenile,V38,0,NA
+COY,Coho other Yearling,juvenile,Labile detritus,0,DL
+COY,Coho other Yearling,juvenile,Chum Hood Canal summer run Subyearling,2.89661666927297e-4,CMH
+COY,Coho other Yearling,juvenile,Other salmonids,8.22084850016426e-4,SAL
+COY,Coho other Yearling,juvenile,Chinook Hatch Subyearling,0.0013059543978486902,CHS
+COY,Coho other Yearling,juvenile,Midwater vulnerable rockfish,0,MVR
+COY,Coho other Yearling,juvenile,Refractory detritus,0,DR
+COY,Coho other Yearling,juvenile,Chum Hatch Subyearling,0.00140258685833437,CMS
+COY,Coho other Yearling,juvenile,Ratfish,0,RAT
+COY,Coho other Yearling,juvenile,Chinook Hatch Yearling,0,CHY
+COY,Coho other Yearling,juvenile,Coho Deep South Yearling,8.16319029557903e-5,COD
+COY,Coho other Yearling,juvenile,Chinook other Subyearling,0,CKS
+COY,Coho other Yearling,juvenile,Coho Hatch Yearling,3.42685046682221e-4,COH
+COY,Coho other Yearling,juvenile,Chinook Skagit Yearling,3.9979963082197106e-5,CSY
+COY,Coho other Yearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+COY,Coho other Yearling,juvenile,Coho Skagit Yearling,5.609281774481411e-4,COS
+COY,Coho other Yearling,juvenile,Chinook Skagit Subyearling,1.3547911862367998e-4,CSS
+COY,Coho other Yearling,juvenile,Chinook Nisqually Yearling,0,CNY
+COY,Coho other Yearling,juvenile,Coho other Yearling,8.296919396537911e-4,COY
+COY,Coho other Yearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+COY,Coho other Yearling,juvenile,Dungeness crab,0,DUN
+COY,Coho other Yearling,juvenile,Chinook other Yearling,0,CYE
+COY,Coho other Yearling,juvenile,Strait of Georgia salmonids,0.0010541993707875,SAF
+COY,Coho other Yearling,juvenile,Seagrass,0,SG
+COY,Coho other Yearling,juvenile,Harbor seals,0,HSL
+CMS,Chum Hatch Subyearling,juvenile,Carnivorous infauna,0,BC
+CMS,Chum Hatch Subyearling,juvenile,Deposit feeders,3.06693547274193e-4,BD
+CMS,Chum Hatch Subyearling,juvenile,Benthic filter feeder,0,BFF
+CMS,Chum Hatch Subyearling,juvenile,Benthic grazers,0,BG
+CMS,Chum Hatch Subyearling,juvenile,Bivalves,0,BIV
+CMS,Chum Hatch Subyearling,juvenile,Crabs,6.86543213140053e-5,BML
+CMS,Chum Hatch Subyearling,juvenile,Octopi,0,BMS
+CMS,Chum Hatch Subyearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CMS,Chum Hatch Subyearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CMS,Chum Hatch Subyearling,juvenile,Small-mouthed Flatfish,0,FDF
+CMS,Chum Hatch Subyearling,juvenile,Hake_Large gadoids,0,FMM
+CMS,Chum Hatch Subyearling,juvenile,Small Planktivorous Fish,0,FPS
+CMS,Chum Hatch Subyearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CMS,Chum Hatch Subyearling,juvenile,Pacific Herring Puget Sound,0,HEP
+CMS,Chum Hatch Subyearling,juvenile,Pink Salmon Subyearling,7.75760084893432e-4,PIS
+CMS,Chum Hatch Subyearling,juvenile,Shrimp,0.0016358585709059402,PWN
+CMS,Chum Hatch Subyearling,juvenile,Small demersal fish,0,SMD
+CMS,Chum Hatch Subyearling,juvenile,Gelatinous zooplankton,0,ZG
+CMS,Chum Hatch Subyearling,juvenile,Large zooplankton,8.12322646964988e-4,ZL
+CMS,Chum Hatch Subyearling,juvenile,Mesozooplankton,0.00299061543922628,ZM
+CMS,Chum Hatch Subyearling,juvenile,Large demersal predators,0,FVS
+CMS,Chum Hatch Subyearling,juvenile,Large phytoplankton,0,PL
+CMS,Chum Hatch Subyearling,juvenile,Small phytoplankton,0,PS
+CMS,Chum Hatch Subyearling,juvenile,Deep macro-zoobenthos,0,BMD
+CMS,Chum Hatch Subyearling,juvenile,Carrion,0,DC
+CMS,Chum Hatch Subyearling,juvenile,Macroalgae,0,MA
+CMS,Chum Hatch Subyearling,juvenile,Spiny dogfish,0,DOG
+CMS,Chum Hatch Subyearling,juvenile,Piscivorous flatfish,0,HAP
+CMS,Chum Hatch Subyearling,juvenile,Perch,0,POP
+CMS,Chum Hatch Subyearling,juvenile,Demersal rockfish,0,ROC
+CMS,Chum Hatch Subyearling,juvenile,Squid,0,SQX
+CMS,Chum Hatch Subyearling,juvenile,Microzooplankton,0,ZS
+CMS,Chum Hatch Subyearling,juvenile,Chum Fall Subyearling,6.96185176855667e-4,CMF
+CMS,Chum Hatch Subyearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CMS,Chum Hatch Subyearling,juvenile,Midwater rockfish,0,MRO
+CMS,Chum Hatch Subyearling,juvenile,V38,0,NA
+CMS,Chum Hatch Subyearling,juvenile,Labile detritus,0,DL
+CMS,Chum Hatch Subyearling,juvenile,Chum Hood Canal summer run Subyearling,9.92377541015338e-5,CMH
+CMS,Chum Hatch Subyearling,juvenile,Other salmonids,2.42492812220484e-4,SAL
+CMS,Chum Hatch Subyearling,juvenile,Chinook Hatch Subyearling,2.07318696667282e-5,CHS
+CMS,Chum Hatch Subyearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CMS,Chum Hatch Subyearling,juvenile,Refractory detritus,0,DR
+CMS,Chum Hatch Subyearling,juvenile,Chum Hatch Subyearling,4.4331628725480796e-4,CMS
+CMS,Chum Hatch Subyearling,juvenile,Ratfish,0,RAT
+CMS,Chum Hatch Subyearling,juvenile,Chinook Hatch Yearling,0,CHY
+CMS,Chum Hatch Subyearling,juvenile,Coho Deep South Yearling,0,COD
+CMS,Chum Hatch Subyearling,juvenile,Chinook other Subyearling,2.2992408158759e-6,CKS
+CMS,Chum Hatch Subyearling,juvenile,Coho Hatch Yearling,4.2330753764003704e-5,COH
+CMS,Chum Hatch Subyearling,juvenile,Chinook Skagit Yearling,0,CSY
+CMS,Chum Hatch Subyearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CMS,Chum Hatch Subyearling,juvenile,Coho Skagit Yearling,3.69580645439931e-4,COS
+CMS,Chum Hatch Subyearling,juvenile,Chinook Skagit Subyearling,1.40826868845974e-4,CSS
+CMS,Chum Hatch Subyearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CMS,Chum Hatch Subyearling,juvenile,Coho other Yearling,4.98559012754491e-4,COY
+CMS,Chum Hatch Subyearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CMS,Chum Hatch Subyearling,juvenile,Dungeness crab,0,DUN
+CMS,Chum Hatch Subyearling,juvenile,Chinook other Yearling,0,CYE
+CMS,Chum Hatch Subyearling,juvenile,Strait of Georgia salmonids,8.54534901980755e-4,SAF
+CMS,Chum Hatch Subyearling,juvenile,Seagrass,0,SG
+CMS,Chum Hatch Subyearling,juvenile,Harbor seals,0,HSL
+CMF,Chum Fall Subyearling,juvenile,Carnivorous infauna,0,BC
+CMF,Chum Fall Subyearling,juvenile,Deposit feeders,3.16921443414308e-4,BD
+CMF,Chum Fall Subyearling,juvenile,Benthic filter feeder,0,BFF
+CMF,Chum Fall Subyearling,juvenile,Benthic grazers,0,BG
+CMF,Chum Fall Subyearling,juvenile,Bivalves,0,BIV
+CMF,Chum Fall Subyearling,juvenile,Crabs,6.99704272051588e-5,BML
+CMF,Chum Fall Subyearling,juvenile,Octopi,0,BMS
+CMF,Chum Fall Subyearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CMF,Chum Fall Subyearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CMF,Chum Fall Subyearling,juvenile,Small-mouthed Flatfish,0,FDF
+CMF,Chum Fall Subyearling,juvenile,Hake_Large gadoids,0,FMM
+CMF,Chum Fall Subyearling,juvenile,Small Planktivorous Fish,0,FPS
+CMF,Chum Fall Subyearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CMF,Chum Fall Subyearling,juvenile,Pacific Herring Puget Sound,0,HEP
+CMF,Chum Fall Subyearling,juvenile,Pink Salmon Subyearling,7.63788700379098e-4,PIS
+CMF,Chum Fall Subyearling,juvenile,Shrimp,0.00164434166665451,PWN
+CMF,Chum Fall Subyearling,juvenile,Small demersal fish,0,SMD
+CMF,Chum Fall Subyearling,juvenile,Gelatinous zooplankton,0,ZG
+CMF,Chum Fall Subyearling,juvenile,Large zooplankton,8.20304288925204e-4,ZL
+CMF,Chum Fall Subyearling,juvenile,Mesozooplankton,0.0030620151237166,ZM
+CMF,Chum Fall Subyearling,juvenile,Large demersal predators,0,FVS
+CMF,Chum Fall Subyearling,juvenile,Large phytoplankton,0,PL
+CMF,Chum Fall Subyearling,juvenile,Small phytoplankton,0,PS
+CMF,Chum Fall Subyearling,juvenile,Deep macro-zoobenthos,0,BMD
+CMF,Chum Fall Subyearling,juvenile,Carrion,0,DC
+CMF,Chum Fall Subyearling,juvenile,Macroalgae,0,MA
+CMF,Chum Fall Subyearling,juvenile,Spiny dogfish,0,DOG
+CMF,Chum Fall Subyearling,juvenile,Piscivorous flatfish,0,HAP
+CMF,Chum Fall Subyearling,juvenile,Perch,0,POP
+CMF,Chum Fall Subyearling,juvenile,Demersal rockfish,0,ROC
+CMF,Chum Fall Subyearling,juvenile,Squid,0,SQX
+CMF,Chum Fall Subyearling,juvenile,Microzooplankton,0,ZS
+CMF,Chum Fall Subyearling,juvenile,Chum Fall Subyearling,7.42972176833679e-4,CMF
+CMF,Chum Fall Subyearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CMF,Chum Fall Subyearling,juvenile,Midwater rockfish,0,MRO
+CMF,Chum Fall Subyearling,juvenile,V38,0,NA
+CMF,Chum Fall Subyearling,juvenile,Labile detritus,0,DL
+CMF,Chum Fall Subyearling,juvenile,Chum Hood Canal summer run Subyearling,9.224042855402411e-5,CMH
+CMF,Chum Fall Subyearling,juvenile,Other salmonids,2.48282226016928e-4,SAL
+CMF,Chum Fall Subyearling,juvenile,Chinook Hatch Subyearling,2.42598722982285e-5,CHS
+CMF,Chum Fall Subyearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CMF,Chum Fall Subyearling,juvenile,Refractory detritus,0,DR
+CMF,Chum Fall Subyearling,juvenile,Chum Hatch Subyearling,4.3547119162660997e-4,CMS
+CMF,Chum Fall Subyearling,juvenile,Ratfish,0,RAT
+CMF,Chum Fall Subyearling,juvenile,Chinook Hatch Yearling,0,CHY
+CMF,Chum Fall Subyearling,juvenile,Coho Deep South Yearling,0,COD
+CMF,Chum Fall Subyearling,juvenile,Chinook other Subyearling,1.66678388178501e-5,CKS
+CMF,Chum Fall Subyearling,juvenile,Coho Hatch Yearling,2.3436225179334303e-5,COH
+CMF,Chum Fall Subyearling,juvenile,Chinook Skagit Yearling,0,CSY
+CMF,Chum Fall Subyearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CMF,Chum Fall Subyearling,juvenile,Coho Skagit Yearling,2.91037889731178e-4,COS
+CMF,Chum Fall Subyearling,juvenile,Chinook Skagit Subyearling,0.00011639304338636801,CSS
+CMF,Chum Fall Subyearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CMF,Chum Fall Subyearling,juvenile,Coho other Yearling,4.88609894687189e-4,COY
+CMF,Chum Fall Subyearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CMF,Chum Fall Subyearling,juvenile,Dungeness crab,0,DUN
+CMF,Chum Fall Subyearling,juvenile,Chinook other Yearling,0,CYE
+CMF,Chum Fall Subyearling,juvenile,Strait of Georgia salmonids,8.43287496207059e-4,SAF
+CMF,Chum Fall Subyearling,juvenile,Seagrass,0,SG
+CMF,Chum Fall Subyearling,juvenile,Harbor seals,0,HSL
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Carnivorous infauna,0,BC
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Deposit feeders,3.1400339587267804e-4,BD
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Benthic filter feeder,0,BFF
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Benthic grazers,0,BG
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Bivalves,0,BIV
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Crabs,7.045269992686879e-5,BML
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Octopi,0,BMS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chinook Duwamish Subyearling,0,CDS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Demersal vulnerable rockfish,0,DVR
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Small-mouthed Flatfish,0,FDF
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Hake_Large gadoids,0,FMM
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Small Planktivorous Fish,0,FPS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Pacific Herring Cherry Point,0,HEC
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Pacific Herring Puget Sound,0,HEP
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Pink Salmon Subyearling,8.034473434419121e-4,PIS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Shrimp,0.00162545415428759,PWN
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Small demersal fish,0,SMD
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Gelatinous zooplankton,0,ZG
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Large zooplankton,8.27862392658303e-4,ZL
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Mesozooplankton,0.00302684369329573,ZM
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Large demersal predators,0,FVS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Large phytoplankton,0,PL
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Small phytoplankton,0,PS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Deep macro-zoobenthos,0,BMD
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Carrion,0,DC
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Macroalgae,0,MA
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Spiny dogfish,0,DOG
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Piscivorous flatfish,0,HAP
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Perch,0,POP
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Demersal rockfish,0,ROC
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Squid,0,SQX
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Microzooplankton,0,ZS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chum Fall Subyearling,6.90166200093252e-4,CMF
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chinook Hood Canal Subyearling,0,CHC
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Midwater rockfish,0,MRO
+CMH,Chum Hood Canal summer run Subyearling,juvenile,V38,0,NA
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Labile detritus,0,DL
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chum Hood Canal summer run Subyearling,1.0254319842959099e-4,CMH
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Other salmonids,2.37644354600366e-4,SAL
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chinook Hatch Subyearling,1.0834156576370001e-6,CHS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Midwater vulnerable rockfish,0,MVR
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Refractory detritus,0,DR
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chum Hatch Subyearling,4.34452518422319e-4,CMS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Ratfish,0,RAT
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chinook Hatch Yearling,0,CHY
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Coho Deep South Yearling,0,COD
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chinook other Subyearling,2.8498293877405e-6,CKS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Coho Hatch Yearling,3.02605547570259e-5,COH
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chinook Skagit Yearling,0,CSY
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chinook Nisqually Subyearling,0,CNS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Coho Skagit Yearling,3.39575436596982e-4,COS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chinook Skagit Subyearling,1.03730660245258e-4,CSS
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chinook Nisqually Yearling,0,CNY
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Coho other Yearling,5.247433657126519e-4,COY
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chinook Snohomish Subyearling,0,CSN
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Dungeness crab,0,DUN
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Chinook other Yearling,0,CYE
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Strait of Georgia salmonids,8.64886720250031e-4,SAF
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Seagrass,0,SG
+CMH,Chum Hood Canal summer run Subyearling,juvenile,Harbor seals,0,HSL
+SAL,Other salmonids,juvenile,Carnivorous infauna,2.6841223127382802e-11,BC
+SAL,Other salmonids,juvenile,Deposit feeders,2.6841223127382802e-11,BD
+SAL,Other salmonids,juvenile,Benthic filter feeder,2.6841223127382802e-11,BFF
+SAL,Other salmonids,juvenile,Benthic grazers,2.6841223127382802e-11,BG
+SAL,Other salmonids,juvenile,Bivalves,2.6841223127382802e-11,BIV
+SAL,Other salmonids,juvenile,Crabs,2.6841223127382802e-11,BML
+SAL,Other salmonids,juvenile,Octopi,2.6841223127382802e-11,BMS
+SAL,Other salmonids,juvenile,Chinook Duwamish Subyearling,2.53627750477219e-4,CDS
+SAL,Other salmonids,juvenile,Demersal vulnerable rockfish,2.6841223127382802e-11,DVR
+SAL,Other salmonids,juvenile,Small-mouthed Flatfish,2.6841223127382802e-11,FDF
+SAL,Other salmonids,juvenile,Hake_Large gadoids,2.6841223127382802e-11,FMM
+SAL,Other salmonids,juvenile,Small Planktivorous Fish,2.6841223127382802e-11,FPS
+SAL,Other salmonids,juvenile,Pacific Herring Cherry Point,2.6841223127382802e-11,HEC
+SAL,Other salmonids,juvenile,Pacific Herring Puget Sound,2.6841223127382802e-11,HEP
+SAL,Other salmonids,juvenile,Pink Salmon Subyearling,4.12295602593869e-4,PIS
+SAL,Other salmonids,juvenile,Shrimp,2.6841223127382802e-11,PWN
+SAL,Other salmonids,juvenile,Small demersal fish,2.6841223127382802e-11,SMD
+SAL,Other salmonids,juvenile,Gelatinous zooplankton,2.6841223127382802e-11,ZG
+SAL,Other salmonids,juvenile,Large zooplankton,2.6841223127382802e-11,ZL
+SAL,Other salmonids,juvenile,Mesozooplankton,2.6841223127382802e-11,ZM
+SAL,Other salmonids,juvenile,Large demersal predators,2.6841223127382802e-11,FVS
+SAL,Other salmonids,juvenile,Large phytoplankton,2.6841223127382802e-11,PL
+SAL,Other salmonids,juvenile,Small phytoplankton,2.6841223127382802e-11,PS
+SAL,Other salmonids,juvenile,Deep macro-zoobenthos,2.6841223127382802e-11,BMD
+SAL,Other salmonids,juvenile,Carrion,2.6841223127382802e-11,DC
+SAL,Other salmonids,juvenile,Macroalgae,2.6841223127382802e-11,MA
+SAL,Other salmonids,juvenile,Spiny dogfish,2.6841223127382802e-11,DOG
+SAL,Other salmonids,juvenile,Piscivorous flatfish,2.6841223127382802e-11,HAP
+SAL,Other salmonids,juvenile,Perch,2.6841223127382802e-11,POP
+SAL,Other salmonids,juvenile,Demersal rockfish,2.6841223127382802e-11,ROC
+SAL,Other salmonids,juvenile,Squid,2.6841223127382802e-11,SQX
+SAL,Other salmonids,juvenile,Microzooplankton,2.6841223127382802e-11,ZS
+SAL,Other salmonids,juvenile,Chum Fall Subyearling,2.6841223127382802e-11,CMF
+SAL,Other salmonids,juvenile,Chinook Hood Canal Subyearling,4.170157242747e-5,CHC
+SAL,Other salmonids,juvenile,Midwater rockfish,2.6841223127382802e-11,MRO
+SAL,Other salmonids,juvenile,V38,2.6841223127382802e-11,NA
+SAL,Other salmonids,juvenile,Labile detritus,2.6841223127382802e-11,DL
+SAL,Other salmonids,juvenile,Chum Hood Canal summer run Subyearling,2.51302346384214e-4,CMH
+SAL,Other salmonids,juvenile,Other salmonids,2.6841223127382802e-11,SAL
+SAL,Other salmonids,juvenile,Chinook Hatch Subyearling,8.245665742759891e-4,CHS
+SAL,Other salmonids,juvenile,Midwater vulnerable rockfish,2.6841223127382802e-11,MVR
+SAL,Other salmonids,juvenile,Refractory detritus,2.6841223127382802e-11,DR
+SAL,Other salmonids,juvenile,Chum Hatch Subyearling,2.70519361261781e-4,CMS
+SAL,Other salmonids,juvenile,Ratfish,2.6841223127382802e-11,RAT
+SAL,Other salmonids,juvenile,Chinook Hatch Yearling,0.00102148262827205,CHY
+SAL,Other salmonids,juvenile,Coho Deep South Yearling,1.2769677127290799e-4,COD
+SAL,Other salmonids,juvenile,Chinook other Subyearling,1.35263721019333e-4,CKS
+SAL,Other salmonids,juvenile,Coho Hatch Yearling,0.00119463389021172,COH
+SAL,Other salmonids,juvenile,Chinook Skagit Yearling,5.25066899518648e-4,CSY
+SAL,Other salmonids,juvenile,Chinook Nisqually Subyearling,1.92393317444103e-4,CNS
+SAL,Other salmonids,juvenile,Coho Skagit Yearling,7.965717079020019e-4,COS
+SAL,Other salmonids,juvenile,Chinook Skagit Subyearling,2.6841223127382802e-11,CSS
+SAL,Other salmonids,juvenile,Chinook Nisqually Yearling,5.47287663799438e-4,CNY
+SAL,Other salmonids,juvenile,Coho other Yearling,9.95933551061e-4,COY
+SAL,Other salmonids,juvenile,Chinook Snohomish Subyearling,7.24807299807853e-4,CSN
+SAL,Other salmonids,juvenile,Dungeness crab,2.6841223127382802e-11,DUN
+SAL,Other salmonids,juvenile,Chinook other Yearling,4.04769938084516e-4,CYE
+SAL,Other salmonids,juvenile,Strait of Georgia salmonids,0.0012800782768545098,SAF
+SAL,Other salmonids,juvenile,Seagrass,2.6841223127382802e-11,SG
+SAL,Other salmonids,juvenile,Harbor seals,2.6841223127382802e-11,HSL
+SAF,Strait of Georgia salmonids,juvenile,Carnivorous infauna,0,BC
+SAF,Strait of Georgia salmonids,juvenile,Deposit feeders,1.73576255167294e-4,BD
+SAF,Strait of Georgia salmonids,juvenile,Benthic filter feeder,0,BFF
+SAF,Strait of Georgia salmonids,juvenile,Benthic grazers,0,BG
+SAF,Strait of Georgia salmonids,juvenile,Bivalves,0,BIV
+SAF,Strait of Georgia salmonids,juvenile,Crabs,2.45753014717774e-4,BML
+SAF,Strait of Georgia salmonids,juvenile,Octopi,0,BMS
+SAF,Strait of Georgia salmonids,juvenile,Chinook Duwamish Subyearling,0,CDS
+SAF,Strait of Georgia salmonids,juvenile,Demersal vulnerable rockfish,0,DVR
+SAF,Strait of Georgia salmonids,juvenile,Small-mouthed Flatfish,0,FDF
+SAF,Strait of Georgia salmonids,juvenile,Hake_Large gadoids,0,FMM
+SAF,Strait of Georgia salmonids,juvenile,Small Planktivorous Fish,3.12251645583917e-4,FPS
+SAF,Strait of Georgia salmonids,juvenile,Pacific Herring Cherry Point,0,HEC
+SAF,Strait of Georgia salmonids,juvenile,Pacific Herring Puget Sound,1.09250238186476e-5,HEP
+SAF,Strait of Georgia salmonids,juvenile,Pink Salmon Subyearling,0.00143728281003433,PIS
+SAF,Strait of Georgia salmonids,juvenile,Shrimp,0.00118178214543108,PWN
+SAF,Strait of Georgia salmonids,juvenile,Small demersal fish,0,SMD
+SAF,Strait of Georgia salmonids,juvenile,Gelatinous zooplankton,0,ZG
+SAF,Strait of Georgia salmonids,juvenile,Large zooplankton,4.69369370924102e-4,ZL
+SAF,Strait of Georgia salmonids,juvenile,Mesozooplankton,1.16005990712344e-4,ZM
+SAF,Strait of Georgia salmonids,juvenile,Large demersal predators,0,FVS
+SAF,Strait of Georgia salmonids,juvenile,Large phytoplankton,0,PL
+SAF,Strait of Georgia salmonids,juvenile,Small phytoplankton,0,PS
+SAF,Strait of Georgia salmonids,juvenile,Deep macro-zoobenthos,0,BMD
+SAF,Strait of Georgia salmonids,juvenile,Carrion,0,DC
+SAF,Strait of Georgia salmonids,juvenile,Macroalgae,0,MA
+SAF,Strait of Georgia salmonids,juvenile,Spiny dogfish,0,DOG
+SAF,Strait of Georgia salmonids,juvenile,Piscivorous flatfish,0,HAP
+SAF,Strait of Georgia salmonids,juvenile,Perch,0,POP
+SAF,Strait of Georgia salmonids,juvenile,Demersal rockfish,0,ROC
+SAF,Strait of Georgia salmonids,juvenile,Squid,0,SQX
+SAF,Strait of Georgia salmonids,juvenile,Microzooplankton,0,ZS
+SAF,Strait of Georgia salmonids,juvenile,Chum Fall Subyearling,9.30104065380421e-4,CMF
+SAF,Strait of Georgia salmonids,juvenile,Chinook Hood Canal Subyearling,0,CHC
+SAF,Strait of Georgia salmonids,juvenile,Midwater rockfish,0,MRO
+SAF,Strait of Georgia salmonids,juvenile,V38,0,NA
+SAF,Strait of Georgia salmonids,juvenile,Labile detritus,0,DL
+SAF,Strait of Georgia salmonids,juvenile,Chum Hood Canal summer run Subyearling,1.8133907202001298e-4,CMH
+SAF,Strait of Georgia salmonids,juvenile,Other salmonids,0.00124893196666855,SAL
+SAF,Strait of Georgia salmonids,juvenile,Chinook Hatch Subyearling,1.7196241424881198e-5,CHS
+SAF,Strait of Georgia salmonids,juvenile,Midwater vulnerable rockfish,0,MVR
+SAF,Strait of Georgia salmonids,juvenile,Refractory detritus,0,DR
+SAF,Strait of Georgia salmonids,juvenile,Chum Hatch Subyearling,7.73618805552778e-4,CMS
+SAF,Strait of Georgia salmonids,juvenile,Ratfish,0,RAT
+SAF,Strait of Georgia salmonids,juvenile,Chinook Hatch Yearling,0,CHY
+SAF,Strait of Georgia salmonids,juvenile,Coho Deep South Yearling,0,COD
+SAF,Strait of Georgia salmonids,juvenile,Chinook other Subyearling,0,CKS
+SAF,Strait of Georgia salmonids,juvenile,Coho Hatch Yearling,6.28813603334083e-4,COH
+SAF,Strait of Georgia salmonids,juvenile,Chinook Skagit Yearling,0,CSY
+SAF,Strait of Georgia salmonids,juvenile,Chinook Nisqually Subyearling,0,CNS
+SAF,Strait of Georgia salmonids,juvenile,Coho Skagit Yearling,3.67712802837562e-4,COS
+SAF,Strait of Georgia salmonids,juvenile,Chinook Skagit Subyearling,2.2513351425889897e-5,CSS
+SAF,Strait of Georgia salmonids,juvenile,Chinook Nisqually Yearling,0,CNY
+SAF,Strait of Georgia salmonids,juvenile,Coho other Yearling,4.1544328969018697e-4,COY
+SAF,Strait of Georgia salmonids,juvenile,Chinook Snohomish Subyearling,0,CSN
+SAF,Strait of Georgia salmonids,juvenile,Dungeness crab,0,DUN
+SAF,Strait of Georgia salmonids,juvenile,Chinook other Yearling,0,CYE
+SAF,Strait of Georgia salmonids,juvenile,Strait of Georgia salmonids,0.0014673804897777302,SAF
+SAF,Strait of Georgia salmonids,juvenile,Seagrass,0,SG
+SAF,Strait of Georgia salmonids,juvenile,Harbor seals,0,HSL
+FVS,Large demersal predators,juvenile,Carnivorous infauna,0,BC
+FVS,Large demersal predators,juvenile,Deposit feeders,0,BD
+FVS,Large demersal predators,juvenile,Benthic filter feeder,0,BFF
+FVS,Large demersal predators,juvenile,Benthic grazers,0,BG
+FVS,Large demersal predators,juvenile,Bivalves,0,BIV
+FVS,Large demersal predators,juvenile,Crabs,0,BML
+FVS,Large demersal predators,juvenile,Octopi,0,BMS
+FVS,Large demersal predators,juvenile,Chinook Duwamish Subyearling,0,CDS
+FVS,Large demersal predators,juvenile,Demersal vulnerable rockfish,0,DVR
+FVS,Large demersal predators,juvenile,Small-mouthed Flatfish,0,FDF
+FVS,Large demersal predators,juvenile,Hake_Large gadoids,0,FMM
+FVS,Large demersal predators,juvenile,Small Planktivorous Fish,0,FPS
+FVS,Large demersal predators,juvenile,Pacific Herring Cherry Point,0,HEC
+FVS,Large demersal predators,juvenile,Pacific Herring Puget Sound,0,HEP
+FVS,Large demersal predators,juvenile,Pink Salmon Subyearling,0,PIS
+FVS,Large demersal predators,juvenile,Shrimp,0,PWN
+FVS,Large demersal predators,juvenile,Small demersal fish,0,SMD
+FVS,Large demersal predators,juvenile,Gelatinous zooplankton,0,ZG
+FVS,Large demersal predators,juvenile,Large zooplankton,0,ZL
+FVS,Large demersal predators,juvenile,Mesozooplankton,0,ZM
+FVS,Large demersal predators,juvenile,Large demersal predators,0,FVS
+FVS,Large demersal predators,juvenile,Large phytoplankton,0,PL
+FVS,Large demersal predators,juvenile,Small phytoplankton,0,PS
+FVS,Large demersal predators,juvenile,Deep macro-zoobenthos,0,BMD
+FVS,Large demersal predators,juvenile,Carrion,0,DC
+FVS,Large demersal predators,juvenile,Macroalgae,0,MA
+FVS,Large demersal predators,juvenile,Spiny dogfish,0,DOG
+FVS,Large demersal predators,juvenile,Piscivorous flatfish,0,HAP
+FVS,Large demersal predators,juvenile,Perch,0,POP
+FVS,Large demersal predators,juvenile,Demersal rockfish,0,ROC
+FVS,Large demersal predators,juvenile,Squid,0,SQX
+FVS,Large demersal predators,juvenile,Microzooplankton,0,ZS
+FVS,Large demersal predators,juvenile,Chum Fall Subyearling,0.00123025723267901,CMF
+FVS,Large demersal predators,juvenile,Chinook Hood Canal Subyearling,1.26165320288614e-4,CHC
+FVS,Large demersal predators,juvenile,Midwater rockfish,0,MRO
+FVS,Large demersal predators,juvenile,V38,0,NA
+FVS,Large demersal predators,juvenile,Labile detritus,0,DL
+FVS,Large demersal predators,juvenile,Chum Hood Canal summer run Subyearling,6.2083919947301e-4,CMH
+FVS,Large demersal predators,juvenile,Other salmonids,0,SAL
+FVS,Large demersal predators,juvenile,Chinook Hatch Subyearling,5.11651650793523e-4,CHS
+FVS,Large demersal predators,juvenile,Midwater vulnerable rockfish,0,MVR
+FVS,Large demersal predators,juvenile,Refractory detritus,0,DR
+FVS,Large demersal predators,juvenile,Chum Hatch Subyearling,6.426580894192239e-4,CMS
+FVS,Large demersal predators,juvenile,Ratfish,0,RAT
+FVS,Large demersal predators,juvenile,Chinook Hatch Yearling,0,CHY
+FVS,Large demersal predators,juvenile,Coho Deep South Yearling,7.17765687436291e-4,COD
+FVS,Large demersal predators,juvenile,Chinook other Subyearling,8.749587061004049e-4,CKS
+FVS,Large demersal predators,juvenile,Coho Hatch Yearling,0.0011091579131661,COH
+FVS,Large demersal predators,juvenile,Chinook Skagit Yearling,0,CSY
+FVS,Large demersal predators,juvenile,Chinook Nisqually Subyearling,1.57358015284393e-5,CNS
+FVS,Large demersal predators,juvenile,Coho Skagit Yearling,0.00126181750795408,COS
+FVS,Large demersal predators,juvenile,Chinook Skagit Subyearling,3.95337530936374e-4,CSS
+FVS,Large demersal predators,juvenile,Chinook Nisqually Yearling,0,CNY
+FVS,Large demersal predators,juvenile,Coho other Yearling,0.0012416413094514,COY
+FVS,Large demersal predators,juvenile,Chinook Snohomish Subyearling,2.74095874525911e-5,CSN
+FVS,Large demersal predators,juvenile,Dungeness crab,0,DUN
+FVS,Large demersal predators,juvenile,Chinook other Yearling,0,CYE
+FVS,Large demersal predators,juvenile,Strait of Georgia salmonids,0.0012246043952049,SAF
+FVS,Large demersal predators,juvenile,Seagrass,0,SG
+FVS,Large demersal predators,juvenile,Harbor seals,0,HSL
+ROC,Demersal rockfish,juvenile,Carnivorous infauna,0,BC
+ROC,Demersal rockfish,juvenile,Deposit feeders,9.25786985973244e-4,BD
+ROC,Demersal rockfish,juvenile,Benthic filter feeder,0,BFF
+ROC,Demersal rockfish,juvenile,Benthic grazers,0,BG
+ROC,Demersal rockfish,juvenile,Bivalves,0,BIV
+ROC,Demersal rockfish,juvenile,Crabs,0.00253825846001134,BML
+ROC,Demersal rockfish,juvenile,Octopi,0,BMS
+ROC,Demersal rockfish,juvenile,Chinook Duwamish Subyearling,0,CDS
+ROC,Demersal rockfish,juvenile,Demersal vulnerable rockfish,0,DVR
+ROC,Demersal rockfish,juvenile,Small-mouthed Flatfish,0,FDF
+ROC,Demersal rockfish,juvenile,Hake_Large gadoids,0,FMM
+ROC,Demersal rockfish,juvenile,Small Planktivorous Fish,0,FPS
+ROC,Demersal rockfish,juvenile,Pacific Herring Cherry Point,1.6310543371541802e-4,HEC
+ROC,Demersal rockfish,juvenile,Pacific Herring Puget Sound,2.6883183826345797e-4,HEP
+ROC,Demersal rockfish,juvenile,Pink Salmon Subyearling,0,PIS
+ROC,Demersal rockfish,juvenile,Shrimp,0.00296169022188927,PWN
+ROC,Demersal rockfish,juvenile,Small demersal fish,0.0014174949948402198,SMD
+ROC,Demersal rockfish,juvenile,Gelatinous zooplankton,0,ZG
+ROC,Demersal rockfish,juvenile,Large zooplankton,5.14631837431471e-4,ZL
+ROC,Demersal rockfish,juvenile,Mesozooplankton,0.0010058034187417,ZM
+ROC,Demersal rockfish,juvenile,Large demersal predators,0,FVS
+ROC,Demersal rockfish,juvenile,Large phytoplankton,0,PL
+ROC,Demersal rockfish,juvenile,Small phytoplankton,0,PS
+ROC,Demersal rockfish,juvenile,Deep macro-zoobenthos,0,BMD
+ROC,Demersal rockfish,juvenile,Carrion,0,DC
+ROC,Demersal rockfish,juvenile,Macroalgae,0,MA
+ROC,Demersal rockfish,juvenile,Spiny dogfish,0,DOG
+ROC,Demersal rockfish,juvenile,Piscivorous flatfish,0,HAP
+ROC,Demersal rockfish,juvenile,Perch,2.04396743280135e-4,POP
+ROC,Demersal rockfish,juvenile,Demersal rockfish,0,ROC
+ROC,Demersal rockfish,juvenile,Squid,0,SQX
+ROC,Demersal rockfish,juvenile,Microzooplankton,0,ZS
+ROC,Demersal rockfish,juvenile,Chum Fall Subyearling,0,CMF
+ROC,Demersal rockfish,juvenile,Chinook Hood Canal Subyearling,0,CHC
+ROC,Demersal rockfish,juvenile,Midwater rockfish,0,MRO
+ROC,Demersal rockfish,juvenile,V38,0,NA
+ROC,Demersal rockfish,juvenile,Labile detritus,0,DL
+ROC,Demersal rockfish,juvenile,Chum Hood Canal summer run Subyearling,0,CMH
+ROC,Demersal rockfish,juvenile,Other salmonids,0,SAL
+ROC,Demersal rockfish,juvenile,Chinook Hatch Subyearling,0,CHS
+ROC,Demersal rockfish,juvenile,Midwater vulnerable rockfish,0,MVR
+ROC,Demersal rockfish,juvenile,Refractory detritus,0,DR
+ROC,Demersal rockfish,juvenile,Chum Hatch Subyearling,0,CMS
+ROC,Demersal rockfish,juvenile,Ratfish,0,RAT
+ROC,Demersal rockfish,juvenile,Chinook Hatch Yearling,0,CHY
+ROC,Demersal rockfish,juvenile,Coho Deep South Yearling,0,COD
+ROC,Demersal rockfish,juvenile,Chinook other Subyearling,0,CKS
+ROC,Demersal rockfish,juvenile,Coho Hatch Yearling,0,COH
+ROC,Demersal rockfish,juvenile,Chinook Skagit Yearling,0,CSY
+ROC,Demersal rockfish,juvenile,Chinook Nisqually Subyearling,0,CNS
+ROC,Demersal rockfish,juvenile,Coho Skagit Yearling,0,COS
+ROC,Demersal rockfish,juvenile,Chinook Skagit Subyearling,0,CSS
+ROC,Demersal rockfish,juvenile,Chinook Nisqually Yearling,0,CNY
+ROC,Demersal rockfish,juvenile,Coho other Yearling,0,COY
+ROC,Demersal rockfish,juvenile,Chinook Snohomish Subyearling,0,CSN
+ROC,Demersal rockfish,juvenile,Dungeness crab,0,DUN
+ROC,Demersal rockfish,juvenile,Chinook other Yearling,0,CYE
+ROC,Demersal rockfish,juvenile,Strait of Georgia salmonids,0,SAF
+ROC,Demersal rockfish,juvenile,Seagrass,0,SG
+ROC,Demersal rockfish,juvenile,Harbor seals,0,HSL
+HAP,Piscivorous flatfish,juvenile,Carnivorous infauna,0,BC
+HAP,Piscivorous flatfish,juvenile,Deposit feeders,0,BD
+HAP,Piscivorous flatfish,juvenile,Benthic filter feeder,0,BFF
+HAP,Piscivorous flatfish,juvenile,Benthic grazers,0,BG
+HAP,Piscivorous flatfish,juvenile,Bivalves,0,BIV
+HAP,Piscivorous flatfish,juvenile,Crabs,3.6223695903209597e-4,BML
+HAP,Piscivorous flatfish,juvenile,Octopi,0,BMS
+HAP,Piscivorous flatfish,juvenile,Chinook Duwamish Subyearling,0,CDS
+HAP,Piscivorous flatfish,juvenile,Demersal vulnerable rockfish,0,DVR
+HAP,Piscivorous flatfish,juvenile,Small-mouthed Flatfish,0.00150323787645466,FDF
+HAP,Piscivorous flatfish,juvenile,Hake_Large gadoids,2.6790779543877497e-4,FMM
+HAP,Piscivorous flatfish,juvenile,Small Planktivorous Fish,0.0014757991556320698,FPS
+HAP,Piscivorous flatfish,juvenile,Pacific Herring Cherry Point,0,HEC
+HAP,Piscivorous flatfish,juvenile,Pacific Herring Puget Sound,1.5167528764234e-5,HEP
+HAP,Piscivorous flatfish,juvenile,Pink Salmon Subyearling,0,PIS
+HAP,Piscivorous flatfish,juvenile,Shrimp,0.0028447452147781498,PWN
+HAP,Piscivorous flatfish,juvenile,Small demersal fish,0.00232294217350516,SMD
+HAP,Piscivorous flatfish,juvenile,Gelatinous zooplankton,0,ZG
+HAP,Piscivorous flatfish,juvenile,Large zooplankton,6.71441091192073e-4,ZL
+HAP,Piscivorous flatfish,juvenile,Mesozooplankton,0,ZM
+HAP,Piscivorous flatfish,juvenile,Large demersal predators,0,FVS
+HAP,Piscivorous flatfish,juvenile,Large phytoplankton,0,PL
+HAP,Piscivorous flatfish,juvenile,Small phytoplankton,0,PS
+HAP,Piscivorous flatfish,juvenile,Deep macro-zoobenthos,0,BMD
+HAP,Piscivorous flatfish,juvenile,Carrion,0,DC
+HAP,Piscivorous flatfish,juvenile,Macroalgae,0,MA
+HAP,Piscivorous flatfish,juvenile,Spiny dogfish,0,DOG
+HAP,Piscivorous flatfish,juvenile,Piscivorous flatfish,0,HAP
+HAP,Piscivorous flatfish,juvenile,Perch,0,POP
+HAP,Piscivorous flatfish,juvenile,Demersal rockfish,1.4926946828878202e-4,ROC
+HAP,Piscivorous flatfish,juvenile,Squid,3.87252650915268e-4,SQX
+HAP,Piscivorous flatfish,juvenile,Microzooplankton,0,ZS
+HAP,Piscivorous flatfish,juvenile,Chum Fall Subyearling,0,CMF
+HAP,Piscivorous flatfish,juvenile,Chinook Hood Canal Subyearling,0,CHC
+HAP,Piscivorous flatfish,juvenile,Midwater rockfish,0,MRO
+HAP,Piscivorous flatfish,juvenile,V38,0,NA
+HAP,Piscivorous flatfish,juvenile,Labile detritus,0,DL
+HAP,Piscivorous flatfish,juvenile,Chum Hood Canal summer run Subyearling,0,CMH
+HAP,Piscivorous flatfish,juvenile,Other salmonids,0,SAL
+HAP,Piscivorous flatfish,juvenile,Chinook Hatch Subyearling,0,CHS
+HAP,Piscivorous flatfish,juvenile,Midwater vulnerable rockfish,0,MVR
+HAP,Piscivorous flatfish,juvenile,Refractory detritus,0,DR
+HAP,Piscivorous flatfish,juvenile,Chum Hatch Subyearling,0,CMS
+HAP,Piscivorous flatfish,juvenile,Ratfish,0,RAT
+HAP,Piscivorous flatfish,juvenile,Chinook Hatch Yearling,0,CHY
+HAP,Piscivorous flatfish,juvenile,Coho Deep South Yearling,0,COD
+HAP,Piscivorous flatfish,juvenile,Chinook other Subyearling,0,CKS
+HAP,Piscivorous flatfish,juvenile,Coho Hatch Yearling,0,COH
+HAP,Piscivorous flatfish,juvenile,Chinook Skagit Yearling,0,CSY
+HAP,Piscivorous flatfish,juvenile,Chinook Nisqually Subyearling,0,CNS
+HAP,Piscivorous flatfish,juvenile,Coho Skagit Yearling,0,COS
+HAP,Piscivorous flatfish,juvenile,Chinook Skagit Subyearling,0,CSS
+HAP,Piscivorous flatfish,juvenile,Chinook Nisqually Yearling,0,CNY
+HAP,Piscivorous flatfish,juvenile,Coho other Yearling,0,COY
+HAP,Piscivorous flatfish,juvenile,Chinook Snohomish Subyearling,0,CSN
+HAP,Piscivorous flatfish,juvenile,Dungeness crab,0,DUN
+HAP,Piscivorous flatfish,juvenile,Chinook other Yearling,0,CYE
+HAP,Piscivorous flatfish,juvenile,Strait of Georgia salmonids,0,SAF
+HAP,Piscivorous flatfish,juvenile,Seagrass,0,SG
+HAP,Piscivorous flatfish,juvenile,Harbor seals,0,HSL
+SBL,Sixgill Shark,juvenile,Carnivorous infauna,0,BC
+SBL,Sixgill Shark,juvenile,Deposit feeders,0,BD
+SBL,Sixgill Shark,juvenile,Benthic filter feeder,0,BFF
+SBL,Sixgill Shark,juvenile,Benthic grazers,0,BG
+SBL,Sixgill Shark,juvenile,Bivalves,0,BIV
+SBL,Sixgill Shark,juvenile,Crabs,0,BML
+SBL,Sixgill Shark,juvenile,Octopi,0,BMS
+SBL,Sixgill Shark,juvenile,Chinook Duwamish Subyearling,0,CDS
+SBL,Sixgill Shark,juvenile,Demersal vulnerable rockfish,0,DVR
+SBL,Sixgill Shark,juvenile,Small-mouthed Flatfish,0,FDF
+SBL,Sixgill Shark,juvenile,Hake_Large gadoids,0.0010425867255478602,FMM
+SBL,Sixgill Shark,juvenile,Small Planktivorous Fish,0,FPS
+SBL,Sixgill Shark,juvenile,Pacific Herring Cherry Point,0,HEC
+SBL,Sixgill Shark,juvenile,Pacific Herring Puget Sound,0,HEP
+SBL,Sixgill Shark,juvenile,Pink Salmon Subyearling,0,PIS
+SBL,Sixgill Shark,juvenile,Shrimp,0,PWN
+SBL,Sixgill Shark,juvenile,Small demersal fish,0,SMD
+SBL,Sixgill Shark,juvenile,Gelatinous zooplankton,0,ZG
+SBL,Sixgill Shark,juvenile,Large zooplankton,0,ZL
+SBL,Sixgill Shark,juvenile,Mesozooplankton,0,ZM
+SBL,Sixgill Shark,juvenile,Large demersal predators,0,FVS
+SBL,Sixgill Shark,juvenile,Large phytoplankton,0,PL
+SBL,Sixgill Shark,juvenile,Small phytoplankton,0,PS
+SBL,Sixgill Shark,juvenile,Deep macro-zoobenthos,0,BMD
+SBL,Sixgill Shark,juvenile,Carrion,0,DC
+SBL,Sixgill Shark,juvenile,Macroalgae,0,MA
+SBL,Sixgill Shark,juvenile,Spiny dogfish,0.00449933265057799,DOG
+SBL,Sixgill Shark,juvenile,Piscivorous flatfish,0,HAP
+SBL,Sixgill Shark,juvenile,Perch,0,POP
+SBL,Sixgill Shark,juvenile,Demersal rockfish,0,ROC
+SBL,Sixgill Shark,juvenile,Squid,0,SQX
+SBL,Sixgill Shark,juvenile,Microzooplankton,0,ZS
+SBL,Sixgill Shark,juvenile,Chum Fall Subyearling,0,CMF
+SBL,Sixgill Shark,juvenile,Chinook Hood Canal Subyearling,0,CHC
+SBL,Sixgill Shark,juvenile,Midwater rockfish,0,MRO
+SBL,Sixgill Shark,juvenile,V38,0,NA
+SBL,Sixgill Shark,juvenile,Labile detritus,0,DL
+SBL,Sixgill Shark,juvenile,Chum Hood Canal summer run Subyearling,0,CMH
+SBL,Sixgill Shark,juvenile,Other salmonids,0,SAL
+SBL,Sixgill Shark,juvenile,Chinook Hatch Subyearling,0,CHS
+SBL,Sixgill Shark,juvenile,Midwater vulnerable rockfish,0,MVR
+SBL,Sixgill Shark,juvenile,Refractory detritus,0,DR
+SBL,Sixgill Shark,juvenile,Chum Hatch Subyearling,0,CMS
+SBL,Sixgill Shark,juvenile,Ratfish,0.00445808019873958,RAT
+SBL,Sixgill Shark,juvenile,Chinook Hatch Yearling,0,CHY
+SBL,Sixgill Shark,juvenile,Coho Deep South Yearling,0,COD
+SBL,Sixgill Shark,juvenile,Chinook other Subyearling,0,CKS
+SBL,Sixgill Shark,juvenile,Coho Hatch Yearling,0,COH
+SBL,Sixgill Shark,juvenile,Chinook Skagit Yearling,0,CSY
+SBL,Sixgill Shark,juvenile,Chinook Nisqually Subyearling,0,CNS
+SBL,Sixgill Shark,juvenile,Coho Skagit Yearling,0,COS
+SBL,Sixgill Shark,juvenile,Chinook Skagit Subyearling,0,CSS
+SBL,Sixgill Shark,juvenile,Chinook Nisqually Yearling,0,CNY
+SBL,Sixgill Shark,juvenile,Coho other Yearling,0,COY
+SBL,Sixgill Shark,juvenile,Chinook Snohomish Subyearling,0,CSN
+SBL,Sixgill Shark,juvenile,Dungeness crab,0,DUN
+SBL,Sixgill Shark,juvenile,Chinook other Yearling,0,CYE
+SBL,Sixgill Shark,juvenile,Strait of Georgia salmonids,0,SAF
+SBL,Sixgill Shark,juvenile,Seagrass,0,SG
+SBL,Sixgill Shark,juvenile,Harbor seals,0,HSL
+SB,Seabirds (piscivorous),juvenile,Carnivorous infauna,0,BC
+SB,Seabirds (piscivorous),juvenile,Deposit feeders,0,BD
+SB,Seabirds (piscivorous),juvenile,Benthic filter feeder,0,BFF
+SB,Seabirds (piscivorous),juvenile,Benthic grazers,0,BG
+SB,Seabirds (piscivorous),juvenile,Bivalves,0,BIV
+SB,Seabirds (piscivorous),juvenile,Crabs,0,BML
+SB,Seabirds (piscivorous),juvenile,Octopi,0,BMS
+SB,Seabirds (piscivorous),juvenile,Chinook Duwamish Subyearling,0,CDS
+SB,Seabirds (piscivorous),juvenile,Demersal vulnerable rockfish,0,DVR
+SB,Seabirds (piscivorous),juvenile,Small-mouthed Flatfish,0,FDF
+SB,Seabirds (piscivorous),juvenile,Hake_Large gadoids,0,FMM
+SB,Seabirds (piscivorous),juvenile,Small Planktivorous Fish,0,FPS
+SB,Seabirds (piscivorous),juvenile,Pacific Herring Cherry Point,0,HEC
+SB,Seabirds (piscivorous),juvenile,Pacific Herring Puget Sound,0,HEP
+SB,Seabirds (piscivorous),juvenile,Pink Salmon Subyearling,0.00127743875501811,PIS
+SB,Seabirds (piscivorous),juvenile,Shrimp,0,PWN
+SB,Seabirds (piscivorous),juvenile,Small demersal fish,0,SMD
+SB,Seabirds (piscivorous),juvenile,Gelatinous zooplankton,0,ZG
+SB,Seabirds (piscivorous),juvenile,Large zooplankton,0,ZL
+SB,Seabirds (piscivorous),juvenile,Mesozooplankton,0,ZM
+SB,Seabirds (piscivorous),juvenile,Large demersal predators,0,FVS
+SB,Seabirds (piscivorous),juvenile,Large phytoplankton,0,PL
+SB,Seabirds (piscivorous),juvenile,Small phytoplankton,0,PS
+SB,Seabirds (piscivorous),juvenile,Deep macro-zoobenthos,0,BMD
+SB,Seabirds (piscivorous),juvenile,Carrion,0,DC
+SB,Seabirds (piscivorous),juvenile,Macroalgae,0,MA
+SB,Seabirds (piscivorous),juvenile,Spiny dogfish,0,DOG
+SB,Seabirds (piscivorous),juvenile,Piscivorous flatfish,0,HAP
+SB,Seabirds (piscivorous),juvenile,Perch,0,POP
+SB,Seabirds (piscivorous),juvenile,Demersal rockfish,0,ROC
+SB,Seabirds (piscivorous),juvenile,Squid,0,SQX
+SB,Seabirds (piscivorous),juvenile,Microzooplankton,0,ZS
+SB,Seabirds (piscivorous),juvenile,Chum Fall Subyearling,0.0014071567003292901,CMF
+SB,Seabirds (piscivorous),juvenile,Chinook Hood Canal Subyearling,0,CHC
+SB,Seabirds (piscivorous),juvenile,Midwater rockfish,0,MRO
+SB,Seabirds (piscivorous),juvenile,V38,0,NA
+SB,Seabirds (piscivorous),juvenile,Labile detritus,0,DL
+SB,Seabirds (piscivorous),juvenile,Chum Hood Canal summer run Subyearling,1.11501368191877e-4,CMH
+SB,Seabirds (piscivorous),juvenile,Other salmonids,0.0013041891915167101,SAL
+SB,Seabirds (piscivorous),juvenile,Chinook Hatch Subyearling,4.08612918744572e-4,CHS
+SB,Seabirds (piscivorous),juvenile,Midwater vulnerable rockfish,0,MVR
+SB,Seabirds (piscivorous),juvenile,Refractory detritus,0,DR
+SB,Seabirds (piscivorous),juvenile,Chum Hatch Subyearling,0.00109985747719892,CMS
+SB,Seabirds (piscivorous),juvenile,Ratfish,0,RAT
+SB,Seabirds (piscivorous),juvenile,Chinook Hatch Yearling,1.42983625336818e-4,CHY
+SB,Seabirds (piscivorous),juvenile,Coho Deep South Yearling,6.05710649675036e-5,COD
+SB,Seabirds (piscivorous),juvenile,Chinook other Subyearling,1.72302224839697e-4,CKS
+SB,Seabirds (piscivorous),juvenile,Coho Hatch Yearling,8.17201426584251e-4,COH
+SB,Seabirds (piscivorous),juvenile,Chinook Skagit Yearling,0,CSY
+SB,Seabirds (piscivorous),juvenile,Chinook Nisqually Subyearling,0,CNS
+SB,Seabirds (piscivorous),juvenile,Coho Skagit Yearling,7.052214228829121e-4,COS
+SB,Seabirds (piscivorous),juvenile,Chinook Skagit Subyearling,4.52183365211644e-4,CSS
+SB,Seabirds (piscivorous),juvenile,Chinook Nisqually Yearling,0,CNY
+SB,Seabirds (piscivorous),juvenile,Coho other Yearling,0.00135002386249576,COY
+SB,Seabirds (piscivorous),juvenile,Chinook Snohomish Subyearling,0,CSN
+SB,Seabirds (piscivorous),juvenile,Dungeness crab,0,DUN
+SB,Seabirds (piscivorous),juvenile,Chinook other Yearling,0,CYE
+SB,Seabirds (piscivorous),juvenile,Strait of Georgia salmonids,6.9075651164688e-4,SAF
+SB,Seabirds (piscivorous),juvenile,Seagrass,0,SG
+SB,Seabirds (piscivorous),juvenile,Harbor seals,0,HSL
+SP,Seabirds (mainly non-piscivorous),juvenile,Carnivorous infauna,0,BC
+SP,Seabirds (mainly non-piscivorous),juvenile,Deposit feeders,0,BD
+SP,Seabirds (mainly non-piscivorous),juvenile,Benthic filter feeder,0,BFF
+SP,Seabirds (mainly non-piscivorous),juvenile,Benthic grazers,0,BG
+SP,Seabirds (mainly non-piscivorous),juvenile,Bivalves,0,BIV
+SP,Seabirds (mainly non-piscivorous),juvenile,Crabs,0,BML
+SP,Seabirds (mainly non-piscivorous),juvenile,Octopi,0,BMS
+SP,Seabirds (mainly non-piscivorous),juvenile,Chinook Duwamish Subyearling,0,CDS
+SP,Seabirds (mainly non-piscivorous),juvenile,Demersal vulnerable rockfish,0,DVR
+SP,Seabirds (mainly non-piscivorous),juvenile,Small-mouthed Flatfish,0,FDF
+SP,Seabirds (mainly non-piscivorous),juvenile,Hake_Large gadoids,0,FMM
+SP,Seabirds (mainly non-piscivorous),juvenile,Small Planktivorous Fish,0.0013998062590163901,FPS
+SP,Seabirds (mainly non-piscivorous),juvenile,Pacific Herring Cherry Point,0,HEC
+SP,Seabirds (mainly non-piscivorous),juvenile,Pacific Herring Puget Sound,0,HEP
+SP,Seabirds (mainly non-piscivorous),juvenile,Pink Salmon Subyearling,0,PIS
+SP,Seabirds (mainly non-piscivorous),juvenile,Shrimp,0,PWN
+SP,Seabirds (mainly non-piscivorous),juvenile,Small demersal fish,0.00855288008111142,SMD
+SP,Seabirds (mainly non-piscivorous),juvenile,Gelatinous zooplankton,0,ZG
+SP,Seabirds (mainly non-piscivorous),juvenile,Large zooplankton,0,ZL
+SP,Seabirds (mainly non-piscivorous),juvenile,Mesozooplankton,0,ZM
+SP,Seabirds (mainly non-piscivorous),juvenile,Large demersal predators,0,FVS
+SP,Seabirds (mainly non-piscivorous),juvenile,Large phytoplankton,0,PL
+SP,Seabirds (mainly non-piscivorous),juvenile,Small phytoplankton,0,PS
+SP,Seabirds (mainly non-piscivorous),juvenile,Deep macro-zoobenthos,0,BMD
+SP,Seabirds (mainly non-piscivorous),juvenile,Carrion,0,DC
+SP,Seabirds (mainly non-piscivorous),juvenile,Macroalgae,0,MA
+SP,Seabirds (mainly non-piscivorous),juvenile,Spiny dogfish,0,DOG
+SP,Seabirds (mainly non-piscivorous),juvenile,Piscivorous flatfish,0,HAP
+SP,Seabirds (mainly non-piscivorous),juvenile,Perch,4.7313463329901795e-5,POP
+SP,Seabirds (mainly non-piscivorous),juvenile,Demersal rockfish,0,ROC
+SP,Seabirds (mainly non-piscivorous),juvenile,Squid,0,SQX
+SP,Seabirds (mainly non-piscivorous),juvenile,Microzooplankton,0,ZS
+SP,Seabirds (mainly non-piscivorous),juvenile,Chum Fall Subyearling,0,CMF
+SP,Seabirds (mainly non-piscivorous),juvenile,Chinook Hood Canal Subyearling,0,CHC
+SP,Seabirds (mainly non-piscivorous),juvenile,Midwater rockfish,0,MRO
+SP,Seabirds (mainly non-piscivorous),juvenile,V38,0,NA
+SP,Seabirds (mainly non-piscivorous),juvenile,Labile detritus,0,DL
+SP,Seabirds (mainly non-piscivorous),juvenile,Chum Hood Canal summer run Subyearling,0,CMH
+SP,Seabirds (mainly non-piscivorous),juvenile,Other salmonids,0,SAL
+SP,Seabirds (mainly non-piscivorous),juvenile,Chinook Hatch Subyearling,0,CHS
+SP,Seabirds (mainly non-piscivorous),juvenile,Midwater vulnerable rockfish,0,MVR
+SP,Seabirds (mainly non-piscivorous),juvenile,Refractory detritus,0,DR
+SP,Seabirds (mainly non-piscivorous),juvenile,Chum Hatch Subyearling,0,CMS
+SP,Seabirds (mainly non-piscivorous),juvenile,Ratfish,0,RAT
+SP,Seabirds (mainly non-piscivorous),juvenile,Chinook Hatch Yearling,0,CHY
+SP,Seabirds (mainly non-piscivorous),juvenile,Coho Deep South Yearling,0,COD
+SP,Seabirds (mainly non-piscivorous),juvenile,Chinook other Subyearling,0,CKS
+SP,Seabirds (mainly non-piscivorous),juvenile,Coho Hatch Yearling,0,COH
+SP,Seabirds (mainly non-piscivorous),juvenile,Chinook Skagit Yearling,0,CSY
+SP,Seabirds (mainly non-piscivorous),juvenile,Chinook Nisqually Subyearling,0,CNS
+SP,Seabirds (mainly non-piscivorous),juvenile,Coho Skagit Yearling,0,COS
+SP,Seabirds (mainly non-piscivorous),juvenile,Chinook Skagit Subyearling,0,CSS
+SP,Seabirds (mainly non-piscivorous),juvenile,Chinook Nisqually Yearling,0,CNY
+SP,Seabirds (mainly non-piscivorous),juvenile,Coho other Yearling,0,COY
+SP,Seabirds (mainly non-piscivorous),juvenile,Chinook Snohomish Subyearling,0,CSN
+SP,Seabirds (mainly non-piscivorous),juvenile,Dungeness crab,0,DUN
+SP,Seabirds (mainly non-piscivorous),juvenile,Chinook other Yearling,0,CYE
+SP,Seabirds (mainly non-piscivorous),juvenile,Strait of Georgia salmonids,0,SAF
+SP,Seabirds (mainly non-piscivorous),juvenile,Seagrass,0,SG
+SP,Seabirds (mainly non-piscivorous),juvenile,Harbor seals,0,HSL
+PIN,Steller sea lions,juvenile,Carnivorous infauna,1.5391200084729602e-11,BC
+PIN,Steller sea lions,juvenile,Deposit feeders,1.5391200084729602e-11,BD
+PIN,Steller sea lions,juvenile,Benthic filter feeder,1.5391200084729602e-11,BFF
+PIN,Steller sea lions,juvenile,Benthic grazers,1.5391200084729602e-11,BG
+PIN,Steller sea lions,juvenile,Bivalves,1.5391200084729602e-11,BIV
+PIN,Steller sea lions,juvenile,Crabs,1.5391200084729602e-11,BML
+PIN,Steller sea lions,juvenile,Octopi,1.5391200084729602e-11,BMS
+PIN,Steller sea lions,juvenile,Chinook Duwamish Subyearling,6.42248988779137e-4,CDS
+PIN,Steller sea lions,juvenile,Demersal vulnerable rockfish,1.5391200084729602e-11,DVR
+PIN,Steller sea lions,juvenile,Small-mouthed Flatfish,1.5391200084729602e-11,FDF
+PIN,Steller sea lions,juvenile,Hake_Large gadoids,1.5391200084729602e-11,FMM
+PIN,Steller sea lions,juvenile,Small Planktivorous Fish,1.5391200084729602e-11,FPS
+PIN,Steller sea lions,juvenile,Pacific Herring Cherry Point,1.5391200084729602e-11,HEC
+PIN,Steller sea lions,juvenile,Pacific Herring Puget Sound,1.5391200084729602e-11,HEP
+PIN,Steller sea lions,juvenile,Pink Salmon Subyearling,1.5391200084729602e-11,PIS
+PIN,Steller sea lions,juvenile,Shrimp,1.5391200084729602e-11,PWN
+PIN,Steller sea lions,juvenile,Small demersal fish,1.5391200084729602e-11,SMD
+PIN,Steller sea lions,juvenile,Gelatinous zooplankton,1.5391200084729602e-11,ZG
+PIN,Steller sea lions,juvenile,Large zooplankton,1.5391200084729602e-11,ZL
+PIN,Steller sea lions,juvenile,Mesozooplankton,1.5391200084729602e-11,ZM
+PIN,Steller sea lions,juvenile,Large demersal predators,1.5391200084729602e-11,FVS
+PIN,Steller sea lions,juvenile,Large phytoplankton,1.5391200084729602e-11,PL
+PIN,Steller sea lions,juvenile,Small phytoplankton,1.5391200084729602e-11,PS
+PIN,Steller sea lions,juvenile,Deep macro-zoobenthos,1.5391200084729602e-11,BMD
+PIN,Steller sea lions,juvenile,Carrion,1.5391200084729602e-11,DC
+PIN,Steller sea lions,juvenile,Macroalgae,1.5391200084729602e-11,MA
+PIN,Steller sea lions,juvenile,Spiny dogfish,1.5391200084729602e-11,DOG
+PIN,Steller sea lions,juvenile,Piscivorous flatfish,1.5391200084729602e-11,HAP
+PIN,Steller sea lions,juvenile,Perch,1.5391200084729602e-11,POP
+PIN,Steller sea lions,juvenile,Demersal rockfish,1.5391200084729602e-11,ROC
+PIN,Steller sea lions,juvenile,Squid,1.5391200084729602e-11,SQX
+PIN,Steller sea lions,juvenile,Microzooplankton,1.5391200084729602e-11,ZS
+PIN,Steller sea lions,juvenile,Chum Fall Subyearling,6.23307989877293e-4,CMF
+PIN,Steller sea lions,juvenile,Chinook Hood Canal Subyearling,2.04491528702852e-4,CHC
+PIN,Steller sea lions,juvenile,Midwater rockfish,1.5391200084729602e-11,MRO
+PIN,Steller sea lions,juvenile,V38,1.5391200084729602e-11,NA
+PIN,Steller sea lions,juvenile,Labile detritus,1.5391200084729602e-11,DL
+PIN,Steller sea lions,juvenile,Chum Hood Canal summer run Subyearling,1.97548835172405e-4,CMH
+PIN,Steller sea lions,juvenile,Other salmonids,5.79029758334425e-4,SAL
+PIN,Steller sea lions,juvenile,Chinook Hatch Subyearling,2.58002835573071e-5,CHS
+PIN,Steller sea lions,juvenile,Midwater vulnerable rockfish,1.5391200084729602e-11,MVR
+PIN,Steller sea lions,juvenile,Refractory detritus,1.5391200084729602e-11,DR
+PIN,Steller sea lions,juvenile,Chum Hatch Subyearling,6.290757153749579e-4,CMS
+PIN,Steller sea lions,juvenile,Ratfish,1.5391200084729602e-11,RAT
+PIN,Steller sea lions,juvenile,Chinook Hatch Yearling,6.85022778022717e-4,CHY
+PIN,Steller sea lions,juvenile,Coho Deep South Yearling,8.369700795999311e-4,COD
+PIN,Steller sea lions,juvenile,Chinook other Subyearling,8.604202274144209e-4,CKS
+PIN,Steller sea lions,juvenile,Coho Hatch Yearling,2.4416290095756704e-4,COH
+PIN,Steller sea lions,juvenile,Chinook Skagit Yearling,3.66175792239161e-4,CSY
+PIN,Steller sea lions,juvenile,Chinook Nisqually Subyearling,4.7719527369061203e-4,CNS
+PIN,Steller sea lions,juvenile,Coho Skagit Yearling,4.84949515187922e-4,COS
+PIN,Steller sea lions,juvenile,Chinook Skagit Subyearling,6.49686304583653e-4,CSS
+PIN,Steller sea lions,juvenile,Chinook Nisqually Yearling,2.90859983001164e-4,CNY
+PIN,Steller sea lions,juvenile,Coho other Yearling,4.20429346887414e-4,COY
+PIN,Steller sea lions,juvenile,Chinook Snohomish Subyearling,2.69576548216756e-4,CSN
+PIN,Steller sea lions,juvenile,Dungeness crab,1.5391200084729602e-11,DUN
+PIN,Steller sea lions,juvenile,Chinook other Yearling,7.391062571618511e-4,CYE
+PIN,Steller sea lions,juvenile,Strait of Georgia salmonids,7.73941277590451e-4,SAF
+PIN,Steller sea lions,juvenile,Seagrass,1.5391200084729602e-11,SG
+PIN,Steller sea lions,juvenile,Harbor seals,1.5391200084729602e-11,HSL

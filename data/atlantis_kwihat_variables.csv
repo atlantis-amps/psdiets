@@ -1,0 +1,49 @@
+acronym,Species,atlantis_name,atlantis_group
+SL,Sand Lance,Small Planktivorous Fish,FPS
+HE,Herring ,Pacific Herring Puget Sound,HE
+FLAT,Flatfish ,Small Planktivorous Fish,FPS
+TUBE,Tubesnout ,Small demersal fish,SMD
+GREEN,Greenlings ,Small demersal fish,SMD
+GA,Gammarids ,Deposit feeders,BD
+HA,Hyperiids ,Deposit feeders,BD
+CC,Calanoids ,Large zooplankton,ZL
+EU,Euphausiids ,Large zooplankton,ZL
+CRB,Crab,Crabs,BML
+SHR,Shrimp including,Shrimp,PWN
+ISO,Isopods ,Deposit feeders,BD
+CUM,Cumaceans ,Deposit feeders,BD
+OST,Ostracods ,Shrimp,PWN
+MYS,Mysids ,Shrimp,PWN
+CRUST,Other crustaceans,Deposit feeders,BD
+MID,Midges/Choronomidae ,Insects,INS
+TIP,Tipulidae ,Insects,INS
+MOSQ,Mosquitoes/Culcidae ,Insects,INS
+FLY,All other,Insects,INS
+MAY,Mayflies/Ephemeroptera ,Insects,INS
+APH,Aphidae ,Insects,INS
+LEAF,Leafhoppers ,Insects,INS
+BUG,Other Heteroptera,Insects,INS
+ANT,Ants/Formicidae ,Insects,INS
+WA,Wasps all,Insects,INS
+PSO,Psocoptera ,Insects,INS
+COLEO,Coleoptera ,Insects,INS
+COLL,Collembola ,Insects,INS
+ORTHO,Orthoptera ,Insects,INS
+ARACH,Arachids ,Insects,INS
+POLY,Polychaetes ,Benthic filter feeder,BFF
+CHAET,Chateognaths ,Large zooplankton,ZL
+Fish,Fish,Fish,Fish
+Other fish,Other fish,Fish,Fish
+Cirrepedia,Cirrepedia,BFF,Benthic filter feeder
+Crust,Crustacean,Deposit feeders,BD
+Other Dip,Other Dipterans,Insects,INS
+Wasp,Wasp,Insects,INS
+Coleo,Coleopterans,Insects,INS
+Leaf,Leaf,Other,Other
+aphid,Aphid,Insects,INS
+pso,pso,Other,Other
+Arach,Arachnidae,Insects,INS
+Insect,Insect,Insects,INS
+chaetog,Chaetognata,ZL,Large zooplankton
+Other__1,Other__1,Other,Other
+Other2,Other2,Other,Other

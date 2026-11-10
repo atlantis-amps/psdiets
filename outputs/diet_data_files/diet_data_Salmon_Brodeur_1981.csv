@@ -1,0 +1,181 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Engraulis mordax,%W_13,1.39650872817954,0.08163265306,1,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastes spp.,%W_13,8.204488778054799,0.4795918367,1,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,%W_13,2.7930174563590615,0.1632653061,1,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROC,Fish,Hemilepidotus spinosus,%W_13,4.7132169576058995,0.2755102041,1,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Engraulis mordax,%W_13-15,1.92019950124688,0.06547619048,2,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastes spp.,%W_13-15,12.21945137157092,0.4166666667,2,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,%W_13-15,9.426433915211899,0.3214285714,2,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROC,Fish,Hemilepidotus spinosus,%W_13-15,5.760598503740603,0.1964285714,2,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Engraulis mordax,%W_15-17,3.31670822942643,0.09644670051,3,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastes spp.,%W_15-17,13.615960099750469,0.3959390863,3,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,%W_15-17,11.870324189526102,0.345177665,3,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROC,Fish,Hemilepidotus spinosus,%W_15-17,5.586034912718098,0.1624365482,3,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Engraulis mordax,%W_17-19,3.84039900249377,0.1170212766,4,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastes spp.,%W_17-19,18.678304239401328,0.5691489362,4,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,%W_17-19,6.2842892768079,0.1914893617,4,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROC,Fish,Hemilepidotus spinosus,%W_17-19,4.014962593516202,0.1223404255,4,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Engraulis mordax,%W_19-21,6.98254364089775,0.1818181818,5,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastes spp.,%W_19-21,20.42394014962575,0.5318181818,5,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,%W_19-21,8.029925187032301,0.2090909091,5,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROC,Fish,Hemilepidotus spinosus,%W_19-21,2.9675810473815005,0.07727272727,5,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Engraulis mordax,%W_21-23,9.60099750623442,0.2644230769,6,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastes spp.,%W_21-23,20.94763092269308,0.5769230769,6,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,%W_21-23,3.665835411471299,0.1009615385,6,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROC,Fish,Hemilepidotus spinosus,%W_21-23,2.0947630922693037,0.05769230769,6,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Engraulis mordax,%W_23-25,14.4887780548628,0.3547008547,7,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastes spp.,%W_23-25,20.074812967580904,0.4914529915,7,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,%W_23-25,4.887780548628399,0.1196581197,7,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROC,Fish,Hemilepidotus spinosus,%W_23-25,1.396508728179498,0.03418803419,7,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Engraulis mordax,%W_25-27,31.5960099750623,0.7269076305,8,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastes spp.,%W_25-27,8.553615960099698,0.1967871486,8,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,%W_25-27,1.920199501246799,0.04417670683,8,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROC,Fish,Hemilepidotus spinosus,%W_25-27,1.3965087281796045,0.03212851406,8,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Engraulis mordax,%W_27-29,27.0573566084788,0.7788944724,9,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastes spp.,%W_27-29,7.680798004987402,0.2211055276,9,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,%W_27-29,0,0,9,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROC,Fish,Hemilepidotus spinosus,%W_27-29,0,0,9,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Engraulis mordax,%W_29,50.4488778054862,0.8525073746,10,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastes spp.,%W_29,6.8079800498753045,0.1150442478,10,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,%W_29,0.8728179551122963,0.01474926254,10,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ROC,Fish,Hemilepidotus spinosus,%W_29,1.047381546134602,0.01769911504,10,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Engraulis mordax,%W_12,0,0,11,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastes spp.,%W_12,40.9803921568619,1,11,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Ammodytes hexapterus,%W_12,0,0,11,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROC,Fish,Hemilepidotus spinosus,%W_12,0,0,11,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Engraulis mordax,%W_12-14,1.96078431372548,0.05917159763,12,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastes spp.,%W_12-14,16.27450980392122,0.4911242604,12,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Ammodytes hexapterus,%W_12-14,5.686274509803802,0.1715976331,12,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROC,Fish,Hemilepidotus spinosus,%W_12-14,9.215686274509597,0.2781065089,12,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Engraulis mordax,%W_14-16,12.5490196078431,0.3184079602,13,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastes spp.,%W_14-16,4.705882352941099,0.1194029851,13,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Ammodytes hexapterus,%W_14-16,8.235294117646902,0.2089552239,13,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROC,Fish,Hemilepidotus spinosus,%W_14-16,13.9215686274507,0.3532338308,13,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Engraulis mordax,%W_16-18,8.23529411764706,0.2048780488,14,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastes spp.,%W_16-18,6.47058823529394,0.1609756098,14,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Ammodytes hexapterus,%W_16-18,8.8235294117645,0.2195121951,14,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROC,Fish,Hemilepidotus spinosus,%W_16-18,16.6666666666664,0.4146341463,14,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Engraulis mordax,%W_18-20,22.156862745098,0.5594059406,15,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastes spp.,%W_18-20,2.3529411764705017,0.05940594059,15,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Ammodytes hexapterus,%W_18-20,5.686274509803798,0.1435643564,15,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROC,Fish,Hemilepidotus spinosus,%W_18-20,9.411764705882199,0.2376237624,15,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Engraulis mordax,%W_20-22,43.5294117647058,0.7602739726,16,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastes spp.,%W_20-22,4.705882352941202,0.08219178082,16,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Ammodytes hexapterus,%W_20-22,3.5294117647058982,0.06164383562,16,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROC,Fish,Hemilepidotus spinosus,%W_20-22,5.490196078431403,0.09589041096,16,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Engraulis mordax,%W_22-24,49.4117647058823,0.6980609418,17,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastes spp.,%W_22-24,8.039215686274602,0.1135734072,17,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Ammodytes hexapterus,%W_22-24,7.058823529411804,0.09972299169,17,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROC,Fish,Hemilepidotus spinosus,%W_22-24,6.274509803921603,0.08864265928,17,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Engraulis mordax,%W_24-25,32.5490196078431,0.5646258503,18,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastes spp.,%W_24-25,13.921568627450903,0.2414965986,18,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Ammodytes hexapterus,%W_24-25,6.274509803921596,0.1088435374,18,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROC,Fish,Hemilepidotus spinosus,%W_24-25,4.9019607843138004,0.08503401361,18,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Engraulis mordax,%W_26-28,18.0392156862745,0.4742268041,19,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastes spp.,%W_26-28,7.450980392156701,0.1958762887,19,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Ammodytes hexapterus,%W_26-28,4.705882352941,0.1237113402,19,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROC,Fish,Hemilepidotus spinosus,%W_26-28,7.843137254901897,0.206185567,19,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Engraulis mordax,%W_28,45.6862745098039,0.7444089457,20,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastes spp.,%W_28,9.2156862745098,0.1501597444,20,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Fish,Ammodytes hexapterus,%W_28,0.7843137254902004,0.01277955272,20,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ROC,Fish,Hemilepidotus spinosus,%W_28,5.686274509804001,0.09265175719,20,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Thysanoessa spinifera,%W_13,44.5497630331753,0.6988847584,21,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Euphausia pacifica,%W_13,0.9478672985781955,0.01486988848,21,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_13,7.582938388625699,0.1189591078,21,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Limacina helicina,%W_13,5.450236966824704,0.08550185874,21,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Hyperoche medusarum,%W_13,5.2132701421802,0.08178438662,21,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Thysanoessa spinifera,%W_13-15,16.5876777251184,0.3211009174,22,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Euphausia pacifica,%W_13-15,8.530805687203898,0.1651376147,22,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_13-15,6.398104265403003,0.123853211,22,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Limacina helicina,%W_13-15,15.639810426540496,0.3027522936,22,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Hyperoche medusarum,%W_13-15,4.502369668246402,0.0871559633,22,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Thysanoessa spinifera,%W_15-17,10.6635071090047,0.1939655172,23,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Euphausia pacifica,%W_15-17,11.848341232227602,0.2155172414,23,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_15-17,9.478672985782197,0.1724137931,23,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Limacina helicina,%W_15-17,16.1137440758296,0.2931034483,23,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Hyperoche medusarum,%W_15-17,6.872037914692001,0.125,23,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Thysanoessa spinifera,%W_17-19,17.5355450236966,0.2434210526,24,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Euphausia pacifica,%W_17-19,9.004739336493,0.125,24,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_17-19,12.322274881516801,0.1710526316,24,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Limacina helicina,%W_17-19,21.090047393365197,0.2927631579,24,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Hyperoche medusarum,%W_17-19,12.0853080568722,0.1677631579,24,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Thysanoessa spinifera,%W_19-21,22.0379146919431,0.3069306931,25,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Euphausia pacifica,%W_19-21,7.8199052132702,0.1089108911,25,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_19-21,17.0616113744078,0.2376237624,25,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Limacina helicina,%W_19-21,17.7725118483415,0.2475247525,25,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Hyperoche medusarum,%W_19-21,7.109004739336598,0.09900990099,25,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Thysanoessa spinifera,%W_21-23,26.5402843601895,0.3660130719,26,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Euphausia pacifica,%W_21-23,8.530805687203898,0.1176470588,26,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_21-23,7.819905213270303,0.1078431373,26,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Limacina helicina,%W_21-23,22.748815165877005,0.3137254902,26,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Hyperoche medusarum,%W_21-23,6.8720379146921005,0.09477124183,26,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Thysanoessa spinifera,%W_23-25,22.5118483412322,0.358490566,27,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Euphausia pacifica,%W_23-25,5.2132701421801,0.08301886792,27,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_23-25,3.080568720379201,0.04905660377,27,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Limacina helicina,%W_23-25,27.488151658768203,0.4377358491,27,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Hyperoche medusarum,%W_23-25,4.502369668246494,0.07169811321,27,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Thysanoessa spinifera,%W_25-27,26.303317535545,0.3894736842,28,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Euphausia pacifica,%W_25-27,0,0,28,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_25-27,20.616113744076102,0.3052631579,28,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Limacina helicina,%W_25-27,12.0853080568722,0.1789473684,28,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Hyperoche medusarum,%W_25-27,8.530805687203895,0.1263157895,28,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Thysanoessa spinifera,%W_27-29,22.9857819905213,0.3201320132,29,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Euphausia pacifica,%W_27-29,33.4123222748819,0.4653465347,29,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_27-29,4.5023696682465015,0.06270627063,29,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Limacina helicina,%W_27-29,9.241706161137607,0.1287128713,29,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Hyperoche medusarum,%W_27-29,1.6587677725118937,0.02310231023,29,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Thysanoessa spinifera,%W_29,8.05687203791468,0.1292775665,30,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Euphausia pacifica,%W_29,27.725118483412622,0.4448669202,30,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_29,0,0,30,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,ZL,Invertebrate,Limacina helicina,%W_29,25.118483412322597,0.4030418251,30,Salmon_Brodeur_1981
+CO,juvenile,Coho,Oncorhynchus kisutch,BD,Invertebrate,Hyperoche medusarum,%W_29,1.4218009478674034,0.02281368821,30,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Thysanoessa spinifera,%W_12,15.8653846153846,0.4867256637,31,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Euphausia pacifica,%W_12,0.7211538461537987,0.02212389381,31,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_12,11.2499999999999,0.3451327434,31,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Limacina helicina,%W_12,0.288461538461501,0.008849557522,31,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Hyperoche medusarum,%W_12,4.471153846153896,0.1371681416,31,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Thysanoessa spinifera,%W_12-14,1.875,0.07831325301,32,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Euphausia pacifica,%W_12-14,2.8846153846153397,0.1204819277,32,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_12-14,8.653846153845961,0.3614457831,32,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Limacina helicina,%W_12-14,5.769230769230701,0.2409638554,32,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Hyperoche medusarum,%W_12-14,4.759615384615298,0.1987951807,32,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Thysanoessa spinifera,%W_14-16,13.8461538461538,0.4192139738,33,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Euphausia pacifica,%W_14-16,0,0,33,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_14-16,1.875,0.05676855895,33,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Limacina helicina,%W_14-16,4.1826923076922,0.1266375546,33,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Hyperoche medusarum,%W_14-16,13.124999999999996,0.3973799127,33,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Thysanoessa spinifera,%W_16-18,29.9999999999999,0.6246246246,34,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Euphausia pacifica,%W_16-18,9.807692307692498,0.2042042042,34,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_16-18,3.4615384615385025,0.07207207207,34,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Limacina helicina,%W_16-18,2.0192307692306954,0.04204204204,34,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Hyperoche medusarum,%W_16-18,2.740384615384606,0.05705705706,34,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Thysanoessa spinifera,%W_18-20,17.5961538461538,0.5062240664,35,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Euphausia pacifica,%W_18-20,0,0,35,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_18-20,11.394230769230699,0.3278008299,35,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Limacina helicina,%W_18-20,3.1730769230768985,0.09128630705,35,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Hyperoche medusarum,%W_18-20,2.5961538461539035,0.07468879668,35,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Thysanoessa spinifera,%W_20-22,27.1153846153846,0.5433526012,36,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Euphausia pacifica,%W_20-22,14.278846153846303,0.2861271676,36,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_20-22,4.1826923076922995,0.0838150289,36,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Limacina helicina,%W_20-22,0,0,36,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Hyperoche medusarum,%W_20-22,4.3269230769231015,0.08670520231,36,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Thysanoessa spinifera,%W_22-24,7.9326923076923,0.2165354331,37,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Euphausia pacifica,%W_22-24,0,0,37,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_22-24,21.6346153846151,0.5905511811,37,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Limacina helicina,%W_22-24,5.480769230769301,0.1496062992,37,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Hyperoche medusarum,%W_22-24,1.5865384615385025,0.04330708661,37,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Thysanoessa spinifera,%W_24-26,6.63461538461538,0.1769230769,38,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Euphausia pacifica,%W_24-26,0,0,38,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_24-26,11.53846153846132,0.3076923077,38,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Limacina helicina,%W_24-26,19.3269230769231,0.5153846154,38,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Hyperoche medusarum,%W_24-26,0,0,38,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Thysanoessa spinifera,%W_26-28,6.34615384615383,0.1337386018,39,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Euphausia pacifica,%W_26-28,29.855769230768974,0.6291793313,39,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_26-28,11.2500000000001,0.2370820669,39,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Limacina helicina,%W_26-28,0,0,39,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Hyperoche medusarum,%W_26-28,0,0,39,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Thysanoessa spinifera,%W_28,47.0192307692307,0.8787061995,40,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Euphausia pacifica,%W_28,5.9134615384614975,0.1105121294,40,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Gnorimosphaeroma oregonensis,%W_28,0.5769230769231015,0.01078167116,40,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Invertebrate,Limacina helicina,%W_28,0,0,40,Salmon_Brodeur_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Invertebrate,Hyperoche medusarum,%W_28,0,0,40,Salmon_Brodeur_1981

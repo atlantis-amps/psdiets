@@ -1,0 +1,11 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SBL,adult,Elasmobranchii,Hexanchus griseus,FISH,Fish,Fish,Table_2,47.8,0.478,1,SBL_Bizarro_et_al_2017
+SBL,adult,Elasmobranchii,Hexanchus griseus,SQX,Cephalopods,Cephalopods,Table_2,0,0,1,SBL_Bizarro_et_al_2017
+SBL,adult,Elasmobranchii,Hexanchus griseus,BIV,Other mollusk,Other mollusk,Table_2,0,0,1,SBL_Bizarro_et_al_2017
+SBL,adult,Elasmobranchii,Hexanchus griseus,BML,Crustaceans,Crustaceans,Table_2,0,0,1,SBL_Bizarro_et_al_2017
+SBL,adult,Elasmobranchii,Hexanchus griseus,INVERT,Other invertebrates,Other invertebrates,Table_2,0,0,1,SBL_Bizarro_et_al_2017
+SBL,adult,Elasmobranchii,Hexanchus griseus,BIRDS,Marine birds,Marine birds,Table_2,0,0,1,SBL_Bizarro_et_al_2017
+SBL,adult,Elasmobranchii,Hexanchus griseus,NA,Marine reptiles,Marine reptiles,Table_2,0,0,1,SBL_Bizarro_et_al_2017
+SBL,adult,Elasmobranchii,Hexanchus griseus,MAMMAL,Marine mammals,Marine mammals,Table_2,8.3,0.083,1,SBL_Bizarro_et_al_2017
+SBL,adult,Elasmobranchii,Hexanchus griseus,FISH,Chondrichthyans fishes,Chondrichthyans fishes,Table_2,43.9,0.439,1,SBL_Bizarro_et_al_2017
+SBL,adult,Elasmobranchii,Hexanchus griseus,PLANT,Plants,Plants,Table_2,0,0,1,SBL_Bizarro_et_al_2017

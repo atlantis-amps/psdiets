@@ -1,0 +1,36 @@
+atlantis_pred_fg,pred,pred_stage,prey,mode_corr,atlantis_prey_fg
+BD,Deposit feeders,invert,Benthic filter feeder,4.74105518248062e-4,BFF
+BD,Deposit feeders,invert,Bivalves,0,BIV
+BD,Deposit feeders,invert,Mesozooplankton,0,ZM
+BD,Deposit feeders,invert,Benthic bacteria,0.00133321565056892,BB
+BD,Deposit feeders,invert,Carnivorous infauna,3.37183752944146e-4,BC
+BD,Deposit feeders,invert,Benthic grazers,0,BG
+BD,Deposit feeders,invert,Deposit feeders,0,BD
+BD,Deposit feeders,invert,Deep macro-zoobenthos,0,BMD
+BD,Deposit feeders,invert,Small Planktivorous Fish,0,FPS
+BD,Deposit feeders,invert,Crabs,0,BML
+BD,Deposit feeders,invert,Macroalgae,0.00281785591995379,MA
+BD,Deposit feeders,invert,Small phytoplankton,0,PS
+BD,Deposit feeders,invert,Carrion,0.0012528494198474,DC
+BD,Deposit feeders,invert,Microzooplankton,0,ZS
+BD,Deposit feeders,invert,Labile detritus,0.00124422437903093,DL
+BD,Deposit feeders,invert,Pacific Herring Cherry Point,0,HEC
+BD,Deposit feeders,invert,Refractory detritus,0.00127320774587634,DR
+BD,Deposit feeders,invert,Pacific Herring Puget Sound,0,HEP
+BD,Deposit feeders,invert,Pelagic bacteria,0.0012673575575847902,PB
+BD,Deposit feeders,invert,Large phytoplankton,0,PL
+BD,Deposit feeders,invert,Shrimp,0,PWN
+BD,Deposit feeders,invert,Octopi,0,BMS
+BD,Deposit feeders,invert,Small demersal fish,0,SMD
+BD,Deposit feeders,invert,Gelatinous zooplankton,0,ZG
+BD,Deposit feeders,invert,Dungeness crab,0,DUN
+BD,Deposit feeders,invert,Demersal vulnerable rockfish,0,DVR
+BD,Deposit feeders,invert,Small-mouthed Flatfish,0,FDF
+BD,Deposit feeders,invert,Squid,0,SQX
+BD,Deposit feeders,invert,Large zooplankton,0,ZL
+BD,Deposit feeders,invert,Midwater rockfish,0,MRO
+BD,Deposit feeders,invert,Perch,0,POP
+BD,Deposit feeders,invert,Midwater vulnerable rockfish,0,MVR
+BD,Deposit feeders,invert,Demersal rockfish,0,ROC
+BD,Deposit feeders,invert,Seagrass,0,SG
+BD,Deposit feeders,invert,Geoducks,0,GEC

@@ -1,0 +1,81 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CO,adult,Coho salmon,Oncorhynchus kisutch,HE,Herring,Herring,Table_III_%_composition_West coast_May_A,50.9,0.509,1,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,FPS,Sand lance,Sand lance,Table_III_%_composition_West coast_May_A,0,0,1,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,FISH,Other fishes,Other fishes,Table_III_%_composition_West coast_May_A,7.1,0.071,1,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Euphausiids,Euphausiids,Table_III_%_composition_West coast_May_A,13.8,0.138,1,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Amphipods,Amphipods,Table_III_%_composition_West coast_May_A,24.3,0.243,1,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Megalops,Megalops,Table_III_%_composition_West coast_May_A,3.9,0.039,1,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Other crustaceans,Other crustaceans,Table_III_%_composition_West coast_May_A,0,0,1,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,NA,Miscellaneous,Miscellaneous,Table_III_%_composition_West coast_May_A,0,0,1,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,HE,Herring,Herring,Table_III_%_composition_West coast_June_A,65.4,0.654,2,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,FPS,Sand lance,Sand lance,Table_III_%_composition_West coast_June_A,1.3,0.013,2,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,FISH,Other fishes,Other fishes,Table_III_%_composition_West coast_June_A,3,0.03,2,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Euphausiids,Euphausiids,Table_III_%_composition_West coast_June_A,5.6,0.056,2,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Amphipods,Amphipods,Table_III_%_composition_West coast_June_A,0.2,0.002,2,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Megalops,Megalops,Table_III_%_composition_West coast_June_A,24.5,0.245,2,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Other crustaceans,Other crustaceans,Table_III_%_composition_West coast_June_A,0,0,2,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,NA,Miscellaneous,Miscellaneous,Table_III_%_composition_West coast_June_A,0,0,2,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,HE,Herring,Herring,Table_III_%_composition_West coast_July_A,74.4,0.744,3,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,FPS,Sand lance,Sand lance,Table_III_%_composition_West coast_July_A,3.5,0.035,3,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,FISH,Other fishes,Other fishes,Table_III_%_composition_West coast_July_A,8.1,0.081,3,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Euphausiids,Euphausiids,Table_III_%_composition_West coast_July_A,0.8,0.008,3,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Amphipods,Amphipods,Table_III_%_composition_West coast_July_A,0.1,0.001,3,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Megalops,Megalops,Table_III_%_composition_West coast_July_A,12.7,0.127,3,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Other crustaceans,Other crustaceans,Table_III_%_composition_West coast_July_A,0,0,3,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,NA,Miscellaneous,Miscellaneous,Table_III_%_composition_West coast_July_A,0.4,0.004,3,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,HE,Herring,Herring,Table_III_%_composition_West coast_August_A,87.2,0.870259481,4,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,FPS,Sand lance,Sand lance,Table_III_%_composition_West coast_August_A,7.6,0.07584830339,4,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,FISH,Other fishes,Other fishes,Table_III_%_composition_West coast_August_A,1,0.00998003992,4,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Euphausiids,Euphausiids,Table_III_%_composition_West coast_August_A,3.4,0.03393213573,4,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Amphipods,Amphipods,Table_III_%_composition_West coast_August_A,0,0,4,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Megalops,Megalops,Table_III_%_composition_West coast_August_A,0.5,0.00499001996,4,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Other crustaceans,Other crustaceans,Table_III_%_composition_West coast_August_A,0,0,4,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,NA,Miscellaneous,Miscellaneous,Table_III_%_composition_West coast_August_A,0.5,0.00499001996,4,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,HE,Herring,Herring,Table_III_%_composition_West coast_September_A,69.7,0.697,5,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,FPS,Sand lance,Sand lance,Table_III_%_composition_West coast_September_A,4.6,0.046,5,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,FISH,Other fishes,Other fishes,Table_III_%_composition_West coast_September_A,0.9,0.009,5,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Euphausiids,Euphausiids,Table_III_%_composition_West coast_September_A,22.1,0.221,5,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Amphipods,Amphipods,Table_III_%_composition_West coast_September_A,0,0,5,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Megalops,Megalops,Table_III_%_composition_West coast_September_A,2.3,0.023,5,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Other crustaceans,Other crustaceans,Table_III_%_composition_West coast_September_A,0,0,5,Salmon_Prakash_1962
+CO,adult,Coho salmon,Oncorhynchus kisutch,NA,Miscellaneous,Miscellaneous,Table_III_%_composition_West coast_September_A,0.4,0.004,5,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,HE,Herring,Herring,Table_IV_%_composition_West coast_May_A,25.5,0.255,6,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,FPS,Sand lance,Sand lance,Table_IV_%_composition_West coast_May_A,68.4,0.684,6,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,FISH,Other fishes,Other fishes,Table_IV_%_composition_West coast_May_A,1.4,0.014,6,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,ZL,Euphausiids,Euphausiids,Table_IV_%_composition_West coast_May_A,2.7,0.027,6,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BD,Amphipods,Amphipods,Table_IV_%_composition_West coast_May_A,0,0,6,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BML,Megalops,Megalops,Table_IV_%_composition_West coast_May_A,1,0.01,6,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BML,Other crustaceans,Other crustaceans,Table_IV_%_composition_West coast_May_A,0.2,0.002,6,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,NA,Miscellaneous,Miscellaneous,Table_IV_%_composition_West coast_May_A,0.8,0.008,6,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,HE,Herring,Herring,Table_IV_%_composition_West coast_June_A,49.5,0.495,7,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,FPS,Sand lance,Sand lance,Table_IV_%_composition_West coast_June_A,21.6,0.216,7,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,FISH,Other fishes,Other fishes,Table_IV_%_composition_West coast_June_A,4.3,0.043,7,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,ZL,Euphausiids,Euphausiids,Table_IV_%_composition_West coast_June_A,19.2,0.192,7,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BD,Amphipods,Amphipods,Table_IV_%_composition_West coast_June_A,0,0,7,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BML,Megalops,Megalops,Table_IV_%_composition_West coast_June_A,4.8,0.048,7,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BML,Other crustaceans,Other crustaceans,Table_IV_%_composition_West coast_June_A,0.6,0.006,7,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,NA,Miscellaneous,Miscellaneous,Table_IV_%_composition_West coast_June_A,0,0,7,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,HE,Herring,Herring,Table_IV_%_composition_West coast_July_A,83,0.83,8,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,FPS,Sand lance,Sand lance,Table_IV_%_composition_West coast_July_A,13.9,0.139,8,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,FISH,Other fishes,Other fishes,Table_IV_%_composition_West coast_July_A,0.6,0.006,8,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,ZL,Euphausiids,Euphausiids,Table_IV_%_composition_West coast_July_A,2.2,0.022,8,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BD,Amphipods,Amphipods,Table_IV_%_composition_West coast_July_A,0,0,8,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BML,Megalops,Megalops,Table_IV_%_composition_West coast_July_A,0.1,0.001,8,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BML,Other crustaceans,Other crustaceans,Table_IV_%_composition_West coast_July_A,0.1,0.001,8,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,NA,Miscellaneous,Miscellaneous,Table_IV_%_composition_West coast_July_A,0.1,0.001,8,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,HE,Herring,Herring,Table_IV_%_composition_West coast_August_A,73.8,0.738,9,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,FPS,Sand lance,Sand lance,Table_IV_%_composition_West coast_August_A,19.1,0.191,9,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,FISH,Other fishes,Other fishes,Table_IV_%_composition_West coast_August_A,0.5,0.005,9,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,ZL,Euphausiids,Euphausiids,Table_IV_%_composition_West coast_August_A,4.7,0.047,9,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BD,Amphipods,Amphipods,Table_IV_%_composition_West coast_August_A,0,0,9,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BML,Megalops,Megalops,Table_IV_%_composition_West coast_August_A,0,0,9,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BML,Other crustaceans,Other crustaceans,Table_IV_%_composition_West coast_August_A,0.8,0.008,9,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,NA,Miscellaneous,Miscellaneous,Table_IV_%_composition_West coast_August_A,1.1,0.011,9,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,HE,Herring,Herring,Table_IV_%_composition_West coast_September_A,98.6,0.986,10,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,FPS,Sand lance,Sand lance,Table_IV_%_composition_West coast_September_A,0,0,10,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,FISH,Other fishes,Other fishes,Table_IV_%_composition_West coast_September_A,0.9,0.009,10,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,ZL,Euphausiids,Euphausiids,Table_IV_%_composition_West coast_September_A,0.2,0.002,10,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BD,Amphipods,Amphipods,Table_IV_%_composition_West coast_September_A,0,0,10,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BML,Megalops,Megalops,Table_IV_%_composition_West coast_September_A,0,0,10,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,BML,Other crustaceans,Other crustaceans,Table_IV_%_composition_West coast_September_A,0,0,10,Salmon_Prakash_1962
+CI,adult,Spring salmon,Oncorhynchus tshawytscha,NA,Miscellaneous,Miscellaneous,Table_IV_%_composition_West coast_September_A,0.3,0.003,10,Salmon_Prakash_1962

@@ -1,0 +1,13 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SQX,INVERT,Squid,Loligo opalescens,BML,Crustacean remains indeterminate,Crustacean remains indeterminate,Table_3,107,0.5431472081,1,SQX_Loukashkin_1975
+SQX,INVERT,Squid,Loligo opalescens,BML,Crustaceans remain (larvae),Crustaceans remain (larvae),Table_3,8,0.04060913706,1,SQX_Loukashkin_1975
+SQX,INVERT,Squid,Loligo opalescens,ZL,Crustacean remains(Euphausiids),Crustacean remains(Euphausiids),Table_3,21,0.1065989848,1,SQX_Loukashkin_1975
+SQX,INVERT,Squid,Loligo opalescens,PWN,Crustacean remains (Sergestid shrimp),Crustacean remains (Sergestid shrimp),Table_3,3,0.0152284264,1,SQX_Loukashkin_1975
+SQX,INVERT,Squid,Loligo opalescens,FISH,Fish parts and fish remains,Fish parts and fish remains,Table_3,19.6,0.09949238579,1,SQX_Loukashkin_1975
+SQX,INVERT,Squid,Loligo opalescens,NA,Fleshy material indeterminate,Fleshy material indeterminate,Table_3,21.5,0.1091370558,1,SQX_Loukashkin_1975
+SQX,INVERT,Squid,Loligo opalescens,NA,"Fluid matter, indeterminate","Fluid matter, indeterminate",Table_3,3.3,0.01675126904,1,SQX_Loukashkin_1975
+SQX,INVERT,Squid,Loligo opalescens,BC,Polychaete worms remains,Polychaete worms remains,Table_3,9.7,0.04923857868,1,SQX_Loukashkin_1975
+SQX,INVERT,Squid,Loligo opalescens,BC,Pelagic worms remains,Pelagic worms remains,Table_3,0.3,0.00152284264,1,SQX_Loukashkin_1975
+SQX,INVERT,Squid,Loligo opalescens,SQX,Young squid remains,Young squid remains,Table_3,1.8,0.009137055838,1,SQX_Loukashkin_1975
+SQX,INVERT,Squid,Loligo opalescens,BMS,Young octopus remains,Young octopus remains,Table_3,1.5,0.007614213198,1,SQX_Loukashkin_1975
+SQX,INVERT,Squid,Loligo opalescens,NA,Part of unidentified animal,Part of unidentified animal,Table_3,0.3,0.00152284264,1,SQX_Loukashkin_1975

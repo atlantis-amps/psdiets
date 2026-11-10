@@ -1,0 +1,248 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,2.97,0.0307040215,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Cumella,Cumella sp.,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,2.44,0.02522485268,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-Chironomidae,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,1.76,0.01819497571,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Cumacea,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.52,0.005375788277,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.28,0.002894655226,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Cumacea,Leucon sp.,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,1.49,0.01540370102,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Cyclopoida,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.27,0.002791274682,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,3.18,0.03287501292,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.92,0.009511010028,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.15,0.001550708157,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanus sp.,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.58,0.005996071539,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Ectinosomidae,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.03,3.101416313e-4,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.14,0.001447327613,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Homoptera-aphidoidea,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.25,0.002584513595,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Eurytemora sp.,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.03,3.101416313e-4,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Balanomorpha,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.03,3.101416313e-4,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.03,3.101416313e-4,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Chaetognatha,Chaetognatha,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.68,0.007029876977,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Ghost crab,Upogebia pugettensis,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.57,0.005892690996,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Scottolana canadensis,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.02,2.067610876e-4,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Sminthuridae,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.13,0.001343947069,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.23,0.002377752507,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.02,2.067610876e-4,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Pseudocalanus sp.,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.02,2.067610876e-4,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spinicorne,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.68,0.007029876977,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.02,2.067610876e-4,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Arthropoda,Metridia sp.,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.02,2.067610876e-4,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.02,2.067610876e-4,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,42.07,0.4349219477,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,0.23,0.002377752507,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Hymenoptera,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,1.14,0.01178538199,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,FPS,Californian anchovy,Engraulis mordax,Fig_8-2.Grav_comp_Grays_Harbor_March_June_80,35.81,0.3702057273,1,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig8-4_Grav_comp_Stearns_Bluff_March_80,20.15,0.201520152,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Cumella,Cumella sp.,Fig8-4_Grav_comp_Stearns_Bluff_March_80,13.94,0.1394139414,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-Chironomidae,Fig8-4_Grav_comp_Stearns_Bluff_March_80,1.82,0.01820182018,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Cumacea,Fig8-4_Grav_comp_Stearns_Bluff_March_80,6.67,0.06670667067,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig8-4_Grav_comp_Stearns_Bluff_March_80,1.97,0.0197019702,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Cumacea,Leucon sp.,Fig8-4_Grav_comp_Stearns_Bluff_March_80,3.03,0.0303030303,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig8-4_Grav_comp_Stearns_Bluff_March_80,13.64,0.1364136414,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig8-4_Grav_comp_Stearns_Bluff_March_80,1.82,0.01820182018,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanus sp.,Fig8-4_Grav_comp_Stearns_Bluff_March_80,7.73,0.07730773077,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Ectinosomidae,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig8-4_Grav_comp_Stearns_Bluff_March_80,1.67,0.01670167017,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Homoptera-aphidoidea,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Eurytemora sp.,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Balanomorpha,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.3,0.00300030003,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Chaetognatha,Chaetognatha,Fig8-4_Grav_comp_Stearns_Bluff_March_80,9.09,0.09090909091,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Ghost crab,Upogebia pugettensis,Fig8-4_Grav_comp_Stearns_Bluff_March_80,7.58,0.07580758076,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Scottolana canadensis,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Pseudocalanus sp.,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.3,0.00300030003,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.3,0.00300030003,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Arthropoda,Metridia sp.,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Acartia sp.,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Cicadellidae,Fig8-4_Grav_comp_Stearns_Bluff_March_80,3.03,0.0303030303,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophiidae,Fig8-4_Grav_comp_Stearns_Bluff_March_80,1.52,0.01520152015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig8-4_Grav_comp_Stearns_Bluff_March_80,3.03,0.0303030303,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Oikopleura sp.,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.3,0.00300030003,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysida,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysidae,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Oithona sp.,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Paracalanus parvus,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Polychaeta,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Polynoidae,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Polychaeta,Spionidae,Fig8-4_Grav_comp_Stearns_Bluff_March_80,0.15,0.001500150015,2,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig-8.3. Grav_comp_Moon_Island_March_June_80,16.45,0.1645329066,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Cumella,Cumella sp.,Fig-8.3. Grav_comp_Moon_Island_March_June_80,17.99,0.1799359872,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-Chironomidae,Fig-8.3. Grav_comp_Moon_Island_March_June_80,8.17,0.08171634327,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Cumacea,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.11,0.001100220044,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,Fig-8.3. Grav_comp_Moon_Island_March_June_80,1.1,0.01100220044,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Cumacea,Leucon sp.,Fig-8.3. Grav_comp_Moon_Island_March_June_80,12.58,0.125825165,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Cyclopoida,Fig-8.3. Grav_comp_Moon_Island_March_June_80,1.55,0.01550310062,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-caridea,Fig-8.3. Grav_comp_Moon_Island_March_June_80,20.97,0.2097419484,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,Fig-8.3. Grav_comp_Moon_Island_March_June_80,1.21,0.01210242048,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.11,0.001100220044,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Ectinosomidae,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.22,0.002200440088,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.11,0.001100220044,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Homoptera-aphidoidea,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.11,0.001100220044,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Eurytemora sp.,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.11,0.001100220044,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Balanomorpha,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.22,0.002200440088,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium sp.,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.22,0.002200440088,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Scottolana canadensis,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.11,0.001100220044,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Sminthuridae,Fig-8.3. Grav_comp_Moon_Island_March_June_80,1.21,0.01210242048,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig-8.3. Grav_comp_Moon_Island_March_June_80,NA,0,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.22,0.002200440088,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Pseudocalanus sp.,Fig-8.3. Grav_comp_Moon_Island_March_June_80,NA,0,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spinicorne,Fig-8.3. Grav_comp_Moon_Island_March_June_80,6.62,0.06621324265,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Crangonidae,Fig-8.3. Grav_comp_Moon_Island_March_June_80,1.1,0.01100220044,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Cletodidae,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.11,0.001100220044,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Diptera-Branchycera,Fig-8.3. Grav_comp_Moon_Island_March_June_80,4.42,0.04420884177,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Eogammarus confervicolus,Fig-8.3. Grav_comp_Moon_Island_March_June_80,1.21,0.01210242048,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arachnida,Halacaridae,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.11,0.001100220044,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Penaeidea,Fig-8.3. Grav_comp_Moon_Island_March_June_80,0.33,0.003300660132,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psychodidae,Fig-8.3. Grav_comp_Moon_Island_March_June_80,2.21,0.02210442088,3,Salmon_Simenstad_&_Eggers_1981
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psyllodidea,Fig-8.3. Grav_comp_Moon_Island_March_June_80,1.1,0.01100220044,3,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Corophium salmonis,Fig_8-9. Grav_comp_Moon_Island_March_October_80,1.85,0.01849815018,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Corophium spinicurne,Fig_8-9. Grav_comp_Moon_Island_March_October_80,3.37,0.03369663034,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Corophium sp.,Fig_8-9. Grav_comp_Moon_Island_March_October_80,1.29,0.01289871013,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Eogammarus confervicolus,Fig_8-9. Grav_comp_Moon_Island_March_October_80,3.21,0.03209679032,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Cancer sp.,Fig_8-9. Grav_comp_Moon_Island_March_October_80,69.96,0.699530047,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Coleoptera,Fig_8-9. Grav_comp_Moon_Island_March_October_80,2.17,0.02169783022,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Oregon pill bug,Gnorimosphaeroma oregonensis,Fig_8-9. Grav_comp_Moon_Island_March_October_80,6.02,0.0601939806,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,MA,Algae,Unidentified algae,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.64,0.006399360064,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Cumacea,Leucon sp.,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.08,7.99920008e-4,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Cumella,Cumella sp.,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.01,9.9990001e-5,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,Crangonidae,Fig_8-9. Grav_comp_Moon_Island_March_October_80,1.28,0.01279872013,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapoda-Brachyura,Fig_8-9. Grav_comp_Moon_Island_March_October_80,1.44,0.01439856014,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZM,Crustacea,Calanoida,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.01,9.9990001e-5,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Insecta,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.01,9.9990001e-5,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,crustacea,Mysida,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.32,0.003199680032,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Ceratopogonidae,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.08,7.99920008e-4,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Nematocera,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.08,7.99920008e-4,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Tipolidae,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.16,0.001599840016,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Diptera-Chironomidae,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.08,7.99920008e-4,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Diptera-Branchycera,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.16,0.001599840016,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Diptera,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.32,0.003199680032,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FDF,Actinopterygii,Pleuronectidae,Fig_8-9. Grav_comp_Moon_Island_March_October_80,6.26,0.06259374063,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Unidentified egg,Unidentified egg,Fig_8-9. Grav_comp_Moon_Island_March_October_80,0.01,9.9990001e-5,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Neomysis mercedis,Neomysis mercedis,Fig_8-9. Grav_comp_Moon_Island_March_October_80,1.2,0.01199880012,4,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Cancer sp.,Fig_8-10. Grav_comp_Moon_Island_March_October_80,64.84,0.6484,5,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Corophium spinicurne,Fig_8-10. Grav_comp_Moon_Island_March_October_80,34.84,0.3484,5,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Diptera-Chironomidae,Fig_8-10. Grav_comp_Moon_Island_March_October_80,0.16,0.0016,5,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,CLADOCERA,Crustacea,Cladocera-eucladocepa,Fig_8-10. Grav_comp_Moon_Island_March_October_80,0.01,1e-4,5,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZM,Crustacea,Cyclopoida,Fig_8-10. Grav_comp_Moon_Island_March_October_80,0.01,1e-4,5,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Corophium sp.,Fig_8-10. Grav_comp_Moon_Island_March_October_80,0.14,0.0014,5,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Corophium sp.,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,0.01,1.00310964e-4,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Eogammarus confervicolus,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,1.52,0.01524726653,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Cancer sp.,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,49.99,0.501454509,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Coleoptera,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,0.53,0.005316481091,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Oregon pill bug,Gnorimosphaeroma oregonensis,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,NA,0,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,MA,Algae,Unidentified algae,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,0.07,7.021767479e-4,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Cumacea,Leucon sp.,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,0.01,1.00310964e-4,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Cumella,Cumella sp.,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,0.02,2.00621928e-4,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,Crangonidae,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,5.34,0.05356605477,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Nematocera,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,0.33,0.003310261812,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Tipolidae,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,NA,0,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Diptera-Chironomidae,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,0.01,1.00310964e-4,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Allorchestes angustus,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,0.14,0.001404353496,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Hexapoda,Collembola,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,0.01,1.00310964e-4,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Eogammarus oclairi,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,20.91,0.2097502257,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Eogammarus sp.,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,2.37,0.02377369847,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Eohaustorius washingtonianos,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,0.13,0.001304042532,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Gammaridea,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,0.02,2.00621928e-4,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Harpacticoida,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,0.01,1.00310964e-4,6,Salmon_Simenstad_&_Eggers_1981
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleostei,Fig_8-11. Grav_comp_Stearns_Bluff_March_October_80,18.27,0.1832681312,6,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Cumella,Cumella sp.,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,28.28,0.3002123142,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera-chironomidae,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,3.53,0.03747346072,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium sp.,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,1.48,0.01571125265,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium spinicorne,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,2.87,0.0304670913,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psocoptera,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,0.42,0.004458598726,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera-Aphidoidea,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,2.91,0.03089171975,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Insecta,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,0.65,0.006900212314,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Cumacea,Leucon sp.,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,0.27,0.002866242038,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Ceratopogonidae,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,5.34,0.05668789809,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,0.79,0.00838641189,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus confervicolus,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,1.85,0.01963906582,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arachnida,Aranae,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,0.39,0.004140127389,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Nematocera,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,0.33,0.003503184713,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Coleoptera,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,1.11,0.01178343949,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,1.51,0.01602972399,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Scolioidea,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,16.68,0.1770700637,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Dolichopodidae,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,2.37,0.02515923567,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera-brachycera,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,0.9,0.009554140127,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Harpacticoida,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,0.07,7.430997877e-4,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Tipolidae,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,0.37,0.003927813163,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,0.09,9.554140127e-4,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eohaustorius washingtonianus,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,1.57,0.01666666667,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Cicadellidae,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,0.18,0.001910828025,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Oregon pill bug,Gnorimosphaeroma oregonensis,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,1.92,0.02038216561,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hemiptera,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,0.03,3.184713376e-4,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Saldidae,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,1.07,0.01135881104,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Tricoptera,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,1.58,0.01677282378,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Plecoptera,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,2.15,0.02282377919,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,MA,Algae,Unidentified algae,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,2.92,0.03099787686,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Simuliidae,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,2.2,0.02335456476,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,Fig_8-5.Grav_comp_Moon_Island_March_Jun_80,8.37,0.08885350318,7,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Cumella,Cumella sp.,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.25,0.002528317152,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera-chironomidae,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.23,0.00232605178,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium sp.,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.03,3.033980583e-4,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psocoptera,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.31,0.003135113269,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Insecta,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.03,3.033980583e-4,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Ceratopogonidae,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.51,0.00515776699,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arachnida,Aranae,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.18,0.00182038835,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Coleoptera,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.32,0.003236245955,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.03,3.033980583e-4,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Scolioidea,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,14.72,0.1488673139,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Cicadellidae,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.04,4.045307443e-4,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Oregon pill bug,Gnorimosphaeroma oregonensis,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,NA,0,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hemiptera,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.06,6.067961165e-4,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Saldidae,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,NA,0,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Tricoptera,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,NA,0,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Plecoptera,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,NA,0,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,MA,Algae,Unidentified algae,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,3.26,0.03296925566,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Simuliidae,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,NA,0,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,8.75,0.08849110032,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,HE,Actinopterygii,Clupea harengus pallasii,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,12.52,0.126618123,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Californian anchovy,Engraulis mordax,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,53.46,0.5406553398,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Insecta-lepidoptera,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,1.2,0.01213592233,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Mysidae,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.51,0.00515776699,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Neomysis mercedis,Neomysis mercedis,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,1.1,0.01112459547,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PLANT,Plantae,Plants anda Plants parts,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.88,0.008899676375,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Somoptera-aphidoidea,Fig. 8-6.Grav_comp_Moon_Island_March_Jun_80,0.49,0.004955501618,8,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Cumella,Cumella sp.,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,58.7,0.5870587059,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera-chironomidae,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,2.28,0.02280228023,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium sp.,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.65,0.006500650065,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psocoptera,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.56,0.005600560056,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera-Aphidoidea,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.69,0.006900690069,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Insecta,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.65,0.006500650065,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Cumacea,Leucon sp.,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.15,0.001500150015,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Ceratopogonidae,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,1.47,0.01470147015,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.51,0.005100510051,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus confervicolus,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,5.86,0.05860586059,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Nematocera,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.23,0.002300230023,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Coleoptera,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.43,0.004300430043,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.32,0.003200320032,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Scolioidea,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.43,0.004300430043,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Dolichopodidae,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.24,0.002400240024,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera-brachycera,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.8,0.00800080008,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Harpacticoida,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.09,9.00090009e-4,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Tipolidae,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.93,0.009300930093,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,MA,Algae,Unidentified algae,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,5.8,0.05800580058,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,5.6,0.05600560056,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PLANT,Plantae,Plants anda Plants parts,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.92,0.009200920092,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Allorchestes angustus,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,1.78,0.01780178018,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Amphipoda,Ampithoe sp.,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.67,0.006700670067,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Cancer sp.,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,4.33,0.04330433043,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium salmonis,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.61,0.006100610061,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus sp.,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.56,0.005600560056,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Harpacticus sp.,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.03,3.00030003e-4,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Lamprops sp.,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,0.19,0.001900190019,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Mysida,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,3.11,0.03110311031,9,Salmon_Simenstad_&_Eggers_1981
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PLANT,Alismatales,Potamogetonaceae,Fig_8-8. Grav_comp_Stearns_bluff_March_October_80,1.4,0.01400140014,9,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BD,Crustacea,Harpacticoida,Fig_8-12.Grav_comp_Mooon_Island,9.57,0.09751375586,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BD,Crustacea,Corophium sp.,Fig_8-12.Grav_comp_Mooon_Island,11.84,0.120643978,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,ZM,Crustacea,Scottolana canadensis,Fig_8-12.Grav_comp_Mooon_Island,3.29,0.0335235378,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumella,Cumella sp.,Fig_8-12.Grav_comp_Mooon_Island,3.49,0.03556144284,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BC,Annelida,Polychaeta,Fig_8-12.Grav_comp_Mooon_Island,7.01,0.07142857143,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BIV,Bivalvia,Bivalvia,Fig_8-12.Grav_comp_Mooon_Island,4.55,0.04636233951,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BD,Crustacea,Ectinosomidae,Fig_8-12.Grav_comp_Mooon_Island,0.73,0.007438353373,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BC,Annelida,Eteone sp.,Fig_8-12.Grav_comp_Mooon_Island,0.86,0.008762991645,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumacea,Leucon sp.,Fig_8-12.Grav_comp_Mooon_Island,0.85,0.008661096393,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaeta,Spionidae,Fig_8-12.Grav_comp_Mooon_Island,1.99,0.02027715508,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BD,Crustacea,Corophium brevis,Fig_8-12.Grav_comp_Mooon_Island,4.94,0.05033625433,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BD,Crustacea,Corophium salmonas,Fig_8-12.Grav_comp_Mooon_Island,4.45,0.045343387,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BD,Crustacea,Corophium spinicorne,Fig_8-12.Grav_comp_Mooon_Island,5.65,0.0575708172,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,BD,Crustacea,Eogammarus confervicolus,Fig_8-12.Grav_comp_Mooon_Island,1.35,0.01375585898,10,Salmon_Simenstad_&_Eggers_1981
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Crustacea,Crangonidae,Fig_8-12.Grav_comp_Mooon_Island,37.57,0.3828204606,10,Salmon_Simenstad_&_Eggers_1981

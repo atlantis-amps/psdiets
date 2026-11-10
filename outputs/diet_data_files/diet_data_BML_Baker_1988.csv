@@ -1,0 +1,8 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+BML,INVERT,Cancer,Cancer crab,BIV,Tapes,Tapes,Table_3,80,0.2649006623,1,BML_Baker_1988
+BML,INVERT,Cancer,Cancer crab,BIV,Macoma,Macoma,Table_3,77,0.2549668874,1,BML_Baker_1988
+BML,INVERT,Cancer,Cancer crab,BIV,Mytilus,Mytilus,Table_3,100,0.3311258278,1,BML_Baker_1988
+BML,INVERT,Cancer,Cancer crab,BIV,Ostrea,Ostrea,Table_3,45,0.1490066225,1,BML_Baker_1988
+BML,INVERT,Lophopanopeneus,Lophopanopeneus,BIV,Crepidula,Crepidula,Table_3,71,0.2983193277,2,BML_Baker_1988
+BML,INVERT,Lophopanopeneus,Lophopanopeneus,BIV,Mytilus,Mytilus,Table_3,100,0.4201680672,2,BML_Baker_1988
+BML,INVERT,Lophopanopeneus,Lophopanopeneus,BIV,Ostrea,Ostrea,Table_3,67,0.281512605,2,BML_Baker_1988

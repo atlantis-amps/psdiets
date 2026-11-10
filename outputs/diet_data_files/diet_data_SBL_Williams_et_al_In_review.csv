@@ -1,0 +1,15 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,DUN,Crustacea,Metacarcinus magister,Text_1,46,0.1796875,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,PWN,Crustacea,Pandalid shrimps,Text_1,46,0.1796875,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,BMS,Cephalopoda,Giant Pacific octopus,Text_1,46,0.1796875,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,RAT,Ratfish,Hydrolagus collei,Text_1,30,0.1171875,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,FDF,Flatfish,Flatfish,Text_1,30,0.1171875,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,FVS,Lingcod,Lingcod,Text_1,12,0.046875,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,ROCKFISH,Large rockfish,Rockfish,Text_1,12,0.046875,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,SMD,Sculpin,Sculpin,Text_1,12,0.046875,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,FMM,Cod,Cod,Text_1,12,0.046875,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,HSL,Harbour seal,Phoca vitulina,Text_1,2,0.0078125,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,SQX,Squid,Squid,Text_1,2,0.0078125,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,DOG,Spiny dogfish,Squalus acanthias,Text_1,2,0.0078125,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,CI,Chinook salmon,Chinook salmon,Text_1,2,0.0078125,1,SBL_Williams_et_al_In_review
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,HE,Herring,Herring,Text_1,2,0.0078125,1,SBL_Williams_et_al_In_review

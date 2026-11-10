@@ -1,0 +1,101 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida,Harpaticoida,Fig_5_Hood_Canal_Grav_Comp_1977_1979,4.91,0.05133835215,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea,Gammaridea,Fig_5_Hood_Canal_Grav_Comp_1977_1979,1.71,0.01787954831,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanoida,Fig_5_Hood_Canal_Grav_Comp_1977_1979,8.59,0.08981597658,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Euphausiacea,Euphausiacea,Fig_5_Hood_Canal_Grav_Comp_1977_1979,6.88,0.07193642827,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipoda-Hyperiidea,Amphipoda-Hyperiidea,Fig_5_Hood_Canal_Grav_Comp_1977_1979,0.98,0.01024675868,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Diptera,Fig_5_Hood_Canal_Grav_Comp_1977_1979,0.31,0.003241321623,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Dikopleuridae,Dikopleuridae,Fig_5_Hood_Canal_Grav_Comp_1977_1979,32.9,0.3439983271,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Teleostei,Teleostei,Fig_5_Hood_Canal_Grav_Comp_1977_1979,5.16,0.0539523212,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Copepoda,Fig_5_Hood_Canal_Grav_Comp_1977_1979,2.04,0.02132998745,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Balanomorpha,Balanomorpha,Fig_5_Hood_Canal_Grav_Comp_1977_1979,0.11,0.001150146382,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Fig_5_Hood_Canal_Grav_Comp_1977_1979,0.15,0.00156838143,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,MA,Unidentified algae and eggs,Unidentified algae and eggs,Fig_5_Hood_Canal_Grav_Comp_1977_1979,0.15,0.00156838143,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanidae,Calanidae,Fig_5_Hood_Canal_Grav_Comp_1977_1979,11.1,0.1160602258,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Corycaeidae,Corycaeidae,Fig_5_Hood_Canal_Grav_Comp_1977_1979,1.16,0.01212881639,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda,Decapoda,Fig_5_Hood_Canal_Grav_Comp_1977_1979,0.76,0.007946465914,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig_5_Hood_Canal_Grav_Comp_1977_1979,0.08,8.364700962e-4,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Homoptera-aphidoidea,Homoptera-aphidoidea,Fig_5_Hood_Canal_Grav_Comp_1977_1979,1.56,0.01631116688,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Pinnotheridae,Pinnotheridae,Fig_5_Hood_Canal_Grav_Comp_1977_1979,0.09,9.410288582e-4,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Hyperiidae,Hyperiidae,Fig_5_Hood_Canal_Grav_Comp_1977_1979,7.54,0.07883730657,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Polychaeta,Polychaeta,Fig_5_Hood_Canal_Grav_Comp_1977_1979,0.14,0.001463822668,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Chaetognatha,Chaetognatha,Fig_5_Hood_Canal_Grav_Comp_1977_1979,1.37,0.0143245504,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera-Chironomidae,Diptera-Chironomidae,Fig_5_Hood_Canal_Grav_Comp_1977_1979,2.12,0.02216645755,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Pontellidae,Pontellidae,Fig_5_Hood_Canal_Grav_Comp_1977_1979,2.86,0.02990380594,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Gymnolaemata,Gymnolaemata,Fig_5_Hood_Canal_Grav_Comp_1977_1979,0.36,0.003764115433,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Calliopiidae,Calliopiidae,Fig_5_Hood_Canal_Grav_Comp_1977_1979,2.61,0.02728983689,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida,Harpaticoida,Fig_5_Hood_Canal_Grav_Comp_1977_1979,0,0,1,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpaticoida,Harpaticoida,Fig_6_Hood_Canal_Grav_Comp_1977_1979,4.43,0.04698769622,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea,Gammaridea,Fig_6_Hood_Canal_Grav_Comp_1977_1979,1.77,0.01877386508,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanoida,Fig_6_Hood_Canal_Grav_Comp_1977_1979,5.48,0.05812473483,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Euphausiacea,Euphausiacea,Fig_6_Hood_Canal_Grav_Comp_1977_1979,7.56,0.08018667798,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Dikopleuridae,Dikopleuridae,Fig_6_Hood_Canal_Grav_Comp_1977_1979,38.97,0.4133432329,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Copepoda,Fig_6_Hood_Canal_Grav_Comp_1977_1979,2.48,0.02630462452,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Diptera,Fig_6_Hood_Canal_Grav_Comp_1977_1979,0.22,0.002333474756,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Corycaeidae,Corycaeidae,Fig_6_Hood_Canal_Grav_Comp_1977_1979,1.41,0.01495545185,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Balanomorpha,Balanomorpha,Fig_6_Hood_Canal_Grav_Comp_1977_1979,0.1,0.001060670344,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipoda-Hyperiidea,Amphipoda-Hyperiidea,Fig_6_Hood_Canal_Grav_Comp_1977_1979,0.68,0.007212558337,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanidae,Calanidae,Fig_6_Hood_Canal_Grav_Comp_1977_1979,8.68,0.09206618583,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Teleostei,Teleostei,Fig_6_Hood_Canal_Grav_Comp_1977_1979,4.78,0.05070004243,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Pinnotheridae,Pinnotheridae,Fig_6_Hood_Canal_Grav_Comp_1977_1979,0.1,0.001060670344,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,MA,Unidentified algae and eggs,Unidentified algae and eggs,Fig_6_Hood_Canal_Grav_Comp_1977_1979,0.15,0.001591005515,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Fig_6_Hood_Canal_Grav_Comp_1977_1979,0.14,0.001484938481,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Homoptera-aphidoidea,Homoptera-aphidoidea,Fig_6_Hood_Canal_Grav_Comp_1977_1979,1.81,0.01919813322,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Hyperiidae,Hyperiidae,Fig_6_Hood_Canal_Grav_Comp_1977_1979,7.67,0.08135341536,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera-Chironomidae,Diptera-Chironomidae,Fig_6_Hood_Canal_Grav_Comp_1977_1979,2.57,0.02725922783,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Nematocera,Nematocera,Fig_6_Hood_Canal_Grav_Comp_1977_1979,0.24,0.002545608825,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig_6_Hood_Canal_Grav_Comp_1977_1979,0.05,5.303351718e-4,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BG,Mesogastropoda,Mesogastropoda,Fig_6_Hood_Canal_Grav_Comp_1977_1979,0.05,5.303351718e-4,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Cirripedia-Thoracica,Cirripedia-Thoracica,Fig_6_Hood_Canal_Grav_Comp_1977_1979,0.04,4.242681375e-4,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Chaetognatha,Chaetognatha,Fig_6_Hood_Canal_Grav_Comp_1977_1979,1.29,0.01368264743,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Gymnolaemata,Gymnolaemata,Fig_6_Hood_Canal_Grav_Comp_1977_1979,0.44,0.004666949512,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Calliopiidae,Calliopiidae,Fig_6_Hood_Canal_Grav_Comp_1977_1979,3.17,0.03362324989,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpacticoida,Harpacticoida,Fig_6_Hood_Canal_Grav_Comp_1977_1979,0,0,2,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Euphausiacea,Euphausiacea,Fig_7_Hood_Canal_Grav_Comp_1977_1979,1.68,0.01707664159,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanoida,Calanoida,Fig_7_Hood_Canal_Grav_Comp_1977_1979,24.03,0.2442569628,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpacticoida,Harpacticoida,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.9,0.009148200854,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipoda-Hyperiidea,Amphipoda-Hyperiidea,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.72,0.007318560683,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Gammaridea,Gammaridea,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.62,0.006302093922,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Diptera,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.34,0.003455986989,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Teleostei,Teleostei,Fig_7_Hood_Canal_Grav_Comp_1977_1979,7.83,0.07958934743,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Chaetognatha,Chaetognatha,Fig_7_Hood_Canal_Grav_Comp_1977_1979,2.54,0.02581825574,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda,Decapoda,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.19,0.001931286847,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Homoptera-aphidoidea,Homoptera-aphidoidea,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.51,0.005183980484,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Cirripedia-Thoracica,Cirripedia-Thoracica,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.15,0.001524700142,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Hyperiidae,Hyperiidae,Fig_7_Hood_Canal_Grav_Comp_1977_1979,10.79,0.1096767636,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.13,0.00132140679,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Nannastacidae,Nannastacidae,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.13,0.00132140679,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Pleocyemata-Caridea,Pleocyemata-Caridea,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.11,0.001118113438,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.11,0.001118113438,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Bodotriidae,Bodotriidae,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.11,0.001118113438,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Dikopleuridae,Dikopleuridae,Fig_7_Hood_Canal_Grav_Comp_1977_1979,5.27,0.05356779833,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Pontellidae,Pontellidae,Fig_7_Hood_Canal_Grav_Comp_1977_1979,8.1,0.08233380768,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Calanidae,Calanidae,Fig_7_Hood_Canal_Grav_Comp_1977_1979,34.08,0.3464118723,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,CLADOCERA,Cladocera,Cladocera,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.02,2.032933523e-4,3,Salmon_Simenstad_et_al_1980
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepoda,Copepoda,Fig_7_Hood_Canal_Grav_Comp_1977_1979,0.02,2.032933523e-4,3,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Harpacticoida,Harpacticoida,Fig_10_Hood_Canal_Grav_Comp_1978,5.42,0.0554532433,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Calanoida,Calanoida,Fig_10_Hood_Canal_Grav_Comp_1978,37.06,0.3791692245,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepoda,Copepoda,Fig_10_Hood_Canal_Grav_Comp_1978,3.42,0.0349907919,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PL,Bacillariophyceae-Pennales,Bacillariophyceae-Pennales,Fig_10_Hood_Canal_Grav_Comp_1978,0.5,0.00511561285,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Euphausiacea,Euphausiacea,Fig_10_Hood_Canal_Grav_Comp_1978,4.25,0.04348270923,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Gymnolaemata,Gymnolaemata,Fig_10_Hood_Canal_Grav_Comp_1978,1.71,0.01749539595,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FISH,Teleostei,Teleostei,Fig_10_Hood_Canal_Grav_Comp_1978,5.02,0.05136075302,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Gammaridea,Gammaridea,Fig_10_Hood_Canal_Grav_Comp_1978,1.31,0.01340290567,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Balanomorpha,Balanomorpha,Fig_10_Hood_Canal_Grav_Comp_1978,0.27,0.002762430939,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Cyclopoida,Cyclopoida,Fig_10_Hood_Canal_Grav_Comp_1978,0.23,0.002353181911,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Calanus sp.,Calanus sp.,Fig_10_Hood_Canal_Grav_Comp_1978,12.38,0.1266625742,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BG,Mesogastropoda,Mesogastropoda,Fig_10_Hood_Canal_Grav_Comp_1978,0.38,0.003887865766,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,NA,Unidentified,Unidentified,Fig_10_Hood_Canal_Grav_Comp_1978,0.38,0.003887865766,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Epilabidocera amphitrites,Epilabidocera amphitrites,Fig_10_Hood_Canal_Grav_Comp_1978,6.3,0.06445672192,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Corycaeus anglicus,Corycaeus anglicus,Fig_10_Hood_Canal_Grav_Comp_1978,0.74,0.007571107019,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Oikopleura sp.,Oikopleura sp.,Fig_10_Hood_Canal_Grav_Comp_1978,11.72,0.1199099652,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Pseudocalanus minutus,Pseudocalanus minutus,Fig_10_Hood_Canal_Grav_Comp_1978,0.98,0.01002660119,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Pleocyemata-Caridea,Pleocyemata-Caridea,Fig_10_Hood_Canal_Grav_Comp_1978,0.52,0.005320237364,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Nematocera,Nematocera,Fig_10_Hood_Canal_Grav_Comp_1978,0.74,0.007571107019,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Crustacea,Crustacea,Fig_10_Hood_Canal_Grav_Comp_1978,0.29,0.002967055453,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Ascideacea,Ascideacea,Fig_10_Hood_Canal_Grav_Comp_1978,0.09,9.208103131e-4,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Decapoda-Brachyura,Decapoda-Brachyura,Fig_10_Hood_Canal_Grav_Comp_1978,0.09,9.208103131e-4,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Homoptera-aphidoidea,Homoptera-aphidoidea,Fig_10_Hood_Canal_Grav_Comp_1978,1.13,0.01156128504,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Diptera,Fig_10_Hood_Canal_Grav_Comp_1978,0.09,9.208103131e-4,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Parathemisto sp.,Parathemisto sp.,Fig_10_Hood_Canal_Grav_Comp_1978,2.25,0.02302025783,4,Salmon_Simenstad_et_al_1980
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Calliopidae,Calliopidae,Fig_10_Hood_Canal_Grav_Comp_1978,0.47,0.004808676079,4,Salmon_Simenstad_et_al_1980

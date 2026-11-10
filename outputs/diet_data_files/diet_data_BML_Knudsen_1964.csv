@@ -1,0 +1,8 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+BML,INVERT,Hemigrapsus nodosus,Hemigrapsus nodosus,MA,Marine algae,Marine algae,Text,20,0.2,1,BML_Knudsen_1964
+BML,INVERT,Hemigrapsus nodosus,Hemigrapsus nodosus,PL,Diatoms,Diatoms,Text,20,0.2,1,BML_Knudsen_1964
+BML,INVERT,Hemigrapsus nodosus,Hemigrapsus nodosus,NA,Desmids,Desmids,Text,20,0.2,1,BML_Knudsen_1964
+BML,INVERT,Hemigrapsus nodosus,Hemigrapsus nodosus,NA,Inorganic material,Inorganic material,Text,20,0.2,1,BML_Knudsen_1964
+BML,INVERT,Hemigrapsus nodosus,Hemigrapsus nodosus,BD,Amphipods,Amphipods,Text,6.666666667,0.06666666667,1,BML_Knudsen_1964
+BML,INVERT,Hemigrapsus nodosus,Hemigrapsus nodosus,BML,Arthropods,Arthropods,Text,6.666666667,0.06666666667,1,BML_Knudsen_1964
+BML,INVERT,Hemigrapsus nodosus,Hemigrapsus nodosus,BML,Crustacean,Crustacean,Text,6.666666667,0.06666666667,1,BML_Knudsen_1964

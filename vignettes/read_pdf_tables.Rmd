@@ -1,0 +1,50 @@
+---
+title: "Read pdf tables"
+output: html_notebook
+---
+
+```{r load_package, include=FALSE}
+devtools::load_all()
+```
+
+Read and assimilate Best & GIlbert diet data for Pacific Halibut
+
+```{r}
+
+# 1. Convert PDF pages to high-resolution PNG images (300+ DPI recommended)
+# This creates a PNG file for each page in your working directory
+pdf_images <- pdftools::pdf_convert(here::here("data","Pages_Best_Gilbert_Pacific_halibut.pdf"), dpi = 300)
+
+# 2. Run OCR across all the generated page images
+ocr_text <- tesseract::ocr(pdf_images)
+
+# 3. Put raw text into a tibble split by lines
+ocr_tibble <- tidyr::tibble(page = seq_along(ocr_text), text = ocr_text) %>%
+  tidyr::separate_rows(text, sep = "\n") %>%
+  dplyr::filter(stringr::str_detect(text, "\\S")) # Remove empty rows
+
+nrow.tibble <- nrow(ocr_tibble)
+
+num_numeric_cols <- 12
+# 4. Further parse columns using string separation (adjust regex to match your table)
+final_table <- ocr_tibble[5:nrow.tibble,] %>% 
+    dplyr::mutate(
+      # Extract everything before the first sequence of numbers
+      species = stringr::str_extract(text, "^[^0-9]+") %>% stringr::str_trim(),
+      # Remove the species name and split remaining numbers
+      numbers = stringr::str_remove(text, "^[^0-9]+") %>% stringr::str_trim()
+    ) %>%
+  dplyr::filter(text!="Unidentified") %>% 
+  dplyr::mutate(numbers=gsub("[|]", "1", numbers)) %>%
+    tidyr::separate_wider_delim(
+      numbers,
+      delim = " ",
+      names = paste0("value_", 1:num_numeric_cols),
+      cols_remove = TRUE,
+      too_few = "align_end"
+    )
+
+readr::write_csv(final_table, here::here("outputs","Best_Gilbert_Pacific_halibut.csv"))
+
+```
+

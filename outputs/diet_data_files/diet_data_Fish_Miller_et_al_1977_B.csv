@@ -1,0 +1,224 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HE,juvenile,Pacific herring,Pacific herring,PWN,Mysids,Mysids,Table20_%IRI_from_Birch Bay_May_1976,72.3,0.7422921736,1,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Cumaceans,Cumaceans,Table20_%IRI_from_Birch Bay_May_1976,12.3,0.126282071,1,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table20_%IRI_from_Birch Bay_May_1976,9,0.09240151538,1,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Gammarid amphipods,Gammarid amphipods,Table20_%IRI_from_Birch Bay_May_1976,3.7,0.03798728966,1,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BFF,Barnacle nauplii,Barnacle nauplii,Table20_%IRI_from_Birch Bay_May_1976,0.1,0.001026683504,1,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,FISH,Fish,Fish,Table20_%IRI_from_Birch Bay_May_1976,0,0,1,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Harpaticoid copepods,Harpaticoid copepods,Table20_%IRI_from_Birch Bay_May_1976,0.001,1.026683504e-5,1,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,PWN,Mysids,Mysids,Table20_%IRI_from_Cherry Point_May_1976,0,0,2,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Cumaceans,Cumaceans,Table20_%IRI_from_Cherry Point_May_1976,0,0,2,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table20_%IRI_from_Cherry Point_May_1976,6.3,0.06596858639,2,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Gammarid amphipods,Gammarid amphipods,Table20_%IRI_from_Cherry Point_May_1976,0.3,0.003141361257,2,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BFF,Barnacle nauplii,Barnacle nauplii,Table20_%IRI_from_Cherry Point_May_1976,86.8,0.9089005236,2,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,FISH,Fish,Fish,Table20_%IRI_from_Cherry Point_May_1976,2,0.02094240838,2,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Harpaticoid copepods,Harpaticoid copepods,Table20_%IRI_from_Cherry Point_May_1976,0.1,0.001047120419,2,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,PWN,Mysids,Mysids,Table20_%IRI_from_Padilla bay_May_1976,0.2,0.002105263158,3,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Cumaceans,Cumaceans,Table20_%IRI_from_Padilla bay_May_1976,0,0,3,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table20_%IRI_from_Padilla bay_May_1976,91.7,0.9652631579,3,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Gammarid amphipods,Gammarid amphipods,Table20_%IRI_from_Padilla bay_May_1976,0.2,0.002105263158,3,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BFF,Barnacle nauplii,Barnacle nauplii,Table20_%IRI_from_Padilla bay_May_1976,0.9,0.009473684211,3,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,FISH,Fish,Fish,Table20_%IRI_from_Padilla bay_May_1976,0,0,3,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Harpaticoid copepods,Harpaticoid copepods,Table20_%IRI_from_Padilla bay_May_1976,2,0.02105263158,3,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table21_%IRI_from_Westcott_Bay_June 1976,83.4,0.8398791541,4,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Harpacticoid copepods,Harpaticoid copepods,Table21_%IRI_from_Westcott_Bay_June 1976,5.9,0.05941591138,4,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crab larvae,Crab larvae,Table21_%IRI_from_Westcott_Bay_June 1976,5.3,0.05337361531,4,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,FISH,Fish larvae,Fish larvae,Table21_%IRI_from_Westcott_Bay_June 1976,1.4,0.01409869084,4,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Ostracods,Ostracods,Table21_%IRI_from_Westcott_Bay_June 1976,1.2,0.01208459215,4,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crabs,Crabs,Table21_%IRI_from_Westcott_Bay_June 1976,1.2,0.01208459215,4,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Hyperiid amphipods,Hyperiid amphipods,Table21_%IRI_from_Westcott_Bay_June 1976,0,0,4,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,PWN,Mysids,Mysids,Table21_%IRI_from_Westcott_Bay_June 1976,0.9,0.009063444109,4,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table21_%IRI_from_Westcott_Bay_August 1976,95.4,0.9548593734,5,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Harpacticoid copepods,Harpaticoid copepods,Table21_%IRI_from_Westcott_Bay_August 1976,0.01,1.000900811e-4,5,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crab larvae,Crab larvae,Table21_%IRI_from_Westcott_Bay_August 1976,0.2,0.002001801621,5,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,FISH,Fish larvae,Fish larvae,Table21_%IRI_from_Westcott_Bay_August 1976,0,0,5,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Ostracods,Ostracods,Table21_%IRI_from_Westcott_Bay_August 1976,0,0,5,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crabs,Crabs,Table21_%IRI_from_Westcott_Bay_August 1976,0,0,5,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Hyperiid amphipods,Hyperiid amphipods,Table21_%IRI_from_Westcott_Bay_August 1976,4.3,0.04303873486,5,Fish_Miller_et_al_1977_B
+HE,juvenile,Pacific herring,Pacific herring,PWN,Mysids,Mysids,Table21_%IRI_from_Westcott_Bay_August 1976,0,0,5,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,BD,Harpacticoid copepods,Harpacticoid copepods,Table22_%IRI_by_Beach Seine_1974-1976,70.9,0.7168857432,6,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,BD,Gammarid amphipods,Gammarid amphipods,Table22_%IRI_by_Beach Seine_1974-1976,11.6,0.1172901921,6,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,BD,Oniscoidean isopods,Oniscoidean isopods,Table22_%IRI_by_Beach Seine_1974-1976,10.6,0.1071789687,6,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,FISH,Fish,Fish,Table22_%IRI_by_Beach Seine_1974-1976,2.7,0.02730030334,6,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,ZL,Euphausiids,Euphausiids,Table22_%IRI_by_Beach Seine_1974-1976,2,0.02022244692,6,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,BD,Cumaceans,Cumaceans,Table22_%IRI_by_Beach Seine_1974-1976,1.1,0.0111223458,6,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,ZM,Calanoid copepods,Calanoid copepods,Table22_%IRI_by_Beach Seine_1974-1976,0,0,6,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,BD,Hyperiid amphipods,Hyperiid amphipods,Table22_%IRI_by_Beach Seine_1974-1976,0,0,6,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,BD,Harpacticoid copepods,Harpacticoid copepods,Table22_%IRI_by_Townet_1974-1976,3.6,0.03680605255,7,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,BD,Gammarid amphipods,Gammarid amphipods,Table22_%IRI_by_Townet_1974-1976,1.1,0.01124629383,7,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,BD,Oniscoidean isopods,Oniscoidean isopods,Table22_%IRI_by_Townet_1974-1976,0,0,7,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,FISH,Fish,Fish,Table22_%IRI_by_Townet_1974-1976,0.2,0.002044780697,7,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,ZL,Euphausiids,Euphausiids,Table22_%IRI_by_Townet_1974-1976,0.01,1.022390349e-4,7,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,BD,Cumaceans,Cumaceans,Table22_%IRI_by_Townet_1974-1976,0.6,0.006134342092,7,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,ZM,Calanoid copepods,Calanoid copepods,Table22_%IRI_by_Townet_1974-1976,80,0.8179122789,7,Fish_Miller_et_al_1977_B
+CU,juvenile,Chum salmon,Chum salmon,BD,Hyperiid amphipods,Hyperiid amphipods,Table22_%IRI_by_Townet_1974-1976,12.3,0.1257540129,7,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BML,Crab larvae,Crab larvae,Table23_%IRI_at_Padilla bay_Jun_1975,70.6,0.7160243408,8,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,ZL,Euphausiids,Euphausiids,Table23_%IRI_at_Padilla bay_Jun_1975,20.2,0.2048681542,8,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,FISH,Fish,Fish,Table23_%IRI_at_Padilla bay_Jun_1975,6.7,0.06795131846,8,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_%IRI_at_Padilla bay_Jun_1975,0.3,0.003042596349,8,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BD,Gammarid amphipods,Gammarid amphipods,Table23_%IRI_at_Padilla bay_Jun_1975,0.8,0.008113590264,8,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BC,Polychaetes,Polychaetes,Table23_%IRI_at_Padilla bay_Jun_1975,0,0,8,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,INSECT,Insect,Insect,Table23_%IRI_at_Padilla bay_Jun_1975,0,0,8,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BML,Crab larvae,Crab larvae,Table23_%IRI_at_Shannon Point_Jun_1975,7.2,0.07733619764,9,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,ZL,Euphausiids,Euphausiids,Table23_%IRI_at_Shannon Point_Jun_1975,50.5,0.5424274973,9,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,FISH,Fish,Fish,Table23_%IRI_at_Shannon Point_Jun_1975,11.9,0.1278195489,9,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_%IRI_at_Shannon Point_Jun_1975,15.2,0.1632653061,9,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BD,Gammarid amphipods,Gammarid amphipods,Table23_%IRI_at_Shannon Point_Jun_1975,6.8,0.07303974221,9,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BC,Polychaetes,Polychaetes,Table23_%IRI_at_Shannon Point_Jun_1975,1.5,0.01611170784,9,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,INSECT,Insect,Insect,Table23_%IRI_at_Shannon Point_Jun_1975,0,0,9,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BML,Crab larvae,Crab larvae,Table23_%IRI_at_Birch_Bay_July_1975,0.4,0.004012036108,10,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,ZL,Euphausiids,Euphausiids,Table23_%IRI_at_Birch_Bay_July_1975,0,0,10,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,FISH,Fish,Fish,Table23_%IRI_at_Birch_Bay_July_1975,36.7,0.3681043129,10,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_%IRI_at_Birch_Bay_July_1975,0,0,10,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BD,Gammarid amphipods,Gammarid amphipods,Table23_%IRI_at_Birch_Bay_July_1975,0.7,0.00702106319,10,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BC,Polychaetes,Polychaetes,Table23_%IRI_at_Birch_Bay_July_1975,0,0,10,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,INSECT,Insect,Insect,Table23_%IRI_at_Birch_Bay_July_1975,61.9,0.6208625878,10,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BML,Crab larvae,Crab larvae,Table23_%IRI_at_Cherry_point_July_1975,4.7,0.04709418838,11,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,ZL,Euphausiids,Euphausiids,Table23_%IRI_at_Cherry_point_July_1975,0,0,11,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,FISH,Fish,Fish,Table23_%IRI_at_Cherry_point_July_1975,20.4,0.2044088176,11,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_%IRI_at_Cherry_point_July_1975,2.5,0.0250501002,11,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BD,Gammarid amphipods,Gammarid amphipods,Table23_%IRI_at_Cherry_point_July_1975,0,0,11,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BC,Polychaetes,Polychaetes,Table23_%IRI_at_Cherry_point_July_1975,0.3,0.003006012024,11,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,INSECT,Insect,Insect,Table23_%IRI_at_Cherry_point_July_1975,71.9,0.7204408818,11,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BML,Crab larvae,Crab larvae,Table23_%IRI_at_Birch_Bay_August_1975,35.1,0.3520526374,12,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,ZL,Euphausiids,Euphausiids,Table23_%IRI_at_Birch_Bay_August_1975,0,0,12,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,FISH,Fish,Fish,Table23_%IRI_at_Birch_Bay_August_1975,50.9,0.5105264742,12,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_%IRI_at_Birch_Bay_August_1975,0.001,1.002998967e-5,12,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BD,Gammarid amphipods,Gammarid amphipods,Table23_%IRI_at_Birch_Bay_August_1975,0.2,0.002005997934,12,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BC,Polychaetes,Polychaetes,Table23_%IRI_at_Birch_Bay_August_1975,0,0,12,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,INSECT,Insect,Insect,Table23_%IRI_at_Birch_Bay_August_1975,13.5,0.1354048605,12,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BML,Crab larvae,Crab larvae,Table23_%IRI_at_Shannon Point_August_1975,53.2,0.532,13,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,ZL,Euphausiids,Euphausiids,Table23_%IRI_at_Shannon Point_August_1975,0,0,13,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,FISH,Fish,Fish,Table23_%IRI_at_Shannon Point_August_1975,0,0,13,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_%IRI_at_Shannon Point_August_1975,0,0,13,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BD,Gammarid amphipods,Gammarid amphipods,Table23_%IRI_at_Shannon Point_August_1975,8.8,0.088,13,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,BC,Polychaetes,Polychaetes,Table23_%IRI_at_Shannon Point_August_1975,0,0,13,Fish_Miller_et_al_1977_B
+CO,juvenile,Coho salmon,Coho salmon,INSECT,Insect,Insect,Table23_%IRI_at_Shannon Point_August_1975,38,0.38,13,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BC,Polychaetes,Polychaetes,Table24_%IRI_at_Padilla bay_Jul_1975,69,0.6941649899,14,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BML,Crabs,Crabs,Table24_%IRI_at_Padilla bay_Jul_1975,25.4,0.2555331992,14,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,INSECT,Insects,Insects,Table24_%IRI_at_Padilla bay_Jul_1975,4.5,0.04527162978,14,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BD,Gammarid amphipods,Gammarid amphipods,Table24_%IRI_at_Padilla bay_Jul_1975,0.5,0.005030181087,14,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,ZM,Calanoid copepods,Calanoid copepods,Table24_%IRI_at_Padilla bay_Jul_1975,0,0,14,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BC,Polychaetes,Polychaetes,Table24_%IRI_at_Burrows island_Jul_1975,0.2,0.002006018054,15,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BML,Crabs,Crabs,Table24_%IRI_at_Burrows island_Jul_1975,72.5,0.7271815446,15,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,INSECT,Insects,Insects,Table24_%IRI_at_Burrows island_Jul_1975,9.5,0.09528585757,15,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BD,Gammarid amphipods,Gammarid amphipods,Table24_%IRI_at_Burrows island_Jul_1975,16.8,0.1685055165,15,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,ZM,Calanoid copepods,Calanoid copepods,Table24_%IRI_at_Burrows island_Jul_1975,0.7,0.00702106319,15,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,PARASITE,Diogeneid trematodes,Diogeneid trematodes,Table25_%IRI_at_Birch bay_Aug_1976,51.5,0.5159803627,16,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,FISH,Fish,Fish,Table25_%IRI_at_Birch bay_Aug_1976,47.8,0.4789099289,16,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BC,Polychaetes,Polychaetes,Table25_%IRI_at_Birch bay_Aug_1976,0.1,0.001001903617,16,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BML,Crab larvae,Crab larvae,Table25_%IRI_at_Birch bay_Aug_1976,0.2,0.002003807234,16,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,ZL,Ostracods,Ostracods,Table25_%IRI_at_Birch bay_Aug_1976,0,0,16,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BD,Gammarid amphipods,Gammarid amphipods,Table25_%IRI_at_Birch bay_Aug_1976,0.01,1.001903617e-4,16,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,INSECT,Insects,Insects,Table25_%IRI_at_Birch bay_Aug_1976,0.2,0.002003807234,16,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BD,Cumaceans,Cumaceans,Table25_%IRI_at_Birch bay_Aug_1976,0,0,16,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,ZL,Euphausiids,Euphausiids,Table25_%IRI_at_Birch bay_Aug_1976,0,0,16,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,PARASITE,Diogeneid trematodes,Diogeneid trematodes,Table25_%IRI_at_Cherry point_Aug_1976,0.5,0.005064829822,17,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,FISH,Fish,Fish,Table25_%IRI_at_Cherry point_Aug_1976,1.4,0.0141815235,17,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BC,Polychaetes,Polychaetes,Table25_%IRI_at_Cherry point_Aug_1976,0.3,0.003038897893,17,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BML,Crab larvae,Crab larvae,Table25_%IRI_at_Cherry point_Aug_1976,35.2,0.3565640194,17,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,ZL,Ostracods,Ostracods,Table25_%IRI_at_Cherry point_Aug_1976,31.5,0.3190842788,17,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BD,Gammarid amphipods,Gammarid amphipods,Table25_%IRI_at_Cherry point_Aug_1976,26.3,0.2664100486,17,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,INSECT,Insects,Insects,Table25_%IRI_at_Cherry point_Aug_1976,3.5,0.03545380875,17,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BD,Cumaceans,Cumaceans,Table25_%IRI_at_Cherry point_Aug_1976,0.01,1.012965964e-4,17,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,ZL,Euphausiids,Euphausiids,Table25_%IRI_at_Cherry point_Aug_1976,0.01,1.012965964e-4,17,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,PARASITE,Diogeneid trematodes,Diogeneid trematodes,Table25_%IRI_at_Lummi Bay_Aug_1976,0.6,0.006282722513,18,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,FISH,Fish,Fish,Table25_%IRI_at_Lummi Bay_Aug_1976,1,0.01047120419,18,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BC,Polychaetes,Polychaetes,Table25_%IRI_at_Lummi Bay_Aug_1976,0,0,18,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BML,Crab larvae,Crab larvae,Table25_%IRI_at_Lummi Bay_Aug_1976,38.2,0.4,18,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,ZL,Ostracods,Ostracods,Table25_%IRI_at_Lummi Bay_Aug_1976,1.7,0.01780104712,18,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BD,Gammarid amphipods,Gammarid amphipods,Table25_%IRI_at_Lummi Bay_Aug_1976,48.9,0.5120418848,18,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,INSECT,Insects,Insects,Table25_%IRI_at_Lummi Bay_Aug_1976,3.8,0.03979057592,18,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BD,Cumaceans,Cumaceans,Table25_%IRI_at_Lummi Bay_Aug_1976,1.3,0.01361256545,18,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,ZL,Euphausiids,Euphausiids,Table25_%IRI_at_Lummi Bay_Aug_1976,0,0,18,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,PARASITE,Diogeneid trematodes,Diogeneid trematodes,Table25_%IRI_at_Padilla bay_Aug_1976,0.2,0.002055287226,19,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,FISH,Fish,Fish,Table25_%IRI_at_Padilla bay_Aug_1976,0.2,0.002055287226,19,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BC,Polychaetes,Polychaetes,Table25_%IRI_at_Padilla bay_Aug_1976,2.9,0.02980166478,19,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BML,Crab larvae,Crab larvae,Table25_%IRI_at_Padilla bay_Aug_1976,70.8,0.7275716781,19,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,ZL,Ostracods,Ostracods,Table25_%IRI_at_Padilla bay_Aug_1976,0.6,0.006165861679,19,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BD,Gammarid amphipods,Gammarid amphipods,Table25_%IRI_at_Padilla bay_Aug_1976,6.1,0.0626862604,19,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,INSECT,Insects,Insects,Table25_%IRI_at_Padilla bay_Aug_1976,15.6,0.1603124037,19,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BD,Cumaceans,Cumaceans,Table25_%IRI_at_Padilla bay_Aug_1976,0.01,1.027643613e-4,19,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,ZL,Euphausiids,Euphausiids,Table25_%IRI_at_Padilla bay_Aug_1976,0.9,0.009248792519,19,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,PARASITE,Diogeneid trematodes,Diogeneid trematodes,Table25_%IRI_at_Burrows island_Aug_1976,0,0,20,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,FISH,Fish,Fish,Table25_%IRI_at_Burrows island_Aug_1976,13.6,0.1366834171,20,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BC,Polychaetes,Polychaetes,Table25_%IRI_at_Burrows island_Aug_1976,0,0,20,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BML,Crab larvae,Crab larvae,Table25_%IRI_at_Burrows island_Aug_1976,54.3,0.5457286432,20,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,ZL,Ostracods,Ostracods,Table25_%IRI_at_Burrows island_Aug_1976,0,0,20,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BD,Gammarid amphipods,Gammarid amphipods,Table25_%IRI_at_Burrows island_Aug_1976,4.7,0.0472361809,20,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,INSECT,Insects,Insects,Table25_%IRI_at_Burrows island_Aug_1976,26.7,0.2683417085,20,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,BD,Cumaceans,Cumaceans,Table25_%IRI_at_Burrows island_Aug_1976,0,0,20,Fish_Miller_et_al_1977_B
+CI,juvenile,Chinnok salmon,Chinook salmon,ZL,Euphausiids,Euphausiids,Table25_%IRI_at_Burrows island_Aug_1976,0.2,0.002010050251,20,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BD,Oniscoidean isopods,Oniscoidean isopods,Table26_%IRI_at_Deadman_Bay_July 1974,41.9,0.4505376344,21,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,FISH,Fish,Fish,Table26_%IRI_at_Deadman_Bay_July 1974,29.1,0.3129032258,21,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BC,Polychaetes,Polychaetes,Table26_%IRI_at_Deadman_Bay_July 1974,13.1,0.1408602151,21,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BML,Crabs,Crabs,Table26_%IRI_at_Deadman_Bay_July 1974,6.3,0.06774193548,21,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BD,Gammarid amphipods,Gammarid amphipods,Table26_%IRI_at_Deadman_Bay_July 1974,2.3,0.0247311828,21,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Shrimps,Shrimps,Table26_%IRI_at_Deadman_Bay_July 1974,0.2,0.002150537634,21,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Mysids,Mysids,Table26_%IRI_at_Deadman_Bay_July 1974,0,0,21,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,NA,Rocks,Rocks,Table26_%IRI_at_Deadman_Bay_July 1974,0.1,0.001075268817,21,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BD,Anthuridean isopods,Anthuridean isopods,Table26_%IRI_at_Deadman_Bay_July 1974,0,0,21,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BD,Oniscoidean isopods,Oniscoidean isopods,Table26_%IRI_at_Deadman_Bay_August 1974,0,0,22,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,FISH,Fish,Fish,Table26_%IRI_at_Deadman_Bay_August 1974,4.8,0.04873096447,22,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BC,Polychaetes,Polychaetes,Table26_%IRI_at_Deadman_Bay_August 1974,0.1,0.001015228426,22,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BML,Crabs,Crabs,Table26_%IRI_at_Deadman_Bay_August 1974,3.1,0.03147208122,22,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BD,Gammarid amphipods,Gammarid amphipods,Table26_%IRI_at_Deadman_Bay_August 1974,73.3,0.7441624365,22,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Shrimps,Shrimps,Table26_%IRI_at_Deadman_Bay_August 1974,8.8,0.08934010152,22,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Mysids,Mysids,Table26_%IRI_at_Deadman_Bay_August 1974,3.7,0.03756345178,22,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,NA,Rocks,Rocks,Table26_%IRI_at_Deadman_Bay_August 1974,2.9,0.02944162437,22,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BD,Anthuridean isopods,Anthuridean isopods,Table26_%IRI_at_Deadman_Bay_August 1974,1.8,0.01827411168,22,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BD,Oniscoidean isopods,Oniscoidean isopods,Table26_%IRI_at_Deadman_Bay_July 1975,0.1,0.001006036217,23,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,FISH,Fish,Fish,Table26_%IRI_at_Deadman_Bay_July 1975,0,0,23,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BC,Polychaetes,Polychaetes,Table26_%IRI_at_Deadman_Bay_July 1975,0,0,23,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BML,Crabs,Crabs,Table26_%IRI_at_Deadman_Bay_July 1975,0,0,23,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BD,Gammarid amphipods,Gammarid amphipods,Table26_%IRI_at_Deadman_Bay_July 1975,95.8,0.9637826962,23,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Shrimps,Shrimps,Table26_%IRI_at_Deadman_Bay_July 1975,1.2,0.01207243461,23,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Mysids,Mysids,Table26_%IRI_at_Deadman_Bay_July 1975,2.3,0.023138833,23,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,NA,Rocks,Rocks,Table26_%IRI_at_Deadman_Bay_July 1975,0,0,23,Fish_Miller_et_al_1977_B
+ROC,adult,Copper rockfish,Copper rockfish,BD,Anthuridean isopods,Anthuridean isopods,Table26_%IRI_at_Deadman_Bay_July 1975,0,0,23,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,BC,Polychaetes,Polychaetes,Table27_%IRI_at_Birch Bay_Aug_1976,37.1,0.3917634636,24,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,BML,Crabs,Crabs,Table27_%IRI_at_Birch Bay_Aug_1976,27.1,0.2861668427,24,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,FISH,Fish,Fish,Table27_%IRI_at_Birch Bay_Aug_1976,20,0.2111932418,24,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,PARASITE,Diogeneid trematodes,Diogeneid trematodes,Table27_%IRI_at_Birch Bay_Aug_1976,4.8,0.05068637804,24,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,PWN,Shrimp,Shrimp,Table27_%IRI_at_Birch Bay_Aug_1976,4.3,0.04540654699,24,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,BML,Crab larvae,Crab larvae,Table27_%IRI_at_Birch Bay_Aug_1976,0,0,24,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,BD,Gammarid amphipods,Gammarid amphipods,Table27_%IRI_at_Birch Bay_Aug_1976,1.4,0.01478352693,24,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,BC,Polychaetes,Polychaetes,Table27_%IRI_at_Cherry point_Aug_1976,38.2,0.390593047,25,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,BML,Crabs,Crabs,Table27_%IRI_at_Cherry point_Aug_1976,3,0.03067484663,25,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,FISH,Fish,Fish,Table27_%IRI_at_Cherry point_Aug_1976,0,0,25,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,PARASITE,Diogeneid trematodes,Diogeneid trematodes,Table27_%IRI_at_Cherry point_Aug_1976,4.3,0.04396728016,25,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,PWN,Shrimp,Shrimp,Table27_%IRI_at_Cherry point_Aug_1976,0,0,25,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,BML,Crab larvae,Crab larvae,Table27_%IRI_at_Cherry point_Aug_1976,40.5,0.4141104294,25,Fish_Miller_et_al_1977_B
+SMD,adult,Staghorn sculpin,Staghorn sculpin,BD,Gammarid amphipods,Gammarid amphipods,Table27_%IRI_at_Cherry point_Aug_1976,11.8,0.1206543967,25,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Gammarid amphipods,Gammarid amphipods,Table28_%IRI_at_False Bay_July 1974,60.5,0.6255816358,26,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Cumaceans,Cumaceans,Table28_%IRI_at_False Bay_July 1974,35,0.3619067315,26,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Harpacticoid copepods,Harpacticoid copepods,Table28_%IRI_at_False Bay_July 1974,0.9,0.009306173095,26,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Tanaids,Tanaids,Table28_%IRI_at_False Bay_July 1974,0.01,1.034019233e-4,26,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BC,Polychaetes,Polychaetes,Table28_%IRI_at_False Bay_July 1974,0.3,0.003102057698,26,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BIV,Bivalves,Bivalves,Table28_%IRI_at_False Bay_July 1974,0,0,26,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BIV,Bivalve siphons,Bivalve siphons,Table28_%IRI_at_False Bay_July 1974,0,0,26,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,PWN,Mysids,Mysids,Table28_%IRI_at_False Bay_July 1974,0,0,26,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Gammarid amphipods,Gammarid amphipods,Table28_%IRI_at_Westcott Bay_July 1974,0.1,0.001012145749,27,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Cumaceans,Cumaceans,Table28_%IRI_at_Westcott Bay_July 1974,0.1,0.001012145749,27,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Harpacticoid copepods,Harpacticoid copepods,Table28_%IRI_at_Westcott Bay_July 1974,0.5,0.005060728745,27,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Tanaids,Tanaids,Table28_%IRI_at_Westcott Bay_July 1974,24.3,0.245951417,27,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BC,Polychaetes,Polychaetes,Table28_%IRI_at_Westcott Bay_July 1974,50,0.5060728745,27,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BIV,Bivalves,Bivalves,Table28_%IRI_at_Westcott Bay_July 1974,23.8,0.2408906883,27,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BIV,Bivalve siphons,Bivalve siphons,Table28_%IRI_at_Westcott Bay_July 1974,0,0,27,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,PWN,Mysids,Mysids,Table28_%IRI_at_Westcott Bay_July 1974,0,0,27,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Gammarid amphipods,Gammarid amphipods,Table28_%IRI_at_Westcott Bay_April 1976,9.5,0.09519038076,28,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Cumaceans,Cumaceans,Table28_%IRI_at_Westcott Bay_April 1976,5.5,0.05511022044,28,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Harpacticoid copepods,Harpacticoid copepods,Table28_%IRI_at_Westcott Bay_April 1976,0.6,0.006012024048,28,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Tanaids,Tanaids,Table28_%IRI_at_Westcott Bay_April 1976,7.5,0.0751503006,28,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BC,Polychaetes,Polychaetes,Table28_%IRI_at_Westcott Bay_April 1976,63.2,0.6332665331,28,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BIV,Bivalves,Bivalves,Table28_%IRI_at_Westcott Bay_April 1976,0,0,28,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BIV,Bivalve siphons,Bivalve siphons,Table28_%IRI_at_Westcott Bay_April 1976,13.5,0.1352705411,28,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,PWN,Mysids,Mysids,Table28_%IRI_at_Westcott Bay_April 1976,0,0,28,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Gammarid amphipods,Gammarid amphipods,Table28_%IRI_at_Eagle Cove_April 1976,20.7,0.2120684356,29,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Cumaceans,Cumaceans,Table28_%IRI_at_Eagle Cove_April 1976,60.3,0.6177645733,29,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Harpacticoid copepods,Harpacticoid copepods,Table28_%IRI_at_Eagle Cove_April 1976,0.2,0.002048970392,29,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BD,Tanaids,Tanaids,Table28_%IRI_at_Eagle Cove_April 1976,0,0,29,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BC,Polychaetes,Polychaetes,Table28_%IRI_at_Eagle Cove_April 1976,14.7,0.1505993238,29,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BIV,Bivalves,Bivalves,Table28_%IRI_at_Eagle Cove_April 1976,0.01,1.024485196e-4,29,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,BIV,Bivalve siphons,Bivalve siphons,Table28_%IRI_at_Eagle Cove_April 1976,0.1,0.001024485196,29,Fish_Miller_et_al_1977_B
+FDF,juvenile,English sole,English sole,PWN,Mysids,Mysids,Table28_%IRI_at_Eagle Cove_April 1976,1.6,0.01639176314,29,Fish_Miller_et_al_1977_B

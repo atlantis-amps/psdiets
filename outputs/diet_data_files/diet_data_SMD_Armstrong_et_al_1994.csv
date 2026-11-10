@@ -1,0 +1,15 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BG,Nereis brandti,Nereis brandti,Table_2,30,0.310237849,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Neotrypaea californiensis,Neotrypaea californiensis,Table_2,27,0.2792140641,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangon spp.,Crangon spp.,Table_2,7,0.07238883144,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,DUN,Cancer magister,Cancer magister,Table_2,7,0.07238883144,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Upogebia puttensis,Upogebia puttensis,Table_2,17,0.1758014478,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Eogammarus confervicola,Eogammarus confervicola,Table_2,0.1,0.001034126163,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Misc./unid.crustacea,Misc./unid.crustacea,Table_2,2,0.02068252327,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fish,Fish,Table_2,6,0.0620475698,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BIV,Bivalve siphon tips,Bivalve siphon tips,Table_2,0.1,0.001034126163,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Misc./unid.amphipods,Misc./unid.amphipods,Table_2,0.1,0.001034126163,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Allochestes spp.,Allochestes spp.,Table_2,0.1,0.001034126163,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Corophium salmonis,Corophium salmonis,Table_2,0.1,0.001034126163,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Misc./unid. Polychaetes,Misc./unid. Polychaetes,Table_2,0.1,0.001034126163,1,SMD_Armstrong_et_al_1994
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Algae,Algae,Table_2,0.1,0.001034126163,1,SMD_Armstrong_et_al_1994

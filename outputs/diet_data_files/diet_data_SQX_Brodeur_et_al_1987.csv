@@ -1,0 +1,49 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SQX,INVERT,Squid,Loligo opalescens,ZG,Cnidaria,Hydromedusae,Table_3_1981,0.2,0.002109682387,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Cnidaria,Unidentified,Table_3_1981,0.8,0.008438729549,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZL,Mollusca,Limacina helicina,Table_3_1981,0.1,0.001054841194,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Mollusca,Unidentified,Table_3_1981,0,0,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZM,Mollusca,Neocalanus cristatus,Table_3_1981,0.001,1.054841194e-5,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZM,Mollusca,Calanus pacificus,Table_3_1981,0.8,0.008438729549,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZM,Mollusca,Calanus spp copepodites,Table_3_1981,0.1,0.001054841194,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Mollusca,Unidentified,Table_3_1981,4.2,0.04430333013,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,BD,Amphipoda,Arylus tridens,Table_3_1981,0,0,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,BD,Amphipoda,Unidentified Hyperiidea,Table_3_1981,0.1,0.001054841194,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZL,Euphausiacea,Thysanoessa spinifera,Table_3_1981,3.5,0.03691944178,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Euphausiacea,Unidentified,Table_3_1981,0.3,0.003164523581,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,BML,Decapoda,Cancer oregonensis megalopae,Table_3_1981,0.3,0.003164523581,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,BML,Decapoda,Cancer sp. Zoea,Table_3_1981,2,0.02109682387,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,BML,Decapoda,Pinnotheridae zoea,Table_3_1981,5.1,0.05379690088,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,BML,Decapoda,Unidentified megalopea,Table_3_1981,0.5,0.005274205968,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZL,Chaetognatha,Eukronia hamata,Table_3_1981,0.8,0.008438729549,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZL,Chaetognatha,Sagitta decipiens,Table_3_1981,1.7,0.01793230029,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZL,Chaetognatha,Sagitta elegans,Table_3_1981,45.1,0.4757333783,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Chaetognatha,Unidentified,Table_3_1981,15.7,0.1656100674,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Chordata,Unidentified,Table_3_1981,0.1,0.001054841194,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ROCKFISH,Chordata,Sebastes spp. Juvenile,Table_3_1981,0.9,0.009493570743,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,INSECT,Chordata,Unidentified larvae,Table_3_1981,1.4,0.01476777671,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Chordata,Unidentified remains,Table_3_1981,11.1,0.1170873725,1,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZG,Cnidaria,Hydromedusae,Table_3_1984,20.3,0.2218579235,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Cnidaria,Unidentified,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZL,Mollusca,Limacina helicina,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Mollusca,Unidentified,Table_3_1984,1.7,0.01857923497,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZM,Mollusca,Neocalanus cristatus,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZM,Mollusca,Calanus pacificus,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZM,Mollusca,Calanus spp copepodites,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Mollusca,Unidentified,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,BD,Amphipoda,Arylus tridens,Table_3_1984,1.7,0.01857923497,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,BD,Amphipoda,Unidentified Hyperiidea,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZL,Euphausiacea,Thysanoessa spinifera,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Euphausiacea,Unidentified,Table_3_1984,5.1,0.05573770492,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,BML,Decapoda,Cancer oregonensis megalopae,Table_3_1984,3.4,0.03715846995,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,BML,Decapoda,Cancer sp. Zoea,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,BML,Decapoda,Pinnotheridae zoea,Table_3_1984,30.5,0.3333333333,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,BML,Decapoda,Unidentified megalopea,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZL,Chaetognatha,Eukronia hamata,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZL,Chaetognatha,Sagitta decipiens,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ZL,Chaetognatha,Sagitta elegans,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Chaetognatha,Unidentified,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Chordata,Unidentified,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,ROCKFISH,Chordata,Sebastes spp. Juvenile,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,INSECT,Chordata,Unidentified larvae,Table_3_1984,28.8,0.3147540984,2,SQX_Brodeur_et_al_1987
+SQX,INVERT,Squid,Loligo opalescens,NA,Chordata,Unidentified remains,Table_3_1984,0,0,2,SQX_Brodeur_et_al_1987

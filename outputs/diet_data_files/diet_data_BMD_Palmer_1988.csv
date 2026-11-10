@@ -1,0 +1,23 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BG,Limpets,Tectura scutum,Table_1_Turn_island,48,0.2077922078,1,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BG,Limpets,Lottia pelta,Table_1_Turn_island,78,0.3376623377,1,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BG,Limpets,L. strigatella,Table_1_Turn_island,1,0.004329004329,1,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BFF,Barnacles,Semibalanus caiosus,Table_1_Turn_island,71,0.3073593074,1,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BFF,Barnacles,Balanus glandula,Table_1_Turn_island,17,0.07359307359,1,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BFF,Barnacles,B. nubilus,Table_1_Turn_island,0,0,1,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BFF,Barnacles,B. crenatus,Table_1_Turn_island,3,0.01298701299,1,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BFF,Barnacles,Chthamalus dalli,Table_1_Turn_island,6,0.02597402597,1,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BIV,Bivalvia,Mytilus edulis,Table_1_Turn_island,5,0.02164502165,1,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BMD,Gastropoda,Calliostoma ligatum,Table_1_Turn_island,1,0.004329004329,1,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BFF,Polychaeta,Spirorbis sp.,Table_1_Turn_island,1,0.004329004329,1,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BG,Limpets,Tectura scutum,Table_1_Tatoosh_island,0,0,2,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BG,Limpets,Lottia pelta,Table_1_Tatoosh_island,2,0.2,2,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BG,Limpets,L. strigatella,Table_1_Tatoosh_island,0,0,2,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BFF,Barnacles,Semibalanus caiosus,Table_1_Tatoosh_island,3,0.3,2,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BFF,Barnacles,Balanus glandula,Table_1_Tatoosh_island,3,0.3,2,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BFF,Barnacles,B. nubilus,Table_1_Tatoosh_island,1,0.1,2,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BFF,Barnacles,B. crenatus,Table_1_Tatoosh_island,0,0,2,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BFF,Barnacles,Chthamalus dalli,Table_1_Tatoosh_island,1,0.1,2,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BIV,Bivalvia,Mytilus edulis,Table_1_Tatoosh_island,0,0,2,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BMD,Gastropoda,Calliostoma ligatum,Table_1_Tatoosh_island,0,0,2,BMD_Palmer_1988
+BMD,INVERT,Neogastropod,Ocenebra lubrida,BFF,Polychaeta,Spirorbis sp.,Table_1_Tatoosh_island,0,0,2,BMD_Palmer_1988

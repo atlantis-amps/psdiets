@@ -1,0 +1,58 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,adult,Mammalia,Harbour seal,FMM,Gadidae,Cods,Table_1,1785,0.1934539937,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FMM,Merluccius productus,Pacific hake,Table_1,1531,0.1659260865,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FMM,Theragra chalcogramma,Walleye pollock,Table_1,43,0.004660236263,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Microgadus proximus,Tomcod,Table_1,24,0.0026010621,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FMM,Gadus macrocephalus,Pacific cod,Table_1,13,0.001408908638,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,HE,Cluepidae,Herrings and anchovies,Table_1,1694,0.1835916333,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,HE,Clupea harengus pallasii,Pacific herring,Table_1,1685,0.182616235,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FPS,Engraulis mordax mordax,Northern anchovy,Table_1,7,7.586431126e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FPS,Alosa sapidissima,American shad,Table_1,2,2.16755175e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SALMON,Salmonidae,Salmon and trouts,Table_1,451,0.04887829197,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SAL,Salvelinus spp.,Trout,Table_1,34,0.003684837976,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,CI,Oncorhynchus tshawytscha,Chinook salmon,Table_1,5,5.418879376e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,CU,Oncorhynchus keta,Chum salmon,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,CO,Oncorhynchus kisutch,Coho salmon,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Batrachoididae,Toadfishes,Table_1,234,0.02536035548,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,MYCTOPHID,Porichthys motatus,Plainfin midshipman,Table_1,234,0.02536035548,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,POP,Embiotocidae,Surfperches,Table_1,221,0.02395144684,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,POP,Cymatogaster aggregata,Shiner perch,Table_1,171,0.01853256747,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,POP,Rhacochilus vacca,Pile perch,Table_1,21,0.002275929338,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Cottidae,Sculpins,Table_1,159,0.01723203641,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Leptocottus armatus,Staghorn sculpin,Table_1,68,0.007369675951,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Oligocottus spp.,Tidepool_Fluffy_Saddleback,Table_1,19,0.002059174163,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Enophys bison,Buffalo sculpin,Table_1,3,3.251327625e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Malacocottus kincaidi,Blackfin sculpin,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,ROC,Myoxocephalus polyacanthocephalus,Great sculpin,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FDF,Pleuronectidae,Flatfishes,Table_1,150,0.01625663813,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FDF,Platichthys stellatus,Starry flounder,Table_1,16,0.0017340414,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FDF,Parophrys vetulus,English sole,Table_1,6,6.502655251e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,HAP,Atheresthes stomias,Arrowtooth flounder,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FDF,Glyptocephalus zachirus,Rex sole,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FDF,Lepidopsetta bilineata,Rock sole,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Hexagrammidae,Lings,Table_1,83,0.008995339764,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FVS,Ophiodon elongatus,Lingcod,Table_1,70,0.007586431126,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Hexagrammus/Oxylebius spp.,Greenlings,Table_1,10,0.001083775875,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,ROCKFISH,Scorpaenidae,Rockfishes,Table_1,68,0.007369675951,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FPS,Ammodytidae,Sand lances,Table_1,67,0.007261298363,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FPS,Ammodytes hexapterus,Pacific sand lance,Table_1,67,0.007261298363,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FPS,Osmmeridae,Smelts,Table_1,46,0.004985369026,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FPS,Thaleichthys pacificus,Eulachon,Table_1,29,0.003142950038,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FPS,Osmerus mordax dentex,Rainbow smelt,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Gasterosteidae,Sticklebacks,Table_1,21,0.002275929338,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Gasterosteus aculeatus,Three-spined stickleback,Table_1,21,0.002275929338,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Zoarcidae,Eelpouts,Table_1,9,9.753982876e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Lycodopsis pacifica,Blackbelly eelpout,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Pholidae,Gunnels,Table_1,9,9.753982876e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Apodichthys flavidus,Penpoint gunnel,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Steichaeidae,Pricklebacks,Table_1,3,3.251327625e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Bathymasteridae,Ronquills,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Anarchichadidae,Wolffishes,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FVS,Anarrhichthys ocellatus,Wolf-eel,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SMD,Gobiesocidae,Clingfishes,Table_1,1,1.083775875e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FISH,Other unidentified fishes,Other unidentified fishes,Table_1,11,0.001192153463,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FISH,Unidentifiable fishes,Unidentifiable fishes,Table_1,67,0.007261298363,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,FISH,Chondrichthyes,Cartilagenous fishes,Table_1,21,0.002275929338,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,SSK,Rajidae,Skates,Table_1,21,0.002275929338,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,LAMPREY,Agnatha,Hag fishes and lampreys,Table_1,7,7.586431126e-4,1,HSL_Olesiuk_et_al_1990
+HSL,adult,Mammalia,Harbour seal,LAMPREY,Petromyzonidae,Lampreys,Table_1,7,7.586431126e-4,1,HSL_Olesiuk_et_al_1990

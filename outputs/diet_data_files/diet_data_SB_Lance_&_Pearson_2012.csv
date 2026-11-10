@@ -1,0 +1,49 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,adult,Common Murre,Uria aalge,HE,Pacific herring,Clupea pallasii,Table5,58,0.4055944056,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,HE,Herring spp,Clupeid species,Table5,15,0.1048951049,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,SMD,Three spine stickleback,Gasterosteus aculeatus,Table5,2,0.01398601399,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,FPS,Pacific sand lance,Ammodytes hexapterus,Table5,12,0.08391608392,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,SMD,Pacific staghorn sculpin,Lepocottus armatus,Table5,2,0.01398601399,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,SALMON,Salmon spp juvenile,Salmonid species,Table5,6,0.04195804196,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,POP,Shiner surf perch,Cymatogaster aggregata,Table5,8,0.05594405594,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,MYCTOPHID,Plainfin midshipman,Porichthys notatus,Table5,10,0.06993006993,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,SQX,Market squid,Loligo opalescens,Table5,4,0.02797202797,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,SQX,Unid cephalopod,Unid cephalopod,Table5,2,0.01398601399,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,LAMPREY,Lampery spp,Lampetra species,Table5,4,0.02797202797,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Table5,2,0.01398601399,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,FMM,Pacific hake,Merluccius productus,Table5,2,0.01398601399,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,FMM,Walleye pollock,Theragra chalcogramma,Table5,2,0.01398601399,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,FMM,Cod spp,Gadid species,Table5,4,0.02797202797,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,FPS,Surf melt,Hypomesus pretiosus,Table5,2,0.01398601399,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,ROCKFISH,Rockfish spp,Sebastes species,Table5,2,0.01398601399,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,FISH,Unidentified fish,Unidentified fish,Table5,4,0.02797202797,1,SB_Lance_&_Pearson_2012
+SB,adult,Common Murre,Uria aalge,FISH,Not identifiable fish,Fish,Table5,2,0.01398601399,1,SB_Lance_&_Pearson_2012
+SB,adult,Pigeon Guillemot,Cepphus columba,SMD,Three spine stickleback,Gasterosteus aculeatus,Table5,13,0.08496732026,2,SB_Lance_&_Pearson_2012
+SB,adult,Pigeon Guillemot,Cepphus columba,SMD,Sculpin spp,Cottid species,Table5,13,0.08496732026,2,SB_Lance_&_Pearson_2012
+SB,adult,Pigeon Guillemot,Cepphus columba,SMD,Pacific staghorn sculpin,Lepocottus armatus,Table5,25,0.1633986928,2,SB_Lance_&_Pearson_2012
+SB,adult,Pigeon Guillemot,Cepphus columba,FDF,Starry flounder,Platichthys stellatus,Table5,25,0.1633986928,2,SB_Lance_&_Pearson_2012
+SB,adult,Pigeon Guillemot,Cepphus columba,FDF,Righteye flounder spp,Pleuronectid species,Table5,13,0.08496732026,2,SB_Lance_&_Pearson_2012
+SB,adult,Pigeon Guillemot,Cepphus columba,MYCTOPHID,Plainfin midshipman,Porichthys notatus,Table5,13,0.08496732026,2,SB_Lance_&_Pearson_2012
+SB,adult,Pigeon Guillemot,Cepphus columba,SMD,Snailfish spp,Liparidid species,Table5,13,0.08496732026,2,SB_Lance_&_Pearson_2012
+SB,adult,Pigeon Guillemot,Cepphus columba,SQX,Market squid,Loligo opalescens,Table5,13,0.08496732026,2,SB_Lance_&_Pearson_2012
+SB,adult,Pigeon Guillemot,Cepphus columba,FISH,Not identifiable fish,Fish,Table5,25,0.1633986928,2,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,HE,Pacifico herring,Clupea pallasii,Table5,50,0.2202643172,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,HE,Herring spp,Clupeid species,Table5,22,0.09691629956,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,SMD,Three spine stickleback,Gasterosteus aculeatus,Table5,50,0.2202643172,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,FPS,Pacific sand lance,Ammodytes hexapterus,Table5,25,0.1101321586,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,SMD,Sculpin spp,Cottid species,Table5,3,0.01321585903,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,FDF,Righteye flounder spp,Pleuronectid species,Table5,3,0.01321585903,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,SALMON,Salmon spp juvenile,Salmonid species,Table5,17,0.07488986784,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,POP,Shiner surf perch,Cymatogaster aggregata,Table5,11,0.04845814978,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,SMD,Prickelback spp,Stichaeid species,Table5,11,0.04845814978,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,MYCTOPHID,Plainfin midshipman,Porichthys notatus,Table5,3,0.01321585903,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,LAMPREY,Lampery spp,Lampetra species,Table5,8,0.03524229075,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,FMM,Walleye pollock,Theragra chalcogramma,Table5,6,0.02643171806,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,FMM,Cod spp,Gadid species,Table5,3,0.01321585903,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,FPS,Surf melt,Hypomesus pretiosus,Table5,3,0.01321585903,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,INVERT,Unknown invertebrate,Unknown invertebrate,Table5,6,0.02643171806,3,SB_Lance_&_Pearson_2012
+SB,adult,Rhinoceros Auklet,Cerorhinca monocerata,FISH,Not identifiable fish,Not identifiable fish,Table5,6,0.02643171806,3,SB_Lance_&_Pearson_2012
+SB,adult,Marbled Murrelet,Brachyramphus marmoratus,HE,Pacific herring,Clupea pallasii,Table5,60,0.4285714286,4,SB_Lance_&_Pearson_2012
+SB,adult,Marbled Murrelet,Brachyramphus marmoratus,HE,Herring spp,Clupeid species,Table5,20,0.1428571429,4,SB_Lance_&_Pearson_2012
+SB,adult,Marbled Murrelet,Brachyramphus marmoratus,FPS,Pacific sand lance,Ammodytes hexapterus,Table5,40,0.2857142857,4,SB_Lance_&_Pearson_2012
+SB,adult,Marbled Murrelet,Brachyramphus marmoratus,FISH,Not identifiable fish,Not identifiable fish,Table5,20,0.1428571429,4,SB_Lance_&_Pearson_2012

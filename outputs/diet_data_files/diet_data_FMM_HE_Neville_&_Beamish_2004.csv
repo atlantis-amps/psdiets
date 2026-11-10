@@ -1,0 +1,61 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Copepoda,Copepoda,%_W_97,31.8493151,0.318493151,1,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Calanoid copepods,Calanoid copepods,%_W_97,42.465753393151104,0.4246575339,1,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Cyclopoid copepods,Cyclopoid copepods,%_W_97,0,0,1,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Copepod eggs,Copepod eggs,%_W_97,24.657534246575295,0.2465753425,1,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,NA,Other,Other,%_W_97,1.0273972602736023,0.0102739726,1,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Copepoda,Copepoda,%_W_98,41.4383562,0.414383562,2,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Calanoid copepods,Calanoid copepods,%_W_98,49.315068457534394,0.4931506846,2,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Cyclopoid copepods,Cyclopoid copepods,%_W_98,4.794520547945211,0.04794520548,2,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Copepod eggs,Copepod eggs,%_W_98,2.3972602739725914,0.02397260274,2,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,NA,Other,Other,%_W_98,2.0547945205478015,0.02054794521,2,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Copepoda,Copepoda,%_W_99,66.4383562,0.664383562,3,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Calanoid copepods,Calanoid copepods,%_W_99,25.342465717808096,0.2534246572,3,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Cyclopoid copepods,Cyclopoid copepods,%_W_99,0.6849315068494093,0.006849315068,3,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Copepod eggs,Copepod eggs,%_W_99,6.5068493150683935,0.06506849315,3,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,NA,Other,Other,%_W_99,1.0273972602740997,0.0102739726,3,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Copepoda,Copepoda,%_W_00,45.5479452,0.455479452,4,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Calanoid copepods,Calanoid copepods,%_W_00,13.0136986356166,0.1301369864,4,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Cyclopoid copepods,Cyclopoid copepods,%_W_00,9.931506849315006,0.09931506849,4,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,ZM,Copepod eggs,Copepod eggs,%_W_00,14.726027397260296,0.147260274,4,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval pacific hake,Merluccius productus,NA,Other,Other,%_W_00,16.780821917808098,0.1678082192,4,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Copepoda,Copepoda,%_W_97,5.21172638436482,0.05211726384,5,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Calanoid copepods,Calanoid copepods,%_W_97,1.3029315960911907,0.01302931596,5,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Cyclopoid copepods,Cyclopoid copepods,%_W_97,0,0,5,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Copepod eggs,Copepod eggs,%_W_97,90.55374592833839,0.9055374593,5,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,NA,Other,Other,%_W_97,2.9315960912056056,0.02931596091,5,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Copepoda,Copepoda,%_W_98,10.0977198697068,0.1009771987,6,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Calanoid copepods,Calanoid copepods,%_W_98,4.560260586319199,0.04560260586,6,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Cyclopoid copepods,Cyclopoid copepods,%_W_98,1.9543973941368016,0.01954397394,6,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Copepod eggs,Copepod eggs,%_W_98,73.6156351791528,0.7361563518,6,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,NA,Other,Other,%_W_98,9.771986970684395,0.09771986971,6,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Copepoda,Copepoda,%_W_99,3.90879478827362,0.03908794788,7,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Calanoid copepods,Calanoid copepods,%_W_99,2.28013029315958,0.02280130293,7,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Cyclopoid copepods,Cyclopoid copepods,%_W_99,1.6286644951139797,0.01628664495,7,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Copepod eggs,Copepod eggs,%_W_99,91.53094462540682,0.9153094463,7,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,NA,Other,Other,%_W_99,0.6514657980460044,0.00651465798,7,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Copepoda,Copepoda,%_W_00,6.84039087947883,0.06840390879,8,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Calanoid copepods,Calanoid copepods,%_W_00,9.12052117263827,0.09120521173,8,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Cyclopoid copepods,Cyclopoid copepods,%_W_00,13.6807817589574,0.1368078176,8,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,ZM,Copepod eggs,Copepod eggs,%_W_00,55.700325732899,0.5570032573,8,FMM_HE_Neville_&_Beamish_2004
+HE,juvenile,larval pacific herring,Clupea pallasii,NA,Other,Other,%_W_00,14.657980456026493,0.1465798046,8,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Copepoda,Copepoda,%_W_97,44.2996742671009,0.4429967427,9,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Calanoid copepods,Calanoid copepods,%_W_97,38.43648208469071,0.3843648208,9,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Cyclopoid copepods,Cyclopoid copepods,%_W_97,3.2573289902279896,0.0325732899,9,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Copepod eggs,Copepod eggs,%_W_97,12.377850162866409,0.1237785016,9,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,NA,Other,Other,%_W_97,1.6286644951139948,0.01628664495,9,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Copepoda,Copepoda,%_W_98,48.8599348534201,0.4885993485,10,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Calanoid copepods,Calanoid copepods,%_W_98,19.218241042345497,0.1921824104,10,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Cyclopoid copepods,Cyclopoid copepods,%_W_98,0.9771986970684026,0.009771986971,10,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Copepod eggs,Copepod eggs,%_W_98,14.006514657980404,0.1400651466,10,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,NA,Other,Other,%_W_98,16.938110749185597,0.1693811075,10,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Copepoda,Copepoda,%_W_99,73.2899022801302,0.7328990228,11,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Calanoid copepods,Calanoid copepods,%_W_99,7.817589576547292,0.07817589577,11,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Cyclopoid copepods,Cyclopoid copepods,%_W_99,0.9771986970684026,0.009771986971,11,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Copepod eggs,Copepod eggs,%_W_99,17.9153094462541,0.1791530945,11,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,NA,Other,Other,%_W_99,0,0,11,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Copepoda,Copepoda,%_W_00,23.4527687296416,0.2345276873,12,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Calanoid copepods,Calanoid copepods,%_W_00,11.7263843648207,0.1172638436,12,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Cyclopoid copepods,Cyclopoid copepods,%_W_00,20.521172638436397,0.2052117264,12,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,ZM,Copepod eggs,Copepod eggs,%_W_00,32.5732899022802,0.325732899,12,FMM_HE_Neville_&_Beamish_2004
+FMM,juvenile,larval walleye pollock,Gadus chalcogrammus,NA,Other,Other,%_W_00,11.7263843648211,0.1172638436,12,FMM_HE_Neville_&_Beamish_2004

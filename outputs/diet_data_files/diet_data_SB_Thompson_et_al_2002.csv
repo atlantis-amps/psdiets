@@ -1,0 +1,66 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,adult,Caspian Tern,Hydroprogne caspia,SALMON,Salmon spp.,Oncorhynchus spp.,Table_1_%pfs_may_pm,55,0.5555555556,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Surf Smelt,Hypomesus pretiosus,Table_1_%pfs_may_pm,7,0.07070707071,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,HE,Surf Smelt/Pacific Herring,Hypomesus pretiosus/Clupea pallasi,Table_1_%pfs_may_pm,3,0.0303030303,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,POP,Shiner Perch,Cymatogaster aggregata,Table_1_%pfs_may_pm,14,0.1414141414,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,HE,Pacific Herring,Clupea pallasi,Table_1_%pfs_may_pm,14,0.1414141414,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,POP,Pile Perch,Rhacochilus vacca,Table_1_%pfs_may_pm,2,0.0202020202,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Pacific Sand Lance,Ammodytes hexapterus,Table_1_%pfs_may_pm,2,0.0202020202,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SMD,Fish,"Gunnel spp., Pholidae",Table_1_%pfs_may_pm,2,0.0202020202,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FMM,Gadidae,Cod spp,Table_1_%pfs_may_pm,0,0,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SMD,Zoarcidae,Eelpout spp.,Table_1_%pfs_may_pm,0,0,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Northern Anchovy,Engraulis mordax,Table_1_%pfs_may_pm,0,0,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,MYCTOPHID,Plainfish Midshiman,Porichthys notatus,Table_1_%pfs_may_pm,0,0,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FISH,Fish,Unknown Fish,Table_1_%pfs_may_pm,0,0,1,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SALMON,Salmon spp.,Oncorhynchus spp.,Table_1_%pfs_june_am,62,0.6262626263,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Surf Smelt,Hypomesus pretiosus,Table_1_%pfs_june_am,7,0.07070707071,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,HE,Surf Smelt/Pacific Herring,Hypomesus pretiosus/Clupea pallasi,Table_1_%pfs_june_am,10,0.101010101,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,POP,Shiner Perch,Cymatogaster aggregata,Table_1_%pfs_june_am,8,0.08080808081,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,HE,Pacific Herring,Clupea pallasi,Table_1_%pfs_june_am,9,0.09090909091,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,POP,Pile Perch,Rhacochilus vacca,Table_1_%pfs_june_am,1,0.0101010101,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Pacific Sand Lance,Ammodytes hexapterus,Table_1_%pfs_june_am,1,0.0101010101,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SMD,Pholidae,Gunnel spp.,Table_1_%pfs_june_am,0,0,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FMM,Gadidae,Cod spp,Table_1_%pfs_june_am,1,0.0101010101,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SMD,Zoarcidae,Eelpout spp.,Table_1_%pfs_june_am,0,0,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Northern Anchovy,Engraulis mordax,Table_1_%pfs_june_am,0,0,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,MYCTOPHID,Plainfish Midshiman,Porichthys notatus,Table_1_%pfs_june_am,0,0,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FISH,Fish,Unknown Fish,Table_1_%pfs_june_am,0,0,2,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SALMON,Salmon spp.,Oncorhynchus spp.,Table_1_%pfs_june_pm,72,0.72,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Surf Smelt,Hypomesus pretiosus,Table_1_%pfs_june_pm,9,0.09,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,HE,Surf Smelt/Pacific Herring,Hypomesus pretiosus/Clupea pallasi,Table_1_%pfs_june_pm,5,0.05,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,POP,Shiner Perch,Cymatogaster aggregata,Table_1_%pfs_june_pm,3,0.03,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,HE,Pacific Herring,Clupea pallasi,Table_1_%pfs_june_pm,9,0.09,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,POP,Pile Perch,Rhacochilus vacca,Table_1_%pfs_june_pm,1,0.01,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Pacific Sand Lance,Ammodytes hexapterus,Table_1_%pfs_june_pm,1,0.01,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SMD,Pholidae,Gunnel spp.,Table_1_%pfs_june_pm,0,0,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FMM,Gadidae,Cod spp,Table_1_%pfs_june_pm,0,0,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SMD,Zoarcidae,Eelpout spp.,Table_1_%pfs_june_pm,0,0,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Northern Anchovy,Engraulis mordax,Table_1_%pfs_june_pm,0,0,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,MYCTOPHID,Plainfish Midshiman,Porichthys notatus,Table_1_%pfs_june_pm,0,0,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FISH,Fish,Unknown Fish,Table_1_%pfs_june_pm,0,0,3,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SALMON,Salmon spp.,Oncorhynchus spp.,Table_1_%pfs_july_am,29,0.29,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Surf Smelt,Hypomesus pretiosus,Table_1_%pfs_july_am,14,0.14,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,HE,Surf Smelt/Pacific Herring,Hypomesus pretiosus/Clupea pallasi,Table_1_%pfs_july_am,28,0.28,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,POP,Shiner Perch,Cymatogaster aggregata,Table_1_%pfs_july_am,8,0.08,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,HE,Pacific Herring,Clupea pallasi,Table_1_%pfs_july_am,6,0.06,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,POP,Pile Perch,Rhacochilus vacca,Table_1_%pfs_july_am,6,0.06,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Pacific Sand Lance,Ammodytes hexapterus,Table_1_%pfs_july_am,6,0.06,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SMD,Pholidae,Gunnel spp.,Table_1_%pfs_july_am,1,0.01,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FMM,Gadidae,Cod spp,Table_1_%pfs_july_am,0,0,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SMD,Zoarcidae,Eelpout spp.,Table_1_%pfs_july_am,1,0.01,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Northern Anchovy,Engraulis mordax,Table_1_%pfs_july_am,0,0,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,MYCTOPHID,Plainfish Midshiman,Porichthys notatus,Table_1_%pfs_july_am,0,0,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FISH,Fish,Unknown Fish,Table_1_%pfs_july_am,1,0.01,4,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SALMON,Salmon spp.,Oncorhynchus spp.,Table_1_%pfs_july_pm,38,0.38,5,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Surf Smelt,Hypomesus pretiosus,Table_1_%pfs_july_pm,25,0.25,5,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,HE,Surf Smelt/Pacific Herring,Hypomesus pretiosus/Clupea pallasi,Table_1_%pfs_july_pm,19,0.19,5,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,POP,Shiner Perch,Cymatogaster aggregata,Table_1_%pfs_july_pm,8,0.08,5,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,HE,Pacific Herring,Clupea pallasi,Table_1_%pfs_july_pm,4,0.04,5,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,POP,Pile Perch,Rhacochilus vacca,Table_1_%pfs_july_pm,4,0.04,5,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Pacific Sand Lance,Ammodytes hexapterus,Table_1_%pfs_july_pm,1,0.01,5,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SMD,Pholidae,Gunnel spp.,Table_1_%pfs_july_pm,0,0,5,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FMM,Gadidae,Cod spp,Table_1_%pfs_july_pm,0,0,5,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,SMD,Zoarcidae,Eelpout spp.,Table_1_%pfs_july_pm,0,0,5,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FPS,Northern Anchovy,Engraulis mordax,Table_1_%pfs_july_pm,0,0,5,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,MYCTOPHID,Plainfish Midshiman,Porichthys notatus,Table_1_%pfs_july_pm,0,0,5,SB_Thompson_et_al_2002
+SB,adult,Caspian Tern,Hydroprogne caspia,FISH,Fish,Unknown Fish,Table_1_%pfs_july_pm,1,0.01,5,SB_Thompson_et_al_2002

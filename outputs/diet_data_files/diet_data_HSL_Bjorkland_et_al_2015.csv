@@ -1,0 +1,9 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonidae,Adult salmon,Median_Prop_Female,0.14,0.14,1,HSL_Bjorkland_et_al_2015
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Small pelagics,Small pelagics,Median_Prop_Female,0.11,0.11,1,HSL_Bjorkland_et_al_2015
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Sculpin/surfperch/other,Sculpin/surfperch/other,Median_Prop_Female,0.46,0.46,1,HSL_Bjorkland_et_al_2015
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,Rockfish,Median_Prop_Female,0.29,0.29,1,HSL_Bjorkland_et_al_2015
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonidae,Adult salmon,Median_Prop_Male,0.33,0.3666666667,2,HSL_Bjorkland_et_al_2015
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Small pelagics,Small pelagics,Median_Prop_Male,0.47,0.5222222222,2,HSL_Bjorkland_et_al_2015
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Sculpin/surfperch/other,Sculpin/surfperch/other,Median_Prop_Male,0.09,0.1,2,HSL_Bjorkland_et_al_2015
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,Rockfish,Median_Prop_Male,0.01,0.01111111111,2,HSL_Bjorkland_et_al_2015

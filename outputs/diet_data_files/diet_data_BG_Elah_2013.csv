@@ -1,0 +1,22 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+BG,INVERT,Sea urchins,Sea urchins,MA,Foliose algae,Foliose algae,Figure_5,0.35979899,0.5816409482,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,MA,Kelps,Kelps,Figure_5,0.0040201,0.006498780822,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,MA,Branching red algae,Branching red algae,Figure_5,0.10050251,0.1624695367,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,MA,Metandrocarpa,Metandrocarpa,Figure_5,0.03417085,0.05523963699,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,BFF,Bryozoans,Bryozoans,Figure_5,0.0040201,0.006498780822,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,BML,Arthropods,Arthropods,Figure_5,0.01,0.01616571932,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,BML,Decapods,Decapods,Figure_5,0.01,0.01616571932,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,INVERT,Invertebrates,Invertebrates,Figure_5,0.01,0.01616571932,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,BG,Chelyosoma,Chelyosoma,Figure_5,0.01,0.01616571932,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,BC,Annelids,Annelids,Figure_5,0.01,0.01616571932,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,BFF,Hydroids,Hydroids,Figure_5,0.01,0.01616571932,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,MA,Articulated corallines,Articulated corallines,Figure_5,0.01,0.01616571932,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,BG,Gastropods,Gastropods,Figure_5,0.01,0.01616571932,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,BFF,Sponges,Sponges,Figure_5,0.01,0.01616571932,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,NA,Calcareous material,Calcareous material,Figure_5,0.0160804,0.02599512329,1,BG_Elah_2013
+BG,INVERT,Sea urchins,Sea urchins,NA,Other,Other,Figure_5,0.01,0.01616571932,1,BG_Elah_2013
+BG,INVERT,Chiton,Chiton,MA,Microalgae,Microalgae,Figure_5,0.441090146750524,0.4639061604,2,BG_Elah_2013
+BG,INVERT,Chiton,Chiton,PL,Diatoms,Diatoms,Figure_5,0.469601677148846,0.4938924902,2,BG_Elah_2013
+BG,INVERT,Chiton,Chiton,MA,Crustose corallines,Crustose corallines,Figure_5,0.0201257861635219,0.02116682101,2,BG_Elah_2013
+BG,INVERT,Chiton,Chiton,MA,Multicellular algae,Multicellular algae,Figure_5,0.01,0.01051726419,2,BG_Elah_2013
+BG,INVERT,Chiton,Chiton,NA,Other,Other,Figure_5,0.01,0.01051726419,2,BG_Elah_2013

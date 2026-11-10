@@ -1,0 +1,454 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Cnidaria,Eutonina indicans,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Cnidaria,Velella velella,Table26_%W_1981,12.4,0.1274147143,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Chondrophora,Unidentified Chondrophora,Table26_%W_1981,0.4,0.004110152076,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Cnidaria,Unidentified Cnidaria,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Ctenophora,Ctenophora,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Annelida,Tomopteris spp.,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Mollusca,Limacina helicina,Table26_%W_1981,1.4,0.01438553226,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZM,Mollusca,Clionidae,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BMD,Mollusca,Calvolina spp.,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BIV,Mollusca,Mollusca,Table26_%W_1981,0.1,0.001027538019,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BMS,Cephalopoda,Cephalopoda,Table26_%W_1981,0.2,0.002055076038,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZM,Arthropoda,Copepoda,Table26_%W_1981,0.1,0.001027538019,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Atylus tridens,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Phoxocephalidae,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Hyperia medusarum,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Hyperia spinigera,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Hyperoche medusarum,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Themisto pacifica,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Primno macropa,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Primno brevidens,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Oxycephalus spp.,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Streetsia challengeri,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Vibilia viatrix,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Vibilia propinqua,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Vibilia sp.,Table26_%W_1981,1,0.01027538019,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Paraphronima spp.,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Paraphronima crassipes,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Unidentified Hyperiidea,Table26_%W_1981,0.1,0.001027538019,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Euphausiacea,Euphausia pacifica,Table26_%W_1981,11.9,0.1222770242,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Euphausiacea,Thysanoessa spinifera,Table26_%W_1981,3,0.03082614057,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Euphausiacea,Euphausiacea,Table26_%W_1981,9.5,0.0976161118,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,PWN,Decapoda,Sergestes similis,Table26_%W_1981,0.3,0.003082614057,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,PWN,Decapoda,Crangon spp. Zoea,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Porcellanidae,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Pugettia producta,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer magister megalopae,Table26_%W_1981,4.4,0.04521167283,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer oregonensis megalopae,Table26_%W_1981,0.4,0.004110152076,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer antennarius megalopae,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer spp. megalopae,Table26_%W_1981,0.2,0.002055076038,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Fabia subquadrata,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Chordata,Doliolidae,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Chordata,Salpidae,Table26_%W_1981,0.7,0.007192766132,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Larvaceae,Oikopleura,Table26_%W_1981,0.01,1.027538019e-4,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FPS,Osteichthyes,Allosmerus elongatus,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FPS,Osteichthyes,Cololabis saira,Table26_%W_1981,10.8,0.110974106,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FVS,Osteichthyes,Trachipterus altivelis,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ROCKFISH,Osteichthyes,Sebastes spp. Juvenile,Table26_%W_1981,2.3,0.02363337443,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ROC,Osteichthyes,Hemilepidotus spinosus,Table26_%W_1981,0.6,0.006165228113,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FVS,Osteichthyes,Scorpaenichthys marmoratus,Table26_%W_1981,0.01,1.027538019e-4,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,SMD,Osteichthyes,Liparididae,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FVS,Osteichthyes,Anarrhichthys ocellatus,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FDF,Osteichthyes,Glyptocephalus zachirus,Table26_%W_1981,0.2,0.002055076038,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,INSECT,Osteichthyes,Unidentified larvae,Table26_%W_1981,0,0,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FISH,Osteichthyes,Osteichthyes,Table26_%W_1981,14.7,0.1510480888,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,NA,Unidentified,Unidentified,Table26_%W_1981,22.6,0.2322235923,1,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Cnidaria,Eutonina indicans,Table26_%W_1982,0.1,9.593246355e-4,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Cnidaria,Velella velella,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Chondrophora,Unidentified Chondrophora,Table26_%W_1982,1.4,0.0134305449,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Cnidaria,Unidentified Cnidaria,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Ctenophora,Ctenophora,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Annelida,Tomopteris spp.,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Mollusca,Limacina helicina,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZM,Mollusca,Clionidae,Table26_%W_1982,3.8,0.03645433615,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BMD,Mollusca,Calvolina spp.,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BIV,Mollusca,Mollusca,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BMS,Cephalopoda,Cephalopoda,Table26_%W_1982,0.1,9.593246355e-4,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZM,Arthropoda,Copepoda,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Atylus tridens,Table26_%W_1982,0.01,9.593246355e-5,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Phoxocephalidae,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Hyperia medusarum,Table26_%W_1982,0.2,0.001918649271,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Hyperia spinigera,Table26_%W_1982,0.1,9.593246355e-4,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Hyperoche medusarum,Table26_%W_1982,0.5,0.004796623177,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Themisto pacifica,Table26_%W_1982,1.3,0.01247122026,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Primno macropa,Table26_%W_1982,0.01,9.593246355e-5,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Primno brevidens,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Oxycephalus spp.,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Streetsia challengeri,Table26_%W_1982,0.01,9.593246355e-5,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Vibilia viatrix,Table26_%W_1982,0.1,9.593246355e-4,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Vibilia propinqua,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Vibilia sp.,Table26_%W_1982,0.01,9.593246355e-5,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Paraphronima spp.,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Paraphronima crassipes,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Unidentified Hyperiidea,Table26_%W_1982,0.1,9.593246355e-4,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Euphausiacea,Euphausia pacifica,Table26_%W_1982,12.5,0.1199155794,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Euphausiacea,Thysanoessa spinifera,Table26_%W_1982,22.7,0.2177666922,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Euphausiacea,Euphausiacea,Table26_%W_1982,11.8,0.113200307,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,PWN,Decapoda,Sergestes similis,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,PWN,Decapoda,Crangon spp. Zoea,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Porcellanidae,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Pugettia producta,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer magister megalopae,Table26_%W_1982,3.5,0.03357636224,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer oregonensis megalopae,Table26_%W_1982,0.1,9.593246355e-4,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer antennarius megalopae,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer spp. megalopae,Table26_%W_1982,1.6,0.01534919417,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Fabia subquadrata,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Chordata,Doliolidae,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Chordata,Salpidae,Table26_%W_1982,1.4,0.0134305449,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Larvaceae,Oikopleura,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FPS,Osteichthyes,Allosmerus elongatus,Table26_%W_1982,4.1,0.03933231005,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FPS,Osteichthyes,Cololabis saira,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FVS,Osteichthyes,Trachipterus altivelis,Table26_%W_1982,7.2,0.06907137375,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ROCKFISH,Osteichthyes,Sebastes spp. Juvenile,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ROC,Osteichthyes,Hemilepidotus spinosus,Table26_%W_1982,0.6,0.005755947813,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FVS,Osteichthyes,Scorpaenichthys marmoratus,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,SMD,Osteichthyes,Liparididae,Table26_%W_1982,0.7,0.006715272448,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FVS,Osteichthyes,Anarrhichthys ocellatus,Table26_%W_1982,21.8,0.2091327705,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FDF,Osteichthyes,Glyptocephalus zachirus,Table26_%W_1982,0,0,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,INSECT,Osteichthyes,Unidentified larvae,Table26_%W_1982,3,0.02877973906,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FISH,Osteichthyes,Osteichthyes,Table26_%W_1982,0.2,0.001918649271,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,NA,Unidentified,Unidentified,Table26_%W_1982,5.3,0.05084420568,2,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Cnidaria,Eutonina indicans,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Cnidaria,Velella velella,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Chondrophora,Unidentified Chondrophora,Table26_%W_1983,0.2,0.001996007984,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Cnidaria,Unidentified Cnidaria,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Ctenophora,Ctenophora,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Annelida,Tomopteris spp.,Table26_%W_1983,0.6,0.005988023952,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Mollusca,Limacina helicina,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZM,Mollusca,Clionidae,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BMD,Mollusca,Calvolina spp.,Table26_%W_1983,0.4,0.003992015968,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BIV,Mollusca,Mollusca,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BMS,Cephalopoda,Cephalopoda,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZM,Arthropoda,Copepoda,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Atylus tridens,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Phoxocephalidae,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Hyperia medusarum,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Hyperia spinigera,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Hyperoche medusarum,Table26_%W_1983,0.2,0.001996007984,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Themisto pacifica,Table26_%W_1983,0.2,0.001996007984,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Primno macropa,Table26_%W_1983,0.2,0.001996007984,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Primno brevidens,Table26_%W_1983,0.4,0.003992015968,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Oxycephalus spp.,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Streetsia challengeri,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Vibilia viatrix,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Vibilia propinqua,Table26_%W_1983,1.1,0.01097804391,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Vibilia sp.,Table26_%W_1983,1.1,0.01097804391,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Paraphronima spp.,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Paraphronima crassipes,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Unidentified Hyperiidea,Table26_%W_1983,0.8,0.007984031936,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Euphausiacea,Euphausia pacifica,Table26_%W_1983,0.6,0.005988023952,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Euphausiacea,Thysanoessa spinifera,Table26_%W_1983,1.9,0.01896207585,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Euphausiacea,Euphausiacea,Table26_%W_1983,0.8,0.007984031936,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,PWN,Decapoda,Sergestes similis,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,PWN,Decapoda,Crangon spp. Zoea,Table26_%W_1983,0.2,0.001996007984,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Porcellanidae,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Pugettia producta,Table26_%W_1983,0.2,0.001996007984,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer magister megalopae,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer oregonensis megalopae,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer antennarius megalopae,Table26_%W_1983,0.8,0.007984031936,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer spp. megalopae,Table26_%W_1983,1.1,0.01097804391,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Fabia subquadrata,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Chordata,Doliolidae,Table26_%W_1983,38.8,0.3872255489,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Chordata,Salpidae,Table26_%W_1983,6.3,0.0628742515,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Larvaceae,Oikopleura,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FPS,Osteichthyes,Allosmerus elongatus,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FPS,Osteichthyes,Cololabis saira,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FVS,Osteichthyes,Trachipterus altivelis,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ROCKFISH,Osteichthyes,Sebastes spp. Juvenile,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ROC,Osteichthyes,Hemilepidotus spinosus,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FVS,Osteichthyes,Scorpaenichthys marmoratus,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,SMD,Osteichthyes,Liparididae,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FVS,Osteichthyes,Anarrhichthys ocellatus,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FDF,Osteichthyes,Glyptocephalus zachirus,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,INSECT,Osteichthyes,Unidentified larvae,Table26_%W_1983,0,0,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FISH,Osteichthyes,Osteichthyes,Table26_%W_1983,4,0.03992015968,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,NA,Unidentified,Unidentified,Table26_%W_1983,40.3,0.4021956088,3,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Cnidaria,Eutonina indicans,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Cnidaria,Velella velella,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Chondrophora,Unidentified Chondrophora,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Cnidaria,Unidentified Cnidaria,Table26_%W_1984,12.2,0.122354829,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZG,Ctenophora,Ctenophora,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Annelida,Tomopteris spp.,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Mollusca,Limacina helicina,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZM,Mollusca,Clionidae,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BMD,Mollusca,Calvolina spp.,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BIV,Mollusca,Mollusca,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BMS,Cephalopoda,Cephalopoda,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZM,Arthropoda,Copepoda,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Atylus tridens,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Phoxocephalidae,Table26_%W_1984,0.1,0.001002908434,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Hyperia medusarum,Table26_%W_1984,0.5,0.005014542172,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Hyperia spinigera,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Hyperoche medusarum,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Themisto pacifica,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Primno macropa,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Primno brevidens,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Oxycephalus spp.,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Streetsia challengeri,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Vibilia viatrix,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Vibilia propinqua,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Vibilia sp.,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Paraphronima spp.,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Paraphronima crassipes,Table26_%W_1984,0.3,0.003008725303,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BD,Arthropoda,Unidentified Hyperiidea,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Euphausiacea,Euphausia pacifica,Table26_%W_1984,22,0.2206398556,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Euphausiacea,Thysanoessa spinifera,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ZL,Euphausiacea,Euphausiacea,Table26_%W_1984,14,0.1404071808,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,PWN,Decapoda,Sergestes similis,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,PWN,Decapoda,Crangon spp. Zoea,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Porcellanidae,Table26_%W_1984,0.01,1.002908434e-4,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Pugettia producta,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer magister megalopae,Table26_%W_1984,0.4,0.004011633738,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer oregonensis megalopae,Table26_%W_1984,3.2,0.0320930699,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer antennarius megalopae,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Cancer spp. megalopae,Table26_%W_1984,5.2,0.05215123859,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BML,Decapoda,Fabia subquadrata,Table26_%W_1984,3.2,0.0320930699,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Chordata,Doliolidae,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Chordata,Salpidae,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,BFF,Larvaceae,Oikopleura,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FPS,Osteichthyes,Allosmerus elongatus,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FPS,Osteichthyes,Cololabis saira,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FVS,Osteichthyes,Trachipterus altivelis,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ROCKFISH,Osteichthyes,Sebastes spp. Juvenile,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,ROC,Osteichthyes,Hemilepidotus spinosus,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FVS,Osteichthyes,Scorpaenichthys marmoratus,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,SMD,Osteichthyes,Liparididae,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FVS,Osteichthyes,Anarrhichthys ocellatus,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FDF,Osteichthyes,Glyptocephalus zachirus,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,INSECT,Osteichthyes,Unidentified larvae,Table26_%W_1984,1.9,0.01905526025,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,FISH,Osteichthyes,Osteichthyes,Table26_%W_1984,0,0,4,Fish_Brodeur_et_al_1987_B
+SMD,adult,Anoplopoma fimbria,Anoplopoma fimbria,NA,Unidentified,Unidentified,Table26_%W_1984,36.7,0.3680673954,4,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,ZG,Cnidaria,Cnidaria,Table25_%W_1982_1984,0.01,1.007962907e-4,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,ZL,Mollusca,Limacina helicina,Table25_%W_1982_1984,0.01,1.007962907e-4,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,BG,Mollusca,Gastropoda,Table25_%W_1982_1984,0.01,1.007962907e-4,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,SQX,Cephalopoda,Loligo opalescens,Table25_%W_1982_1984,0.01,1.007962907e-4,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,ZM,Copepoda,Neocalanus plumchrus,Table25_%W_1982_1984,0.01,1.007962907e-4,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,ZM,Copepoda,Pseudocalanus minutus,Table25_%W_1982_1984,0.01,1.007962907e-4,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,ZM,Copepoda,Calanus pacificus,Table25_%W_1982_1984,0.01,1.007962907e-4,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,BD,Amphipoda,Hyperia medusarum,Table25_%W_1982_1984,0.01,1.007962907e-4,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,BD,Amphipoda,Themisto pacifica,Table25_%W_1982_1984,0.01,1.007962907e-4,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,BD,Amphipoda,Primno macropa,Table25_%W_1982_1984,0.01,1.007962907e-4,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,ZL,Euphausiacea,Euphausia pacifica,Table25_%W_1982_1984,1.2,0.01209555488,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,ZL,Euphausiacea,Thysanoessa spinifera,Table25_%W_1982_1984,11.2,0.1128918456,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,ZL,Euphausiacea,Euphausiacea,Table25_%W_1982_1984,15,0.151194436,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,BML,Decapoda,Cancer magister megalopae,Table25_%W_1982_1984,3.1,0.03124685012,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,ZL,Chaethognatha,Sagitta elegans,Table25_%W_1982_1984,0.01,1.007962907e-4,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,HE,Osteichthyes,Clupea harengus pallasii,Table25_%W_1982_1984,19.3,0.194536841,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,ROCKFISH,Osteichthyes,Sebastes sp.,Table25_%W_1982_1984,1.1,0.01108759198,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,FVS,Osteichthyes,Ophiodon elongatus,Table25_%W_1982_1984,1.4,0.0141114807,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,FDF,Osteichthyes,Flatfish,Table25_%W_1982_1984,1.4,0.0141114807,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,FISH,Osteichthyes,Osteichthyes,Table25_%W_1982_1984,4.5,0.04535833081,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes flavidus,Sebastes flavidus,NA,Unidentified,Unidentified,Table25_%W_1982_1984,40.9,0.4122568289,5,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZG,Cnidaria,Siphonophora,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZG,Ctenophora,Pleurobrachia bachei,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Mollusca,Limacina helicina,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BMS,Cephalopoda,Cephalopoda,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZM,Arthropoda,Calanus pacificus,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Mysidacea,Neomysis kadiakensis,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Cumacea,Lamprops sp.,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Cumacea,Diastylopsis dawsoni,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Isopoda,Isopoda,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Atylus tridens,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Lysianassidae,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Hyperia medusarum,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Hyperoche medusarum,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Themisto pacifica,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Primno macropa,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Unidentified Hyperiidea,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Euphasia pacifica,Table23_%W_1981,15.1,0.150653497,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Nyctiphanes simplex,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Thysanoessa spinifera,Table23_%W_1981,0.6,0.005986231667,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Euphausiacea,Table23_%W_1981,6,0.05986231667,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Caridea,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Pandalus spp.,Table23_%W_1981,0.01,9.977052779e-5,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Crangon alaskensis,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Crangon franciscorum,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Crangon spp.,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Callianassa californiensis,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer productus megalopae,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer magister megalopae,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer oregonensis megalopae,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer spp. megalopae,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Pinnotheridae megalopae,Table23_%W_1981,0.2,0.001995410556,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Pinnotheridae zoea,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Unidentified megalopae,Table23_%W_1981,0.01,9.977052779e-5,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Decapoda,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Chaethognatha,Sagitta elegans,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,LAMPREY,Chordata,Lampetra tridentata,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,HE,Chordata,Clupea harengus pallasii,Table23_%W_1981,38.3,0.3821211214,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Engraulis mordax,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,CI,Chordata,Onchorhynchus tshawytscha,Table23_%W_1981,35.8,0.3571784895,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,CO,Chordata,Onchorhynchus kisutch,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Allosmerus elongatus,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Osmeridae,Table23_%W_1981,0.01,9.977052779e-5,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Microgadus proximus,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Cottidae,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ROC,Chordata,Hemilepidotus spinosus,Table23_%W_1981,2,0.01995410556,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Ronquilus jordani,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Ptilichthys goodei,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Ammodytes hexapterus,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FDF,Chordata,Citharichthys sp.,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FDF,Chordata,Glyptocephalus zachirus,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FDF,Chordata,Psettichthys melanostictus,Table23_%W_1981,0,0,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FISH,Chordata,Osteichthyes,Table23_%W_1981,2.1,0.02095181084,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,NA,Unidentified,Unidentified,Table23_%W_1981,0.1,9.977052779e-4,6,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZG,Cnidaria,Siphonophora,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZG,Ctenophora,Pleurobrachia bachei,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Mollusca,Limacina helicina,Table23_%W_1982,0.2,0.001970637501,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BMS,Cephalopoda,Cephalopoda,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZM,Arthropoda,Calanus pacificus,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Mysidacea,Neomysis kadiakensis,Table23_%W_1982,0.01,9.853187506e-5,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Cumacea,Lamprops sp.,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Cumacea,Diastylopsis dawsoni,Table23_%W_1982,0.01,9.853187506e-5,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Isopoda,Isopoda,Table23_%W_1982,0.01,9.853187506e-5,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Atylus tridens,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Lysianassidae,Table23_%W_1982,0.01,9.853187506e-5,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Hyperia medusarum,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Hyperoche medusarum,Table23_%W_1982,0.01,9.853187506e-5,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Themisto pacifica,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Primno macropa,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Unidentified Hyperiidea,Table23_%W_1982,0.01,9.853187506e-5,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Euphasia pacifica,Table23_%W_1982,1.1,0.01083850626,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Nyctiphanes simplex,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Thysanoessa spinifera,Table23_%W_1982,57.8,0.5695142379,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Euphausiacea,Table23_%W_1982,8.1,0.0798108188,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Caridea,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Pandalus spp.,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Crangon alaskensis,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Crangon franciscorum,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Crangon spp.,Table23_%W_1982,0.3,0.002955956252,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Callianassa californiensis,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer productus megalopae,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer magister megalopae,Table23_%W_1982,9.4,0.09261996256,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer oregonensis megalopae,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer spp. megalopae,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Pinnotheridae megalopae,Table23_%W_1982,0.01,9.853187506e-5,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Pinnotheridae zoea,Table23_%W_1982,0.01,9.853187506e-5,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Unidentified megalopae,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Decapoda,Table23_%W_1982,0.01,9.853187506e-5,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Chaethognatha,Sagitta elegans,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,LAMPREY,Chordata,Lampetra tridentata,Table23_%W_1982,4.7,0.04630998128,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,HE,Chordata,Clupea harengus pallasii,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Engraulis mordax,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,CI,Chordata,Onchorhynchus tshawytscha,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,CO,Chordata,Onchorhynchus kisutch,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Allosmerus elongatus,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Osmeridae,Table23_%W_1982,0.1,9.853187506e-4,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Microgadus proximus,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Cottidae,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ROC,Chordata,Hemilepidotus spinosus,Table23_%W_1982,1.5,0.01477978126,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Ronquilus jordani,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Ptilichthys goodei,Table23_%W_1982,0.1,9.853187506e-4,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Ammodytes hexapterus,Table23_%W_1982,1.8,0.01773573751,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FDF,Chordata,Citharichthys sp.,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FDF,Chordata,Glyptocephalus zachirus,Table23_%W_1982,1.8,0.01773573751,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FDF,Chordata,Psettichthys melanostictus,Table23_%W_1982,0,0,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FISH,Chordata,Osteichthyes,Table23_%W_1982,3.6,0.03547147502,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,NA,Unidentified,Unidentified,Table23_%W_1982,10.9,0.1073997438,7,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZG,Cnidaria,Siphonophora,Table23_%W_1983,0.01,9.866798224e-5,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZG,Ctenophora,Pleurobrachia bachei,Table23_%W_1983,13.3,0.1312284164,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Mollusca,Limacina helicina,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BMS,Cephalopoda,Cephalopoda,Table23_%W_1983,0.1,9.866798224e-4,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZM,Arthropoda,Calanus pacificus,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Mysidacea,Neomysis kadiakensis,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Cumacea,Lamprops sp.,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Cumacea,Diastylopsis dawsoni,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Isopoda,Isopoda,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Atylus tridens,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Lysianassidae,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Hyperia medusarum,Table23_%W_1983,0.1,9.866798224e-4,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Hyperoche medusarum,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Themisto pacifica,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Primno macropa,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Unidentified Hyperiidea,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Euphasia pacifica,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Nyctiphanes simplex,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Thysanoessa spinifera,Table23_%W_1983,3.2,0.03157375432,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Euphausiacea,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Caridea,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Pandalus spp.,Table23_%W_1983,0.1,9.866798224e-4,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Crangon alaskensis,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Crangon franciscorum,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Crangon spp.,Table23_%W_1983,0.01,9.866798224e-5,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Callianassa californiensis,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer productus megalopae,Table23_%W_1983,0.1,9.866798224e-4,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer magister megalopae,Table23_%W_1983,12.9,0.1272816971,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer oregonensis megalopae,Table23_%W_1983,3,0.02960039467,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer spp. megalopae,Table23_%W_1983,0.2,0.001973359645,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Pinnotheridae megalopae,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Pinnotheridae zoea,Table23_%W_1983,0.01,9.866798224e-5,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Unidentified megalopae,Table23_%W_1983,2,0.01973359645,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Decapoda,Table23_%W_1983,0.2,0.001973359645,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Chaethognatha,Sagitta elegans,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,LAMPREY,Chordata,Lampetra tridentata,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,HE,Chordata,Clupea harengus pallasii,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Engraulis mordax,Table23_%W_1983,41.9,0.4134188456,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,CI,Chordata,Onchorhynchus tshawytscha,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,CO,Chordata,Onchorhynchus kisutch,Table23_%W_1983,13.5,0.133201776,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Allosmerus elongatus,Table23_%W_1983,3.9,0.03848051307,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Osmeridae,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Microgadus proximus,Table23_%W_1983,1.6,0.01578687716,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Cottidae,Table23_%W_1983,0.01,9.866798224e-5,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ROC,Chordata,Hemilepidotus spinosus,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Ronquilus jordani,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Ptilichthys goodei,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Ammodytes hexapterus,Table23_%W_1983,0.01,9.866798224e-5,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FDF,Chordata,Citharichthys sp.,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FDF,Chordata,Glyptocephalus zachirus,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FDF,Chordata,Psettichthys melanostictus,Table23_%W_1983,0,0,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FISH,Chordata,Osteichthyes,Table23_%W_1983,4.1,0.04045387272,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,NA,Unidentified,Unidentified,Table23_%W_1983,1.1,0.01085347805,8,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZG,Cnidaria,Siphonophora,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZG,Ctenophora,Pleurobrachia bachei,Table23_%W_1984,1.7,0.01689524945,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Mollusca,Limacina helicina,Table23_%W_1984,0.1,9.938382031e-4,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BMS,Cephalopoda,Cephalopoda,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZM,Arthropoda,Calanus pacificus,Table23_%W_1984,0.2,0.001987676406,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Mysidacea,Neomysis kadiakensis,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Cumacea,Lamprops sp.,Table23_%W_1984,0.1,9.938382031e-4,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Cumacea,Diastylopsis dawsoni,Table23_%W_1984,4.4,0.04372888094,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Isopoda,Isopoda,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Atylus tridens,Table23_%W_1984,0.8,0.007950705625,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Lysianassidae,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Hyperia medusarum,Table23_%W_1984,0.01,9.938382031e-5,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Hyperoche medusarum,Table23_%W_1984,0.8,0.007950705625,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Themisto pacifica,Table23_%W_1984,0.01,9.938382031e-5,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Primno macropa,Table23_%W_1984,0.1,9.938382031e-4,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BD,Amphipoda,Unidentified Hyperiidea,Table23_%W_1984,0.1,9.938382031e-4,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Euphasia pacifica,Table23_%W_1984,0.3,0.002981514609,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Nyctiphanes simplex,Table23_%W_1984,0.1,9.938382031e-4,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Thysanoessa spinifera,Table23_%W_1984,3.1,0.0308089843,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Euphausiacea,Euphausiacea,Table23_%W_1984,5,0.04969191016,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Caridea,Table23_%W_1984,0.1,9.938382031e-4,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Pandalus spp.,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Crangon alaskensis,Table23_%W_1984,0.7,0.006956867422,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Crangon franciscorum,Table23_%W_1984,0.7,0.006956867422,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Crangon spp.,Table23_%W_1984,0.1,9.938382031e-4,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,PWN,Decapoda,Callianassa californiensis,Table23_%W_1984,14.4,0.1431127013,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer productus megalopae,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer magister megalopae,Table23_%W_1984,0.1,9.938382031e-4,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer oregonensis megalopae,Table23_%W_1984,0.1,9.938382031e-4,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Cancer spp. megalopae,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Pinnotheridae megalopae,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Pinnotheridae zoea,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Unidentified megalopae,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,BML,Decapoda,Decapoda,Table23_%W_1984,0.4,0.003975352813,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ZL,Chaethognatha,Sagitta elegans,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,LAMPREY,Chordata,Lampetra tridentata,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,HE,Chordata,Clupea harengus pallasii,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Engraulis mordax,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,CI,Chordata,Onchorhynchus tshawytscha,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,CO,Chordata,Onchorhynchus kisutch,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Allosmerus elongatus,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Osmeridae,Table23_%W_1984,2.3,0.02285827867,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Microgadus proximus,Table23_%W_1984,0.1,9.938382031e-4,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Cottidae,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,ROC,Chordata,Hemilepidotus spinosus,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Ronquilus jordani,Table23_%W_1984,0.2,0.001987676406,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,SMD,Chordata,Ptilichthys goodei,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FPS,Chordata,Ammodytes hexapterus,Table23_%W_1984,0,0,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FDF,Chordata,Citharichthys sp.,Table23_%W_1984,0.2,0.001987676406,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FDF,Chordata,Glyptocephalus zachirus,Table23_%W_1984,0.3,0.002981514609,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FDF,Chordata,Psettichthys melanostictus,Table23_%W_1984,0.1,9.938382031e-4,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,FISH,Chordata,Osteichthyes,Table23_%W_1984,0.1,9.938382031e-4,9,Fish_Brodeur_et_al_1987_B
+MRO,adult,Sebastes melanops,Sebastes melanops,NA,Unidentified,Unidentified,Table23_%W_1984,63.9,0.6350626118,9,Fish_Brodeur_et_al_1987_B

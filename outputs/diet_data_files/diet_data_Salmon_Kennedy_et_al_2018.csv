@@ -1,0 +1,23 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoid copepods,Figure_5,89.4186046511628,0.8941860465,1,Salmon_Kennedy_et_al_2018
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Shrimp,Decapod shrimp,Figure_5,0,0,1,Salmon_Kennedy_et_al_2018
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insects,Figure_5,0.9302325581395081,0.009302325581,1,Salmon_Kennedy_et_al_2018
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crab megalope,Figure_5,0,0,1,Salmon_Kennedy_et_al_2018
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Polychaete worms,Figure_5,3.6046511627907023,0.03604651163,1,Salmon_Kennedy_et_al_2018
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,Figure_5,1.8604651162789878,0.01860465116,1,Salmon_Kennedy_et_al_2018
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Tanaids,Figure_5,0,0,1,Salmon_Kennedy_et_al_2018
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammarid amphipods,Figure_5,0,0,1,Salmon_Kennedy_et_al_2018
+CU,juvenile,Chum salmon,Oncorhynchus keta,CLADOCERA,Crustacea,Cladocerans,Figure_5,2.3255813953489053,0.02325581395,1,Salmon_Kennedy_et_al_2018
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphasid larvae,Figure_5,1.8604651162791015,0.01860465116,1,Salmon_Kennedy_et_al_2018
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Hyperid amphipods,Figure_5,0,0,1,Salmon_Kennedy_et_al_2018
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Harpacticoid copepods,Figure_5,78.1395348837209,0.7813953488,2,Salmon_Kennedy_et_al_2018
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Shrimp,Decapod shrimp,Figure_5,6.744186046511601,0.06744186047,2,Salmon_Kennedy_et_al_2018
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Insects,Figure_5,3.6046511627907023,0.03604651163,2,Salmon_Kennedy_et_al_2018
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Crab megalope,Figure_5,4.186046511627993,0.04186046512,2,Salmon_Kennedy_et_al_2018
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelida,Polychaete worms,Figure_5,0,0,2,Salmon_Kennedy_et_al_2018
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Figure_5,1.511627906976699,0.01511627907,2,Salmon_Kennedy_et_al_2018
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Tanaids,Figure_5,2.325581395348806,0.02325581395,2,Salmon_Kennedy_et_al_2018
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammarid amphipods,Figure_5,2.2093023255814046,0.02209302326,2,Salmon_Kennedy_et_al_2018
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,CLADOCERA,Crustacea,Cladocerans,Figure_5,0,0,2,Salmon_Kennedy_et_al_2018
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphasid larvae,Figure_5,0,0,2,Salmon_Kennedy_et_al_2018
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Hyperid amphipods,Figure_5,1.2790697674418965,0.01279069767,2,Salmon_Kennedy_et_al_2018

@@ -1,0 +1,20 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ROR,adult,Orcinus orca,Resident orca,CI,Chinook,Oncorhynchus tshawytscha,Table_2_NE_Vancouver_island,177,0.6232394366,1,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,CU,Chum,Oncorhynchus keta,Table_2_NE_Vancouver_island,76,0.2676056338,1,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,CO,Coho,Oncorhynchus kisutch,Table_2_NE_Vancouver_island,6,0.02112676056,1,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,PIS,Pink,Oncorhynchus gorbusha,Table_2_NE_Vancouver_island,12,0.04225352113,1,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,SAL,Sockeye,Oncorhynchus nerka,Table_2_NE_Vancouver_island,0,0,1,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,STEELHEAD,Steelhead,Oncorhynchus mykiss,Table_2_NE_Vancouver_island,0,0,1,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,DVR,Yelloweye rockfish,Sebastes ruberrimus,Table_2_NE_Vancouver_island,1,0.003521126761,1,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,HE,Herring,Clupea pallasi,Table_2_NE_Vancouver_island,1,0.003521126761,1,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,SALMON,Salmon,Unidentified salmon,Table_2_NE_Vancouver_island,10,0.03521126761,1,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,FISH,Fish,Unidentified fish,Table_2_NE_Vancouver_island,1,0.003521126761,1,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,CI,Chinook,Oncorhynchus tshawytscha,Table_2_SE_Vancouver_island,27,0.5625,2,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,CU,Chum,Oncorhynchus keta,Table_2_SE_Vancouver_island,2,0.04166666667,2,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,CO,Coho,Oncorhynchus kisutch,Table_2_SE_Vancouver_island,2,0.04166666667,2,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,PIS,Pink,Oncorhynchus gorbusha,Table_2_SE_Vancouver_island,0,0,2,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,SAL,Sockeye,Oncorhynchus nerka,Table_2_SE_Vancouver_island,2,0.04166666667,2,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,STEELHEAD,Steelhead,Oncorhynchus mykiss,Table_2_SE_Vancouver_island,2,0.04166666667,2,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,ROC,Quillback rockfish,Sebastes maliger,Table_2_SE_Vancouver_island,1,0.02083333333,2,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,SALMON,Salmon,Unidentified salmon,Table_2_SE_Vancouver_island,10,0.2083333333,2,ORC1_Ford_&_Elllis_2006
+ROR,adult,Orcinus orca,Resident orca,FISH,Fish,Unidentified fish,Table_2_SE_Vancouver_island,2,0.04166666667,2,ORC1_Ford_&_Elllis_2006

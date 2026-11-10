@@ -1,0 +1,237 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,1,2,1,1,Birds_SB_SP_MoniqueLance
+SB,adult,Cassins Auklet,Cassins Auklet,ROCKFISH,Sebastes spp. (type 1),Juvenile rockfish,2,1,0.5,2,Birds_SB_SP_MoniqueLance
+SB,adult,Cassins Auklet,Cassins Auklet,INVERT,Unknown invertebrate,Unknown invertebrate,2,1,0.5,2,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FPS,Ammodytes hexapteras,Pacific sand lance,3,1,0.5,3,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupeid spp.,Herring,3,1,0.5,3,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,4,1,0.5,4,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Cottid spp.,Sculpin,4,1,0.5,4,Birds_SB_SP_MoniqueLance
+SB,adult,Pigeon Guillemot,Pigeon Guillemot,SMD,Cottid spp.,Sculpin,5,4,1,5,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FPS,Ammodytes hexapteras,Pacific sand lance,6,2,0.6666666667,6,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupeid spp.,Herring,6,1,0.3333333333,6,Birds_SB_SP_MoniqueLance
+SB,adult,Tufted Puffin,Tufted Puffin,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,7,1,1,7,Birds_SB_SP_MoniqueLance
+SB,adult,Barrows Goldeneye,Barrows Goldeneye,INVERT,Unknown invertebrate,Unknown invertebrate,8,1,1,8,Birds_SB_SP_MoniqueLance
+SB,adult,Barrows Goldeneye,Barrows Goldeneye,INVERT,Unknown invertebrate,Unknown invertebrate,9,1,1,9,Birds_SB_SP_MoniqueLance
+SB,adult,Pelagic Cormorant,Pelagic Cormorant,HE,Clupea pallasi,Pacific herring,10,4,0.25,10,Birds_SB_SP_MoniqueLance
+SB,adult,Pelagic Cormorant,Pelagic Cormorant,SMD,Cottid spp.,Sculpin,10,1,0.0625,10,Birds_SB_SP_MoniqueLance
+SB,adult,Pelagic Cormorant,Pelagic Cormorant,FISH,Unknown fish spp.,Unknown fish spp.,10,3,0.1875,10,Birds_SB_SP_MoniqueLance
+SB,adult,Pelagic Cormorant,Pelagic Cormorant,SMD,Pholid spp.,Gunnel,10,1,0.0625,10,Birds_SB_SP_MoniqueLance
+SB,adult,Pelagic Cormorant,Pelagic Cormorant,SMD,Ronquilis jordani,Northern ronquil,10,7,0.4375,10,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,11,1,1,11,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FMM,Merluccius productus,Pacific hake,12,3,1,12,Birds_SB_SP_MoniqueLance
+SB,adult,Western Grebe,Western Grebe,FMM,Gadid or Merluccid,Codfishes,13,2,1,13,Birds_SB_SP_MoniqueLance
+SB,adult,Western Grebe,Western Grebe,HE,Clupea pallasi,Pacific herring,14,1,1,14,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,ROCKFISH,Sebastes spp. (type 1),Juvenile rockfish,15,2,0.2222222222,15,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,SQX,Unknown cephalopod,Unknown cephalopod,15,1,0.1111111111,15,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FPS,Engraulis mordax,Northern anchovy,15,4,0.4444444444,15,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,15,2,0.2222222222,15,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,16,1,1,16,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,17,2,1,17,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FPS,Ammodytes hexapteras,Pacific sand lance,18,1,0.5,18,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,18,1,0.5,18,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,19,1,1,19,Birds_SB_SP_MoniqueLance
+SB,adult,Marbled Murrelet,Marbled Murrelet,HE,Clupea pallasi,Pacific herring,20,2,1,20,Birds_SB_SP_MoniqueLance
+SB,adult,Surf Scoter,Surf Scoter,INVERT,Unknown invertebrate,Unknown invertebrate,22,1,1,21,Birds_SB_SP_MoniqueLance
+SB,adult,Doubled crested cormorant,Doubled crested cormorant,INVERT,Unknown invertebrate,Unknown invertebrate,24,1,1,22,Birds_SB_SP_MoniqueLance
+SB,adult,Surf Scoter,Surf Scoter,INVERT,Unknown invertebrate,Unknown invertebrate,26,1,1,23,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,28,1,0.2,24,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FPS,Ammodytes hexapteras,Pacific sand lance,28,1,0.2,24,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,POP,Cymatogaster aggregata,Shiner perch,28,3,0.6,24,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Stichaeid spp.,Prickleback,29,1,0.25,25,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FPS,Ammodytes hexapteras,Pacific sand lance,29,1,0.25,25,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,29,2,0.5,25,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,LAMPREY,Lampetra ayresii,River lamprey,29,0,0,25,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupeid spp.,Herring,30,1,1,26,Birds_SB_SP_MoniqueLance
+SB,adult,Pigeon Guillemot,Pigeon Guillemot,MYCTOPHID,Porichthys notatus,Plainfin midshipmen,31,1,0.09090909091,27,Birds_SB_SP_MoniqueLance
+SB,adult,Pigeon Guillemot,Pigeon Guillemot,FDF,Platichthys stellatus,Starry flounder,31,10,0.9090909091,27,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,MYCTOPHID,Porichthys notatus,Plainfin midshipmen,33,2,1,28,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupeid spp.,Herring,34,1,1,29,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,35,2,1,30,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,37,2,0.4,31,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,37,1,0.2,31,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,LAMPREY,Lampetra ayresii,River lamprey,37,1,0.2,31,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,INVERT,Unknown invertebrate,Unknown invertebrate,37,1,0.2,31,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,38,2,0.6666666667,32,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,MYCTOPHID,Porichthys notatus,Plainfin midshipmen,38,1,0.3333333333,32,Birds_SB_SP_MoniqueLance
+SB,adult,Pigeon Guillemot,Pigeon Guillemot,SMD,Leptocottus armatus,Pacific staghorn sculpin,39,4,0.1666666667,33,Birds_SB_SP_MoniqueLance
+SB,adult,Pigeon Guillemot,Pigeon Guillemot,FDF,Pleuronectid spp.,Righteye flounder,39,18,0.75,33,Birds_SB_SP_MoniqueLance
+SB,adult,Pigeon Guillemot,Pigeon Guillemot,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,39,2,0.08333333333,33,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,40,1,0.25,34,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FPS,Ammodytes hexapteras,Pacific sand lance,40,1,0.25,34,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,POP,Cymatogaster aggregata,Shiner perch,40,2,0.5,34,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,SALMON,Oncorhynchus spp juvenile,Juvenile salmonid,41,2,0.6666666667,35,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,41,1,0.3333333333,35,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupeid spp.,Herring,42,1,1,36,Birds_SB_SP_MoniqueLance
+SB,adult,Pigeon Guillemot,Pigeon Guillemot,FDF,Platichthys stellatus,Starry flounder,43,6,0.75,37,Birds_SB_SP_MoniqueLance
+SB,adult,Pigeon Guillemot,Pigeon Guillemot,SMD,Liparididae spp.,Snailfishes,43,1,0.125,37,Birds_SB_SP_MoniqueLance
+SB,adult,Pigeon Guillemot,Pigeon Guillemot,SQX,Loligo opalescens,Market squid,43,1,0.125,37,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,LAMPREY,Lampetra ayresii,River lamprey,45,1,0.5,38,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupeid spp.,Herring,45,1,0.5,38,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,SQX,Loligo opalescens,Market squid,46,1,0.3333333333,39,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,LAMPREY,Lampetra ayresii,River lamprey,46,1,0.3333333333,39,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupeid spp.,Herring,46,1,0.3333333333,39,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,POP,Cymatogaster aggregata,Shiner perch,47,3,0.75,40,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FPS,Ammodytes hexapteras,Pacific sand lance,47,1,0.25,40,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,48,2,1,41,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,POP,Cymatogaster aggregata,Shiner perch,49,3,0.4285714286,42,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,MYCTOPHID,Porichthys notatus,Plainfin midshipmen,49,2,0.2857142857,42,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,49,1,0.1428571429,42,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,49,1,0.1428571429,42,Birds_SB_SP_MoniqueLance
+SB,adult,Pacific Loon,Pacific Loon,FPS,Engraulis mordax,Northern anchovy,50,2,0.07142857143,43,Birds_SB_SP_MoniqueLance
+SB,adult,Pacific Loon,Pacific Loon,HE,Clupea pallasi,Pacific herring,50,1,0.03571428571,43,Birds_SB_SP_MoniqueLance
+SB,adult,Pacific Loon,Pacific Loon,SMD,Gasteroseus aculeatus,Threespine stickleback,50,1,0.03571428571,43,Birds_SB_SP_MoniqueLance
+SB,adult,Pacific Loon,Pacific Loon,POP,Cymatogaster aggregata,Shiner perch,50,21,0.75,43,Birds_SB_SP_MoniqueLance
+SB,adult,Pacific Loon,Pacific Loon,FPS,Ammodytes hexapteras,Pacific sand lance,50,2,0.07142857143,43,Birds_SB_SP_MoniqueLance
+SB,adult,Pacific Loon,Pacific Loon,FISH,Unknown fish spp.,Unknown fish spp.,50,1,0.03571428571,43,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,POP,Cymatogaster aggregata,Shiner perch,51,13,0.8125,44,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,51,1,0.0625,44,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,51,1,0.0625,44,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Stichaeid spp.,Prickleback,51,1,0.0625,44,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,52,2,0.6666666667,45,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,POP,Cymatogaster aggregata,Shiner perch,52,1,0.3333333333,45,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,53,1,0.3333333333,46,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupeid spp.,Herring,53,1,0.3333333333,46,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,POP,Cymatogaster aggregata,Shiner perch,53,1,0.3333333333,46,Birds_SB_SP_MoniqueLance
+SB,adult,Marbled Murrelet,Marbled Murrelet,HE,Clupeid spp.,Herring,54,1,0.5,47,Birds_SB_SP_MoniqueLance
+SB,adult,Marbled Murrelet,Marbled Murrelet,FPS,Ammodytes hexapteras,Pacific sand lance,54,1,0.5,47,Birds_SB_SP_MoniqueLance
+SB,adult,Marbled Murrelet,Marbled Murrelet,HE,Clupea pallasi,Pacific herring,55,1,0.5,48,Birds_SB_SP_MoniqueLance
+SB,adult,Marbled Murrelet,Marbled Murrelet,FPS,Ammodytes hexapteras,Pacific sand lance,55,1,0.5,48,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,INVERT,Unknown invertebrate,Unknown invertebrate,56,1,0.5,49,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,56,1,0.5,49,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FMM,Gadid or Merluccid,Codfishes,57,2,0.4,50,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupeid spp.,Herring,57,1,0.2,50,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FPS,Ammodytes hexapteras,Pacific sand lance,57,1,0.2,50,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FISH,Unknown fish spp.,Unknown fish spp.,57,1,0.2,50,Birds_SB_SP_MoniqueLance
+SB,adult,Marbled Murrelet,Marbled Murrelet,HE,Clupea pallasi,Pacific herring,58,1,1,51,Birds_SB_SP_MoniqueLance
+SB,adult,Pigeon Guillemot,Pigeon Guillemot,SMD,Gasteroseus aculeatus,Threespine stickleback,60,7,1,52,Birds_SB_SP_MoniqueLance
+SB,adult,Pigeon Guillemot,Pigeon Guillemot,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,61,2,1,53,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,62,1,0.2,54,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FPS,Ammodytes hexapteras,Pacific sand lance,62,1,0.2,54,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupeid spp.,Herring,62,1,0.2,54,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Stichaeid spp.,Prickleback,62,1,0.2,54,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,LAMPREY,Lampetra ayresii,River lamprey,62,1,0.2,54,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FDF,Pleuronectid spp.,Righteye flounder,63,1,1,55,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,64,1,0.3333333333,56,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Stichaeid spp.,Prickleback,64,1,0.3333333333,56,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FPS,Ammodytes hexapteras,Pacific sand lance,64,1,0.3333333333,56,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,65,2,1,57,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,66,1,1,58,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,67,3,1,59,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,68,3,1,60,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,69,1,0.5,61,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FISH,Unknown fish spp.,Unknown fish spp.,69,1,0.5,61,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,70,1,1,62,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,71,2,1,63,Birds_SB_SP_MoniqueLance
+SB,adult,Common Loon,Common Loon,HE,Clupea pallasi,Pacific herring,72,3,0.5,64,Birds_SB_SP_MoniqueLance
+SB,adult,Common Loon,Common Loon,FPS,Ammodytes hexapteras,Pacific sand lance,72,1,0.1666666667,64,Birds_SB_SP_MoniqueLance
+SB,adult,Common Loon,Common Loon,FDF,Pleuronectid spp.,Righteye flounder,72,2,0.3333333333,64,Birds_SB_SP_MoniqueLance
+SB,adult,Pigeon Guillemot,Pigeon Guillemot,SMD,Leptocottus armatus,Pacific staghorn sculpin,73,1,1,65,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,74,1,0.5,66,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,SMD,Gasteroseus aculeatus,Threespine stickleback,74,1,0.5,66,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FPS,Hypomesus pretiosus,Surf smelt,75,2,0.4,67,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FPS,Ammodytes hexapteras,Pacific sand lance,75,1,0.2,67,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,MYCTOPHID,Porichthys notatus,Plainfin midshipmen,75,2,0.4,67,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,76,2,1,68,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,77,5,1,69,Birds_SB_SP_MoniqueLance
+SB,adult,Glaucous winged gull,Glaucous winged gull,INVERT,Unknown invertebrate,Unknown invertebrate,78,1,0.25,70,Birds_SB_SP_MoniqueLance
+SB,adult,Glaucous winged gull,Glaucous winged gull,FPS,Ammodytes hexapteras,Pacific sand lance,78,3,0.75,70,Birds_SB_SP_MoniqueLance
+SB,adult,Common Loon,Common Loon,FDF,Platichthys stellatus,Starry flounder,80,7,0.7777777778,71,Birds_SB_SP_MoniqueLance
+SB,adult,Common Loon,Common Loon,SMD,Leptocottus armatus,Pacific staghorn sculpin,80,1,0.1111111111,71,Birds_SB_SP_MoniqueLance
+SB,adult,Common Loon,Common Loon,HE,Clupeid spp.,Herring,80,1,0.1111111111,71,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatus spp.,Gonatus spp.,81,1,1,72,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Taonius borealis,Taonius borealis,82,4,0.25,73,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatus berryi,Gonatus berryi,82,1,0.0625,73,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatus spp.,Gonatus spp.,82,4,0.25,73,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatopsis borealis,Gonatopsis borealis,82,3,0.1875,73,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatid spp.,Gonatid spp.,82,3,0.1875,73,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Japatella diaphana,Japatella diaphana,82,1,0.0625,73,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Unidentifiable cephalopod,Unidentifiable cephalopod,83,1,1,74,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Chiroteuthis calyx,Chiroteuthis calyx,84,1,0.1,75,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatus californiensis,Gonatus californiensis,84,3,0.3,75,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatus pyros,Gonatus pyros,84,3,0.3,75,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatopsis borealis,Gonatopsis borealis,84,1,0.1,75,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Leachia spp.,Leachia spp.,84,1,0.1,75,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Japatella diaphana,Japatella diaphana,84,1,0.1,75,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Taonius borealis,Taonius borealis,85,1,0.2,76,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatus spp.,Gonatus spp.,85,1,0.2,76,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Onychoteuthis borealijaponicus,Onychoteuthis borealijaponicus,85,1,0.2,76,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatid spp.,Gonatid spp.,85,2,0.4,76,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatus californiensis,Gonatus californiensis,86,1,0.3333333333,77,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatus pyros,Gonatus pyros,86,1,0.3333333333,77,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatid spp.,Gonatid spp.,86,1,0.3333333333,77,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatus spp.,Gonatus spp.,87,1,0.1111111111,78,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Octopoteuthis deletron,Octopoteuthis deletron,87,1,0.1111111111,78,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Taonius borealis,Taonius borealis,87,2,0.2222222222,78,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatopsis borealis,Gonatopsis borealis,87,3,0.3333333333,78,Birds_SB_SP_MoniqueLance
+SB,adult,Northern Fulmar,Northern Fulmar,SQX,Gonatid spp.,Gonatid spp.,87,2,0.2222222222,78,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FMM,Gadid or Merluccid,Codfishes,88,1,1,79,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,89,1,1,80,Birds_SB_SP_MoniqueLance
+SB,adult,Western Grebe,Western Grebe,HE,Clupea pallasi,Pacific herring,90,2,1,81,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,92,1,1,82,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,93,1,0.5,83,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,93,1,0.5,83,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,94,1,1,84,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FMM,Theragra chalcogramma,Walleye pollock,95,2,0.4,85,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,95,1,0.2,85,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FPS,Ammodytes hexapteras,Pacific sand lance,95,1,0.2,85,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,95,1,0.2,85,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SALMON,Oncorhynchus spp juvenile,Juvenile salmonid,96,2,0.6666666667,86,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,96,1,0.3333333333,86,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,97,1,0.3333333333,87,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FMM,Theragra chalcogramma,Walleye pollock,97,2,0.6666666667,87,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,98,1,0.5,88,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,98,1,0.5,88,Birds_SB_SP_MoniqueLance
+SB,adult,Western Grebe,Western Grebe,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,99,1,1,89,Birds_SB_SP_MoniqueLance
+SB,adult,White winged Scoter,White winged Scoter,BML,Unknown crustacean,Unknown crustacean,100,1,1,90,Birds_SB_SP_MoniqueLance
+SB,adult,Common Goldeneye,Common Goldeneye,BML,Unknown crustacean,Unknown crustacean,101,1,0.5,91,Birds_SB_SP_MoniqueLance
+SB,adult,Common Goldeneye,Common Goldeneye,FISH,Unknown fish spp.,Unknown fish spp.,101,1,0.5,91,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,102,3,0.2727272727,92,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,MYCTOPHID,Porichthys notatus,Plainfin midshipmen,102,8,0.7272727273,92,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,103,1,0.5,93,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FPS,Ammodytes hexapteras,Pacific sand lance,103,1,0.5,93,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,105,2,1,94,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FMM,Theragra chalcogramma,Walleye pollock,106,7,0.7777777778,95,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,106,2,0.2222222222,95,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,SQX,Loligo opalescens,Market squid,107,1,0.125,96,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FPS,Ammodytes hexapteras,Pacific sand lance,107,5,0.625,96,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,107,2,0.25,96,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,108,1,1,97,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FMM,Gadid or Merluccid,Codfishes,109,2,1,98,Birds_SB_SP_MoniqueLance
+SB,adult,Longbilled Murrelet,Longbilled Murrelet,HE,Clupea pallasi,Pacific herring,110,1,1,99,Birds_SB_SP_MoniqueLance
+SB,adult,Marbled Murrelet,Marbled Murrelet,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,111,1,1,100,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,112,1,0.3333333333,101,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,112,2,0.6666666667,101,Birds_SB_SP_MoniqueLance
+SB,adult,Surf Scoter,Surf Scoter,INVERT,Unknown invertebrate,Unknown invertebrate,113,1,1,102,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,FPS,Ammodytes hexapteras,Pacific sand lance,114,6,0.8571428571,103,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,114,1,0.1428571429,103,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,116,4,1,104,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,118,3,1,105,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,119,3,1,106,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,120,1,1,107,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupeid spp.,Herring,121,1,1,108,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SALMON,Oncorhynchus spp juvenile,Juvenile salmonid,122,2,0.6666666667,109,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupeid spp.,Herring,122,1,0.3333333333,109,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,123,1,0.5,110,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupeid spp.,Herring,123,1,0.5,110,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,SALMON,Oncorhynchus spp juvenile,Juvenile salmonid,124,2,0.4,111,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,SMD,Leptocottus armatus,Pacific staghorn sculpin,124,2,0.4,111,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,MYCTOPHID,Porichthys notatus,Plainfin midshipmen,124,1,0.2,111,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupeid spp.,Herring,125,1,1,112,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupeid spp.,Herring,126,1,1,113,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,SALMON,Oncorhynchus spp juvenile,Juvenile salmonid,128,5,1,114,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupea pallasi,Pacific herring,129,2,1,115,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,HE,Clupeid spp.,Herring,130,1,0.3333333333,116,Birds_SB_SP_MoniqueLance
+SB,adult,Common Murre,Common Murre,POP,Cymatogaster aggregata,Shiner perch,130,2,0.6666666667,116,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SALMON,Oncorhynchus spp juvenile,Juvenile salmonid,132,2,0.5,117,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,132,2,0.5,117,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FPS,Ammodytes hexapteras,Pacific sand lance,133,2,0.3333333333,118,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,133,2,0.3333333333,118,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SALMON,Oncorhynchus spp juvenile,Juvenile salmonid,133,2,0.3333333333,118,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SALMON,Oncorhynchus spp juvenile,Juvenile salmonid,134,6,0.75,119,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,134,2,0.25,119,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SALMON,Oncorhynchus spp juvenile,Juvenile salmonid,135,4,0.8,120,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,135,1,0.2,120,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,136,1,1,121,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,SMD,Gasteroseus aculeatus,Threespine stickleback,137,1,0.2,122,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,HE,Clupea pallasi,Pacific herring,137,2,0.4,122,Birds_SB_SP_MoniqueLance
+SB,adult,Rhinoceros Auklet,Rhinoceros Auklet,FPS,Hypomesus pretiosus,Surf smelt,137,2,0.4,122,Birds_SB_SP_MoniqueLance

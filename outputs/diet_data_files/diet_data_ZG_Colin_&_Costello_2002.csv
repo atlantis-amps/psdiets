@@ -1,0 +1,61 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ZG,INVERT,Jellyfish,Aequorea victoria,ZM,Arthropoda,Copepod nauplii,Table_2,0,0,1,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aequorea victoria,ZM,Arthropoda,Copepodites,Table_2,0,0,1,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aequorea victoria,ZM,Arthropoda,Adult calanoid,Table_2,2,0.02040816327,1,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aequorea victoria,BFF,Arthropoda,Barnacle nauplii,Table_2,12,0.1224489796,1,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aequorea victoria,ZS,Rotifera,Rotifers,Table_2,0,0,1,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aequorea victoria,BIV,Mollusca,Mollusk larvae,Table_2,0,0,1,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aequorea victoria,BC,Polychaeta,Polychaete larvae,Table_2,0,0,1,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aequorea victoria,NA,NA,Eggs,Table_2,49,0.5,1,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aequorea victoria,BFF,Mollusca,Appendicularian,Table_2,35,0.3571428571,1,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aequorea victoria,ZG,Cnidaria,Small medusae,Table_2,0,0,1,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Mitrocoma cellularia,ZM,Arthropoda,Copepod nauplii,Table_2,0,0,2,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Mitrocoma cellularia,ZM,Arthropoda,Copepodites,Table_2,2,0.02,2,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Mitrocoma cellularia,ZM,Arthropoda,Adult calanoid,Table_2,0,0,2,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Mitrocoma cellularia,BFF,Arthropoda,Barnacle nauplii,Table_2,0,0,2,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Mitrocoma cellularia,ZS,Rotifera,Rotifers,Table_2,0,0,2,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Mitrocoma cellularia,BIV,Mollusca,Mollusk larvae,Table_2,0,0,2,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Mitrocoma cellularia,BC,Polychaeta,Polychaete larvae,Table_2,0,0,2,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Mitrocoma cellularia,NA,NA,Eggs,Table_2,98,0.98,2,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Mitrocoma cellularia,BFF,Chordata,Appendicularian,Table_2,0,0,2,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Mitrocoma cellularia,ZG,Cnidaria,Small medusae,Table_2,0,0,2,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Phialidium gregarium,ZM,Arthropoda,Copepod nauplii,Table_2,0,0,3,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Phialidium gregarium,ZM,Arthropoda,Copepodites,Table_2,3,0.0303030303,3,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Phialidium gregarium,ZM,Arthropoda,Adult calanoid,Table_2,0,0,3,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Phialidium gregarium,BFF,Arthropoda,Barnacle nauplii,Table_2,0,0,3,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Phialidium gregarium,ZS,Rotifera,Rotifers,Table_2,0,0,3,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Phialidium gregarium,BIV,Mollusca,Mollusk larvae,Table_2,0,0,3,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Phialidium gregarium,BC,Polychaeta,Polychaete larvae,Table_2,0,0,3,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Phialidium gregarium,NA,NA,Eggs,Table_2,94,0.9494949495,3,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Phialidium gregarium,BFF,Chordata,Appendicularian,Table_2,2,0.0202020202,3,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Phialidium gregarium,ZG,Cnidaria,Small medusae,Table_2,0,0,3,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Sarsia tubulosa,ZM,Arthropoda,Copepod nauplii,Table_2,0,0,4,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Sarsia tubulosa,ZM,Arthropoda,Copepodites,Table_2,29,0.2929292929,4,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Sarsia tubulosa,ZM,Arthropoda,Adult calanoid,Table_2,67,0.6767676768,4,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Sarsia tubulosa,BFF,Arthropoda,Barnacle nauplii,Table_2,0,0,4,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Sarsia tubulosa,ZS,Rotifera,Rotifers,Table_2,0,0,4,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Sarsia tubulosa,BIV,Mollusca,Mollusk larvae,Table_2,0,0,4,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Sarsia tubulosa,BC,Polychaeta,Polychaete larvae,Table_2,0,0,4,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Sarsia tubulosa,NA,NA,Eggs,Table_2,3,0.0303030303,4,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Sarsia tubulosa,BFF,Chordata,Appendicularian,Table_2,0,0,4,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Sarsia tubulosa,ZG,Cnidaria,Small medusae,Table_2,0,0,4,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Proboscidactlya flavicerrata,ZM,Arthropoda,Copepod nauplii,Table_2,0,0,5,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Proboscidactlya flavicerrata,ZM,Arthropoda,Copepodites,Table_2,3,0.03092783505,5,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Proboscidactlya flavicerrata,ZM,Arthropoda,Adult calanoid,Table_2,11,0.1134020619,5,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Proboscidactlya flavicerrata,BFF,Arthropoda,Barnacle nauplii,Table_2,0,0,5,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Proboscidactlya flavicerrata,ZS,Rotifera,Rotifers,Table_2,0,0,5,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Proboscidactlya flavicerrata,BIV,Mollusca,Mollusk larvae,Table_2,39,0.4020618557,5,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Proboscidactlya flavicerrata,BC,Polychaeta,Polychaete larvae,Table_2,0,0,5,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Proboscidactlya flavicerrata,NA,NA,Eggs,Table_2,30,0.3092783505,5,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Proboscidactlya flavicerrata,BFF,Chordata,Appendicularian,Table_2,14,0.1443298969,5,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Proboscidactlya flavicerrata,ZG,Cnidaria,Small medusae,Table_2,0,0,5,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aglantha digitale,ZM,Arthropoda,Copepod nauplii,Table_2,0,0,6,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aglantha digitale,ZM,Arthropoda,Copepodites,Table_2,1,0.01,6,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aglantha digitale,ZM,Arthropoda,Adult calanoid,Table_2,5,0.05,6,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aglantha digitale,BFF,Arthropoda,Barnacle nauplii,Table_2,0,0,6,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aglantha digitale,ZS,Rotifera,Rotifers,Table_2,0,0,6,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aglantha digitale,BIV,Mollusca,Mollusk larvae,Table_2,0,0,6,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aglantha digitale,BC,Polychaeta,Polychaete larvae,Table_2,0,0,6,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aglantha digitale,NA,NA,Eggs,Table_2,94,0.94,6,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aglantha digitale,BFF,Chordata,Appendicularian,Table_2,0,0,6,ZG_Colin_&_Costello_2002
+ZG,INVERT,Jellyfish,Aglantha digitale,ZG,Cnidaria,Small medusae,Table_2,0,0,6,ZG_Colin_&_Costello_2002

@@ -1,0 +1,40 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,adult,Glaucous-winged Gull,Larus glaucescens,NA,Human refuse,Human refuse,Table_1_%occ_May-June,69.3,0.3557494867,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,FISH,Fish,Fish,Table_1_%occ_May-June,16.8,0.08624229979,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,BIV,Bivalves,Bivalves,Table_1_%occ_May-June,23.5,0.1206365503,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,BFF,Chitons,Chitons,Table_1_%occ_May-June,2.8,0.01437371663,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,BG,Gastropods,Gastropods,Table_1_%occ_May-June,0.6,0.003080082136,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,SQX,Squid,Squid,Table_1_%occ_May-June,0,0,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,BFF,Gooseneck barnacles,Gooseneck barnacles,Table_1_%occ_May-June,1.7,0.008726899384,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,BML,Crabs,Crabs,Table_1_%occ_May-June,9.5,0.04876796715,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,PWN,Shrimps,Shrimps,Table_1_%occ_May-June,0.6,0.003080082136,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,BD,Isopods,Isopods,Table_1_%occ_May-June,0.6,0.003080082136,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,INSECT,Insects,Insects,Table_1_%occ_May-June,3.9,0.02002053388,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,BC,Errant polychaetes,Errant polychaetes,Table_1_%occ_May-June,0,0,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,BMD,Starfishes,Starfishes,Table_1_%occ_May-June,1.7,0.008726899384,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,NA,Mice,Mice,Table_1_%occ_May-June,0.6,0.003080082136,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,NA,Digested animal matter,Digested animal matter,Table_1_%occ_May-June,0.6,0.003080082136,1,SB_Vermeer_1982
+SB,adult,Glaucous-winged Gull,Larus glaucescens,PLANT,Plant material,Plant material,Table_1_%occ_May-June,62.6,0.3213552361,1,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,NA,Human refuse,Human refuse,Table_1_%ww_July-August,20.3,0.5245478036,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,BIV,Bivalves,Bivalves,Table_1_%ww_July-August,4.9,0.1266149871,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,BFF,Chitons,Chitons,Table_1_%ww_July-August,0.6,0.01550387597,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,BG,Gastropods,Gastropods,Table_1_%ww_July-August,0.1,0.002583979328,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,SQX,Squid,Squid,Table_1_%ww_July-August,0,0,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,BFF,Gooseneck barnacles,Gooseneck barnacles,Table_1_%ww_July-August,0,0,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,BML,Crabs,Crabs,Table_1_%ww_July-August,0.3,0.007751937984,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,PWN,Shrimps,Shrimps,Table_1_%ww_July-August,0.2,0.005167958656,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,BD,Isopods,Isopods,Table_1_%ww_July-August,0,0,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,INSECT,Insects,Insects,Table_1_%ww_July-August,0.05,0.001291989664,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,BC,Errant polychaetes,Errant polychaetes,Table_1_%ww_July-August,0.05,0.001291989664,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,BMD,Starfishes,Starfishes,Table_1_%ww_July-August,4.7,0.1214470284,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,NA,Mice,Mice,Table_1_%ww_July-August,0,0,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,NA,Digested animal matter,Digested animal matter,Table_1_%ww_July-August,6.5,0.1679586563,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,PLANT,Plant material,Plant material,Table_1_%ww_July-August,1,0.02583979328,2,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,HE,Clupea harengus,Herring,Table_2_%ww_fish,35.9831,0.587,3,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,FPS,Ammodytes hexapterus,Pacific sand lance,Table_2_%ww_fish,0.18389999999999998,0.003,3,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,PELAGIC,Cololabis saira,Pacific saury,Table_2_%ww_fish,0,0,3,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,SALMON,Oncorhynchus sp.,Salmon,Table_2_%ww_fish,3.065,0.05,3,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,SMD,Xiphister sp.,Blenny,Table_2_%ww_fish,1.4098999999999997,0.023,3,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,LAMPREY,Lampetra ayresi,River lamprey,Table_2_%ww_fish,0.2452,0.004,3,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,SMD,Sculpin,Unidentified sculpin,Table_2_%ww_fish,1.1034,0.018,3,SB_Vermeer_1982
+SB,juvenile,Glaucous-winged Gull,Larus glaucescens,FISH,Fish,Unidentified and digested fishes,Table_2_%ww_fish,19.3095,0.315,3,SB_Vermeer_1982

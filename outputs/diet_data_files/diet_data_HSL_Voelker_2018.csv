@@ -1,0 +1,33 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,adult,Salish sea male,Phoca vitulina,SMD,Snake Prickleback,Lumpenus sagitta,Table_9_Salish_sea_males,11,0.009105960265,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,FDF,English sole,Parophrys vetulus,Table_9_Salish_sea_males,16,0.01324503311,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,RAT,Spotted Ratfish,Hydrolagus colliei,Table_9_Salish_sea_males,21,0.01738410596,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,POP,Shinner surfperch,Cymatogaster aggregata,Table_9_Salish_sea_males,37,0.03062913907,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,FPS,Surf smelt,Hypomesus pretiosus,Table_9_Salish_sea_males,13,0.0107615894,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,FPS,Northern smoothtongue,Leuroglossus schmidti,Table_9_Salish_sea_males,19,0.01572847682,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,MYCTOPHID,Plainfin midshipman,Porichthys notatus,Table_9_Salish_sea_males,46,0.0380794702,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,SMD,Pacific staghorn sculpin,Leptocottus armatus,Table_9_Salish_sea_males,29,0.02400662252,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,FMM,Welleye pollock,Gadus chalcogrammus,Table_9_Salish_sea_males,136,0.1125827815,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,FMM,Pacific hake,Merluccius productus,Table_9_Salish_sea_males,171,0.1415562914,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,HE,Pacific herring,Clupea pallasii pallasii,Table_9_Salish_sea_males,283,0.2342715232,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,SAL,Juvenile sockeye salmon,Oncorhynchus nerka,Table_9_Salish_sea_males,92,0.0761589404,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,PIS,Adult pink salmon,Oncorhynchus gorbuscha,Table_9_Salish_sea_males,129,0.1067880795,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,SAL,Adult sockeye salmon,Oncorhynchus nerka,Table_9_Salish_sea_males,117,0.09685430464,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,BMS,Pacific red octopus,Octopus rubescens,Table_9_Salish_sea_males,75,0.06208609272,1,HSL_Voelker_2018
+HSL,adult,Salish sea male,Phoca vitulina,FPS,Eulachon,Eulachon,Table_9_Salish_sea_males,13,0.0107615894,1,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,SMD,Blackbelly eelpout,Blackbelly eelpout,Table_7_Salish_sea_female,6,0.007633587786,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,FPS,Pacific sand lance,Ammodytes hexapterus,Table_7_Salish_sea_female,8,0.01017811705,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,FPS,Longfin smelt,Spirinchus thaleichthys,Table_7_Salish_sea_female,10,0.01272264631,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,SMD,Pacific sandfish,Trichodon trichodon,Table_7_Salish_sea_female,8,0.01017811705,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,FVS,Lingcod,Ophiodon elongatus,Table_7_Salish_sea_female,11,0.01399491094,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,SMD,Snake prickleback,Lumpenus sagitta,Table_7_Salish_sea_female,12,0.01526717557,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,SMD,Pacific staghorn sculpin,Leptocottus armatus,Table_7_Salish_sea_female,46,0.05852417303,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,MYCTOPHID,Plainfin midshipman,Porichthys notatus,Table_7_Salish_sea_female,35,0.04452926209,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,POP,Shiner surfperch,Cymatogaster aggregata,Table_7_Salish_sea_female,74,0.0941475827,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,CO,Juvenile coho salmon,Oncorhynchus kisutch,Table_7_Salish_sea_female,61,0.07760814249,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,FMM,Walleye pollock,Gadus chalcogrammus,Table_7_Salish_sea_female,91,0.1157760814,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,SAL,Adult sockeye salmon,Oncorhynchus nerka,Table_7_Salish_sea_female,61,0.07760814249,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,PIS,Adult pink salmon,Oncorhynchus gorbuscha,Table_7_Salish_sea_female,88,0.1119592875,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,HE,Pacific herring,Clupea pallasii pallasii,Table_7_Salish_sea_female,214,0.272264631,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,BMS,Pacific red octopus,Octopus rubescens,Table_7_Salish_sea_female,52,0.06615776081,2,HSL_Voelker_2018
+HSL,adult,Salish sea female,Phoca vitulina,FPS,Eulachon,Eulachon,Table_7_Salish_sea_female,9,0.01145038168,2,HSL_Voelker_2018

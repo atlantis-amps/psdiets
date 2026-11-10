@@ -1,0 +1,130 @@
+OldCode,Code,Name,Long Name
+DC,DC,Carrion,Carrion
+DL,DL,Lab_Det,Labile detritus
+DR,DR,Ref_Det,Refractory detritus
+BB,BB,Sed_Bact,Benthic bacteria
+PB,PB,Pelag_Bact,Pelagic bacteria
+PL,PL,Lrg_Phyto,Large phytoplankton
+PS,PS,Sm_Phyto,Small phytoplankton
+MA,MA,Macroalgae,Macroalgae
+SG,SG,Seagrass,Seagrass
+ZS,ZS,Micro_Zoo,Microzooplankton
+ZM,ZM,Meso_Zoo,Mesozooplankton
+ZL,ZL,Lrg_Zoo,Large zooplankton
+ZG,ZG,Gel_Zoo,Gelatinous zooplankton
+AUR,AUR,Aurelia,Moon jelly
+SQX,SQX,Squid,Squid
+BMD,BMD,Macrobenth_Deep,Deep macro-zoobenthos
+BD,BD,Deposit_Feeder,Deposit feeders
+BG,BG,Benthic_grazer,Benthic grazers
+BMS,BMS,Octopi,Octopi
+DUN,DUN,Dungeness,Dungeness crab
+BML,BML,Crab,Crabs
+PWN,PWN,Shrimp,Shrimp
+BFF,BFF,Filter_Other,Benthic filter feeder
+BIV,BIV,Bivalve,Bivalves
+GEC,GEC,Geoduck,Geoducks
+BC,BC,Carn_Infauna,Carnivorous infauna
+HE1,HEP,Herring_PS,Pacific Herring Puget Sound
+HE2,HEC,Herring_Cherry,Pacific Herring Cherry Point
+FPS,FPS,Sm_Plank_Fish,Small Planktivorous Fish
+POP,POP,Perch_Fish,Perch
+CI1,CHY,ChinookY_Fish,Chinook Hatch Yearling
+CI2,CHS,ChinookSY_Fish,Chinook Hatch Subyearling
+CI3,CSY,ChinookSKY_Fish,Chinook Skagit Yearling
+CI4,CSS,ChinookSKSY_Fish,Chinook Skagit Subyearling
+CI5,CSN,ChinookSSY_Fish,Chinook Snohomish Subyearling
+CI6,CDS,ChinookDSY_Fish,Chinook Duwamish Subyearling
+CI7,CNY,ChinookNY_Fish,Chinook Nisqually Yearling
+CI8,CNS,ChinookNSY_Fish,Chinook Nisqually Subyearling
+CI9,CHC,ChinookHY_Fish,Chinook Hood Canal Subyearling
+CI10,CYE,ChinookOY_Fish,Chinook other Yearling
+CI11,CKS,ChinookOSY_Fish,Chinook other Subyearling
+CO1,COH,CohoHY_Fish,Coho Hatch Yearling
+CO2,COS,CohoSY_Fish,Coho Skagit Yearling
+CO3,COD,CohoDSY_Fish,Coho Deep South Yearling
+CO4,COY,CohoOY_Fish,Coho other Yearling
+CU1,CMS,ChumHSY_Fish,Chum Hatch Subyearling
+CU2,CMF,ChumFSY_Fish,Chum Fall Subyearling
+CU3,CMH,ChumHCSY_Fish,Chum Hood Canal summer run Subyearling
+PIS,PIS,PinkSY_Fish,Pink Salmon Subyearling
+SAL,SAL,OtherSal_Fish,Other salmonids
+SAF,SAF,SGeorgia_Fish,Strait of Georgia salmonids
+FMM,FMM,Gadiods_Fish,Hake_Large gadoids
+FVS,FVS,LgDem_Fish,Large demersal predators
+ROC,ROC,DemRock_Fish,Demersal rockfish
+MRO,MRO,MidRock_Fish,Midwater rockfish
+DVR,DVR,DemVRock_Fish,Demersal vulnerable rockfish
+MVR,MVR,MidVRock_Fish,Midwater vulnerable rockfish
+SMD,SMD,SmDem_Fish,Small demersal fish
+FDF,FDF,SmFlat_Fish,Small-mouthed Flatfish
+HAP,HAP,PiscFlat_Fish,Piscivorous flatfish
+DOG,DOG,Spinydog_Fish,Spiny dogfish
+SBL,SBL,Sixgill_Shark,Sixgill Shark
+SSK,SSK,SkateRay,Skates
+RAT,RAT,Ratfish,Ratfish
+SB,SB,Pisc_Seabird,Seabirds (piscivorous)
+SP,SP,NonPisc_Seabird,Seabirds (mainly non-piscivorous)
+BE,BE,Raptors,Raptors
+HSL,HSL,Harbor_seal,Harbor seals
+CSL,CSL,California_sea_lion,California sea lions
+PIN,PIN,Pinniped,Steller sea lions
+PHR,PHR,Porpoise,Harbor porpoise
+ORC1,ROR,Res_Orca,Resident Orca
+ORC2,TOR,Trans_Orca,Transient Orca
+HUW,HUW,Hump_whale,Humpback whales
+CI,CI,Chinook,Chinook
+CO,CO,Coho,Coho
+HE,HE,Herring,Herring
+CU,CU,Chum,Chum
+CI1_CI2,CI1_CI2,Chinook_hatchery,Chinook_hatchery
+CH,CH,Chinook_hatchery,Chinook_hatchery
+ROCKFISH,ROCKFISH,Rockfish,Rockfish
+BIRD,BIRD,Bird,Bird
+HEP,HEP,Herring_PS,Pacific Herring Puget Sound
+HEC,HEC,Herring_Cherry,Pacific Herring Cherry Point
+FPS,FPS,Sm_Plank_Fish,Small Planktivorous Fish
+POP,POP,Perch_Fish,Perch
+CHY,CHY,ChinookY_Fish,Chinook Hatch Yearling
+CHS,CHS,ChinookSY_Fish,Chinook Hatch Subyearling
+CSY,CSY,ChinookSKY_Fish,Chinook Skagit Yearling
+CSS,CSS,ChinookSKSY_Fish,Chinook Skagit Subyearling
+CSN,CSN,ChinookSSY_Fish,Chinook Snohomish Subyearling
+CDS,CDS,ChinookDSY_Fish,Chinook Duwamish Subyearling
+CNY,CNY,ChinookNY_Fish,Chinook Nisqually Yearling
+CNS,CNS,ChinookNSY_Fish,Chinook Nisqually Subyearling
+CHC,CHC,ChinookHY_Fish,Chinook Hood Canal Subyearling
+CYE,CYE,ChinookOY_Fish,Chinook other Yearling
+CKS,CKS,ChinookOSY_Fish,Chinook other Subyearling
+COH,COH,CohoHY_Fish,Coho Hatch Yearling
+COS,COS,CohoSY_Fish,Coho Skagit Yearling
+COD,COD,CohoDSY_Fish,Coho Deep South Yearling
+COY,COY,CohoOY_Fish,Coho other Yearling
+CMS,CMS,ChumHSY_Fish,Chum Hatch Subyearling
+CMF,CMF,ChumFSY_Fish,Chum Fall Subyearling
+CMH,CMH,ChumHCSY_Fish,Chum Hood Canal summer run Subyearling
+PIS,PIS,PinkSY_Fish,Pink Salmon Subyearling
+SAL,SAL,OtherSal_Fish,Other salmonids
+SAF,SAF,SGeorgia_Fish,Strait of Georgia salmonids
+FMM,FMM,Gadiods_Fish,Hake_Large gadoids
+FVS,FVS,LgDem_Fish,Large demersal predators
+ROC,ROC,DemRock_Fish,Demersal rockfish
+MRO,MRO,MidRock_Fish,Midwater rockfish
+DVR,DVR,DemVRock_Fish,Demersal vulnerable rockfish
+MVR,MVR,MidVRock_Fish,Midwater vulnerable rockfish
+SMD,SMD,SmDem_Fish,Small demersal fish
+FDF,FDF,SmFlat_Fish,Small-mouthed Flatfish
+HAP,HAP,PiscFlat_Fish,Piscivorous flatfish
+DOG,DOG,Spinydog_Fish,Spiny dogfish
+SBL,SBL,Sixgill_Shark,Sixgill Shark
+SSK,SSK,SkateRay,Skates
+RAT,RAT,Ratfish,Ratfish
+SB,SB,Pisc_Seabird,Seabirds (piscivorous)
+SP,SP,NonPisc_Seabird,Seabirds (mainly non-piscivorous)
+BE,BE,Raptors,Raptors
+HSL,HSL,Harbor_seal,Harbor seals
+CSL,CSL,California_sea_lion,California sea lions
+PIN,PIN,Pinniped,Steller sea lions
+PHR,PHR,Porpoise,Harbor porpoise
+ROR,ROR,Res_Orca,Resident Orca
+TOR,TOR,Trans_Orca,Transient Orca

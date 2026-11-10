@@ -1,0 +1,796 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_5_FO%_1998_July_early_december,85,0.4634678299,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_5_FO%_1998_July_early_december,2.5,0.01363140676,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Theragra chalcogramma,Table_5_FO%_1998_July_early_december,0.3,0.001635768811,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Gadus macrocephalus,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,Table_5_FO%_1998_July_early_december,44,0.239912759,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupeid species,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Alosa sapidissima,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Salmonid species,Table_5_FO%_1998_July_early_december,25,0.1363140676,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids,Onchorhynchus tshawytscha,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Juvenile salmonid spp.,Table_5_FO%_1998_July_early_december,0.3,0.001635768811,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Cymatogaster aggregata,Table_5_FO%_1998_July_early_december,6.6,0.03598691385,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Rhacochilus vacca,Table_5_FO%_1998_July_early_december,0.7,0.003816793893,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Cephalopod species,Table_5_FO%_1998_July_early_december,1.5,0.008178844057,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopods,Octopus rubescens,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Loligo opalescens,Table_5_FO%_1998_July_early_december,1.9,0.01035986914,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Berryteuthis_Gonatopsis borealis species,Table_5_FO%_1998_July_early_december,0.5,0.002726281352,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_5_FO%_1998_July_early_december,2.4,0.01308615049,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_5_FO%_1998_July_early_december,2.4,0.01308615049,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_5_FO%_1998_July_early_december,2.7,0.0147219193,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Chitonotus pugetensis,Roughback sculpin,Table_5_FO%_1998_July_early_december,0.2,0.001090512541,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid species,sculpin species,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_5_FO%_1998_July_early_december,1.2,0.006543075245,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_5_FO%_1998_July_early_december,0.3,0.001635768811,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bhotid species,Lefteye flounder,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_5_FO%_1998_July_early_december,0.5,0.002726281352,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_5_FO%_1998_July_early_december,0,0,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_5_FO%_1998_July_early_december,0.5,0.002726281352,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_5_FO%_1998_July_early_december,4.9,0.02671755725,1,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_5_FO%_1999_July_early_december,1.8,0.009384775808,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_5_FO%_1999_July_early_december,72,0.3753910323,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_5_FO%_1999_July_early_december,1.8,0.009384775808,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Theragra chalcogramma,Table_5_FO%_1999_July_early_december,0.3,0.001564129301,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Gadus macrocephalus,Table_5_FO%_1999_July_early_december,0,0,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,Table_5_FO%_1999_July_early_december,41,0.2137643379,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupeid species,Table_5_FO%_1999_July_early_december,8.3,0.043274244,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Alosa sapidissima,Table_5_FO%_1999_July_early_december,0.3,0.001564129301,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Salmonid species,Table_5_FO%_1999_July_early_december,28,0.1459854015,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids,Onchorhynchus tshawytscha,Table_5_FO%_1999_July_early_december,0,0,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Juvenile salmonid spp.,Table_5_FO%_1999_July_early_december,2,0.01042752868,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Cymatogaster aggregata,Table_5_FO%_1999_July_early_december,7.5,0.03910323253,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Rhacochilus vacca,Table_5_FO%_1999_July_early_december,0.8,0.00417101147,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Cephalopod species,Table_5_FO%_1999_July_early_december,6,0.03128258603,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopods,Octopus rubescens,Table_5_FO%_1999_July_early_december,2,0.01042752868,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Loligo opalescens,Table_5_FO%_1999_July_early_december,0,0,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Berryteuthis_Gonatopsis borealis species,Table_5_FO%_1999_July_early_december,0,0,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_5_FO%_1999_July_early_december,4.8,0.02502606882,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_5_FO%_1999_July_early_december,3.8,0.01981230448,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_5_FO%_1999_July_early_december,2.3,0.01199165798,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Chitonotus pugetensis,Roughback sculpin,Table_5_FO%_1999_July_early_december,0,0,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid species,sculpin species,Table_5_FO%_1999_July_early_december,0,0,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_5_FO%_1999_July_early_december,1.5,0.007820646507,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_5_FO%_1999_July_early_december,0,0,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_5_FO%_1999_July_early_december,0,0,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_5_FO%_1999_July_early_december,0.5,0.002606882169,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_5_FO%_1999_July_early_december,0.5,0.002606882169,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bhotid species,Lefteye flounder,Table_5_FO%_1999_July_early_december,0,0,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_5_FO%_1999_July_early_december,0.8,0.00417101147,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_5_FO%_1999_July_early_december,0,0,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_5_FO%_1999_July_early_december,0.5,0.002606882169,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_5_FO%_1999_July_early_december,0.8,0.00417101147,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_5_FO%_1999_July_early_december,4.5,0.02346193952,2,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_5_FO%_2000_July_early_december,2.3,0.01076779026,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_5_FO%_2000_July_early_december,79,0.3698501873,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_5_FO%_2000_July_early_december,4.4,0.02059925094,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Theragra chalcogramma,Table_5_FO%_2000_July_early_december,0.2,9.36329588e-4,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Gadus macrocephalus,Table_5_FO%_2000_July_early_december,0,0,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,Table_5_FO%_2000_July_early_december,3.9,0.01825842697,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupeid species,Table_5_FO%_2000_July_early_december,49,0.2294007491,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Alosa sapidissima,Table_5_FO%_2000_July_early_december,0,0,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Salmonid species,Table_5_FO%_2000_July_early_december,25,0.1170411985,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids,Onchorhynchus tshawytscha,Table_5_FO%_2000_July_early_december,0,0,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Juvenile salmonid spp.,Table_5_FO%_2000_July_early_december,2.9,0.01357677903,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Cymatogaster aggregata,Table_5_FO%_2000_July_early_december,14,0.06554307116,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Rhacochilus vacca,Table_5_FO%_2000_July_early_december,0.7,0.003277153558,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Cephalopod species,Table_5_FO%_2000_July_early_december,4.2,0.01966292135,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopods,Octopus rubescens,Table_5_FO%_2000_July_early_december,1,0.00468164794,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Loligo opalescens,Table_5_FO%_2000_July_early_december,4.7,0.02200374532,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Berryteuthis_Gonatopsis borealis species,Table_5_FO%_2000_July_early_december,2.2,0.01029962547,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_5_FO%_2000_July_early_december,1.3,0.006086142322,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_5_FO%_2000_July_early_december,2.2,0.01029962547,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_5_FO%_2000_July_early_december,2.3,0.01076779026,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Chitonotus pugetensis,Roughback sculpin,Table_5_FO%_2000_July_early_december,0,0,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid species,sculpin species,Table_5_FO%_2000_July_early_december,0,0,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_5_FO%_2000_July_early_december,8.9,0.04166666667,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_5_FO%_2000_July_early_december,0.2,9.36329588e-4,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_5_FO%_2000_July_early_december,0.2,9.36329588e-4,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_5_FO%_2000_July_early_december,0,0,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_5_FO%_2000_July_early_december,0,0,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bhotid species,Lefteye flounder,Table_5_FO%_2000_July_early_december,0,0,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_5_FO%_2000_July_early_december,1.5,0.00702247191,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_5_FO%_2000_July_early_december,0,0,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_5_FO%_2000_July_early_december,0.3,0.001404494382,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_5_FO%_2000_July_early_december,0.7,0.003277153558,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_5_FO%_2000_July_early_december,2.5,0.01170411985,3,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_5_FO%_2001_July_early_december,14,0.06773101113,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_5_FO%_2001_July_early_december,58,0.2805999032,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_5_FO%_2001_July_early_december,3.4,0.01644895985,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Theragra chalcogramma,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Gadus macrocephalus,Table_5_FO%_2001_July_early_december,1.9,0.009192065796,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,Table_5_FO%_2001_July_early_december,19,0.09192065796,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupeid species,Table_5_FO%_2001_July_early_december,33,0.1596516691,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Alosa sapidissima,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Salmonid species,Table_5_FO%_2001_July_early_december,33,0.1596516691,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids,Onchorhynchus tshawytscha,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Juvenile salmonid spp.,Table_5_FO%_2001_July_early_december,1.9,0.009192065796,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Cymatogaster aggregata,Table_5_FO%_2001_July_early_december,11,0.05321722303,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Rhacochilus vacca,Table_5_FO%_2001_July_early_december,1.4,0.006773101113,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Cephalopod species,Table_5_FO%_2001_July_early_december,6,0.0290275762,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopods,Octopus rubescens,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Loligo opalescens,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Berryteuthis_Gonatopsis borealis species,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_5_FO%_2001_July_early_december,0.2,9.675858732e-4,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_5_FO%_2001_July_early_december,2.9,0.01402999516,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_5_FO%_2001_July_early_december,4.8,0.02322206096,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Chitonotus pugetensis,Roughback sculpin,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid species,sculpin species,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_5_FO%_2001_July_early_december,2.9,0.01402999516,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_5_FO%_2001_July_early_december,1,0.004837929366,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bhotid species,Lefteye flounder,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_5_FO%_2001_July_early_december,1,0.004837929366,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_5_FO%_2001_July_early_december,0,0,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_5_FO%_2001_July_early_december,0.5,0.002418964683,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_5_FO%_2001_July_early_december,1.2,0.005805515239,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_5_FO%_2001_July_early_december,9.6,0.04644412192,4,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_5_FO%_2003_July_early_december,15,0.08488964346,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_5_FO%_2003_July_early_december,51,0.2886247878,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_5_FO%_2003_July_early_december,0.8,0.004527447651,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Theragra chalcogramma,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Gadus macrocephalus,Table_5_FO%_2003_July_early_december,0.8,0.004527447651,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,Table_5_FO%_2003_July_early_december,16,0.09054895303,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupeid species,Table_5_FO%_2003_July_early_december,52,0.2942840973,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Alosa sapidissima,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Salmonid species,Table_5_FO%_2003_July_early_december,21,0.1188455008,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids,Onchorhynchus tshawytscha,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Juvenile salmonid spp.,Table_5_FO%_2003_July_early_december,3.4,0.01924165252,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Cymatogaster aggregata,Table_5_FO%_2003_July_early_december,2.5,0.01414827391,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Rhacochilus vacca,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Cephalopod species,Table_5_FO%_2003_July_early_december,5.9,0.03338992643,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopods,Octopus rubescens,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Loligo opalescens,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Berryteuthis_Gonatopsis borealis species,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_5_FO%_2003_July_early_december,2.5,0.01414827391,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Chitonotus pugetensis,Roughback sculpin,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid species,sculpin species,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_5_FO%_2003_July_early_december,1.7,0.009620826259,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bhotid species,Lefteye flounder,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_5_FO%_2003_July_early_december,0.8,0.004527447651,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_5_FO%_2003_July_early_december,0,0,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_5_FO%_2003_July_early_december,0.8,0.004527447651,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_5_FO%_2003_July_early_december,2.5,0.01414827391,5,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_5_FO%_2004_July_early_december,29,0.1475076297,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_5_FO%_2004_July_early_december,39,0.1983723296,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_5_FO%_2004_July_early_december,4.1,0.02085452696,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Theragra chalcogramma,Table_5_FO%_2004_July_early_december,0,0,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Gadus macrocephalus,Table_5_FO%_2004_July_early_december,0,0,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,Table_5_FO%_2004_July_early_december,37,0.1881993896,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupeid species,Table_5_FO%_2004_July_early_december,13,0.06612410987,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Alosa sapidissima,Table_5_FO%_2004_July_early_december,0.6,0.003051881994,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Salmonid species,Table_5_FO%_2004_July_early_december,32,0.1627670397,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids,Onchorhynchus tshawytscha,Table_5_FO%_2004_July_early_december,0.6,0.003051881994,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Juvenile salmonid spp.,Table_5_FO%_2004_July_early_december,1.2,0.006103763988,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Cymatogaster aggregata,Table_5_FO%_2004_July_early_december,13,0.06612410987,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Rhacochilus vacca,Table_5_FO%_2004_July_early_december,1.8,0.009155645982,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Cephalopod species,Table_5_FO%_2004_July_early_december,1.2,0.006103763988,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopods,Octopus rubescens,Table_5_FO%_2004_July_early_december,0.6,0.003051881994,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Loligo opalescens,Table_5_FO%_2004_July_early_december,4.1,0.02085452696,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Berryteuthis_Gonatopsis borealis species,Table_5_FO%_2004_July_early_december,0,0,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_5_FO%_2004_July_early_december,4.1,0.02085452696,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_5_FO%_2004_July_early_december,3.5,0.01780264496,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_5_FO%_2004_July_early_december,3.5,0.01780264496,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Chitonotus pugetensis,Roughback sculpin,Table_5_FO%_2004_July_early_december,0,0,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid species,sculpin species,Table_5_FO%_2004_July_early_december,1.2,0.006103763988,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_5_FO%_2004_July_early_december,0,0,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_5_FO%_2004_July_early_december,1.2,0.006103763988,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_5_FO%_2004_July_early_december,0.6,0.003051881994,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_5_FO%_2004_July_early_december,0,0,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_5_FO%_2004_July_early_december,0,0,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bhotid species,Lefteye flounder,Table_5_FO%_2004_July_early_december,0,0,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_5_FO%_2004_July_early_december,0.6,0.003051881994,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_5_FO%_2004_July_early_december,0.6,0.003051881994,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_5_FO%_2004_July_early_december,0.6,0.003051881994,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_5_FO%_2004_July_early_december,0.6,0.003051881994,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_5_FO%_2004_July_early_december,2.9,0.01475076297,6,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_5_FO%_2005_July_early_december,24,0.1301518438,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_5_FO%_2005_July_early_december,59,0.3199566161,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_5_FO%_2005_July_early_december,2.5,0.01355748373,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Theragra chalcogramma,Table_5_FO%_2005_July_early_december,0,0,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Gadus macrocephalus,Table_5_FO%_2005_July_early_december,0,0,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,Table_5_FO%_2005_July_early_december,19,0.1030368764,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupeid species,Table_5_FO%_2005_July_early_december,9.1,0.04934924078,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Alosa sapidissima,Table_5_FO%_2005_July_early_december,0,0,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Salmonid species,Table_5_FO%_2005_July_early_december,20,0.1084598698,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids,Onchorhynchus tshawytscha,Table_5_FO%_2005_July_early_december,0.8,0.004338394794,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Juvenile salmonid spp.,Table_5_FO%_2005_July_early_december,0,0,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Cymatogaster aggregata,Table_5_FO%_2005_July_early_december,12,0.06507592191,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Rhacochilus vacca,Table_5_FO%_2005_July_early_december,0.4,0.002169197397,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Cephalopod species,Table_5_FO%_2005_July_early_december,1.2,0.006507592191,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopods,Octopus rubescens,Table_5_FO%_2005_July_early_december,0,0,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Loligo opalescens,Table_5_FO%_2005_July_early_december,2.1,0.01138828633,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Berryteuthis_Gonatopsis borealis species,Table_5_FO%_2005_July_early_december,0,0,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_5_FO%_2005_July_early_december,15,0.08134490239,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_5_FO%_2005_July_early_december,4.5,0.02440347072,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_5_FO%_2005_July_early_december,3.3,0.01789587852,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Chitonotus pugetensis,Roughback sculpin,Table_5_FO%_2005_July_early_december,0,0,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid species,sculpin species,Table_5_FO%_2005_July_early_december,0.4,0.002169197397,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_5_FO%_2005_July_early_december,2.5,0.01355748373,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_5_FO%_2005_July_early_december,0.4,0.002169197397,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_5_FO%_2005_July_early_december,0,0,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_5_FO%_2005_July_early_december,0,0,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_5_FO%_2005_July_early_december,0.8,0.004338394794,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bhotid species,Lefteye flounder,Table_5_FO%_2005_July_early_december,0.4,0.002169197397,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_5_FO%_2005_July_early_december,1.2,0.006507592191,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_5_FO%_2005_July_early_december,0,0,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_5_FO%_2005_July_early_december,0.4,0.002169197397,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_5_FO%_2005_July_early_december,2.9,0.01572668113,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_5_FO%_2005_July_early_december,2.5,0.01355748373,7,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_7_FO%_1999_March_June,3.6,0.01620162016,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_7_FO%_1999_March_June,81,0.3645364536,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_7_FO%_1999_March_June,2.6,0.01170117012,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Theragra chalcogramma,Table_7_FO%_1999_March_June,1,0.004500450045,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,Table_7_FO%_1999_March_June,40,0.1800180018,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupeid species,Table_7_FO%_1999_March_June,4.1,0.01845184518,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Alosa sapidissima,Table_7_FO%_1999_March_June,0,0,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Salmonid species,Table_7_FO%_1999_March_June,4.6,0.02070207021,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids,Onchorhynchus tshawytscha,Table_7_FO%_1999_March_June,0,0,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Juvenile salmonid spp.,Table_7_FO%_1999_March_June,10,0.04500450045,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Embiotocid species,Surfperch species,Table_7_FO%_1999_March_June,0,0,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Cymatogaster aggregata,Table_7_FO%_1999_March_June,9.2,0.04140414041,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopod species,Squid or octopus species,Table_7_FO%_1999_March_June,1,0.004500450045,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Loligo opalescens,Table_7_FO%_1999_March_June,0,0,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_7_FO%_1999_March_June,27,0.1215121512,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_7_FO%_1999_March_June,4.6,0.02070207021,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_7_FO%_1999_March_June,0,0,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_7_FO%_1999_March_June,15,0.06750675068,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_7_FO%_1999_March_June,1,0.004500450045,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_7_FO%_1999_March_June,3.6,0.01620162016,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_7_FO%_1999_March_June,0.5,0.002250225023,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_7_FO%_1999_March_June,6.2,0.02790279028,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_7_FO%_1999_March_June,2.1,0.009450945095,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,Table_7_FO%_1999_March_June,0.5,0.002250225023,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_7_FO%_1999_March_June,4.6,0.02070207021,8,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_7_FO%_2005_March_June,28,0.1257296812,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_7_FO%_2005_March_June,53,0.2379883251,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_7_FO%_2005_March_June,1.5,0.006735518635,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Theragra chalcogramma,Table_7_FO%_2005_March_June,0,0,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,Table_7_FO%_2005_March_June,12,0.05388414908,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupeid species,Table_7_FO%_2005_March_June,8.3,0.03726986978,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Alosa sapidissima,Table_7_FO%_2005_March_June,2.5,0.01122586439,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Salmonid species,Table_7_FO%_2005_March_June,11,0.04939380332,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids,Onchorhynchus tshawytscha,Table_7_FO%_2005_March_June,2.5,0.01122586439,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Juvenile salmonid spp.,Table_7_FO%_2005_March_June,0,0,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Embiotocid species,Surfperch species,Table_7_FO%_2005_March_June,1,0.004490345757,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surfperch,Cymatogaster aggregata,Table_7_FO%_2005_March_June,27,0.1212393354,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopod species,Squid or octopus species,Table_7_FO%_2005_March_June,5.9,0.02649303996,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Loligo opalescens,Table_7_FO%_2005_March_June,1.5,0.006735518635,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_7_FO%_2005_March_June,43,0.1930848675,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_7_FO%_2005_March_June,2.9,0.01302200269,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_7_FO%_2005_March_June,2,0.008980691513,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_7_FO%_2005_March_June,4.4,0.01975752133,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_7_FO%_2005_March_June,3.4,0.01526717557,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_7_FO%_2005_March_June,0,0,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_7_FO%_2005_March_June,1,0.004490345757,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_7_FO%_2005_March_June,1.5,0.006735518635,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_7_FO%_2005_March_June,4.4,0.01975752133,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,Table_7_FO%_2005_March_June,0,0,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_7_FO%_2005_March_June,5.9,0.02649303996,9,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_8_FO%_Fall_1995,35,0.09990865494,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_8_FO%_Fall_1995,20,0.05709065997,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_8_FO%_Fall_1995,45,0.1284539849,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Theragra chalcogramma,Walleye pollock,Table_8_FO%_Fall_1995,10,0.02854532998,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadus macrocephalus,Pacific cod,Table_8_FO%_Fall_1995,0.32,9.134505595e-4,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_8_FO%_Fall_1995,60,0.1712719799,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupea pallasii,Pacific herring,Table_8_FO%_Fall_1995,30,0.08563598995,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeid species,herring species,Table_8_FO%_Fall_1995,25,0.07136332496,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Alosa sapidissima,American Shad,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Cymatogaster aggregata,Shiner perch,Table_8_FO%_Fall_1995,10,0.02854532998,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Embiotocid species,Surfperch species,Table_8_FO%_Fall_1995,0,NA,NA,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Rhacochilus vacca,Pile perch,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonid species,adult salmonid,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonid species,Juvenile salmonid spp.,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English Sole,Table_8_FO%_Fall_1995,10,0.02854532998,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_8_FO%_Fall_1995,15,0.04281799498,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_8_FO%_Fall_1995,5,0.01427266499,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_8_FO%_Fall_1995,5,0.01427266499,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Errex zachirus,Rex sole,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lepidopsetta bilineata,Rock sole,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothidae_Pleuronectidae,Unidentified flat fish,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Microstomus pacificus,Dover sole,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothid species,Lefteye flounder,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Isopsetta isolepis,Butter sole,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Psettichthys melanostictus,Pacific sand sole,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronichthys ceonosus,C-O sole,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Staghorn sculpin,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid species,sculpin species,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Hemilepidotus spp.,Irish lord,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Loligo opalescens,Market squid,Table_8_FO%_Fall_1995,35,0.09990865494,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Octopodidae,Table_8_FO%_Fall_1995,5,0.01427266499,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalod species,Cephalopod species,Table_8_FO%_Fall_1995,15,0.04281799498,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_8_FO%_Fall_1995,5,0.01427266499,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Petromyzontidae species,Lamprey,Table_8_FO%_Fall_1995,5,0.01427266499,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcid species,Eelpout,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_8_FO%_Fall_1995,5,0.01427266499,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenling,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholid species,Gunnel,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_8_FO%_Fall_1995,0,0,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentified fish spp.,Unidentified fish spp.,Table_8_FO%_Fall_1995,5,0.01427266499,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_8_FO%_Fall_1995,5,0.01427266499,10,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_8_FO%_Spring_1997,50,0,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_8_FO%_Spring_1997,28,0.1374003847,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_8_FO%_Spring_1997,31,0.07694421544,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Theragra chalcogramma,Walleye pollock,Table_8_FO%_Spring_1997,2.4,0.08518823853,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadus macrocephalus,Pacific cod,Table_8_FO%_Spring_1997,0,0.006595218467,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_8_FO%_Spring_1997,43,0,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupea pallasii,Pacific herring,Table_8_FO%_Spring_1997,11,0.1181643309,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeid species,herring species,Table_8_FO%_Spring_1997,30,0,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Alosa sapidissima,American Shad,Table_8_FO%_Spring_1997,4.1,0.03022808464,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Cymatogaster aggregata,Shiner perch,Table_8_FO%_Spring_1997,26,0.08244023083,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Embiotocid species,Surfperch species,Table_8_FO%_Spring_1997,0.8,0.01126683155,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Rhacochilus vacca,Pile perch,Table_8_FO%_Spring_1997,0.8,0,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonid species,adult salmonid,Table_8_FO%_Spring_1997,1.6,0.07144820005,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonid species,Juvenile salmonid spp.,Table_8_FO%_Spring_1997,26,0.002198406156,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English Sole,Table_8_FO%_Spring_1997,15,0.002198406156,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_8_FO%_Spring_1997,6.5,0.004396812311,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_8_FO%_Spring_1997,8.1,0.07144820005,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_8_FO%_Spring_1997,3.3,0.04122011542,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Errex zachirus,Rex sole,Table_8_FO%_Spring_1997,0.8,0.01786205001,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lepidopsetta bilineata,Rock sole,Table_8_FO%_Spring_1997,1.6,0.02225886232,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothidae_Pleuronectidae,Unidentified flat fish,Table_8_FO%_Spring_1997,1.6,0.009068425392,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Microstomus pacificus,Dover sole,Table_8_FO%_Spring_1997,0,0.004396812311,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothid species,Lefteye flounder,Table_8_FO%_Spring_1997,0.8,0.004396812311,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Isopsetta isolepis,Butter sole,Table_8_FO%_Spring_1997,0.8,0,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Psettichthys melanostictus,Pacific sand sole,Table_8_FO%_Spring_1997,0,0.002198406156,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronichthys ceonosus,C-O sole,Table_8_FO%_Spring_1997,0,0.002198406156,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Staghorn sculpin,Table_8_FO%_Spring_1997,4.1,0,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid species,sculpin species,Table_8_FO%_Spring_1997,5.7,0,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Hemilepidotus spp.,Irish lord,Table_8_FO%_Spring_1997,0.8,0.01126683155,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Loligo opalescens,Market squid,Table_8_FO%_Spring_1997,6.5,0.01566364386,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Octopodidae,Table_8_FO%_Spring_1997,1.6,0.002198406156,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalod species,Cephalopod species,Table_8_FO%_Spring_1997,2.4,0.01786205001,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_8_FO%_Spring_1997,9.8,0.004396812311,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Petromyzontidae species,Lamprey,Table_8_FO%_Spring_1997,9.8,0.006595218467,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_8_FO%_Spring_1997,4.9,0.02693047541,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_8_FO%_Spring_1997,5.7,0.02693047541,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcid species,Eelpout,Table_8_FO%_Spring_1997,3.3,0.0134652377,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_8_FO%_Spring_1997,0.8,0.01566364386,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_8_FO%_Spring_1997,2.4,0.009068425392,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenling,Table_8_FO%_Spring_1997,1.6,0.002198406156,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholid species,Gunnel,Table_8_FO%_Spring_1997,0.8,0.006595218467,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_8_FO%_Spring_1997,0.8,0.004396812311,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentified fish spp.,Unidentified fish spp.,Table_8_FO%_Spring_1997,7.3,0.002198406156,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_8_FO%_Spring_1997,2.4,0.002198406156,11,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_8_FO%_Summer_1997,38,0.02504288165,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_8_FO%_Summer_1997,38,0.008233276158,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_8_FO%_Summer_1997,14,0.1303602058,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Theragra chalcogramma,Walleye pollock,Table_8_FO%_Summer_1997,4.8,0.1303602058,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadus macrocephalus,Pacific cod,Table_8_FO%_Summer_1997,0,0.04802744425,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_8_FO%_Summer_1997,29,0.01646655232,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupea pallasii,Pacific herring,Table_8_FO%_Summer_1997,18,0,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeid species,herring species,Table_8_FO%_Summer_1997,27,0.09948542024,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Alosa sapidissima,American Shad,Table_8_FO%_Summer_1997,0,0.06174957118,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Cymatogaster aggregata,Shiner perch,Table_8_FO%_Summer_1997,12,0.09262435678,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Embiotocid species,Surfperch species,Table_8_FO%_Summer_1997,0,0,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Rhacochilus vacca,Pile perch,Table_8_FO%_Summer_1997,0,0.04116638079,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonid species,adult salmonid,Table_8_FO%_Summer_1997,3,0,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonid species,Juvenile salmonid spp.,Table_8_FO%_Summer_1997,6,0,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English Sole,Table_8_FO%_Summer_1997,11,0.0102915952,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_8_FO%_Summer_1997,7,0.02058319039,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_8_FO%_Summer_1997,2,0.03773584906,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_8_FO%_Summer_1997,4,0.02401372213,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Errex zachirus,Rex sole,Table_8_FO%_Summer_1997,1,0.006861063465,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lepidopsetta bilineata,Rock sole,Table_8_FO%_Summer_1997,2,0.01372212693,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothidae_Pleuronectidae,Unidentified flat fish,Table_8_FO%_Summer_1997,2,0.003430531732,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Microstomus pacificus,Dover sole,Table_8_FO%_Summer_1997,2,0.006861063465,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothid species,Lefteye flounder,Table_8_FO%_Summer_1997,0,0.006861063465,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Isopsetta isolepis,Butter sole,Table_8_FO%_Summer_1997,0,0.006861063465,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Psettichthys melanostictus,Pacific sand sole,Table_8_FO%_Summer_1997,0,0,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronichthys ceonosus,C-O sole,Table_8_FO%_Summer_1997,0,0,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Staghorn sculpin,Table_8_FO%_Summer_1997,4.1,0,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid species,sculpin species,Table_8_FO%_Summer_1997,5.7,0,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Hemilepidotus spp.,Irish lord,Table_8_FO%_Summer_1997,0.8,0.0140651801,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Loligo opalescens,Market squid,Table_8_FO%_Summer_1997,6.5,0.01955403087,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Octopodidae,Table_8_FO%_Summer_1997,1.6,0.002744425386,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalod species,Cephalopod species,Table_8_FO%_Summer_1997,2.4,0.02229845626,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_8_FO%_Summer_1997,9.8,0.005488850772,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Petromyzontidae species,Lamprey,Table_8_FO%_Summer_1997,9.8,0.008233276158,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_8_FO%_Summer_1997,4.9,0.03361921098,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_8_FO%_Summer_1997,5.7,0.03361921098,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcid species,Eelpout,Table_8_FO%_Summer_1997,3.3,0.01680960549,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_8_FO%_Summer_1997,0.8,0.01955403087,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_8_FO%_Summer_1997,2.4,0.01132075472,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenling,Table_8_FO%_Summer_1997,1.6,0.002744425386,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholid species,Gunnel,Table_8_FO%_Summer_1997,0.8,0.008233276158,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_8_FO%_Summer_1997,0.8,0.005488850772,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentified fish spp.,Unidentified fish spp.,Table_8_FO%_Summer_1997,7.3,0.002744425386,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_8_FO%_Summer_1997,2.4,0.002744425386,12,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_8_FO%_Winter_1997,52,0.0233974359,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_8_FO%_Winter_1997,47,0.007692307692,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_8_FO%_Winter_1997,18,0.1666666667,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Theragra chalcogramma,Walleye pollock,Table_8_FO%_Winter_1997,0,0.1506410256,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadus macrocephalus,Pacific cod,Table_8_FO%_Winter_1997,0,0.05769230769,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_8_FO%_Winter_1997,47,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupea pallasii,Pacific herring,Table_8_FO%_Winter_1997,22,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeid species,herring species,Table_8_FO%_Winter_1997,33,0.1506410256,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Alosa sapidissima,American Shad,Table_8_FO%_Winter_1997,0,0.07051282051,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Cymatogaster aggregata,Shiner perch,Table_8_FO%_Winter_1997,14,0.1057692308,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Embiotocid species,Surfperch species,Table_8_FO%_Winter_1997,0,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Rhacochilus vacca,Pile perch,Table_8_FO%_Winter_1997,0,0.04487179487,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonid species,adult salmonid,Table_8_FO%_Winter_1997,3.6,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonid species,Juvenile salmonid spp.,Table_8_FO%_Winter_1997,7.2,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English Sole,Table_8_FO%_Winter_1997,13,0.01153846154,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_8_FO%_Winter_1997,8.4,0.02307692308,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_8_FO%_Winter_1997,2.4,0.04166666667,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_8_FO%_Winter_1997,4.8,0.02692307692,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Errex zachirus,Rex sole,Table_8_FO%_Winter_1997,1.2,0.007692307692,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lepidopsetta bilineata,Rock sole,Table_8_FO%_Winter_1997,2.4,0.01538461538,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothidae_Pleuronectidae,Unidentified flat fish,Table_8_FO%_Winter_1997,2.4,0.003846153846,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Microstomus pacificus,Dover sole,Table_8_FO%_Winter_1997,2.4,0.007692307692,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothid species,Lefteye flounder,Table_8_FO%_Winter_1997,0,0.007692307692,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Isopsetta isolepis,Butter sole,Table_8_FO%_Winter_1997,0,0.007692307692,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Psettichthys melanostictus,Pacific sand sole,Table_8_FO%_Winter_1997,1.2,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronichthys ceonosus,C-O sole,Table_8_FO%_Winter_1997,1.2,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Staghorn sculpin,Table_8_FO%_Winter_1997,2.4,0.003846153846,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid species,sculpin species,Table_8_FO%_Winter_1997,7.2,0.003846153846,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Hemilepidotus spp.,Irish lord,Table_8_FO%_Winter_1997,0,0.007692307692,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Loligo opalescens,Market squid,Table_8_FO%_Winter_1997,4.8,0.02307692308,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Octopodidae,Table_8_FO%_Winter_1997,2.4,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalod species,Cephalopod species,Table_8_FO%_Winter_1997,1.2,0.01538461538,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_8_FO%_Winter_1997,4.8,0.007692307692,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Petromyzontidae species,Lamprey,Table_8_FO%_Winter_1997,1.2,0.003846153846,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_8_FO%_Winter_1997,0,0.01538461538,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_8_FO%_Winter_1997,1.2,0.003846153846,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcid species,Eelpout,Table_8_FO%_Winter_1997,0,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_8_FO%_Winter_1997,1.2,0.003846153846,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_8_FO%_Winter_1997,0,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenling,Table_8_FO%_Winter_1997,0,0.003846153846,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholid species,Gunnel,Table_8_FO%_Winter_1997,1.2,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_8_FO%_Winter_1997,0,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentified fish spp.,Unidentified fish spp.,Table_8_FO%_Winter_1997,0,0.003846153846,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_8_FO%_Winter_1997,1.2,0,13,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadidae,Microgadus proximus,Table_8_FO%_Fall_2004,41,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table_8_FO%_Fall_2004,36,0.003746487668,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Codfish species,Table_8_FO%_Fall_2004,16,0.1280049953,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Theragra chalcogramma,Walleye pollock,Table_8_FO%_Fall_2004,14,0.11239463,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadus macrocephalus,Pacific cod,Table_8_FO%_Fall_2004,1.6,0.0499531689,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_8_FO%_Fall_2004,55,0.04370902279,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupea pallasii,Pacific herring,Table_8_FO%_Fall_2004,53,0.00499531689,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeid species,herring species,Table_8_FO%_Fall_2004,33,0.1717140181,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Alosa sapidissima,American Shad,Table_8_FO%_Fall_2004,1.6,0.165469872,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Cymatogaster aggregata,Shiner perch,Table_8_FO%_Fall_2004,7.8,0.1030284109,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Embiotocid species,Surfperch species,Table_8_FO%_Fall_2004,0,0.00499531689,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Rhacochilus vacca,Pile perch,Table_8_FO%_Fall_2004,0,0.02435216984,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonid species,adult salmonid,Table_8_FO%_Fall_2004,6.3,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonid species,Juvenile salmonid spp.,Table_8_FO%_Fall_2004,9.4,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English Sole,Table_8_FO%_Fall_2004,6.3,0.01966906026,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid species,Righteye flounder,Table_8_FO%_Fall_2004,0,0.02934748673,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lyopsetta exilis,Slender sole,Table_8_FO%_Fall_2004,0,0.01966906026,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_8_FO%_Fall_2004,4.7,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Errex zachirus,Rex sole,Table_8_FO%_Fall_2004,4.7,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Lepidopsetta bilineata,Rock sole,Table_8_FO%_Fall_2004,0,0.01467374337,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothidae_Pleuronectidae,Unidentified flat fish,Table_8_FO%_Fall_2004,0,0.01467374337,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Microstomus pacificus,Dover sole,Table_8_FO%_Fall_2004,1.6,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothid species,Lefteye flounder,Table_8_FO%_Fall_2004,0,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Isopsetta isolepis,Butter sole,Table_8_FO%_Fall_2004,0,0.00499531689,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Psettichthys melanostictus,Pacific sand sole,Table_8_FO%_Fall_2004,0,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronichthys ceonosus,C-O sole,Table_8_FO%_Fall_2004,0,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Staghorn sculpin,Table_8_FO%_Fall_2004,0,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid species,sculpin species,Table_8_FO%_Fall_2004,9.4,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Hemilepidotus spp.,Irish lord,Table_8_FO%_Fall_2004,0,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Loligo opalescens,Market squid,Table_8_FO%_Fall_2004,7.8,0.02934748673,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Octopodidae,Table_8_FO%_Fall_2004,1.6,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalod species,Cephalopod species,Table_8_FO%_Fall_2004,3.1,0.02435216984,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,rockfish species,Table_8_FO%_Fall_2004,0,0.00499531689,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Petromyzontidae species,Lamprey,Table_8_FO%_Fall_2004,1.6,0.009678426475,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_8_FO%_Fall_2004,1.6,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_8_FO%_Fall_2004,0,0.00499531689,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcid species,Eelpout,Table_8_FO%_Fall_2004,0,0.00499531689,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_8_FO%_Fall_2004,1.6,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_8_FO%_Fall_2004,0,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenling,Table_8_FO%_Fall_2004,0,0.00499531689,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholid species,Gunnel,Table_8_FO%_Fall_2004,0,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_8_FO%_Fall_2004,0,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentified fish spp.,Unidentified fish spp.,Table_8_FO%_Fall_2004,0,0,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_8_FO%_Fall_2004,1.6,0.00499531689,14,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupea pallasii,Pacific herring,Table_9_FO%_Spring,71,0.3444929646,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeid spp.,Herring species,Table_9_FO%_Spring,2.6,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Alosa sapidissima,American Shad,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae spp.,Codfish species,Table_9_FO%_Spring,38,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Theragra chalcogramma,Walleye pollock,Table_9_FO%_Spring,40,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Merluccius productus,Pacific hake,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Adult salmonid spp.,Salmonids,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Oncorhynchus gorbuscha,Pink salmon,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Oncorhynchus tshawytscha,Chinook salmon,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CU,Oncorhynchus keta,Chum salmon,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Oncorhynchus nerka,Sockeye salmon,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Juvenile salmonid spp.,Salmonidae,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Onrhynchus tshawytscha,Chinook salmon (juv),Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_9_FO%_Spring,22,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_9_FO%_Spring,5.2,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,DOG,Squalus acanthias,Spiny dogfish,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid spp.,sculpin species,Table_9_FO%_Spring,1.3,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_9_FO%_Spring,2.6,0.01261523532,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Hemilepidotus spp.,Irish lord,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid spp.,Righteye flounder,Table_9_FO%_Spring,1.3,0.1843765163,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_9_FO%_Spring,0,0.1940805434,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Microstomus pacificus,Dover sole,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothid species,Lefteye flounder species,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Cephalopoda,Table_9_FO%_Spring,2.6,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Berryteuthis magister,Cephalopoda,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Laligo opalescens,Market squid,Table_9_FO%_Spring,1.3,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Gonatidae species,Cephalopoda,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Unknown cephalopod,Cephalopoda,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_9_FO%_Spring,2.6,0.1067442989,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_9_FO%_Spring,0,0.02523047065,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Cymatogaster aggregata,Shiner perch,Table_9_FO%_Spring,2.6,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,Table_9_FO%_Spring,2.6,0.006307617661,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_9_FO%_Spring,0,0.01261523532,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,Rockfish species,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Argentinid species,Argentine,Table_9_FO%_Spring,0,0.006307617661,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_9_FO%_Spring,2.6,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholid species,Gunnel species,Table_9_FO%_Spring,1.3,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenling sp.,Table_9_FO%_Spring,2.6,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Genus rathbunella,ronquil species,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Diaphus theta,California headligth fish,Table_9_FO%_Spring,0,0.01261523532,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcis species,eelpout species,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Lycodopis pacifica,Blackbelly eelpout,Table_9_FO%_Spring,0,0.006307617661,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Petromyzontid species,lamprey species,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FVS,Anarrhichthys ocellatus,Wolf-eel,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Stenobranchius leucopsarus,Northern lampfish,Table_9_FO%_Spring,0,0.01261523532,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,PELAGIC,Scomber japonicus,mackerel species,Table_9_FO%_Spring,0,0,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Non identifiable fish species,Non identifiable fish species,Table_9_FO%_Spring,0,0.01261523532,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish species,Unidentifiable fish species,Table_9_FO%_Spring,3.9,0.01261523532,15,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupea pallasii,Pacific herring,Table_9_FO%_Summer_Fall,35,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeid spp.,Herring species,Table_9_FO%_Summer_Fall,2.9,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Alosa sapidissima,American Shad,Table_9_FO%_Summer_Fall,0.26,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae spp.,Codfish species,Table_9_FO%_Summer_Fall,4,0.01502195517,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Theragra chalcogramma,Walleye pollock,Table_9_FO%_Summer_Fall,5,0.007510977583,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Merluccius productus,Pacific hake,Table_9_FO%_Summer_Fall,0.52,0.01502195517,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Adult salmonid spp.,Salmonids,Table_9_FO%_Summer_Fall,65,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Oncorhynchus gorbuscha,Pink salmon,Table_9_FO%_Summer_Fall,6.51,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Oncorhynchus tshawytscha,Chinook salmon,Table_9_FO%_Summer_Fall,1.3,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CU,Oncorhynchus keta,Chum salmon,Table_9_FO%_Summer_Fall,0.78,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Oncorhynchus nerka,Sockeye salmon,Table_9_FO%_Summer_Fall,0.26,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Juvenile salmonid spp.,Salmonidae,Table_9_FO%_Summer_Fall,5.73,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Onrhynchus tshawytscha,Chinook salmon (juv),Table_9_FO%_Summer_Fall,1.3,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_9_FO%_Summer_Fall,9,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_9_FO%_Summer_Fall,0.5,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,DOG,Squalus acanthias,Spiny dogfish,Table_9_FO%_Summer_Fall,0.52,0.02253293275,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid spp.,sculpin species,Table_9_FO%_Summer_Fall,2.6,0.2022186272,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_9_FO%_Summer_Fall,1.6,0.01675525768,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Hemilepidotus spp.,Irish lord,Table_9_FO%_Summer_Fall,2.08,0.0015021955169999999,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid spp.,Righteye flounder,Table_9_FO%_Summer_Fall,1.8,0.02311070025,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_9_FO%_Summer_Fall,1.04,0.02888837532,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_9_FO%_Summer_Fall,1.82,0.003004391033,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Microstomus pacificus,Dover sole,Table_9_FO%_Summer_Fall,1.04,0.3755488791,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothid species,Lefteye flounder species,Table_9_FO%_Summer_Fall,0.26,0.03761266466,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Cephalopoda,Table_9_FO%_Summer_Fall,1.6,0.007510977583,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Berryteuthis magister,Cephalopoda,Table_9_FO%_Summer_Fall,1.3,0.00450658655,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Laligo opalescens,Market squid,Table_9_FO%_Summer_Fall,0.3,0.0015021955169999999,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Gonatidae species,Cephalopoda,Table_9_FO%_Summer_Fall,0,0.03310607811,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Unknown cephalopod,Cephalopoda,Table_9_FO%_Summer_Fall,0.26,0.007510977583,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_9_FO%_Summer_Fall,0.3,0.05199907557,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_9_FO%_Summer_Fall,0.26,0.002888837532,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Cymatogaster aggregata,Shiner perch,Table_9_FO%_Summer_Fall,2.3,0.003004391033,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,Table_9_FO%_Summer_Fall,3.4,0.01502195517,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_9_FO%_Summer_Fall,1.04,0.009244280102,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,Rockfish species,Table_9_FO%_Summer_Fall,0.26,0.01201756413,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Argentinid species,Argentine,Table_9_FO%_Summer_Fall,0,0.01039981511,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_9_FO%_Summer_Fall,1,0.006008782066,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholid species,Gunnel species,Table_9_FO%_Summer_Fall,0.3,0.01051536862,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenling sp.,Table_9_FO%_Summer_Fall,0.3,0.006008782066,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Genus rathbunella,ronquil species,Table_9_FO%_Summer_Fall,0.78,0.0015021955169999999,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Diaphus theta,California headligth fish,Table_9_FO%_Summer_Fall,1.82,0.009244280102,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcis species,eelpout species,Table_9_FO%_Summer_Fall,1.56,0.007510977583,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Lycodopis pacifica,Blackbelly eelpout,Table_9_FO%_Summer_Fall,0.52,0.001733302519,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Petromyzontid species,lamprey species,Table_9_FO%_Summer_Fall,0.52,0,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FVS,Anarrhichthys ocellatus,Wolf-eel,Table_9_FO%_Summer_Fall,0.26,0.0015021955169999999,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Stenobranchius leucopsarus,Northern lampfish,Table_9_FO%_Summer_Fall,0,0.001733302519,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,PELAGIC,Scomber japonicus,mackerel species,Table_9_FO%_Summer_Fall,0,0.0015021955169999999,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Non identifiable fish species,Non identifiable fish species,Table_9_FO%_Summer_Fall,0.78,0.01328865265,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish species,Unidentifiable fish species,Table_9_FO%_Summer_Fall,3.4,0.01964409522,16,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupea pallasii,Pacific herring,Table_9_FO%_Winter,63,0.002935945572,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeid spp.,Herring species,Table_9_FO%_Winter,2.2,7.33986393e-4,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Alosa sapidissima,American Shad,Table_9_FO%_Winter,4.35,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae spp.,Codfish species,Table_9_FO%_Winter,30,0.002823024589,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Theragra chalcogramma,Walleye pollock,Table_9_FO%_Winter,7,8.469073766e-4,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Merluccius productus,Pacific hake,Table_9_FO%_Winter,0,8.469073766e-4,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Adult salmonid spp.,Salmonids,Table_9_FO%_Winter,13,0.002201959179,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Oncorhynchus gorbuscha,Pink salmon,Table_9_FO%_Winter,0,0.005137904751,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Oncorhynchus tshawytscha,Chinook salmon,Table_9_FO%_Winter,0,0.004403918358,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CU,Oncorhynchus keta,Chum salmon,Table_9_FO%_Winter,0,0.001467972786,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Oncorhynchus nerka,Sockeye salmon,Table_9_FO%_Winter,0,0.001467972786,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Juvenile salmonid spp.,Salmonidae,Table_9_FO%_Winter,0,7.33986393e-4,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Onrhynchus tshawytscha,Chinook salmon (juv),Table_9_FO%_Winter,0,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_9_FO%_Winter,28,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_9_FO%_Winter,50,0.002201959179,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,DOG,Squalus acanthias,Spiny dogfish,Table_9_FO%_Winter,37,0.009598283601,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid spp.,sculpin species,Table_9_FO%_Winter,13,0.1778505491,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_9_FO%_Winter,4.4,0.006210654095,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Hemilepidotus spp.,Irish lord,Table_9_FO%_Winter,0,0.01228015696,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid spp.,Righteye flounder,Table_9_FO%_Winter,2.2,0.08469073766,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,Table_9_FO%_Winter,6.52,0.01976117212,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_9_FO%_Winter,0,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Microstomus pacificus,Dover sole,Table_9_FO%_Winter,2.17,0.03669931965,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothid species,Lefteye flounder species,Table_9_FO%_Winter,2.17,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Cephalopoda,Table_9_FO%_Winter,2.2,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Berryteuthis magister,Cephalopoda,Table_9_FO%_Winter,4.35,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Laligo opalescens,Market squid,Table_9_FO%_Winter,4.4,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Gonatidae species,Cephalopoda,Table_9_FO%_Winter,2.17,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Unknown cephalopod,Cephalopoda,Table_9_FO%_Winter,0,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid species,skate species,Table_9_FO%_Winter,15.2,0.07904468848,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid species,snailfish species,Table_9_FO%_Winter,13,0.1411512294,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Cymatogaster aggregata,Shiner perch,Table_9_FO%_Winter,6.5,0.1044519098,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,Table_9_FO%_Winter,4.4,0.03669931965,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_9_FO%_Winter,8.7,0.01242130819,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,Rockfish species,Table_9_FO%_Winter,6.52,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Argentinid species,Argentine,Table_9_FO%_Winter,4.35,0.006210654095,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_9_FO%_Winter,0,0.01840612032,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholid species,Gunnel species,Table_9_FO%_Winter,2.2,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenling sp.,Table_9_FO%_Winter,0,0.006125963357,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Genus rathbunella,ronquil species,Table_9_FO%_Winter,2.17,0.006125963357,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Diaphus theta,California headligth fish,Table_9_FO%_Winter,0,0.006210654095,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcis species,eelpout species,Table_9_FO%_Winter,0,0.01228015696,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Lycodopis pacifica,Blackbelly eelpout,Table_9_FO%_Winter,0,0.01242130819,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Petromyzontid species,lamprey species,Table_9_FO%_Winter,0,0.006125963357,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FVS,Anarrhichthys ocellatus,Wolf-eel,Table_9_FO%_Winter,0,0,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Stenobranchius leucopsarus,Northern lampfish,Table_9_FO%_Winter,2.17,0.04290997375,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,PELAGIC,Scomber japonicus,mackerel species,Table_9_FO%_Winter,2.17,0.03669931965,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Non identifiable fish species,Non identifiable fish species,Table_9_FO%_Winter,6.52,0.01834965983,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish species,Unidentifiable fish species,Table_9_FO%_Winter,2.2,0.01242130819,17,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupea pallasii,Pacific herring,Table_10_FO%_Spring,81,0.04416243655,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeid spp.,Herring species,Table_10_FO%_Spring,6.2,0.0330964467,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Alosa sapidissima,American Shad,Table_10_FO%_Spring,3.1,0.02208121827,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae spp.,Codfish species,Table_10_FO%_Spring,12,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Theragra chalcogramma,Walleye pollock,Table_10_FO%_Spring,9.3,0.01116751269,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Merluccius productus,Pacific hake,Table_10_FO%_Spring,0,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Microgadus proximus,Pacific tomcod,Table_10_FO%_Spring,1,0.01101522843,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Adult salmonid spp.,Salmonids,Table_10_FO%_Spring,6.2,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Oncorhynchus gorbuscha,Pink salmon,Table_10_FO%_Spring,0,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Oncorhynchus tshawytscha,Chinook salmon,Table_10_FO%_Spring,0,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CU,Oncorhynchus keta,Chum salmon,Table_10_FO%_Spring,0,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Oncorhynchus nerka,Sockeye salmon,Table_10_FO%_Spring,0,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CO,Oncorhynchus kisutch,Coho salmon,Table_10_FO%_Spring,0,0.01101522843,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Juvenile salmonid spp.,Salmonidae,Table_10_FO%_Spring,1,0.01101522843,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Onrhynchus tshawytscha,Chinook salmon (juv),Table_10_FO%_Spring,0,0.0330964467,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CO,Oncorhynchus kisutch,Coho salmon (juv),Table_10_FO%_Spring,0,0.01116751269,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Oncorhynchus nerka,Sockeye salmon (juv),Table_10_FO%_Spring,0,0.4111675127,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_10_FO%_Spring,12,0.03147208122,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_10_FO%_Spring,21,0.01573604061,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,DOG,Squalus acanthias,Spiny dogfish,Table_10_FO%_Spring,1,0.06091370558,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid spp.,sculpin species,Table_10_FO%_Spring,2.1,0.04720812183,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_10_FO%_Spring,0,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Hemilepidotus spp.,Irish lord,Table_10_FO%_Spring,2.1,0.005076142132,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid spp.,Righteye flounder,Table_10_FO%_Spring,1,0.03147208122,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_10_FO%_Spring,0,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothid spp.,Lefteye flounder,Table_10_FO%_Spring,0,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Cephalopoda,Table_10_FO%_Spring,2.1,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Berryteuthis magister,Berryteuthis magister,Table_10_FO%_Spring,1,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Loligo opalescens,Market squid,Table_10_FO%_Spring,0,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Gonathidae spp.,Cephalopoda,Table_10_FO%_Spring,0,0.005076142132,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopd species,statolith species,Table_10_FO%_Spring,1,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid spp.,skate species,Table_10_FO%_Spring,5.2,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid spp.,Snailfish species,Table_10_FO%_Spring,4.1,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Cymatogaster aggregata,Shiner perch,Table_10_FO%_Spring,3.1,0.06091370558,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Osmerid species,smelt species,Table_10_FO%_Spring,2.1,0.1065989848,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Osmerus mordax dentex,Rainbow smelt,Table_10_FO%_Spring,1,0.005076142132,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,Table_10_FO%_Spring,0,0.01065989848,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Thaleichthys pacificus,Eulachon,Table_10_FO%_Spring,1,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_10_FO%_Spring,5.2,0.01065989848,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,Rockfish species,Table_10_FO%_Spring,3.1,0.005076142132,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_10_FO%_Spring,1,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholid species,Gunnel species,Table_10_FO%_Spring,0,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenling sp.,Table_10_FO%_Spring,0,0.01065989848,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Diaphus theta,California headligth fish,Table_10_FO%_Spring,2.1,0.005076142132,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcis species,eelpout species,Table_10_FO%_Spring,1,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Petromyzontid species,lamprey species,Table_10_FO%_Spring,0,0,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Stenobranchius leucopsarus,Northern lampfish,Table_10_FO%_Spring,1,0.005076142132,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentified fish spp.,Unidentified fish spp.,Table_10_FO%_Spring,3,0.02639593909,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_10_FO%_Spring,1,0.02081218274,18,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupea pallasii,Pacific herring,Table_10_FO%_Summer_Fall,32,0.01372896368,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeid spp.,Herring species,Table_10_FO%_Summer_Fall,9.2,0.009300265722,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Alosa sapidissima,American Shad,Table_10_FO%_Summer_Fall,2.5,0.004428697963,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae spp.,Codfish species,Table_10_FO%_Summer_Fall,6.3,0,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Theragra chalcogramma,Walleye pollock,Table_10_FO%_Summer_Fall,16,0.004428697963,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Merluccius productus,Pacific hake,Table_10_FO%_Summer_Fall,2.5,0.02302922941,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Microgadus proximus,Pacific tomcod,Table_10_FO%_Summer_Fall,2.1,0.01372896368,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Adult salmonid spp.,Salmonids,Table_10_FO%_Summer_Fall,44,0.004428697963,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Oncorhynchus gorbuscha,Pink salmon,Table_10_FO%_Summer_Fall,0.42,0,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Oncorhynchus tshawytscha,Chinook salmon,Table_10_FO%_Summer_Fall,0.42,0,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CU,Oncorhynchus keta,Chum salmon,Table_10_FO%_Summer_Fall,5.4,0.009300265722,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Oncorhynchus nerka,Sockeye salmon,Table_10_FO%_Summer_Fall,2.5,0.004428697963,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CO,Oncorhynchus kisutch,Coho salmon,Table_10_FO%_Summer_Fall,0.84,0,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Juvenile salmonid spp.,Salmonidae,Table_10_FO%_Summer_Fall,8.8,0.004428697963,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Onrhynchus tshawytscha,Chinook salmon (juv),Table_10_FO%_Summer_Fall,2.9,0.01328609389,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CO,Oncorhynchus kisutch,Coho salmon (juv),Table_10_FO%_Summer_Fall,0.42,0.004428697963,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Oncorhynchus nerka,Sockeye salmon (juv),Table_10_FO%_Summer_Fall,0.42,0.1417183348,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_10_FO%_Summer_Fall,14,0.04074402126,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_10_FO%_Summer_Fall,1.7,0.01107174491,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,DOG,Squalus acanthias,Spiny dogfish,Table_10_FO%_Summer_Fall,0.42,0.02790079717,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid spp.,sculpin species,Table_10_FO%_Summer_Fall,4.2,0.0708591674,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_10_FO%_Summer_Fall,3.8,0.01107174491,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Hemilepidotus spp.,Irish lord,Table_10_FO%_Summer_Fall,1.3,0.009300265722,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid spp.,Righteye flounder,Table_10_FO%_Summer_Fall,4.2,0.1948627104,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_10_FO%_Summer_Fall,1.7,0.001860053144,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothid spp.,Lefteye flounder,Table_10_FO%_Summer_Fall,0.42,0.001860053144,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Cephalopoda,Table_10_FO%_Summer_Fall,2.1,0.023914969,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Berryteuthis magister,Berryteuthis magister,Table_10_FO%_Summer_Fall,4.6,0.01107174491,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Loligo opalescens,Market squid,Table_10_FO%_Summer_Fall,2.1,0.003720106289,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Gonathidae spp.,Cephalopoda,Table_10_FO%_Summer_Fall,0.42,0.03897254207,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopd species,statolith species,Table_10_FO%_Summer_Fall,5,0.01284322409,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid spp.,skate species,Table_10_FO%_Summer_Fall,0.84,0.001860053144,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid spp.,Snailfish species,Table_10_FO%_Summer_Fall,1.3,0.001860053144,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Cymatogaster aggregata,Shiner perch,Table_10_FO%_Summer_Fall,2.9,0.06200177148,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Osmerid species,smelt species,Table_10_FO%_Summer_Fall,2.1,0.007528786537,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Osmerus mordax dentex,Rainbow smelt,Table_10_FO%_Summer_Fall,0.42,0.001860053144,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,Table_10_FO%_Summer_Fall,0.42,0.01860053144,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Thaleichthys pacificus,Eulachon,Table_10_FO%_Summer_Fall,2.1,0.01682905226,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_10_FO%_Summer_Fall,1.7,0.005757307352,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,Rockfish species,Table_10_FO%_Summer_Fall,9.2,0.01860053144,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_10_FO%_Summer_Fall,4.2,0.007528786537,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholid species,Gunnel species,Table_10_FO%_Summer_Fall,2.9,0.001860053144,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenling sp.,Table_10_FO%_Summer_Fall,0.42,0.009300265722,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Diaphus theta,California headligth fish,Table_10_FO%_Summer_Fall,2.9,0.02037201063,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcis species,eelpout species,Table_10_FO%_Summer_Fall,0.42,0.009300265722,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Petromyzontid species,lamprey species,Table_10_FO%_Summer_Fall,0,0.001860053144,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Stenobranchius leucopsarus,Northern lampfish,Table_10_FO%_Summer_Fall,7.5,0.02214348981,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentified fish spp.,Unidentified fish spp.,Table_10_FO%_Summer_Fall,3.8,0.003720106289,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_10_FO%_Summer_Fall,0,0.005757307352,19,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupea pallasii,Pacific herring,Table_10_FO%_Winter,1.7,0.01378065007,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeid spp.,Herring species,Table_10_FO%_Winter,0.84,0.009979091427,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Alosa sapidissima,American Shad,Table_10_FO%_Winter,0,0.001995818285,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae spp.,Codfish species,Table_10_FO%_Winter,8.9,0.001995818285,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Theragra chalcogramma,Walleye pollock,Table_10_FO%_Winter,21,0.009979091427,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Merluccius productus,Pacific hake,Table_10_FO%_Winter,8.9,0.008078312108,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Microgadus proximus,Pacific tomcod,Table_10_FO%_Winter,5.4,0.04371792435,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Adult salmonid spp.,Salmonids,Table_10_FO%_Winter,7.1,0.01995818285,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Oncorhynchus gorbuscha,Pink salmon,Table_10_FO%_Winter,0,0.01378065007,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Oncorhynchus tshawytscha,Chinook salmon,Table_10_FO%_Winter,0,0.001995818285,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CU,Oncorhynchus keta,Chum salmon,Table_10_FO%_Winter,0,0.01378065007,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Oncorhynchus nerka,Sockeye salmon,Table_10_FO%_Winter,1.8,0.001995818285,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CO,Oncorhynchus kisutch,Coho salmon,Table_10_FO%_Winter,0,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Juvenile salmonid spp.,Salmonidae,Table_10_FO%_Winter,1.8,0.03563961224,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CI,Onrhynchus tshawytscha,Chinook salmon (juv),Table_10_FO%_Winter,1.8,0.01805740354,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,CO,Oncorhynchus kisutch,Coho salmon (juv),Table_10_FO%_Winter,0,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Oncorhynchus nerka,Sockeye salmon (juv),Table_10_FO%_Winter,0,0.008078312108,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytes hexapterus,Pacific sandlance,Table_10_FO%_Winter,5.4,0.003991636571,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulis mordax,Northern anchovy,Table_10_FO%_Winter,1.8,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,DOG,Squalus acanthias,Spiny dogfish,Table_10_FO%_Winter,0,0.04229233986,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottid spp.,sculpin species,Table_10_FO%_Winter,13,0.09979091427,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Leptocottus armatus,Pacific staghorn sculpin,Table_10_FO%_Winter,7.1,0.04229233986,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Hemilepidotus spp.,Irish lord,Table_10_FO%_Winter,0,0.02566052081,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectid spp.,Righteye flounder,Table_10_FO%_Winter,1.8,0.03373883292,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,Table_10_FO%_Winter,0,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Bothid spp.,Lefteye flounder,Table_10_FO%_Winter,0,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Cephalopoda,Table_10_FO%_Winter,5.4,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Berryteuthis magister,Berryteuthis magister,Table_10_FO%_Winter,1.8,0.008553506938,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Loligo opalescens,Market squid,Table_10_FO%_Winter,0,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Gonathidae spp.,Cephalopoda,Table_10_FO%_Winter,5.4,0.008553506938,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopd species,statolith species,Table_10_FO%_Winter,3.6,0.008553506938,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajid spp.,skate species,Table_10_FO%_Winter,13,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidid spp.,Snailfish species,Table_10_FO%_Winter,7.1,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,POP,Cymatogaster aggregata,Shiner perch,Table_10_FO%_Winter,27,0.02566052081,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Osmerid species,smelt species,Table_10_FO%_Winter,5.4,0.008553506938,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Osmerus mordax dentex,Rainbow smelt,Table_10_FO%_Winter,0,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,Table_10_FO%_Winter,0,0.06177532788,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Thaleichthys pacificus,Eulachon,Table_10_FO%_Winter,1.8,0.03373883292,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,Table_10_FO%_Winter,0,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenid species,Rockfish species,Table_10_FO%_Winter,23,0.008553506938,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,Table_10_FO%_Winter,8.9,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholid species,Gunnel species,Table_10_FO%_Winter,0,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenling sp.,Table_10_FO%_Winter,0,0.02566052081,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Diaphus theta,California headligth fish,Table_10_FO%_Winter,1.8,0.008553506938,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcis species,eelpout species,Table_10_FO%_Winter,7.1,0,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Petromyzontid species,lamprey species,Table_10_FO%_Winter,0,0.02566052081,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Stenobranchius leucopsarus,Northern lampfish,Table_10_FO%_Winter,0,0.01710701388,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentified fish spp.,Unidentified fish spp.,Table_10_FO%_Winter,5.4,0.06177532788,20,HSL_Lance_&_Jefferies_2009
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_10_FO%_Winter,5.4,0.03373883292,20,HSL_Lance_&_Jefferies_2009

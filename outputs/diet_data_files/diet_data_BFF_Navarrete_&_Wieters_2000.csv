@@ -1,0 +1,9 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+BFF,INVERT,Barnacle,Semibalanus cariosus,PL,Diatoms,Diatoms,Text_1,32,0.32,1,BFF_Navarrete_&_Wieters_2000
+BFF,INVERT,Barnacle,Semibalanus cariosus,BFF,Euarthropoda,Barnacle naupli,Text_1,16,0.16,1,BFF_Navarrete_&_Wieters_2000
+BFF,INVERT,Barnacle,Semibalanus cariosus,ZS,Foraminifers,Foraminifers,Text_1,8.666666667,0.08666666667,1,BFF_Navarrete_&_Wieters_2000
+BFF,INVERT,Barnacle,Semibalanus cariosus,MA,Macroalgae,Macroalgae,Text_1,8.666666667,0.08666666667,1,BFF_Navarrete_&_Wieters_2000
+BFF,INVERT,Barnacle,Semibalanus cariosus,ZM,Copepods,Copepods,Text_1,8.666666667,0.08666666667,1,BFF_Navarrete_&_Wieters_2000
+BFF,INVERT,Barnacle,Semibalanus cariosus,BC,Nemerteans,Nemerteans,Text_1,8.666666667,0.08666666667,1,BFF_Navarrete_&_Wieters_2000
+BFF,INVERT,Barnacle,Semibalanus cariosus,BIV,Mussels,Mussel post-larvae,Text_1,8.666666667,0.08666666667,1,BFF_Navarrete_&_Wieters_2000
+BFF,INVERT,Barnacle,Semibalanus cariosus,BFF,Barnacles,Barnacle naupli,Text_1,8.666666667,0.08666666667,1,BFF_Navarrete_&_Wieters_2000

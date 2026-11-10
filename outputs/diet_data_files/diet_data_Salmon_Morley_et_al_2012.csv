@@ -1,0 +1,81 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Insecta,Table_2_Unarmored,49.3,0.4925074925,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Coleoptera,Coleoptera,Table_2_Unarmored,0.1,9.99000999e-4,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Ephemeroptera,Ephemeroptera,Table_2_Unarmored,24.4,0.2437562438,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hemiptera,Hemiptera,Table_2_Unarmored,9.1,0.09090909091,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hymenoptera,Hymenoptera,Table_2_Unarmored,0.5,0.004995004995,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Lepidoptera,Lepidoptera,Table_2_Unarmored,0.1,9.99000999e-4,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Pscoptera,Pscoptera,Table_2_Unarmored,0.2,0.001998001998,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Thysanoptera,Thysanoptera,Table_2_Unarmored,0,0,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arachnida,Arachnida,Table_2_Unarmored,0.3,0.002997002997,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Collembola,Collembola,Table_2_Unarmored,0.1,9.99000999e-4,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Amphipoda,Table_2_Unarmored,4.9,0.04895104895,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Cirripedia,Cirripedia,Table_2_Unarmored,0.7,0.006993006993,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Cumacea,Cumacea,Table_2_Unarmored,0.1,9.99000999e-4,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Harpacticoida,Harpacticoida,Table_2_Unarmored,0,0,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Mysida,Mysida,Table_2_Unarmored,0,0,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Coleoptera(immature),Coleoptera,Table_2_Unarmored,0.1,9.99000999e-4,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Diptera (immature),Diptera,Table_2_Unarmored,8.3,0.08291708292,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Polychaeta,Polychaeta,Table_2_Unarmored,1.6,0.01598401598,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Cyclopoida,Cyclopoida,Table_2_Unarmored,0.1,9.99000999e-4,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda (immature),Decapoda,Table_2_Unarmored,0.2,0.001998001998,1,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Insecta,Table_2_Armored,58.3,0.5824175824,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Coleoptera,Coleoptera,Table_2_Armored,0.1,9.99000999e-4,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Ephemeroptera,Ephemeroptera,Table_2_Armored,17.7,0.1768231768,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hemiptera,Hemiptera,Table_2_Armored,3.7,0.03696303696,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hymenoptera,Hymenoptera,Table_2_Armored,1.2,0.01198801199,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Lepidoptera,Lepidoptera,Table_2_Armored,0.1,9.99000999e-4,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Pscoptera,Pscoptera,Table_2_Armored,0.2,0.001998001998,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Thysanoptera,Thysanoptera,Table_2_Armored,0,0,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arachnida,Arachnida,Table_2_Armored,0.5,0.004995004995,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Collembola,Collembola,Table_2_Armored,0.1,9.99000999e-4,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipoda,Amphipoda,Table_2_Armored,12.6,0.1258741259,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Cirripedia,Cirripedia,Table_2_Armored,0.1,9.99000999e-4,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Cumacea,Cumacea,Table_2_Armored,0,0,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Harpacticoida,Harpacticoida,Table_2_Armored,0.1,9.99000999e-4,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Mysida,Mysida,Table_2_Armored,0,0,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Coleoptera(immature),Coleoptera,Table_2_Armored,0.1,9.99000999e-4,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Diptera (immature),Diptera,Table_2_Armored,3.9,0.03896103896,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Polychaeta,Polychaeta,Table_2_Armored,0,0,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Cyclopoida,Cyclopoida,Table_2_Armored,0,0,2,Salmon_Morley_et_al_2012
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda (immature),Decapoda,Table_2_Armored,1.4,0.01398601399,2,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Table_2_Unarmored,15.6,0.1555333998,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Coleoptera,Coleoptera,Table_2_Unarmored,0,0,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Ephemeroptera,Ephemeroptera,Table_2_Unarmored,1.4,0.01395812562,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hemiptera,Hemiptera,Table_2_Unarmored,0.8,0.007976071785,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hymenoptera,Hymenoptera,Table_2_Unarmored,0,0,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Lepidoptera,Lepidoptera,Table_2_Unarmored,0,0,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Pscoptera,Pscoptera,Table_2_Unarmored,0,0,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Thysanoptera,Thysanoptera,Table_2_Unarmored,0.1,9.970089731e-4,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arachnida,Arachnida,Table_2_Unarmored,0.1,9.970089731e-4,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Collembola,Collembola,Table_2_Unarmored,0,0,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipoda,Amphipoda,Table_2_Unarmored,1.3,0.01296111665,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Cirripedia,Cirripedia,Table_2_Unarmored,0.3,0.002991026919,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Cumacea,Cumacea,Table_2_Unarmored,0,0,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpacticoida,Harpacticoida,Table_2_Unarmored,72.9,0.7268195414,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Mysida,Mysida,Table_2_Unarmored,1.1,0.0109670987,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Coleoptera(immature),Coleoptera,Table_2_Unarmored,0,0,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera (immature),Diptera,Table_2_Unarmored,6.2,0.06181455633,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Polychaeta,Polychaeta,Table_2_Unarmored,0.4,0.003988035892,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Cyclopoida,Cyclopoida,Table_2_Unarmored,0.1,9.970089731e-4,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda (immature),Decapoda,Table_2_Unarmored,0,0,3,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insecta,Table_2_Armored,24,0.2419354839,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Coleoptera,Coleoptera,Table_2_Armored,0,0,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Ephemeroptera,Ephemeroptera,Table_2_Armored,24.3,0.2449596774,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hemiptera,Hemiptera,Table_2_Armored,31.1,0.3135080645,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hymenoptera,Hymenoptera,Table_2_Armored,0.2,0.002016129032,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Lepidoptera,Lepidoptera,Table_2_Armored,0,0,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Pscoptera,Pscoptera,Table_2_Armored,0,0,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Thysanoptera,Thysanoptera,Table_2_Armored,0,0,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arachnida,Arachnida,Table_2_Armored,0.2,0.002016129032,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Collembola,Collembola,Table_2_Armored,0.9,0.009072580645,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipoda,Amphipoda,Table_2_Armored,1.5,0.01512096774,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Cirripedia,Cirripedia,Table_2_Armored,0,0,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Cumacea,Cumacea,Table_2_Armored,0,0,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Harpacticoida,Harpacticoida,Table_2_Armored,7.7,0.07762096774,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Mysida,Mysida,Table_2_Armored,0,0,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Coleoptera(immature),Coleoptera,Table_2_Armored,0,0,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera (immature),Diptera,Table_2_Armored,9,0.09072580645,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Polychaeta,Polychaeta,Table_2_Armored,0,0,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Cyclopoida,Cyclopoida,Table_2_Armored,0.3,0.003024193548,4,Salmon_Morley_et_al_2012
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Decapoda (immature),Decapoda,Table_2_Armored,0,0,4,Salmon_Morley_et_al_2012

@@ -1,0 +1,486 @@
+index_cont,Predator,prey,proportion
+1,Moon jelly,Benthic filter feeder,1.2140668448001193e-6
+1,Moon jelly,Bivalves,1.965272670292863e-9
+1,Moon jelly,Mesozooplankton,2.3535516217626173e-4
+1,Carnivorous infauna,Benthic bacteria,1.948737580647785e-6
+1,Deposit feeders,Benthic bacteria,6.389303543107492e-7
+1,Benthic filter feeder,Carnivorous infauna,1.972858622836616e-6
+1,Benthic grazers,Carnivorous infauna,1.4943414065314916e-7
+1,Benthic grazers,Benthic grazers,7.587917780000746e-6
+1,Bivalves,Benthic bacteria,4.871843951619462e-7
+1,Deep macro-zoobenthos,Benthic bacteria,4.495779241878231e-6
+1,Deep macro-zoobenthos,Carnivorous infauna,4.7569146487119345e-6
+1,Deep macro-zoobenthos,Deposit feeders,4.358019652728007e-5
+1,Deep macro-zoobenthos,Benthic filter feeder,1.0534071436690452e-4
+1,Deep macro-zoobenthos,Deep macro-zoobenthos,2.2763753340002236e-5
+1,Crabs,Carnivorous infauna,4.552750668000448e-7
+1,Crabs,Deposit feeders,2.5293059267512252e-6
+1,Crabs,Bivalves,3.372407902222554e-6
+1,Octopi,Carnivorous infauna,3.860773542280111e-5
+1,Octopi,Benthic grazers,2.622552228110857e-8
+1,Octopi,Bivalves,7.809177818182585e-8
+1,Dungeness crab,Carnivorous infauna,3.948071394393713e-6
+1,Dungeness crab,Deposit feeders,5.2240358727543955e-6
+1,Dungeness crab,Benthic filter feeder,5.780959669559137e-6
+1,Dungeness crab,Bivalves,7.639716726389944e-6
+1,Geoducks,Benthic bacteria,4.871843951619462e-7
+1,Shrimp,Benthic bacteria,8.166138433190717e-7
+1,Shrimp,Carnivorous infauna,7.566898617175259e-7
+1,Squid,Carnivorous infauna,1.4498253932897024e-6
+1,Squid,Deposit feeders,4.936664250323306e-7
+1,Squid,Benthic grazers,2.7069414393419552e-8
+1,Squid,Small Planktivorous Fish,3.298120104249719e-6
+1,Gelatinous zooplankton,Benthic filter feeder,1.2140668448001193e-6
+1,Gelatinous zooplankton,Bivalves,1.965272670292863e-9
+1,Large zooplankton,Benthic bacteria,9.324103256687968e-7
+1,Large zooplankton,Benthic filter feeder,2.5145516574423886e-5
+1,Large zooplankton,Crabs,2.138887105712481e-4
+1,Large zooplankton,Macroalgae,2.2763753340002236e-5
+1,Large zooplankton,Mesozooplankton,7.178411106159437e-5
+1,Mesozooplankton,Small phytoplankton,1.8211002672001792e-5
+1,Microzooplankton,Benthic bacteria,9.743687903238925e-7
+2,Moon jelly,Benthic filter feeder,7.338819033095345e-6
+2,Moon jelly,Bivalves,3.6657437727748974e-6
+2,Moon jelly,Mesozooplankton,6.444988447658426e-4
+2,Carnivorous infauna,Carrion,7.54849957689807e-6
+2,Deposit feeders,Benthic bacteria,1.3241899954792205e-6
+2,Benthic filter feeder,Benthic filter feeder,7.548499576747099e-6
+2,Benthic grazers,Benthic filter feeder,1.2450404689287402e-7
+2,Benthic grazers,Benthic grazers,1.572604078520431e-5
+2,Bivalves,Benthic bacteria,1.0096948715529056e-7
+2,Deep macro-zoobenthos,Carnivorous infauna,6.260248135109613e-8
+2,Deep macro-zoobenthos,Deposit feeders,8.130475697061994e-6
+2,Deep macro-zoobenthos,Benthic filter feeder,3.8685891570971456e-5
+2,Deep macro-zoobenthos,Benthic grazers,9.828775490752695e-6
+2,Deep macro-zoobenthos,Deep macro-zoobenthos,1.9095906667748095e-5
+2,Deep macro-zoobenthos,Carrion,2.6623850993529497e-6
+2,Deep macro-zoobenthos,Macroalgae,2.215942110642426e-5
+2,Crabs,Deposit feeders,1.0615077530012911e-5
+2,Crabs,Bivalves,6.7272507803374e-6
+2,Crabs,Crabs,5.242013595242838e-6
+2,Octopi,Carnivorous infauna,7.94965875495639e-6
+2,Octopi,Bivalves,7.446316546911258e-6
+2,Octopi,Deep macro-zoobenthos,1.6184604581685397e-7
+2,Dungeness crab,Carnivorous infauna,3.264245370570924e-5
+2,Dungeness crab,Deposit feeders,1.3806613295312269e-5
+2,Dungeness crab,Benthic filter feeder,2.271052218169463e-6
+2,Dungeness crab,Bivalves,6.207870345807055e-5
+2,Geoducks,Carrion,2.123015506002582e-6
+2,Shrimp,Carnivorous infauna,1.1201770246682928e-5
+2,Squid,Carnivorous infauna,9.29312981397497e-8
+2,Squid,Benthic grazers,1.0335313512374814e-8
+2,Squid,Crabs,2.942348755224364e-6
+2,Squid,Small Planktivorous Fish,8.481462271479299e-6
+2,Gelatinous zooplankton,Benthic filter feeder,7.338819033095345e-6
+2,Gelatinous zooplankton,Bivalves,3.6657437727748974e-6
+2,Large zooplankton,Benthic bacteria,4.831075940444525e-7
+2,Large zooplankton,Crabs,2.526795290274646e-4
+2,Large zooplankton,Mesozooplankton,3.67855291677276e-4
+2,Large zooplankton,Microzooplankton,1.1588311965304961e-4
+2,Mesozooplankton,Microzooplankton,9.435624471122587e-6
+2,Microzooplankton,Carrion,4.7178122355612943e-7
+3,Moon jelly,Benthic filter feeder,1.1486768472210302e-6
+3,Moon jelly,Mesozooplankton,1.115653503516929e-8
+3,Carnivorous infauna,Labile detritus,4.1352366499957085e-5
+3,Deposit feeders,Benthic bacteria,1.5959258762851732e-6
+3,Benthic filter feeder,Benthic filter feeder,1.1199599260611807e-5
+3,Benthic grazers,Benthic filter feeder,8.48313443141116e-7
+3,Benthic grazers,Benthic grazers,4.307538177078863e-5
+3,Bivalves,Carrion,8.658151735928515e-6
+3,Deep macro-zoobenthos,Deposit feeders,1.971772815139415e-5
+3,Deep macro-zoobenthos,Benthic filter feeder,2.4179357868896534e-4
+3,Deep macro-zoobenthos,Benthic grazers,2.4388267620225918e-5
+3,Deep macro-zoobenthos,Labile detritus,1.4585140168704882e-5
+3,Crabs,Benthic filter feeder,6.461307265618295e-6
+3,Crabs,Bivalves,2.393076765043813e-5
+3,Crabs,Crabs,1.4358460590741491e-5
+3,Octopi,Carnivorous infauna,1.962544875818705e-6
+3,Octopi,Benthic grazers,9.230438950883277e-6
+3,Octopi,Bivalves,1.5929951092653398e-5
+3,Octopi,Crabs,1.0550882533222327e-4
+3,Dungeness crab,Deposit feeders,5.3685379665667e-5
+3,Dungeness crab,Benthic filter feeder,5.324020340968231e-5
+3,Dungeness crab,Bivalves,4.134495641903897e-5
+3,Geoducks,Labile detritus,1.1630353078112932e-5
+3,Shrimp,Carnivorous infauna,3.818316389654394e-6
+3,Shrimp,Deposit feeders,6.153625967255518e-6
+3,Squid,Crabs,1.4201484174566732e-4
+3,Squid,Pacific Herring Cherry Point,2.509747634686011e-6
+3,Gelatinous zooplankton,Benthic filter feeder,1.1486768472210302e-6
+3,Gelatinous zooplankton,Mesozooplankton,1.115653503516929e-8
+3,Large zooplankton,Crabs,3.252977167759758e-5
+3,Large zooplankton,Carrion,6.18306915370172e-7
+3,Large zooplankton,Mesozooplankton,0.0011228235401959477
+3,Large zooplankton,Microzooplankton,1.1947891907808916e-4
+3,Microzooplankton,Labile detritus,2.5845229062473187e-6
+4,Moon jelly,Benthic filter feeder,2.4082135588566356e-5
+4,Moon jelly,Mesozooplankton,3.3413996543132364e-5
+4,Carnivorous infauna,Refractory detritus,1.2385098302691272e-4
+4,Deposit feeders,Carnivorous infauna,6.3448249501492174e-6
+4,Benthic filter feeder,Bivalves,3.354297457040812e-5
+4,Benthic grazers,Benthic filter feeder,2.54071200128489e-6
+4,Bivalves,Carrion,3.44460546543601e-5
+4,Deep macro-zoobenthos,Deposit feeders,3.76268510558123e-5
+4,Deep macro-zoobenthos,Benthic filter feeder,2.385091814777881e-4
+4,Deep macro-zoobenthos,Benthic grazers,1.5996883859817397e-4
+4,Deep macro-zoobenthos,Bivalves,2.5802288130606815e-5
+4,Deep macro-zoobenthos,Refractory detritus,4.36827224260862e-5
+4,Crabs,Bivalves,4.192871821223607e-5
+4,Crabs,Macroalgae,1.2901144065088387e-4
+4,Octopi,Benthic filter feeder,1.4459397290002545e-4
+4,Octopi,Bivalves,3.388779777522093e-5
+4,Octopi,Crabs,1.0621868184126304e-5
+4,Dungeness crab,Deposit feeders,7.019614807475531e-5
+4,Dungeness crab,Benthic filter feeder,2.4189645122443887e-5
+4,Dungeness crab,Benthic grazers,6.559903762018681e-6
+4,Dungeness crab,Bivalves,1.4067546851858988e-4
+4,Dungeness crab,Crabs,2.038094721960337e-5
+4,Dungeness crab,Macroalgae,3.518493835991838e-5
+4,Geoducks,Refractory detritus,3.48330889763192e-5
+4,Shrimp,Carnivorous infauna,4.645841353156351e-6
+4,Shrimp,Benthic filter feeder,3.686041161515259e-6
+4,Squid,Crabs,5.192195218866105e-5
+4,Squid,Pacific Herring Puget Sound,6.526675070206168e-5
+4,Gelatinous zooplankton,Benthic filter feeder,2.4082135588566356e-5
+4,Gelatinous zooplankton,Mesozooplankton,3.3413996543132364e-5
+4,Large zooplankton,Carrion,1.8518388610483366e-6
+4,Large zooplankton,Mesozooplankton,6.780044385588152e-4
+4,Large zooplankton,Microzooplankton,0.0010545607778084678
+4,Microzooplankton,Refractory detritus,7.740686439182047e-6
+5,Moon jelly,Bivalves,1.550546498246939e-4
+5,Moon jelly,Mesozooplankton,3.8614610061336714e-5
+5,Carnivorous infauna,Macroalgae,8.945460566809261e-5
+5,Deposit feeders,Carnivorous infauna,2.9329378907571355e-5
+5,Benthic filter feeder,Macroalgae,7.752732491377822e-5
+5,Benthic grazers,Benthic grazers,5.8723058213722645e-6
+5,Bivalves,Labile detritus,1.1986917159524413e-4
+5,Deep macro-zoobenthos,Deposit feeders,1.466911724201896e-4
+5,Deep macro-zoobenthos,Benthic filter feeder,4.568675295349386e-5
+5,Deep macro-zoobenthos,Benthic grazers,7.091203177827884e-4
+5,Deep macro-zoobenthos,Bivalves,9.084569455959868e-4
+5,Deep macro-zoobenthos,Pelagic bacteria,2.9703278763385476e-5
+5,Crabs,Bivalves,4.7543466345819604e-4
+5,Crabs,Large phytoplankton,2.981820188886724e-4
+5,Octopi,Benthic filter feeder,1.3585383789629954e-5
+5,Octopi,Bivalves,1.0305830146093621e-5
+5,Octopi,Crabs,1.2121636102537424e-4
+5,Dungeness crab,Deposit feeders,1.8775637013852408e-7
+5,Dungeness crab,Benthic filter feeder,2.7406435560077394e-5
+5,Dungeness crab,Bivalves,7.290182283906462e-4
+5,Dungeness crab,Crabs,4.504085301376422e-4
+5,Dungeness crab,Shrimp,8.132236878917512e-5
+5,Geoducks,Pelagic bacteria,3.2187910304557137e-6
+5,Shrimp,Carnivorous infauna,1.5693790468086424e-5
+5,Shrimp,Bivalves,4.25974312705203e-5
+5,Squid,Crabs,7.144822420416018e-6
+5,Squid,Octopi,1.3840980014959724e-5
+5,Squid,Small demersal fish,1.9573153817952315e-4
+5,Squid,Gelatinous zooplankton,2.143953358987344e-4
+5,Gelatinous zooplankton,Bivalves,1.550546498246939e-4
+5,Gelatinous zooplankton,Mesozooplankton,3.8614610061336714e-5
+5,Large zooplankton,Labile detritus,8.560249346228963e-6
+5,Large zooplankton,Microzooplankton,3.533081064201972e-4
+5,Microzooplankton,Pelagic bacteria,6.4375820609114275e-6
+6,Moon jelly,Mesozooplankton,2.047009293992433e-5
+6,Carnivorous infauna,Pelagic bacteria,2.5666693976776498e-5
+6,Deposit feeders,Deposit feeders,2.923412027321709e-5
+6,Benthic filter feeder,Large phytoplankton,5.706500277217845e-4
+6,Benthic grazers,Benthic grazers,1.1706466420861897e-5
+6,Bivalves,Labile detritus,3.174240779265912e-4
+6,Deep macro-zoobenthos,Deposit feeders,5.846824054643418e-5
+6,Deep macro-zoobenthos,Benthic filter feeder,2.5563715811829365e-5
+6,Deep macro-zoobenthos,Benthic grazers,9.170019975058996e-4
+6,Deep macro-zoobenthos,Bivalves,0.0018123792990148027
+6,Deep macro-zoobenthos,Small phytoplankton,4.5729150717826e-4
+6,Crabs,Bivalves,3.3023728456782264e-4
+6,Crabs,Crabs,8.916406683331212e-5
+6,Octopi,Benthic grazers,1.7516455563158112e-4
+6,Octopi,Bivalves,1.269269431911614e-4
+6,Octopi,Crabs,1.2235206426526533e-5
+6,Dungeness crab,Deposit feeders,7.485862314357193e-7
+6,Dungeness crab,Benthic grazers,8.741575179736481e-6
+6,Dungeness crab,Bivalves,9.838628156678322e-4
+6,Dungeness crab,Crabs,6.08286355201324e-4
+6,Dungeness crab,Dungeness crab,9.348630033263532e-4
+6,Geoducks,Small phytoplankton,0.0013374610024996817
+6,Shrimp,Bivalves,9.056368745765774e-5
+6,Shrimp,Carrion,2.0380358133328483e-4
+6,Squid,Demersal vulnerable rockfish,1.1113056118751569e-8
+6,Squid,Shrimp,4.171633349259477e-5
+6,Squid,Small demersal fish,4.787756901137226e-4
+6,Gelatinous zooplankton,Mesozooplankton,2.047009293992433e-5
+6,Large zooplankton,Labile detritus,1.7064893173839646e-5
+6,Microzooplankton,Small phytoplankton,0.0016049532029996179
+7,Moon jelly,Mesozooplankton,8.340404345453602e-5
+7,Deposit feeders,Benthic filter feeder,2.2434832984694563e-5
+7,Benthic filter feeder,Mesozooplankton,2.3721096742921642e-4
+7,Benthic grazers,Crabs,1.7967540431417278e-5
+7,Bivalves,Refractory detritus,3.667646496337867e-4
+7,Deep macro-zoobenthos,Benthic filter feeder,1.3460899790816738e-4
+7,Deep macro-zoobenthos,Benthic grazers,0.001132225167026247
+7,Deep macro-zoobenthos,Bivalves,3.4256122152244244e-4
+7,Deep macro-zoobenthos,Small phytoplankton,2.100831809190413e-4
+7,Crabs,Bivalves,3.3959689780906175e-4
+7,Crabs,Carrion,5.474099248265474e-5
+7,Octopi,Bivalves,2.2378557071147442e-4
+7,Octopi,Crabs,1.4084303383187326e-5
+7,Dungeness crab,Benthic grazers,1.1489592927678083e-4
+7,Dungeness crab,Bivalves,0.0014826851136500276
+7,Dungeness crab,Crabs,6.50222554534028e-4
+7,Dungeness crab,Dungeness crab,0.0015104397886389603
+7,Dungeness crab,Small-mouthed Flatfish,3.046376757255541e-4
+7,Dungeness crab,Small Planktivorous Fish,0.003457003095943049
+7,Shrimp,Bivalves,4.8018414458469066e-4
+7,Shrimp,Labile detritus,6.256113426589112e-4
+7,Squid,Shrimp,7.941590461726018e-6
+7,Squid,Squid,3.234858387024902e-5
+7,Squid,Large zooplankton,0.0026982251620783866
+7,Gelatinous zooplankton,Mesozooplankton,8.340404345453602e-5
+7,Large zooplankton,Refractory detritus,2.6191862431892225e-5
+8,Moon jelly,Mesozooplankton,2.558677114062232e-4
+8,Deposit feeders,Benthic filter feeder,1.4847962624124564e-5
+8,Benthic filter feeder,Microzooplankton,3.9248114537160513e-4
+8,Benthic grazers,Crabs,2.9728477247315998e-5
+8,Bivalves,Refractory detritus,8.060958908637226e-4
+8,Deep macro-zoobenthos,Benthic grazers,2.1960930239354917e-4
+8,Deep macro-zoobenthos,Bivalves,0.0010978273018654192
+8,Deep macro-zoobenthos,Deep macro-zoobenthos,1.8869285834824964e-4
+8,Deep macro-zoobenthos,Carrion,1.0770897249619396e-4
+8,Deep macro-zoobenthos,Microzooplankton,6.971678569238425e-4
+8,Crabs,Labile detritus,1.8114514401431972e-4
+8,Octopi,Bivalves,2.2871929890485419e-4
+8,Octopi,Crabs,7.76780205893309e-6
+8,Dungeness crab,Bivalves,0.0012031909356513936
+8,Dungeness crab,Deep macro-zoobenthos,3.83782084776101e-5
+8,Dungeness crab,Crabs,9.781230518607646e-4
+8,Dungeness crab,Small-mouthed Flatfish,0.0029839608948234748
+8,Dungeness crab,Small Planktivorous Fish,3.136859784945073e-4
+8,Dungeness crab,Macroalgae,8.725761832958664e-5
+8,Dungeness crab,Shrimp,2.921695871198704e-4
+8,Shrimp,Bivalves,3.219800574585091e-4
+8,Shrimp,Refractory detritus,0.0010351151086532553
+8,Squid,Midwater rockfish,9.049699666718416e-6
+8,Squid,Large zooplankton,0.0049197501421432924
+8,Gelatinous zooplankton,Mesozooplankton,2.558677114062232e-4
+8,Large zooplankton,Refractory detritus,4.333615885510041e-5
+9,Moon jelly,Mesozooplankton,9.101874004717629e-4
+9,Moon jelly,Microzooplankton,6.096692391231699e-7
+9,Deposit feeders,Benthic grazers,5.788359669478424e-5
+9,Benthic grazers,Macroalgae,0.0016679431296455697
+9,Bivalves,Pelagic bacteria,2.5410043961563796e-5
+9,Deep macro-zoobenthos,Benthic grazers,1.0679229501382011e-4
+9,Deep macro-zoobenthos,Bivalves,0.0031483932318712602
+9,Deep macro-zoobenthos,Deep macro-zoobenthos,5.711749026794151e-4
+9,Deep macro-zoobenthos,Carrion,3.0262690365389657e-4
+9,Crabs,Refractory detritus,2.8247195187054713e-4
+9,Octopi,Bivalves,1.3640232373242215e-4
+9,Dungeness crab,Bivalves,0.0021469526567870437
+9,Dungeness crab,Deep macro-zoobenthos,1.7953725754483928e-4
+9,Dungeness crab,Crabs,1.0045804755717069e-4
+9,Dungeness crab,Dungeness crab,3.50290487174291e-4
+9,Dungeness crab,Small-mouthed Flatfish,6.422136028059192e-5
+9,Dungeness crab,Small Planktivorous Fish,0.005196053844098873
+9,Dungeness crab,Perch,0.0015037049774397427
+9,Dungeness crab,Shrimp,0.0021169272439260705
+9,Shrimp,Crabs,9.454855268058479e-4
+9,Shrimp,Macroalgae,6.725522663584455e-5
+9,Squid,Midwater vulnerable rockfish,1.6136168268719248e-7
+9,Squid,Mesozooplankton,2.120960130600693e-4
+9,Gelatinous zooplankton,Mesozooplankton,9.101874004717629e-4
+9,Gelatinous zooplankton,Microzooplankton,6.096692391231699e-7
+9,Large zooplankton,Pelagic bacteria,4.863166308433262e-5
+10,Moon jelly,Mesozooplankton,0.0031146850432721028
+10,Moon jelly,Microzooplankton,9.030271263937026e-5
+10,Deposit feeders,Bivalves,1.7147152795111896e-4
+10,Benthic grazers,Macroalgae,2.760353281442144e-5
+10,Bivalves,Pelagic bacteria,3.7636733998831282e-6
+10,Deep macro-zoobenthos,Benthic grazers,2.9885037728623586e-4
+10,Deep macro-zoobenthos,Bivalves,0.004333288227275041
+10,Deep macro-zoobenthos,Deep macro-zoobenthos,1.4782705828329852e-4
+10,Deep macro-zoobenthos,Labile detritus,4.975503388716635e-4
+10,Crabs,Small Planktivorous Fish,1.0459763205018258e-4
+10,Octopi,Bivalves,2.0203577699059208e-4
+10,Dungeness crab,Bivalves,0.00179456721654725
+10,Dungeness crab,Deep macro-zoobenthos,7.341875057317531e-4
+10,Dungeness crab,Crabs,0.0012623554879023407
+10,Dungeness crab,Dungeness crab,9.65492535573584e-4
+10,Dungeness crab,Small-mouthed Flatfish,3.845448084217293e-4
+10,Dungeness crab,Small Planktivorous Fish,0.012155983802380529
+10,Dungeness crab,Macroalgae,4.3582346687576066e-4
+10,Dungeness crab,Perch,9.24813660599715e-4
+10,Dungeness crab,Shrimp,0.004043305076114557
+10,Shrimp,Crabs,0.001226583496802695
+10,Shrimp,Macroalgae,4.9808396214372646e-5
+10,Squid,Demersal rockfish,1.2917132105191276e-4
+10,Squid,Microzooplankton,7.638069412357931e-7
+10,Gelatinous zooplankton,Mesozooplankton,0.0031146850432721028
+10,Gelatinous zooplankton,Microzooplankton,9.030271263937026e-5
+10,Large zooplankton,Pelagic bacteria,1.80080066980054e-5
+11,Moon jelly,Mesozooplankton,1.8575263200456302e-4
+11,Moon jelly,Microzooplankton,0.0027663238384517926
+11,Deposit feeders,Carrion,7.308300275589365e-4
+11,Benthic grazers,Macroalgae,9.191345831487788e-4
+11,Bivalves,Small phytoplankton,0.0019504026360479118
+11,Deep macro-zoobenthos,Bivalves,0.006272855379400821
+11,Deep macro-zoobenthos,Deep macro-zoobenthos,0.004119581610192263
+11,Deep macro-zoobenthos,Labile detritus,0.0011940387744025906
+11,Crabs,Pacific Herring Cherry Point,1.4387738708924864e-6
+11,Octopi,Bivalves,6.093090790836109e-4
+11,Dungeness crab,Deep macro-zoobenthos,6.829140882520698e-5
+11,Dungeness crab,Crabs,0.0019377750160756043
+11,Dungeness crab,Dungeness crab,0.001321083945623881
+11,Dungeness crab,Small-mouthed Flatfish,0.0024879325731979236
+11,Dungeness crab,Small Planktivorous Fish,0.003271154429894669
+11,Dungeness crab,Pacific Herring Cherry Point,9.453537991159629e-4
+11,Dungeness crab,Shrimp,0.017031495043121132
+11,Shrimp,Crabs,0.0014793319030834311
+11,Shrimp,Macroalgae,6.634022571591536e-4
+11,Squid,Gelatinous zooplankton,4.4508705612824803e-5
+11,Gelatinous zooplankton,Mesozooplankton,1.8575263200456302e-4
+11,Gelatinous zooplankton,Microzooplankton,0.0027663238384517926
+11,Large zooplankton,Large phytoplankton,0.001999729291915152
+12,Moon jelly,Mesozooplankton,7.516339232419337e-4
+12,Moon jelly,Microzooplankton,0.00796391103244261
+12,Deposit feeders,Carrion,8.065222425248766e-4
+12,Benthic grazers,Macroalgae,3.448720090578651e-4
+12,Bivalves,Small phytoplankton,7.68716512406523e-4
+12,Deep macro-zoobenthos,Bivalves,0.0011603923483049616
+12,Deep macro-zoobenthos,Deep macro-zoobenthos,0.0035535821712800795
+12,Deep macro-zoobenthos,Refractory detritus,7.313266156170909e-4
+12,Crabs,Pacific Herring Puget Sound,1.3786542274072666e-5
+12,Octopi,Bivalves,2.5120081729256206e-4
+12,Dungeness crab,Deep macro-zoobenthos,2.2609309188427148e-4
+12,Dungeness crab,Small-mouthed Flatfish,0.006459505387925373
+12,Dungeness crab,Small Planktivorous Fish,8.92121392622375e-4
+12,Dungeness crab,Pacific Herring Puget Sound,0.009058518770140588
+12,Dungeness crab,Perch,0.004129656672989885
+12,Dungeness crab,Shrimp,6.963522361641626e-4
+12,Dungeness crab,Small demersal fish,0.004942572244260679
+12,Shrimp,Macroalgae,1.8454874720747554e-4
+12,Shrimp,Pelagic bacteria,9.272773491244441e-5
+12,Squid,Large zooplankton,2.455924066409556e-5
+12,Gelatinous zooplankton,Mesozooplankton,7.516339232419337e-4
+12,Gelatinous zooplankton,Microzooplankton,0.00796391103244261
+12,Large zooplankton,Large phytoplankton,0.0058849110997628564
+13,Moon jelly,Mesozooplankton,1.0269140584373875e-4
+13,Deposit feeders,Carrion,9.090714615675233e-4
+13,Benthic grazers,Macroalgae,1.5167799417748864e-4
+13,Bivalves,Microzooplankton,5.776391578710305e-5
+13,Deep macro-zoobenthos,Bivalves,0.0013690183320034727
+13,Deep macro-zoobenthos,Deep macro-zoobenthos,3.261962303271702e-4
+13,Deep macro-zoobenthos,Crabs,0.007255755681169408
+13,Deep macro-zoobenthos,Refractory detritus,0.0019803356601535223
+13,Crabs,Macroalgae,2.310556631484122e-4
+13,Octopi,Bivalves,3.4387376941959194e-5
+13,Octopi,Deep macro-zoobenthos,0.0036679958897952746
+13,Dungeness crab,Deep macro-zoobenthos,0.0019254638595701016
+13,Dungeness crab,Small-mouthed Flatfish,0.01215802204120838
+13,Dungeness crab,Macroalgae,4.7797038362551915e-5
+13,Dungeness crab,Shrimp,0.007916772535925503
+13,Shrimp,Large phytoplankton,5.333694901856238e-4
+13,Shrimp,Small phytoplankton,0.0011002650626114865
+13,Squid,Large zooplankton,0.0012918241258437447
+13,Gelatinous zooplankton,Mesozooplankton,1.0269140584373875e-4
+13,Large zooplankton,Gelatinous zooplankton,4.422117954993535e-4
+14,Moon jelly,Mesozooplankton,4.98979209540163e-4
+14,Deposit feeders,Labile detritus,0.002355836267992901
+14,Benthic grazers,Macroalgae,0.006501720266511355
+14,Deep macro-zoobenthos,Bivalves,6.888717658639956e-4
+14,Deep macro-zoobenthos,Deep macro-zoobenthos,2.113323710993631e-4
+14,Crabs,Macroalgae,2.2454064429307334e-4
+14,Octopi,Deep macro-zoobenthos,0.002646846908864107
+14,Dungeness crab,Crabs,8.805515462473463e-4
+14,Dungeness crab,Macroalgae,4.7128860505469235e-6
+14,Dungeness crab,Perch,0.0016456245998253166
+14,Dungeness crab,Shrimp,0.015241786949148262
+14,Dungeness crab,Seagrass,0.001464395506259174
+14,Shrimp,Shrimp,0.001069241163300349
+14,Shrimp,Large zooplankton,3.731977467474903e-4
+14,Squid,Large zooplankton,2.869483162161286e-4
+14,Gelatinous zooplankton,Mesozooplankton,4.98979209540163e-4
+14,Large zooplankton,Gelatinous zooplankton,0.0010743571497276237
+15,Deposit feeders,Labile detritus,0.004293203938271978
+15,Benthic grazers,Macroalgae,5.406176164729494e-4
+15,Deep macro-zoobenthos,Bivalves,5.845657148093541e-4
+15,Deep macro-zoobenthos,Deep macro-zoobenthos,6.708131153549965e-4
+15,Deep macro-zoobenthos,Crabs,0.004428944945143811
+15,Crabs,Perch,4.0919600036654785e-4
+15,Octopi,Deep macro-zoobenthos,6.214419781567457e-4
+15,Octopi,Crabs,0.018338392182325705
+15,Dungeness crab,Crabs,0.0024070352962738107
+15,Dungeness crab,Macroalgae,0.0038562900874104158
+15,Dungeness crab,Shrimp,0.018857596924180046
+15,Dungeness crab,Small demersal fish,0.012130807127726137
+15,Shrimp,Seagrass,3.8971047653956934e-4
+15,Shrimp,Large zooplankton,0.0019269617745793113
+15,Squid,Large zooplankton,0.001111217393688809
+15,Large zooplankton,Large zooplankton,0.001957875599839942
+16,Deposit feeders,Labile detritus,0.0023037998145402096
+16,Benthic grazers,Macroalgae,1.9219376563278808e-4
+16,Deep macro-zoobenthos,Bivalves,4.1824937109212143e-4
+16,Deep macro-zoobenthos,Crabs,9.599165893917542e-4
+16,Crabs,Shrimp,0.001463872798822425
+16,Octopi,Deep macro-zoobenthos,4.4463387083703735e-4
+16,Octopi,Crabs,3.3729787991300115e-5
+16,Dungeness crab,Octopi,2.8703388212204415e-4
+16,Dungeness crab,Perch,0.018379839920529092
+16,Dungeness crab,Shrimp,0.0028448860315893085
+16,Dungeness crab,Small demersal fish,0.023167081835974056
+16,Shrimp,Large zooplankton,3.5143760636549445e-4
+16,Shrimp,Mesozooplankton,5.576658281228286e-4
+16,Squid,Large zooplankton,0.02109252670944278
+16,Large zooplankton,Mesozooplankton,0.004202505642552416
+17,Deposit feeders,Refractory detritus,0.005053387824409618
+17,Benthic grazers,Large phytoplankton,0.014848004458660484
+17,Deep macro-zoobenthos,Bivalves,0.008944947644546487
+17,Deep macro-zoobenthos,Geoducks,7.895918475640027e-4
+17,Crabs,Seagrass,4.3348592431263744e-4
+17,Octopi,Deep macro-zoobenthos,7.314787210547322e-4
+17,Octopi,Crabs,1.6646924896798672e-4
+17,Dungeness crab,Dungeness crab,0.001652724112303084
+17,Dungeness crab,Shrimp,0.012109396223358795
+17,Shrimp,Microzooplankton,4.587152638228967e-5
+17,Squid,Mesozooplankton,7.693982955768144e-7
+17,Large zooplankton,Mesozooplankton,0.0023045503684882376
+18,Deposit feeders,Refractory detritus,0.00643109129390644
+18,Deep macro-zoobenthos,Deep macro-zoobenthos,0.0017513239684298781
+18,Deep macro-zoobenthos,Shrimp,0.001004858014672881
+18,Crabs,Small demersal fish,0.001838890166851372
+18,Octopi,Crabs,0.0011633629796179228
+18,Dungeness crab,Small-mouthed Flatfish,3.949063850381098e-4
+18,Dungeness crab,Shrimp,0.01167967367497986
+18,Dungeness crab,Mesozooplankton,1.2679989841965568e-6
+18,Squid,Mesozooplankton,7.833272809705372e-4
+18,Large zooplankton,Microzooplankton,0.0029328391815811364
+19,Deposit feeders,Refractory detritus,0.0025711908378002564
+19,Octopi,Crabs,3.7644643122555603e-4
+19,Dungeness crab,Small-mouthed Flatfish,2.1051474938338935e-4
+19,Dungeness crab,Small demersal fish,4.6887973172114294e-4
+19,Dungeness crab,Mesozooplankton,6.759386489807465e-7
+19,Squid,Mesozooplankton,5.219653077487302e-5
+19,Large zooplankton,Microzooplankton,3.9085586399974004e-4
+20,Deposit feeders,Macroalgae,7.511372762002923e-4
+20,Octopi,Crabs,0.0013196824265039697
+20,Dungeness crab,Small Planktivorous Fish,2.951948455207311e-4
+20,Dungeness crab,Small demersal fish,0.013456903637279248
+21,Deposit feeders,Macroalgae,0.0011950686130156193
+21,Octopi,Dungeness crab,0.0031074537552721808
+21,Dungeness crab,Small Planktivorous Fish,4.696586173840095e-4
+22,Deposit feeders,Macroalgae,0.00042329286548720894
+22,Dungeness crab,Small Planktivorous Fish,0.009981174626530321
+23,Deposit feeders,Macroalgae,1.3670211950892494e-4
+23,Dungeness crab,Small Planktivorous Fish,0.008595768007664838
+24,Deposit feeders,Macroalgae,0.0026191696071479276
+24,Dungeness crab,Shrimp,0.0015663661376080745
+25,Deposit feeders,Pelagic bacteria,5.75687076887556e-4
+25,Dungeness crab,Shrimp,0.002990033736885727
+26,Deposit feeders,Pelagic bacteria,0.001330480333468406
+26,Dungeness crab,Seagrass,0.011056509671445775
+27,Deposit feeders,Pelagic bacteria,2.7413854011522343e-4
+27,Dungeness crab,Small demersal fish,0.002551808413452855
+28,Deposit feeders,Small phytoplankton,0.0040480238953691785
+28,Dungeness crab,Large zooplankton,0.004841754070931763
+29,Deposit feeders,Shrimp,0.002421358110527163
+30,Deposit feeders,Seagrass,0.001146648540381204
+31,Deposit feeders,Mesozooplankton,0.00153262039328825
+32,Deposit feeders,Microzooplankton,1.1897020593864763e-4

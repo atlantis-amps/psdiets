@@ -1,0 +1,23 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,FPS,Sandlance,Sandlance,Table_%RFW_1975,70.6,0.706,1,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,HE,Herring,Herring,Table_%RFW_1975,26.02,0.2602,1,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,CI,King Salmon,King Salmon,Table_%RFW_1975,1.55,0.0155,1,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,PIS,Pink Salmon,Pink Salmon,Table_%RFW_1975,0,0,1,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,CU,Chum Salmon,Chum Salmon,Table_%RFW_1975,0.87,0.0087,1,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,CO,Silver Salmon,Silver Salmon,Table_%RFW_1975,0,0,1,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,FPS,Northern Anchovy,Northern Anchovy,Table_%RFW_1975,0.77,0.0077,1,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,FPS,Surf smelt,Surf smelt,Table_%RFW_1975,0,0,1,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,FMM,Walleye Pollock,Walleye Pollock,Table_%RFW_1975,0,0,1,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,SMD,Threespine stickelback,Threespine stickelback,Table_%RFW_1975,0.19,0.0019,1,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,SQX,Unidentified Squid,Unidentified Squid,Table_%RFW_1975,0,0,1,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,FPS,Sandlance,Sandlance,Table_%RFW_1976,63.76,0.6376,2,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,HE,Herring,Herring,Table_%RFW_1976,25.72,0.2572,2,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,CI,King Salmon,King Salmon,Table_%RFW_1976,3.01,0.0301,2,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,PIS,Pink Salmon,Pink Salmon,Table_%RFW_1976,3.5,0.035,2,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,CU,Chum Salmon,Chum Salmon,Table_%RFW_1976,0,0,2,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,CO,Silver Salmon,Silver Salmon,Table_%RFW_1976,0.19,0.0019,2,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,FPS,Northern Anchovy,Northern Anchovy,Table_%RFW_1976,2.09,0.0209,2,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,FPS,Surf smelt,Surf smelt,Table_%RFW_1976,1.43,0.0143,2,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,FMM,Walleye Pollock,Walleye Pollock,Table_%RFW_1976,0.13,0.0013,2,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,SMD,Threespine stickelback,Threespine stickelback,Table_%RFW_1976,0,0,2,SB_Wilson_1977
+SB,juvenile,Rhinoceros Auklet,Cerorhinca monocerata,SQX,Unidentified Squid,Unidentified Squid,Table_%RFW_1976,0.17,0.0017,2,SB_Wilson_1977

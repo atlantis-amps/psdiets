@@ -1,0 +1,26 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+DOG,adult,spiny dogfish,spiny dogfish,BMD,Policinae,Policinae,Table_1,0.01,1.001301692e-4,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,SQX,Histioteuthis heteropsis,Histioteuthis heteropsis,Table_1,0.1,0.001001301692,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,ZL,Unidentified euphausiids,Unidentified euphausiids,Table_1,0.4,0.004005206769,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,ZL,Euphausia pacifica,Euphausia pacifica,Table_1,0.01,1.001301692e-4,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,ZL,Thysanoessa spinifera,Thysanoessa spinifera,Table_1,0.01,1.001301692e-4,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,BML,Cancer magister adults,Cancer magister adults,Table_1,3.9,0.039050766,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,BML,Cancer magister megalopae,Cancer magister megalopae,Table_1,0.01,1.001301692e-4,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,BFF,Thaliacea,Thaliacea,Table_1,0.01,1.001301692e-4,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,NA,Gelatinous material,Gelatinous material,Table_1,1.1,0.01101431861,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,LAMPREY,Lampetra tridentata,Lampetra tridentata,Table_1,1,0.01001301692,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,FMM,Merluccius productus,Merluccius productus,Table_1,2.3,0.02302993892,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,HE,Clupea pallasii,Clupea pallasii,Table_1,18.3,0.1832382097,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,HE,Unidentified Clupeidae,Unidentified Clupeidae,Table_1,36.6,0.3664764193,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,FPS,Sardinops sagax,Sardinops sagax,Table_1,7.9,0.07910283368,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,FPS,Engraulis mordax,Engraulis mordax,Table_1,5.4,0.05407029138,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,HE,Unidentified Clupeiformes,Unidentified Clupeiformes,Table_1,5.2,0.05206768799,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,FPS,Allosmerus elongatus,Allosmerus elongatus,Table_1,0.5,0.005006508461,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,FPS,Hypomesus pretiosus,Hypomesus pretiosus,Table_1,0.1,0.001001301692,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,FPS,Unidentified Osmeridae,Unidentified Osmeridae,Table_1,0.2,0.002002603384,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,FPS,Ammodytes hexapterus,Ammodytes hexapterus,Table_1,0.01,1.001301692e-4,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,ROC,Hemilepidotus spinosus,Hemilepidotus spinosus,Table_1,0.01,1.001301692e-4,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,SMD,Leptocottus armatus,Leptocottus armatus,Table_1,0.4,0.004005206769,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,FDF,Pleuronectiformes,Pleuronectiformes,Table_1,0.8,0.008010413538,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,FISH,Unidentified Osteichthyes,Unidentified Osteichthyes,Table_1,15.2,0.1521978572,1,DOG_Brodeur_et_al_2009
+DOG,adult,spiny dogfish,spiny dogfish,NA,Unidentified material,Unidentified material,Table_1,0.4,0.004005206769,1,DOG_Brodeur_et_al_2009

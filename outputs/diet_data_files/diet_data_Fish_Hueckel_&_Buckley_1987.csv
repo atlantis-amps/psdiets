@@ -1,0 +1,237 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+POP,juvenile,Striped seaperch,Striped seaperch,BC,Annelida,Polychaeta,Table9_small_striped_seaperch,0.7,0.006993006993,1,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Striped seaperch,Striped seaperch,BC,Annelida,Serpulida,Table9_small_striped_seaperch,0.6,0.005994005994,1,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Striped seaperch,Striped seaperch,BD,Arthropoda,Harpacticoida,Table9_small_striped_seaperch,16.7,0.1668331668,1,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Striped seaperch,Striped seaperch,BFF,Arthropoda,Balanus sp.,Table9_small_striped_seaperch,1.2,0.01198801199,1,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Striped seaperch,Striped seaperch,BD,Arthropoda,Tanaidacea,Table9_small_striped_seaperch,0.1,9.99000999e-4,1,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Striped seaperch,Striped seaperch,BD,Arthropoda,Gammaridea,Table9_small_striped_seaperch,38.2,0.3816183816,1,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Striped seaperch,Striped seaperch,BD,Arthropoda,Caprellidea,Table9_small_striped_seaperch,1.2,0.01198801199,1,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Striped seaperch,Striped seaperch,BML,Arthropoda,Brachyura,Table9_small_striped_seaperch,8.2,0.08191808192,1,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Striped seaperch,Striped seaperch,BML,Arthropoda,Brachyura (Zoea),Table9_small_striped_seaperch,33.2,0.3316683317,1,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Pile perch,Pile perch,BG,Mollusca,Collisella pelta,Table9_small_piled_perch,0.1,0.001003009027,2,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Pile perch,Pile perch,BMD,Mollusca,Lirularia lirulatus,Table9_small_piled_perch,0.1,0.001003009027,2,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Pile perch,Pile perch,BC,Mollusca,Odostomia sp.,Table9_small_piled_perch,4.9,0.04914744233,2,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Pile perch,Pile perch,BIV,Mollusca,Clinocardium nuttallii,Table9_small_piled_perch,0.1,0.001003009027,2,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Pile perch,Pile perch,BIV,Mollusca,Transenella tantilla,Table9_small_piled_perch,61,0.6118355065,2,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Pile perch,Pile perch,ZL,Arthropoda,Ostracoda,Table9_small_piled_perch,28.4,0.2848545637,2,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Pile perch,Pile perch,BD,Arthropoda,Gammaridea,Table9_small_piled_perch,2.9,0.02908726179,2,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Pile perch,Pile perch,BD,Arthropoda,Hippolytidae,Table9_small_piled_perch,0.2,0.002006018054,2,Fish_Hueckel_&_Buckley_1987
+POP,juvenile,Pile perch,Pile perch,BML,Arthropoda,Brachyura (Zoea),Table9_small_piled_perch,2,0.02006018054,2,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,BC,Annelida,Polychaeta,Table9_large_striped_seapercj,11.6,0.1162324649,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,BC,Annelida,Serpulidae,Table9_large_striped_seapercj,0.4,0.004008016032,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,BML,Arthropoda,Crustacea,Table9_large_striped_seapercj,0.7,0.007014028056,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,BFF,Arthropoda,Balanus sp.,Table9_large_striped_seapercj,0.4,0.004008016032,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,PWN,Arthropoda,Acanthomysis sp.,Table9_large_striped_seapercj,0.3,0.003006012024,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,BD,Arthropoda,Tanaidacea,Table9_large_striped_seapercj,0.5,0.00501002004,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,BD,Arthropoda,Gammaridea,Table9_large_striped_seapercj,28.1,0.2815631263,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,BD,Arthropoda,Caprellidea,Table9_large_striped_seapercj,6.4,0.06412825651,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,BD,Arthropoda,Hippolytidae,Table9_large_striped_seapercj,2.4,0.02404809619,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,PWN,Arthropoda,Eualus sp.,Table9_large_striped_seapercj,2.1,0.02104208417,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,PWN,Arthropoda,Heptacarpus brevirostrias,Table9_large_striped_seapercj,0.4,0.004008016032,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,PWN,Arthropoda,Pandalus danae,Table9_large_striped_seapercj,1.4,0.01402805611,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,BML,Arthropoda,Brachyura,Table9_large_striped_seapercj,4.6,0.04609218437,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,BML,Arthropoda,Brachyura (Zoea),Table9_large_striped_seapercj,38,0.380761523,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,BML,Arthropoda,Cancer oregonensis,Table9_large_striped_seapercj,0.7,0.007014028056,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,BML,Arthropoda,Pugettia gracilis,Table9_large_striped_seapercj,1.3,0.0130260521,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Striped seaperch,Striped seaperch,MA,Chlorophyte,Ulva sp.,Table9_large_striped_seapercj,0.5,0.00501002004,3,Fish_Hueckel_&_Buckley_1987
+POP,adult,Pile perch,Pile perch,BMD,Mollusca,Polinices lewisii,Table9_large_piled_perch,0.5,0.005,4,Fish_Hueckel_&_Buckley_1987
+POP,adult,Pile perch,Pile perch,BIV,Mollusca,Clinocardium nuttallii,Table9_large_piled_perch,0.2,0.002,4,Fish_Hueckel_&_Buckley_1987
+POP,adult,Pile perch,Pile perch,BIV,Mollusca,Pandora filosa,Table9_large_piled_perch,0.2,0.002,4,Fish_Hueckel_&_Buckley_1987
+POP,adult,Pile perch,Pile perch,BIV,Mollusca,Pectinidae,Table9_large_piled_perch,0.7,0.007,4,Fish_Hueckel_&_Buckley_1987
+POP,adult,Pile perch,Pile perch,BIV,Mollusca,Transenella tantilla,Table9_large_piled_perch,29.4,0.294,4,Fish_Hueckel_&_Buckley_1987
+POP,adult,Pile perch,Pile perch,ZL,Arthropoda,Ostracoda,Table9_large_piled_perch,3.4,0.034,4,Fish_Hueckel_&_Buckley_1987
+POP,adult,Pile perch,Pile perch,BFF,Arthropoda,Balanus sp.,Table9_large_piled_perch,56.4,0.564,4,Fish_Hueckel_&_Buckley_1987
+POP,adult,Pile perch,Pile perch,PWN,Arthropoda,Acanthomysis sp.,Table9_large_piled_perch,2,0.02,4,Fish_Hueckel_&_Buckley_1987
+POP,adult,Pile perch,Pile perch,BD,Arthropoda,Gammaridea,Table9_large_piled_perch,0.2,0.002,4,Fish_Hueckel_&_Buckley_1987
+POP,adult,Pile perch,Pile perch,PWN,Arthropoda,Pandalus danae,Table9_large_piled_perch,2.8,0.028,4,Fish_Hueckel_&_Buckley_1987
+POP,adult,Pile perch,Pile perch,BML,Arthropoda,Paguridae,Table9_large_piled_perch,3,0.03,4,Fish_Hueckel_&_Buckley_1987
+POP,adult,Pile perch,Pile perch,BML,Arthropoda,Pugettia gracilis,Table9_large_piled_perch,1.2,0.012,4,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Quillback rockfish,Quillback rockfish,BML,Arthropoda,Crustacea,Table_10_small_quillback,0.3,0.003045685279,5,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Quillback rockfish,Quillback rockfish,ZM,Arthropoda,Calanoida,Table_10_small_quillback,23.8,0.2416243655,5,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Quillback rockfish,Quillback rockfish,BD,Arthropoda,Gammaridea,Table_10_small_quillback,12.4,0.1258883249,5,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Quillback rockfish,Quillback rockfish,ZL,Arthropoda,Euphausiacea,Table_10_small_quillback,10.3,0.1045685279,5,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Quillback rockfish,Quillback rockfish,PWN,Arthropoda,Caridea,Table_10_small_quillback,8.5,0.08629441624,5,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Quillback rockfish,Quillback rockfish,PWN,Arthropoda,Pandalus danae,Table_10_small_quillback,30,0.3045685279,5,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Quillback rockfish,Quillback rockfish,BML,Arthropoda,Barachyura,Table_10_small_quillback,12.7,0.1289340102,5,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Quillback rockfish,Quillback rockfish,FISH,Teleostei,Teleostei,Table_10_small_quillback,0.5,0.005076142132,5,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Quillback rockfish,Quillback rockfish,BD,Arthropoda,Gammaridea,Table_10_large_quillback,0.7,0.006266786034,6,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Quillback rockfish,Quillback rockfish,PWN,Arthropoda,Caridea,Table_10_large_quillback,1.4,0.01253357207,6,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Quillback rockfish,Quillback rockfish,PWN,Arthropoda,Pandalus danae,Table_10_large_quillback,42,0.376007162,6,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Quillback rockfish,Quillback rockfish,BML,Arthropoda,Barachyura,Table_10_large_quillback,47,0.4207699194,6,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Quillback rockfish,Quillback rockfish,BML,Arthropoda,Brachyura (Zoea),Table_10_large_quillback,3.3,0.02954341987,6,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Quillback rockfish,Quillback rockfish,BML,Arthropoda,Cancer oregonensis,Table_10_large_quillback,1.7,0.01521933751,6,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Quillback rockfish,Quillback rockfish,BML,Arthropoda,Cancer productus,Table_10_large_quillback,5.1,0.04565801253,6,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Quillback rockfish,Quillback rockfish,FISH,Teleostei,Teleostei,Table_10_large_quillback,9.1,0.08146821844,6,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Quillback rockfish,Quillback rockfish,HE,Teleostei,Clupea harengus pallasii,Table_10_large_quillback,1.4,0.01253357207,6,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Copper rockfish,Copper rockfish,BC,Annelida,Polychaeta,Table_10_small_copper rockfish,9.2,0.09227683049,7,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Copper rockfish,Copper rockfish,BD,Arthropoda,Harpacticoida,Table_10_small_copper rockfish,0.4,0.004012036108,7,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Copper rockfish,Copper rockfish,BD,Arthropoda,Tanaidacea,Table_10_small_copper rockfish,0.2,0.002006018054,7,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Copper rockfish,Copper rockfish,PWN,Arthropoda,Cumacea,Table_10_small_copper rockfish,1.3,0.01303911735,7,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Copper rockfish,Copper rockfish,BD,Arthropoda,Gammaridea,Table_10_small_copper rockfish,64.1,0.6429287864,7,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Copper rockfish,Copper rockfish,BD,Arthropoda,Caprellidea,Table_10_small_copper rockfish,6.9,0.06920762287,7,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Copper rockfish,Copper rockfish,PWN,Arthropoda,Caridea,Table_10_small_copper rockfish,15.5,0.1554663992,7,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Copper rockfish,Copper rockfish,BML,Arthropoda,Scleroplax granulata,Table_10_small_copper rockfish,1.9,0.01905717151,7,Fish_Hueckel_&_Buckley_1987
+ROC,juvenile,Copper rockfish,Copper rockfish,MA,Algae,Ulva sp.,Table_10_small_copper rockfish,0.2,0.002006018054,7,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Copper rockfish,Copper rockfish,BMS,Mollusca,Octopus sp.,Table_10_large_copper rockfish,0.2,0.002079002079,8,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Copper rockfish,Copper rockfish,BD,Arthropoda,Hippolytidae,Table_10_large_copper rockfish,1.6,0.01663201663,8,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Arthropoda,Pandalus danae,Table_10_large_copper rockfish,26,0.2702702703,8,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Copper rockfish,Copper rockfish,PWN,Arthropoda,Crangonidae,Table_10_large_copper rockfish,0.4,0.004158004158,8,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Copper rockfish,Copper rockfish,BML,Arthropoda,Brachyura (Zoea),Table_10_large_copper rockfish,1,0.0103950104,8,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Copper rockfish,Copper rockfish,BML,Arthropoda,Cancer aregonensis,Table_10_large_copper rockfish,1.7,0.01767151767,8,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Copper rockfish,Copper rockfish,BML,Arthropoda,Cancer productus,Table_10_large_copper rockfish,5.1,0.05301455301,8,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Copper rockfish,Copper rockfish,FISH,Teleostei,Teleostei,Table_10_large_copper rockfish,9.1,0.09459459459,8,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Copper rockfish,Copper rockfish,HE,Teleostei,Clupea harengus pallasii,Table_10_large_copper rockfish,4.2,0.04365904366,8,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Copper rockfish,Copper rockfish,POP,Teleostei,Embiotocidae,Table_10_large_copper rockfish,15.6,0.1621621622,8,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Copper rockfish,Copper rockfish,POP,Teleostei,Cymatogaster aggregata,Table_10_large_copper rockfish,13.9,0.1444906445,8,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Copper rockfish,Copper rockfish,FVS,Teleostei,Ophiodon elongatus (eggs),Table_10_large_copper rockfish,17.4,0.1808731809,8,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Lingcod,Lingcod,FISH,Teleostei,Fish,Table_11_Lingcod,0.7,0.007007007007,9,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Lingcod,Lingcod,HE,Fish,Clupea harengus pallasii,Table_11_Lingcod,8.5,0.08508508509,9,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Lingcod,Lingcod,POP,Fish,Embiotocidae,Table_11_Lingcod,54.8,0.5485485485,9,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Lingcod,Lingcod,POP,Fish,Cymatogaster aggregata,Table_11_Lingcod,21.1,0.2112112112,9,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Lingcod,Lingcod,SMD,Fish,Cottidae,Table_11_Lingcod,0,0,9,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Lingcod,Lingcod,FISH,Fish,Teleostei,Table_11_Lingcod,0,0,9,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Lingcod,Lingcod,FDF,Fish,Parophrys vetulus,Table_11_Lingcod,7.2,0.07207207207,9,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Lingcod,Lingcod,MA,Algae,Chlorophyceae,Table_11_Lingcod,3.1,0.03103103103,9,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Lingcod,Lingcod,MA,Algae,Phaeophyceae,Table_11_Lingcod,3.1,0.03103103103,9,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Lingcod,Lingcod,MA,Algae,Laminaria saccharina,Table_11_Lingcod,0,0,9,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Lingcod,Lingcod,MA,Algae,Rhodophyceae,Table_11_Lingcod,0.7,0.007007007007,9,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Lingcod,Lingcod,SG,Seagrass,Zostera marina,Table_11_Lingcod,0.7,0.007007007007,9,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,PWN,Shrimp,Caridea,Table_11_Rockfish,0.1,0.001002004008,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BD,Shrimp,Hippolytidae,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,PWN,Shrimp,Eualus sp.,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,PWN,Shrimp,Spirontocaris sp.,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,PWN,Shrimp,Pandalus danae,Table_11_Rockfish,0.5,0.00501002004,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,PWN,Shrimp,Crangonidae,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BML,Crabs,Petrolisthes eriomerus,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BML,Crabs,Brachyura,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BML,Crabs,Brachyura (megalops),Table_11_Rockfish,14.7,0.1472945892,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BML,Crabs,Cancer oregonensis,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BML,Crabs,Cancer productus,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BML,Crabs,Lophopanopeus bellus,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BML,Crabs,Pugettia gracilis,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BML,Crabs,Pugettia producta,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BML,Crabs,Scieroplax granulata,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BML,Crabs,Scyra acutifrons,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BML,Crabs,Telemesus cheragonus,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BD,Echinodermata,Parastichopus californicus,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BFF,Tunicates,Boltenia villosa,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,BFF,Tunicates,Styela gibbsii,Table_11_Rockfish,0,0,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,FISH,Teleostei,Fish,Table_11_Rockfish,9.3,0.09318637275,10,Fish_Hueckel_&_Buckley_1987
+MRO,adult,Black rockfish,Black rockfish,HE,Fish,Clupea harengus pallasii,Table_11_Rockfish,75.2,0.753507014,10,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BIV,Mollusca,Bivalvia,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BMS,Mollusca,Octopus sp.,Table_11_Cabezon,3.1,0.03115577889,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BD,Arthropoda,Tanaidacea,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BD,Arthropoda,Rocinella belaceps,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,PWN,Arthropoda,Mysidacea,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BD,Arthropoda,Caprellidea,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,ZL,Arthropoda,Euphausiacea,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,PWN,Shrimp,Caridea,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BD,Shrimp,Hippolytidae,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,PWN,Shrimp,Eualus sp.,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,PWN,Shrimp,Spirontocaris sp.,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,PWN,Shrimp,Pandalus danae,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,PWN,Shrimp,Crangonidae,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BML,Crabs,Petrolisthes eriomerus,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BML,Crabs,Brachyura,Table_11_Cabezon,0.7,0.007035175879,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BML,Crabs,Brachyura (megalops),Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BML,Crabs,Cancer oregonensis,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BML,Crabs,Cancer productus,Table_11_Cabezon,7.9,0.07939698492,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BML,Crabs,Lophopanopeus bellus,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BML,Crabs,Pugettia gracilis,Table_11_Cabezon,0.3,0.003015075377,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BML,Crabs,Pugettia producta,Table_11_Cabezon,1.9,0.01909547739,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BML,Crabs,Scieroplax granulata,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BML,Crabs,Scyra acutifrons,Table_11_Cabezon,0.2,0.002010050251,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BML,Crabs,Telemesus cheragonus,Table_11_Cabezon,0.8,0.008040201005,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BD,Echinodermata,Parastichopus californicus,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BFF,Tunicates,Boltenia villosa,Table_11_Cabezon,1,0.01005025126,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,BFF,Tunicates,Styela gibbsii,Table_11_Cabezon,0.3,0.003015075377,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,FISH,Teleostei,Fish,Table_11_Cabezon,0.3,0.003015075377,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,HE,Fish,Clupea harengus pallasii,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,POP,Fish,Embiotocidae,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,POP,Fish,Cymatogaster aggregata,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,SMD,Fish,Cottidae,Table_11_Cabezon,81.7,0.8211055276,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,FISH,Fish,Teleostei,Table_11_Cabezon,0.1,0.001005025126,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,FDF,Fish,Parophrys vetulus,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,MA,Algae,Chlorophyceae,Table_11_Cabezon,1.1,0.01105527638,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,MA,Algae,Phaeophyceae,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,MA,Algae,Laminaria saccharina,Table_11_Cabezon,0.1,0.001005025126,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,MA,Algae,Rhodophyceae,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+FVS,adult,Cabezon,Cabezon,SG,Seagrass,Zostera marina,Table_11_Cabezon,0,0,11,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BIV,Mollusca,Bivalvia,Table_11_Kelp_greenling,13.2,0.1327967807,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BMS,Mollusca,Octopus sp.,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BD,Arthropoda,Tanaidacea,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BD,Arthropoda,Rocinella belaceps,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,PWN,Arthropoda,Mysidacea,Table_11_Kelp_greenling,10.3,0.1036217304,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BD,Arthropoda,Caprellidea,Table_11_Kelp_greenling,0.7,0.007042253521,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,ZL,Arthropoda,Euphausiacea,Table_11_Kelp_greenling,0.3,0.003018108652,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,PWN,Shrimp,Caridea,Table_11_Kelp_greenling,0.3,0.003018108652,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BD,Shrimp,Hippolytidae,Table_11_Kelp_greenling,0.7,0.007042253521,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,PWN,Shrimp,Eualus sp.,Table_11_Kelp_greenling,41,0.4124748491,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,PWN,Shrimp,Spirontocaris sp.,Table_11_Kelp_greenling,4.1,0.04124748491,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,PWN,Shrimp,Pandalus danae,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,PWN,Shrimp,Crangonidae,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crabs,Petrolisthes eriomerus,Table_11_Kelp_greenling,18.8,0.1891348089,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crabs,Brachyura,Table_11_Kelp_greenling,0.7,0.007042253521,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crabs,Brachyura (megalops),Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crabs,Cancer oregonensis,Table_11_Kelp_greenling,4.2,0.04225352113,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crabs,Cancer productus,Table_11_Kelp_greenling,0.4,0.004024144869,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crabs,Lophopanopeus bellus,Table_11_Kelp_greenling,0.1,0.001006036217,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crabs,Pugettia gracilis,Table_11_Kelp_greenling,3.5,0.03521126761,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crabs,Pugettia producta,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crabs,Scieroplax granulata,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crabs,Scyra acutifrons,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BML,Crabs,Telemesus cheragonus,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BD,Echinodermata,Parastichopus californicus,Table_11_Kelp_greenling,0.1,0.001006036217,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BFF,Tunicates,Boltenia villosa,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,BFF,Tunicates,Styela gibbsii,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,FISH,Teleostei,Fish,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,HE,Fish,Clupea harengus pallasii,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,POP,Fish,Embiotocidae,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,POP,Fish,Cymatogaster aggregata,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,SMD,Fish,Cottidae,Table_11_Kelp_greenling,1,0.01006036217,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,FISH,Fish,Teleostei,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,FDF,Fish,Parophrys vetulus,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,MA,Algae,Chlorophyceae,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,MA,Algae,Phaeophyceae,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,MA,Algae,Laminaria saccharina,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,MA,Algae,Rhodophyceae,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+SMD,adult,Kelp greenling,Kelp greenling,SG,Seagrass,Zostera marina,Table_11_Kelp_greenling,0,0,12,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BIV,Mollusca,Bivalvia,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BMS,Mollusca,Octopus sp.,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BD,Arthropoda,Tanaidacea,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BD,Arthropoda,Rocinella belaceps,Table_11_Brown rockfish,1.9,0.01898101898,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,PWN,Arthropoda,Mysidacea,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BD,Arthropoda,Caprellidea,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,ZL,Arthropoda,Euphausiacea,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,PWN,Shrimp,Caridea,Table_11_Brown rockfish,1.2,0.01198801199,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BD,Shrimp,Hippolytidae,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,PWN,Shrimp,Eualus sp.,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,PWN,Shrimp,Spirontocaris sp.,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,PWN,Shrimp,Pandalus danae,Table_11_Brown rockfish,4.5,0.04495504496,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,PWN,Shrimp,Crangonidae,Table_11_Brown rockfish,4.3,0.04295704296,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BML,Crabs,Petrolisthes eriomerus,Table_11_Brown rockfish,75.7,0.7562437562,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BML,Crabs,Brachyura,Table_11_Brown rockfish,1.7,0.01698301698,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BML,Crabs,Brachyura (megalops),Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BML,Crabs,Cancer oregonensis,Table_11_Brown rockfish,1.5,0.01498501499,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BML,Crabs,Cancer productus,Table_11_Brown rockfish,2.5,0.02497502498,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BML,Crabs,Lophopanopeus bellus,Table_11_Brown rockfish,3,0.02997002997,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BML,Crabs,Pugettia gracilis,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BML,Crabs,Pugettia producta,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BML,Crabs,Scieroplax granulata,Table_11_Brown rockfish,1.4,0.01398601399,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BML,Crabs,Scyra acutifrons,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BML,Crabs,Telemesus cheragonus,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BD,Echinodermata,Parastichopus californicus,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BFF,Tunicates,Boltenia villosa,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,BFF,Tunicates,Styela gibbsii,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,FISH,Teleostei,Fish,Table_11_Brown rockfish,2.4,0.02397602398,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,HE,Fish,Clupea harengus pallasii,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,POP,Fish,Embiotocidae,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,POP,Fish,Cymatogaster aggregata,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,SMD,Fish,Cottidae,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,FISH,Fish,Teleostei,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,FDF,Fish,Parophrys vetulus,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,MA,Algae,Chlorophyceae,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,MA,Algae,Phaeophyceae,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,MA,Algae,Laminaria saccharina,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,MA,Algae,Rhodophyceae,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987
+ROC,adult,Brown rockfish,Brown rockfish,SG,Seagrass,Zostera marina,Table_11_Brown rockfish,0,0,13,Fish_Hueckel_&_Buckley_1987

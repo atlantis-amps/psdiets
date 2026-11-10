@@ -1,0 +1,1133 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table23_Jamestown_1976,99.66,0.9966,1,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Harpacticoid copepods,Harpacticoid copepods,Table23_Jamestown_1976,0.34,0.0034,1,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,PWN,Mysids,Mysids,Table23_Jamestown_1976,0,0,1,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Gammarid amphipods,Gammarid amphipods,Table23_Jamestown_1976,0,0,1,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crustacean larvae,Crustacean larvae,Table23_Jamestown_1976,0,0,1,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoida,Calanoida,Table23_Jamestown_1977,98.94,0.9894989499,2,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Harpacticoid copepods,Harpacticoid copepods,Table23_Jamestown_1977,0.35,0.003500350035,2,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,PWN,Mysids,Mysids,Table23_Jamestown_1977,0.35,0.003500350035,2,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Gammarid amphipods,Gammarid amphipods,Table23_Jamestown_1977,0.35,0.003500350035,2,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crustacean larvae,Crustacean larvae,Table23_Jamestown_1977,0,0,2,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table23_Jamestown_1978,60.71,0.6064935065,3,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Harpacticoid copepods,Harpacticoid copepods,Table23_Jamestown_1978,0,0,3,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,PWN,Mysids,Mysids,Table23_Jamestown_1978,0,0,3,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Gammarid amphipods,Gammarid amphipods,Table23_Jamestown_1978,0,0,3,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crustacean larvae,Crustacean larvae,Table23_Jamestown_1978,39.39,0.3935064935,3,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table23_MorseCreek_1976,99.89,0.9989,4,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,PWN,Caridean shrimp,Caridean shrimp,Table23_MorseCreek_1976,0.11,0.0011,4,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,PWN,Mysids,Mysids,Table23_MorseCreek_1976,0,0,4,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Gammarid amphipods,Gammarid amphipods,Table23_MorseCreek_1976,0,0,4,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crustacean larvae,Crustacean larvae,Table23_MorseCreek_1976,0,0,4,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BC,Polychaete annelids,Polychaete annelids,Table23_MorseCreek_1976,0,0,4,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Ostracods,Ostracods,Table23_MorseCreek_1976,0,0,4,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Cumaceans,Cumaceans,Table23_MorseCreek_1976,0,0,4,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_MorseCreek_1976,0,0,4,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Brachyuran crab larvae,Brachyuran crab larvae,Table23_MorseCreek_1976,0,0,4,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table23_MorseCreek_1978,94.45,0.9446889378,5,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,PWN,Caridean shrimp,Caridean shrimp,Table23_MorseCreek_1978,0,0,5,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,PWN,Mysids,Mysids,Table23_MorseCreek_1978,1.13,0.01130226045,5,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Gammarid amphipods,Gammarid amphipods,Table23_MorseCreek_1978,0.6,0.00600120024,5,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crustacean larvae,Crustacean larvae,Table23_MorseCreek_1978,0.17,0.001700340068,5,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BC,Polychaete annelids,Polychaete annelids,Table23_MorseCreek_1978,3.15,0.03150630126,5,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Ostracods,Ostracods,Table23_MorseCreek_1978,0.03,3.00060012e-4,5,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Cumaceans,Cumaceans,Table23_MorseCreek_1978,0.03,3.00060012e-4,5,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_MorseCreek_1978,0.03,3.00060012e-4,5,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Brachyuran crab larvae,Brachyuran crab larvae,Table23_MorseCreek_1978,0.39,0.003900780156,5,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table23_PillarPoint_1976,100,1,6,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Ostracods,Ostracods,Table23_PillarPoint_1976,0,0,6,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Euphausiids,Euphausiids,Table23_PillarPoint_1976,0,0,6,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_PillarPoint_1976,0,0,6,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crustacean larvae,Crustacean larvae,Table23_PillarPoint_1976,0,0,6,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table23_PillarPoint_1977,100,1,7,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Ostracods,Ostracods,Table23_PillarPoint_1977,0,0,7,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Euphausiids,Euphausiids,Table23_PillarPoint_1977,0,0,7,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_PillarPoint_1977,0,0,7,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crustacean larvae,Crustacean larvae,Table23_PillarPoint_1977,0,0,7,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table23_PillarPoint_1978,99.48,0.9947005299,8,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Ostracods,Ostracods,Table23_PillarPoint_1978,0.05,4.99950005e-4,8,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Euphausiids,Euphausiids,Table23_PillarPoint_1978,0.46,0.004599540046,8,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_PillarPoint_1978,0.01,9.9990001e-5,8,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crustacean larvae,Crustacean larvae,Table23_PillarPoint_1978,0.01,9.9990001e-5,8,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table23_TwinRivers_1976,100,1,9,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Ostracods,Ostracods,Table23_TwinRivers_1976,0,0,9,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Euphausiids,Euphausiids,Table23_TwinRivers_1976,0,0,9,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_TwinRivers_1976,0,0,9,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crustacean larvae,Crustacean larvae,Table23_TwinRivers_1976,0,0,9,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table23_TwinRivers_1978,95.65,0.9564043596,10,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Ostracods,Ostracods,Table23_TwinRivers_1978,0.24,0.002399760024,10,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Euphausiids,Euphausiids,Table23_TwinRivers_1978,4.09,0.04089591041,10,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_TwinRivers_1978,0.02,1.99980002e-4,10,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BML,Crustacean larvae,Crustacean larvae,Table23_TwinRivers_1978,0.01,9.9990001e-5,10,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table23_KydakaBeach_1977,100,1,11,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Ostracods,Ostracods,Table23_KydakaBeach_1977,0,0,11,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Euphausiids,Euphausiids,Table23_KydakaBeach_1977,0,0,11,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_KydakaBeach_1977,0,0,11,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,DETRITUS,Unidentified detritus,Unidentified detritus,Table23_KydakaBeach_1977,0,0,11,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZM,Calanoid copepods,Calanoid copepods,Table23_KydakaBeach_1978,99.48,0.9948,12,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Ostracods,Ostracods,Table23_KydakaBeach_1978,0.28,0.0028,12,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,ZL,Euphausiids,Euphausiids,Table23_KydakaBeach_1978,0.18,0.0018,12,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,BD,Hyperiid amphipods,Hyperiid amphipods,Table23_KydakaBeach_1978,0.02,2e-4,12,Fish_Miller_et_al_1980_B
+HE,juvenile,Pacific herring,Pacific herring,DETRITUS,Unidentified detritus,Unidentified detritus,Table23_KydakaBeach_1978,0.04,4e-4,12,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Syllid polychaetes,Syllid polychaetes,Table26_Beckett_1976,28.28,0.2162410154,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Polychaete annelids,Polychaete annelids,Table26_Beckett_1976,70.54,0.53937911,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Brachyuran crab larvae,Brachyuran crab larvae,Table26_Beckett_1976,13.88,0.1061324362,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Larvaceans,Larvaceans,Table26_Beckett_1976,6.21,0.04748432482,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish,Table26_Beckett_1976,0.18,0.001376357241,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Caridean shrimp,Caridean shrimp,Table26_Beckett_1976,4.63,0.03540296681,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insects,Insects,Table26_Beckett_1976,3.1,0.02370393026,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PARASITE,Nematodes,Nematodes,Table26_Beckett_1976,3.1,0.02370393026,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Gammarid amphipods,Gammarid amphipods,Table26_Beckett_1976,0.43,0.003287964521,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Dipteran insects,Dipteran insects,Table26_Beckett_1976,0.43,0.003287964521,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Natantian shrimp,Natantian shrimp,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Ostracods,Ostracods,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PLANT,Potamogetonacea PLANT,Potamogetonacea PLANT,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoid copepods,Calanoid copepods,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Hyperiid amphipods,Hyperiid amphipods,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Coleopteran insects,Coleopteran insects,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Mysids,Mysids,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Brachyuran crab larvae,Brachyuran crab larvae,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Cumaceans,Cumaceans,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hymenopterans,Hymenopterans,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Nereid polychaetes,Nereid polychaetes,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,MA,Chlorophyta ALGAE,Chlorophyta ALGAE,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hymenopteran insects,Hymenopteran insects,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arachnid insects,Arachnid insects,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,MA,Unidentified algae,Unidentified algae,Table26_Beckett_1976,0,0,13,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Syllid polychaetes,Syllid polychaetes,Table26_Beckett_1977,0,0,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Polychaete annelids,Polychaete annelids,Table26_Beckett_1977,5.67,0.05669886602,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Brachyuran crab larvae,Brachyuran crab larvae,Table26_Beckett_1977,0.15,0.001499970001,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Larvaceans,Larvaceans,Table26_Beckett_1977,0,0,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish,Table26_Beckett_1977,24.14,0.2413951721,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Caridean shrimp,Caridean shrimp,Table26_Beckett_1977,0,0,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insects,Insects,Table26_Beckett_1977,0.46,0.004599908002,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PARASITE,Nematodes,Nematodes,Table26_Beckett_1977,0,0,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Gammarid amphipods,Gammarid amphipods,Table26_Beckett_1977,9.78,0.09779804404,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Dipteran insects,Dipteran insects,Table26_Beckett_1977,22.94,0.2293954121,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Natantian shrimp,Natantian shrimp,Table26_Beckett_1977,21.21,0.2120957581,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Ostracods,Ostracods,Table26_Beckett_1977,10.91,0.109097818,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PLANT,Potamogetonacea PLANT,Potamogetonacea PLANT,Table26_Beckett_1977,3.55,0.03549929001,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoid copepods,Calanoid copepods,Table26_Beckett_1977,0.44,0.004399912002,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Hyperiid amphipods,Hyperiid amphipods,Table26_Beckett_1977,0.42,0.004199916002,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Coleopteran insects,Coleopteran insects,Table26_Beckett_1977,0.25,0.002499950001,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Mysids,Mysids,Table26_Beckett_1977,0.04,3.999920002e-4,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Brachyuran crab larvae,Brachyuran crab larvae,Table26_Beckett_1977,0.001,9.999800004e-6,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Cumaceans,Cumaceans,Table26_Beckett_1977,0.02,1.999960001e-4,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hymenopterans,Hymenopterans,Table26_Beckett_1977,0.02,1.999960001e-4,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Nereid polychaetes,Nereid polychaetes,Table26_Beckett_1977,0,0,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,MA,Chlorophyta ALGAE,Chlorophyta ALGAE,Table26_Beckett_1977,0,0,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hymenopteran insects,Hymenopteran insects,Table26_Beckett_1977,0,0,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arachnid insects,Arachnid insects,Table26_Beckett_1977,0,0,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,MA,Unidentified algae,Unidentified algae,Table26_Beckett_1977,0.001,9.999800004e-6,14,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Syllid polychaetes,Syllid polychaetes,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Polychaete annelids,Polychaete annelids,Table26_Beckett_1978,5.59,0.0559,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Brachyuran crab larvae,Brachyuran crab larvae,Table26_Beckett_1978,0.99,0.0099,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Larvaceans,Larvaceans,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Caridean shrimp,Caridean shrimp,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insects,Insects,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PARASITE,Nematodes,Nematodes,Table26_Beckett_1978,43.45,0.4345,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Gammarid amphipods,Gammarid amphipods,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Dipteran insects,Dipteran insects,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Natantian shrimp,Natantian shrimp,Table26_Beckett_1978,10.9,0.109,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Ostracods,Ostracods,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PLANT,Potamogetonacea PLANT,Potamogetonacea PLANT,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Calanoid copepods,Calanoid copepods,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Hyperiid amphipods,Hyperiid amphipods,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Coleopteran insects,Coleopteran insects,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Mysids,Mysids,Table26_Beckett_1978,1.53,0.0153,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Brachyuran crab larvae,Brachyuran crab larvae,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Cumaceans,Cumaceans,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hymenopterans,Hymenopterans,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Nereid polychaetes,Nereid polychaetes,Table26_Beckett_1978,24.77,0.2477,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,MA,Chlorophyta ALGAE,Chlorophyta ALGAE,Table26_Beckett_1978,10.36,0.1036,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hymenopteran insects,Hymenopteran insects,Table26_Beckett_1978,1.81,0.0181,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arachnid insects,Arachnid insects,Table26_Beckett_1978,0.6,0.006,15,Fish_Miller_et_al_1980_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,MA,Unidentified algae,Unidentified algae,Table26_Beckett_1978,0,0,15,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table27_Beckett_1978,98.63,0.9863,16,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Tanaids,Tanaids,Table27_Beckett_1978,0.01,1e-4,16,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Gammarid amphipods,Gammarid amphipods,Table27_Beckett_1978,0.05,5e-4,16,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BC,Polychaete annelids,Polychaete annelids,Table27_Beckett_1978,0.01,1e-4,16,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Crangonid shrimp,Crangonid shrimp,Table27_Beckett_1978,1.3,0.013,16,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Mysids,Mysids,Table27_MorseCreek_1976,75.1,0.751,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,ZM,Calanoid copepods,Calanoid copepods,Table27_MorseCreek_1976,11.28,0.1128,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Gammarid amphipods,Gammarid amphipods,Table27_MorseCreek_1976,13.23,0.1323,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Cumaceans,Cumaceans,Table27_MorseCreek_1976,0.39,0.0039,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table27_MorseCreek_1976,0,0,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Gammaridae,Gammaridae,Table27_MorseCreek_1976,0,0,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Harpacticoid copepods,Harpacticoid copepods,Table27_MorseCreek_1976,0,0,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Caridean shrimp,Caridean shrimp,Table27_MorseCreek_1976,0,0,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Atylidae,Atylidae,Table27_MorseCreek_1976,0,0,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Eusiridae,Eusiridae,Table27_MorseCreek_1976,0,0,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Tanaids,Tanaids,Table27_MorseCreek_1976,0,0,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,ZL,Ostracods,Ostracods,Table27_MorseCreek_1976,0,0,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BC,Polychaete annelids,Polychaete annelids,Table27_MorseCreek_1976,0,0,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,INSECT,Insects,Insects,Table27_MorseCreek_1976,0,0,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BML,Brachyuran crabs,Brachyuran crabs,Table27_MorseCreek_1976,0,0,17,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Mysids,Mysids,Table27_MorseCreek_1977,18.83,0.1883,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,ZM,Calanoid copepods,Calanoid copepods,Table27_MorseCreek_1977,0,0,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Gammarid amphipods,Gammarid amphipods,Table27_MorseCreek_1977,62.34,0.6234,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Cumaceans,Cumaceans,Table27_MorseCreek_1977,0,0,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table27_MorseCreek_1977,18.83,0.1883,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Gammaridae,Gammaridae,Table27_MorseCreek_1977,0,0,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Harpacticoid copepods,Harpacticoid copepods,Table27_MorseCreek_1977,0,0,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Caridean shrimp,Caridean shrimp,Table27_MorseCreek_1977,0,0,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Atylidae,Atylidae,Table27_MorseCreek_1977,0,0,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Eusiridae,Eusiridae,Table27_MorseCreek_1977,0,0,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Tanaids,Tanaids,Table27_MorseCreek_1977,0,0,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,ZL,Ostracods,Ostracods,Table27_MorseCreek_1977,0,0,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BC,Polychaete annelids,Polychaete annelids,Table27_MorseCreek_1977,0,0,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,INSECT,Insects,Insects,Table27_MorseCreek_1977,0,0,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BML,Brachyuran crabs,Brachyuran crabs,Table27_MorseCreek_1977,0,0,18,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Mysids,Mysids,Table27_MorseCreek_1978,0,0,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,ZM,Calanoid copepods,Calanoid copepods,Table27_MorseCreek_1978,0.28,0.002800280028,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Gammarid amphipods,Gammarid amphipods,Table27_MorseCreek_1978,42.36,0.4236423642,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Cumaceans,Cumaceans,Table27_MorseCreek_1978,11.97,0.1197119712,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table27_MorseCreek_1978,0,0,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Gammaridae,Gammaridae,Table27_MorseCreek_1978,23.94,0.2394239424,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Harpacticoid copepods,Harpacticoid copepods,Table27_MorseCreek_1978,0.18,0.001800180018,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Caridean shrimp,Caridean shrimp,Table27_MorseCreek_1978,9.21,0.09210921092,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Atylidae,Atylidae,Table27_MorseCreek_1978,3.68,0.03680368037,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Eusiridae,Eusiridae,Table27_MorseCreek_1978,2.76,0.02760276028,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Tanaids,Tanaids,Table27_MorseCreek_1978,1.84,0.01840184018,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,ZL,Ostracods,Ostracods,Table27_MorseCreek_1978,1.84,0.01840184018,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BC,Polychaete annelids,Polychaete annelids,Table27_MorseCreek_1978,0.92,0.009200920092,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,INSECT,Insects,Insects,Table27_MorseCreek_1978,0.92,0.009200920092,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BML,Brachyuran crabs,Brachyuran crabs,Table27_MorseCreek_1978,0.09,9.00090009e-4,19,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Gammarid amphipods,Gammarid amphipods,Table27_DungenessSpit_1976,38.79,0.3879,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table27_DungenessSpit_1976,8.14,0.0814,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Cumaceans,Cumaceans,Table27_DungenessSpit_1976,3.33,0.0333,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BIV,Molluscs,Molluscs,Table27_DungenessSpit_1976,39.97,0.3997,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Idoteid isopods,Idoteid isopods,Table27_DungenessSpit_1976,3.21,0.0321,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Mysids,Mysids,Table27_DungenessSpit_1976,4.07,0.0407,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Caprellid amphipods,Caprellid amphipods,Table27_DungenessSpit_1976,1.5,0.015,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,ZL,Ostracods,Ostracods,Table27_DungenessSpit_1976,0.23,0.0023,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Caridean shrimp,Caridean shrimp,Table27_DungenessSpit_1976,0.21,0.0021,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Oedocerotidae,Oedocerotidae,Table27_DungenessSpit_1976,0.11,0.0011,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BML,Brachyrhynchan crab larvae,Brachyrhynchan crab larvae,Table27_DungenessSpit_1976,0.32,0.0032,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Harpacticoid copepods,Harpacticoid copepods,Table27_DungenessSpit_1976,0.01,1e-4,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,NA,Unid. Debris,Unid. Debris,Table27_DungenessSpit_1976,0.11,0.0011,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,FDF,Pleuronectidae,Pleuronectidae,Table27_DungenessSpit_1976,0,0,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table27_DungenessSpit_1976,0,0,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Eusiridae,Eusiridae,Table27_DungenessSpit_1976,0,0,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Phoxocephalidae,Phoxocephalidae,Table27_DungenessSpit_1976,0,0,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Callianassid shrimp,Callianassid shrimp,Table27_DungenessSpit_1976,0,0,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Oedocerotidae,Oedocerotidae,Table27_DungenessSpit_1976,0,0,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Valviferan isopods,Valviferan isopods,Table27_DungenessSpit_1976,0,0,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BML,Cancrid crabs,Cancrid crabs,Table27_DungenessSpit_1976,0,0,20,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Gammarid amphipods,Gammarid amphipods,Table27_DungenessSpit_1978,2.23,0.02229554089,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table27_DungenessSpit_1978,0,0,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Cumaceans,Cumaceans,Table27_DungenessSpit_1978,0.02,1.99960008e-4,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BIV,Molluscs,Molluscs,Table27_DungenessSpit_1978,0,0,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Idoteid isopods,Idoteid isopods,Table27_DungenessSpit_1978,0,0,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Mysids,Mysids,Table27_DungenessSpit_1978,52.06,0.5204959008,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Caprellid amphipods,Caprellid amphipods,Table27_DungenessSpit_1978,0.02,1.99960008e-4,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,ZL,Ostracods,Ostracods,Table27_DungenessSpit_1978,0,0,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Caridean shrimp,Caridean shrimp,Table27_DungenessSpit_1978,0,0,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Oedocerotidae,Oedocerotidae,Table27_DungenessSpit_1978,0,0,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BML,Brachyrhynchan crab larvae,Brachyrhynchan crab larvae,Table27_DungenessSpit_1978,0,0,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Harpacticoid copepods,Harpacticoid copepods,Table27_DungenessSpit_1978,0,0,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,NA,Unid. Debris,Unid. Debris,Table27_DungenessSpit_1978,0,0,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,FDF,Pleuronectidae,Pleuronectidae,Table27_DungenessSpit_1978,32.31,0.3230353929,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table27_DungenessSpit_1978,11.86,0.1185762847,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Eusiridae,Eusiridae,Table27_DungenessSpit_1978,0.13,0.001299740052,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Phoxocephalidae,Phoxocephalidae,Table27_DungenessSpit_1978,0.04,3.99920016e-4,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,PWN,Callianassid shrimp,Callianassid shrimp,Table27_DungenessSpit_1978,1.23,0.01229754049,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Oedocerotidae,Oedocerotidae,Table27_DungenessSpit_1978,0.04,3.99920016e-4,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BD,Valviferan isopods,Valviferan isopods,Table27_DungenessSpit_1978,0.06,5.99880024e-4,21,Fish_Miller_et_al_1980_B
+SMD,juvenile,Pacific tomcod,Microgadus proximus,BML,Cancrid crabs,Cancrid crabs,Table27_DungenessSpit_1978,0.02,1.99960008e-4,21,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BD,Gammarid amphipods,Gammarid amphipods,Table29_AllTidePool_1977,11.71,0.119807653,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table29_AllTidePool_1977,7.27,0.07438101085,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BD,Idoteid isopods,Idoteid isopods,Table29_AllTidePool_1977,28.53,0.2918968692,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BC,Polychaete annelids,Polychaete annelids,Table29_AllTidePool_1977,18.3,0.1872314303,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BML,Pagurid crabs,Pagurid crabs,Table29_AllTidePool_1977,4.71,0.04818907305,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BML,Unidentified decapods,Unidentified decapods,Table29_AllTidePool_1977,7.28,0.0744833231,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BML,Oxyrhyncan crabs,Oxyrhyncan crabs,Table29_AllTidePool_1977,2.4,0.02455494168,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,PWN,Caridean shrimp,Caridean shrimp,Table29_AllTidePool_1977,2.49,0.025475752,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table29_AllTidePool_1977,2.52,0.02578268877,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,PWN,Mysids,Mysids,Table29_AllTidePool_1977,4.49,0.0459382034,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BD,Cumaceans,Cumaceans,Table29_AllTidePool_1977,0.02,2.04624514e-4,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BC,Nereid polychaetes,Nereid polychaetes,Table29_AllTidePool_1977,1.96,0.02005320237,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BFF,Hydroids,Hydroids,Table29_AllTidePool_1977,2.78,0.02844280745,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BML,Pinnotherid crabs,Pinnotherid crabs,Table29_AllTidePool_1977,1.6,0.01636996112,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,FISH,Gnathostomata,Gnathostomata,Table29_AllTidePool_1977,1.68,0.01718845918,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BML,Brachyrhynchan crabs,Brachyrhynchan crabs,Table29_AllTidePool_1977,0,0,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BD,Unid flabelliferan isopods,Unid flabelliferan isopods,Table29_AllTidePool_1977,0,0,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BD,Gammaridae,Gammaridae,Table29_AllTidePool_1977,0,0,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,FISH,Fish larvae,Fish larvae,Table29_AllTidePool_1977,0,0,22,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BD,Gammarid amphipods,Gammarid amphipods,Table29_AllTidePool_1978,19.71,0.1994737375,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table29_AllTidePool_1978,12.34,0.1248861451,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BD,Idoteid isopods,Idoteid isopods,Table29_AllTidePool_1978,6.46,0.06537799818,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BC,Polychaete annelids,Polychaete annelids,Table29_AllTidePool_1978,20.14,0.2038255237,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BML,Pagurid crabs,Pagurid crabs,Table29_AllTidePool_1978,0,0,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BML,Unidentified decapods,Unidentified decapods,Table29_AllTidePool_1978,0,0,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BML,Oxyrhyncan crabs,Oxyrhyncan crabs,Table29_AllTidePool_1978,0,0,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,PWN,Caridean shrimp,Caridean shrimp,Table29_AllTidePool_1978,0,0,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table29_AllTidePool_1978,0,0,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,PWN,Mysids,Mysids,Table29_AllTidePool_1978,5.13,0.05191782208,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BD,Cumaceans,Cumaceans,Table29_AllTidePool_1978,0,0,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BC,Nereid polychaetes,Nereid polychaetes,Table29_AllTidePool_1978,0,0,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BFF,Hydroids,Hydroids,Table29_AllTidePool_1978,0,0,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BML,Pinnotherid crabs,Pinnotherid crabs,Table29_AllTidePool_1978,0,0,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,FISH,Gnathostomata,Gnathostomata,Table29_AllTidePool_1978,0,0,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BML,Brachyrhynchan crabs,Brachyrhynchan crabs,Table29_AllTidePool_1978,27.08,0.2740613298,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BD,Unid flabelliferan isopods,Unid flabelliferan isopods,Table29_AllTidePool_1978,0.75,0.007590324866,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,BD,Gammaridae,Gammaridae,Table29_AllTidePool_1978,0.41,0.004149377593,23,Fish_Miller_et_al_1980_B
+SMD,adult,Rosylip sculpin,Ascelichthys rhodorus,FISH,Fish larvae,Fish larvae,Table29_AllTidePool_1978,6.79,0.06871774112,23,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,PWN,Mysids,Mysids,Table30_1976,48.57,0.4856514349,24,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,BD,Gammarid amphipods,Gammarid amphipods,Table30_1976,10.82,0.1081891811,24,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,BD,Idoteid isopods,Idoteid isopods,Table30_1976,1.67,0.01669833017,24,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,PWN,Caridean shrimp,Caridean shrimp,Table30_1976,15.08,0.1507849215,24,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,PWN,Crangonid shrimp,Crangonid shrimp,Table30_1976,23.87,0.2386761324,24,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,PWN,Mysids,Mysids,Table30_1977,64.31,0.6431,25,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,BD,Gammarid amphipods,Gammarid amphipods,Table30_1977,35.69,0.3569,25,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,BD,Idoteid isopods,Idoteid isopods,Table30_1977,0,0,25,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,PWN,Caridean shrimp,Caridean shrimp,Table30_1977,0,0,25,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,PWN,Crangonid shrimp,Crangonid shrimp,Table30_1977,0,0,25,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BD,Gammarid amphipods,Gammarid amphipods,Table31_1977,41.3,0.4197581055,26,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table31_1977,45.53,0.4627502795,26,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,INSECT,Dipteran insects,Dipteran insects,Table31_1977,3.78,0.03841853847,26,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BD,Harpacticoid copepods,Harpacticoid copepods,Table31_1977,0.84,0.0085374529930000009,26,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BD,Idoteid isopods,Idoteid isopods,Table31_1977,5.2,0.05285089948,26,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BD,Cumaceans,Cumaceans,Table31_1977,0.09,9.147271064e-4,26,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BD,Asellotan isopods,Asellotan isopods,Table31_1977,0.5,0.005081817258,26,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BC,Polychaete annelids,Polychaete annelids,Table31_1977,1.13,0.011484907,26,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,ZL,Ostracods,Ostracods,Table31_1977,0.02,2.032726903e-4,26,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BMD,Unidentified gastropods,Unidentified gastropods,Table31_1977,0,0,26,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,PWN,Mysids,Mysids,Table31_1978,44.46,0.4621141254,27,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,BD,Gammarid amphipods,Gammarid amphipods,Table31_1978,31.97,0.3322939403,27,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,BD,Idoteid isopods,Idoteid isopods,Table31_1978,0.95,0.009874233448,27,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,PWN,Caridean shrimp,Caridean shrimp,Table31_1978,0.12,0.001247271593,27,Fish_Miller_et_al_1980_B
+SMD,adult,Silverspotted sculpin,Blepsias cirrhosus,PWN,Crangonid shrimp,Crangonid shrimp,Table31_1978,18.71,0.1944704293,27,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BD,Gammarid amphipods,Gammarid amphipods,Table31_1978,0,0,28,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table31_1978,0,0,28,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,INSECT,Dipteran insects,Dipteran insects,Table31_1978,0,0,28,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BD,Harpacticoid copepods,Harpacticoid copepods,Table31_1978,0,0,28,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BD,Idoteid isopods,Idoteid isopods,Table31_1978,0,0,28,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BD,Cumaceans,Cumaceans,Table31_1978,0,0,28,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BD,Asellotan isopods,Asellotan isopods,Table31_1978,0,0,28,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BC,Polychaete annelids,Polychaete annelids,Table31_1978,0,0,28,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,ZL,Ostracods,Ostracods,Table31_1978,0,0,28,Fish_Miller_et_al_1980_B
+SMD,adult,Sharpnose sculpin,Clinocottus acuticeps,BMD,Unidentified gastropods,Unidentified gastropods,Table31_1978,3.17,1,28,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fishes,Fishes,Table32_1976_BeckettPoint,33.34,0.3334333433,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Atelecyclid crabs,Atelecyclid crabs,Table32_1976_BeckettPoint,15.42,0.1542154215,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangonid shrimp,Crangonid shrimp,Table32_1976_BeckettPoint,4.17,0.04170417042,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table32_1976_BeckettPoint,2.41,0.02410241024,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Pandalid shrimp,Pandalid shrimp,Table32_1976_BeckettPoint,13.04,0.1304130413,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Pleocyemata,Pleocyemata,Table32_1976_BeckettPoint,11.89,0.1189118912,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Grapsid crabs,Grapsid crabs,Table32_1976_BeckettPoint,6.94,0.06940694069,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Perciformes,Perciformes,Table32_1976_BeckettPoint,5.05,0.05050505051,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Cancrid crabs,Cancrid crabs,Table32_1976_BeckettPoint,4.73,0.04730473047,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Caridean shrimp,Caridean shrimp,Table32_1976_BeckettPoint,1.21,0.01210121012,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,DETRITUS,Unid. Detritus,Unid. Detritus,Table32_1976_BeckettPoint,1.2,0.01200120012,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table32_1976_BeckettPoint,0.57,0.005700570057,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PARASITE,Nematodes,Nematodes,Table32_1976_BeckettPoint,0.02,2.00020002e-4,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Gammarid amphipods,Gammarid amphipods,Table32_1976_BeckettPoint,0,0,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,POP,Embiotocid fishes,Embiotocid fishes,Table32_1976_BeckettPoint,0,0,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyrhynchan crabs,Brachyrhynchan crabs,Table32_1976_BeckettPoint,0,0,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Mysids,Mysids,Table32_1976_BeckettPoint,0,0,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Tanaids,Tanaids,Table32_1976_BeckettPoint,0,0,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PLANT,Potamogetonacea PLANT,Potamogetonacea PLANT,Table32_1976_BeckettPoint,0,0,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Table32_1976_BeckettPoint,0,0,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Majid crabs,Majid crabs,Table32_1976_BeckettPoint,0,0,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Polychaete annelids,Polychaete annelids,Table32_1976_BeckettPoint,0,0,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Pagurid crabs,Pagurid crabs,Table32_1976_BeckettPoint,0,0,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FMM,Gadidae,Gadidae,Table32_1976_BeckettPoint,0,0,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Ulotrichales,Ulotrichales,Table32_1976_BeckettPoint,0,0,29,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fishes,Fishes,Table32_1977_BeckettPoint,12.22,0.1222244449,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Atelecyclid crabs,Atelecyclid crabs,Table32_1977_BeckettPoint,7.36,0.07361472294,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangonid shrimp,Crangonid shrimp,Table32_1977_BeckettPoint,2.83,0.02830566113,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table32_1977_BeckettPoint,0.73,0.007301460292,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Pandalid shrimp,Pandalid shrimp,Table32_1977_BeckettPoint,4.26,0.0426085217,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Pleocyemata,Pleocyemata,Table32_1977_BeckettPoint,0,0,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Grapsid crabs,Grapsid crabs,Table32_1977_BeckettPoint,0,0,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Perciformes,Perciformes,Table32_1977_BeckettPoint,0,0,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Cancrid crabs,Cancrid crabs,Table32_1977_BeckettPoint,14.09,0.1409281856,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Caridean shrimp,Caridean shrimp,Table32_1977_BeckettPoint,0.88,0.008801760352,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,DETRITUS,Unid. Detritus,Unid. Detritus,Table32_1977_BeckettPoint,1.44,0.01440288058,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table32_1977_BeckettPoint,0,0,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PARASITE,Nematodes,Nematodes,Table32_1977_BeckettPoint,0,0,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Gammarid amphipods,Gammarid amphipods,Table32_1977_BeckettPoint,2.17,0.02170434087,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,POP,Embiotocid fishes,Embiotocid fishes,Table32_1977_BeckettPoint,49.09,0.4909981996,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyrhynchan crabs,Brachyrhynchan crabs,Table32_1977_BeckettPoint,2.11,0.02110422084,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Mysids,Mysids,Table32_1977_BeckettPoint,0.08,8.00160032e-4,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Tanaids,Tanaids,Table32_1977_BeckettPoint,0.01,1.00020004e-4,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PLANT,Potamogetonacea PLANT,Potamogetonacea PLANT,Table32_1977_BeckettPoint,0.38,0.003800760152,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Table32_1977_BeckettPoint,0.43,0.004300860172,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Majid crabs,Majid crabs,Table32_1977_BeckettPoint,0.15,0.00150030006,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Polychaete annelids,Polychaete annelids,Table32_1977_BeckettPoint,0,0,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Pagurid crabs,Pagurid crabs,Table32_1977_BeckettPoint,0,0,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FMM,Gadidae,Gadidae,Table32_1977_BeckettPoint,0,0,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Ulotrichales,Ulotrichales,Table32_1977_BeckettPoint,1.75,0.0175035007,30,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fishes,Fishes,Table32_1978_BeckettPoint,0,0,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Atelecyclid crabs,Atelecyclid crabs,Table32_1978_BeckettPoint,0,0,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangonid shrimp,Crangonid shrimp,Table32_1978_BeckettPoint,0.5,0.00500050005,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table32_1978_BeckettPoint,0.09,9.00090009e-4,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Pandalid shrimp,Pandalid shrimp,Table32_1978_BeckettPoint,0,0,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Pleocyemata,Pleocyemata,Table32_1978_BeckettPoint,0,0,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Grapsid crabs,Grapsid crabs,Table32_1978_BeckettPoint,0,0,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Perciformes,Perciformes,Table32_1978_BeckettPoint,0,0,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Cancrid crabs,Cancrid crabs,Table32_1978_BeckettPoint,60.76,0.6076607661,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Caridean shrimp,Caridean shrimp,Table32_1978_BeckettPoint,0.24,0.002400240024,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,DETRITUS,Unid. Detritus,Unid. Detritus,Table32_1978_BeckettPoint,0.24,0.002400240024,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table32_1978_BeckettPoint,0,0,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PARASITE,Nematodes,Nematodes,Table32_1978_BeckettPoint,0,0,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Gammarid amphipods,Gammarid amphipods,Table32_1978_BeckettPoint,0,0,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,POP,Embiotocid fishes,Embiotocid fishes,Table32_1978_BeckettPoint,0,0,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyrhynchan crabs,Brachyrhynchan crabs,Table32_1978_BeckettPoint,0.14,0.001400140014,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Mysids,Mysids,Table32_1978_BeckettPoint,0,0,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Tanaids,Tanaids,Table32_1978_BeckettPoint,0.09,9.00090009e-4,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PLANT,Potamogetonacea PLANT,Potamogetonacea PLANT,Table32_1978_BeckettPoint,16.95,0.1695169517,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Table32_1978_BeckettPoint,0.1,0.00100010001,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Majid crabs,Majid crabs,Table32_1978_BeckettPoint,6.03,0.0603060306,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Polychaete annelids,Polychaete annelids,Table32_1978_BeckettPoint,0.22,0.002200220022,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Pagurid crabs,Pagurid crabs,Table32_1978_BeckettPoint,0.03,3.00030003e-4,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FMM,Gadidae,Gadidae,Table32_1978_BeckettPoint,14.6,0.1460146015,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Ulotrichales,Ulotrichales,Table32_1978_BeckettPoint,0,0,31,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangonid shrimp,Crangonid shrimp,Table32_1976_MorseCreek,70.84,0.7084708471,32,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table32_1976_MorseCreek,5.05,0.05050505051,32,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Gammarid amphipods,Gammarid amphipods,Table32_1976_MorseCreek,2.4,0.02400240024,32,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table32_1976_MorseCreek,11.06,0.1106110611,32,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Mysids,Mysids,Table32_1976_MorseCreek,0.18,0.001800180018,32,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Polychaete annelids,Polychaete annelids,Table32_1976_MorseCreek,3.31,0.03310331033,32,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Valviferan isopods,Valviferan isopods,Table32_1976_MorseCreek,7.15,0.07150715072,32,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FDF,Pleuronectidae,Pleuronectidae,Table32_1976_MorseCreek,0,0,32,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fishes,Fishes,Table32_1976_MorseCreek,0,0,32,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangonid shrimp,Crangonid shrimp,Table32_1977_MorseCreek,21.89,0.2470375804,33,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table32_1977_MorseCreek,5.09,0.05744272655,33,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Gammarid amphipods,Gammarid amphipods,Table32_1977_MorseCreek,0.44,0.004965579506,33,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table32_1977_MorseCreek,0,0,33,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Mysids,Mysids,Table32_1977_MorseCreek,0,0,33,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Polychaete annelids,Polychaete annelids,Table32_1977_MorseCreek,3.97,0.04480306963,33,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Valviferan isopods,Valviferan isopods,Table32_1977_MorseCreek,0,0,33,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FDF,Pleuronectidae,Pleuronectidae,Table32_1977_MorseCreek,36.55,0.4124816612,33,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fishes,Fishes,Table32_1977_MorseCreek,20.67,0.2332693827,33,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangonid shrimp,Crangonid shrimp,Table32_1978_MorseCreek,1.45,0.02389190971,34,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table32_1978_MorseCreek,0,0,34,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Gammarid amphipods,Gammarid amphipods,Table32_1978_MorseCreek,0,0,34,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table32_1978_MorseCreek,0,0,34,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Mysids,Mysids,Table32_1978_MorseCreek,0,0,34,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Polychaete annelids,Polychaete annelids,Table32_1978_MorseCreek,0.1,0.001647717911,34,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Valviferan isopods,Valviferan isopods,Table32_1978_MorseCreek,0.3,0.004943153732,34,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FDF,Pleuronectidae,Pleuronectidae,Table32_1978_MorseCreek,46.49,0.7660240567,34,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fishes,Fishes,Table32_1978_MorseCreek,12.35,0.203493162,34,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,DETRITUS,Unidentified detritus,Unidentified detritus,Table32continued_1976_TwinRivers,0.77,0.0077,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FDF,Pleuronectidae,Pleuronectidae,Table32continued_1976_TwinRivers,30.3,0.303,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fishes,Fishes,Table32continued_1976_TwinRivers,48.86,0.4886,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyuran crabs,Brachyuran crabs,Table32continued_1976_TwinRivers,20.07,0.2007,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyrhynchan crabs,Brachyrhynchan crabs,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,SMD,Cottidae,Cottidae,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Cancrid crabs,Cancrid crabs,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Polychaete annelids,Polychaete annelids,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Chlorophyta ALGAE,Chlorophyta ALGAE,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangonid shrimp,Crangonid shrimp,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,POP,Embiotocid fishes,Embiotocid fishes,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PLANT,Potamogetonacea PLANT,Potamogetonacea PLANT,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Gammarid amphipods,Gammarid amphipods,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Unidentified algae,Unidentified algae,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Idoteid isopods,Idoteid isopods,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Cancrid crabs,Cancrid crabs,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Caridean shrimp,Caridean shrimp,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Unidentified isopods,Unidentified isopods,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyuran crabs,Brachyuran crabs,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Ulotrichales,Ulotrichales,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyrhynchan crabs,Brachyrhynchan crabs,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PLANT,Potamogetonacea PLANT,Potamogetonacea PLANT,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Pandalid shrimp,Pandalid shrimp,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Majid crabs,Majid crabs,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Mysids,Mysids,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,NA,Wood,Wood,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Table32continued_1976_TwinRivers,0,0,35,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,DETRITUS,Unidentified detritus,Unidentified detritus,Table32continued_1977_TwinRivers,5.12,0.04596875561,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FDF,Pleuronectidae,Pleuronectidae,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fishes,Fishes,Table32continued_1977_TwinRivers,33.77,0.303196265,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyuran crabs,Brachyuran crabs,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyrhynchan crabs,Brachyrhynchan crabs,Table32continued_1977_TwinRivers,4.98,0.04471179745,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,SMD,Cottidae,Cottidae,Table32continued_1977_TwinRivers,28.97,0.2601005567,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Cancrid crabs,Cancrid crabs,Table32continued_1977_TwinRivers,18.32,0.1644819537,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Polychaete annelids,Polychaete annelids,Table32continued_1977_TwinRivers,4.42,0.03968396481,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Chlorophyta ALGAE,Chlorophyta ALGAE,Table32continued_1977_TwinRivers,1.95,0.01750763153,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangonid shrimp,Crangonid shrimp,Table32continued_1977_TwinRivers,2.44,0.0219069851,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table32continued_1977_TwinRivers,0.03,2.693481774e-4,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,POP,Embiotocid fishes,Embiotocid fishes,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PLANT,Potamogetonacea PLANT,Potamogetonacea PLANT,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Gammarid amphipods,Gammarid amphipods,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Unidentified algae,Unidentified algae,Table32continued_1977_TwinRivers,1.72,0.01544262884,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Idoteid isopods,Idoteid isopods,Table32continued_1977_TwinRivers,3.87,0.03474591489,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Cancrid crabs,Cancrid crabs,Table32continued_1977_TwinRivers,5.18,0.04650745197,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Caridean shrimp,Caridean shrimp,Table32continued_1977_TwinRivers,0.49,0.004399353564,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Unidentified isopods,Unidentified isopods,Table32continued_1977_TwinRivers,0.12,0.00107739271,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyuran crabs,Brachyuran crabs,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Ulotrichales,Ulotrichales,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyrhynchan crabs,Brachyrhynchan crabs,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PLANT,Potamogetonacea PLANT,Potamogetonacea PLANT,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Pandalid shrimp,Pandalid shrimp,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Majid crabs,Majid crabs,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Mysids,Mysids,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,NA,Wood,Wood,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Table32continued_1977_TwinRivers,0,0,36,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,DETRITUS,Unidentified detritus,Unidentified detritus,Table32continued_1978_TwinRivers,0.56,0.004018946462,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FDF,Pleuronectidae,Pleuronectidae,Table32continued_1978_TwinRivers,0,0,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fishes,Fishes,Table32continued_1978_TwinRivers,16.82,0.1207119277,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyuran crabs,Brachyuran crabs,Table32continued_1978_TwinRivers,0,0,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyrhynchan crabs,Brachyrhynchan crabs,Table32continued_1978_TwinRivers,0,0,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,SMD,Cottidae,Cottidae,Table32continued_1978_TwinRivers,0,0,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Cancrid crabs,Cancrid crabs,Table32continued_1978_TwinRivers,0,0,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Polychaete annelids,Polychaete annelids,Table32continued_1978_TwinRivers,0,0,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Chlorophyta ALGAE,Chlorophyta ALGAE,Table32continued_1978_TwinRivers,0,0,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangonid shrimp,Crangonid shrimp,Table32continued_1978_TwinRivers,1.62,0.01162623798,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table32continued_1978_TwinRivers,0,0,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,POP,Embiotocid fishes,Embiotocid fishes,Table32continued_1978_TwinRivers,79.52,0.5706903976,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PLANT,Potamogetonacea PLANT,Potamogetonacea PLANT,Table32continued_1978_TwinRivers,1.46,0.01047796756,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Gammarid amphipods,Gammarid amphipods,Table32continued_1978_TwinRivers,0.03,2.153007033e-4,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Unidentified algae,Unidentified algae,Table32continued_1978_TwinRivers,0,0,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Idoteid isopods,Idoteid isopods,Table32continued_1978_TwinRivers,0,0,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Cancrid crabs,Cancrid crabs,Table32continued_1978_TwinRivers,10.99,0.07887182431,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Caridean shrimp,Caridean shrimp,Table32continued_1978_TwinRivers,0,0,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Unidentified isopods,Unidentified isopods,Table32continued_1978_TwinRivers,0,0,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyuran crabs,Brachyuran crabs,Table32continued_1978_TwinRivers,11.56,0.08296253768,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,MA,Ulotrichales,Ulotrichales,Table32continued_1978_TwinRivers,0.3,0.002153007033,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyrhynchan crabs,Brachyrhynchan crabs,Table32continued_1978_TwinRivers,12.56,0.09013922779,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PLANT,Potamogetonacea PLANT,Potamogetonacea PLANT,Table32continued_1978_TwinRivers,1.3,0.009329697144,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Pandalid shrimp,Pandalid shrimp,Table32continued_1978_TwinRivers,2.05,0.01471221473,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Majid crabs,Majid crabs,Table32continued_1978_TwinRivers,0.5,0.003588345055,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Mysids,Mysids,Table32continued_1978_TwinRivers,0.03,2.153007033e-4,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,NA,Wood,Wood,Table32continued_1978_TwinRivers,0.03,2.153007033e-4,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Table32continued_1978_TwinRivers,0.01,7.176690111e-5,37,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Polychaete annelids,Polychaete annelids,Table32continued_1976_JamestownPortWilliams,13.61,0.1361,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Callianassid shrimp,Callianassid shrimp,Table32continued_1976_JamestownPortWilliams,49.13,0.4913,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Unidentified decapods,Unidentified decapods,Table32continued_1976_JamestownPortWilliams,14.24,0.1424,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,DETRITUS,Unidentified detritus,Unidentified detritus,Table32continued_1976_JamestownPortWilliams,3.13,0.0313,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fishes,Fishes,Table32continued_1976_JamestownPortWilliams,18.26,0.1826,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Gammarid amphipods,Gammarid amphipods,Table32continued_1976_JamestownPortWilliams,0.94,0.0094,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Tanaids,Tanaids,Table32continued_1976_JamestownPortWilliams,0.06,6e-4,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Table32continued_1976_JamestownPortWilliams,0.63,0.0063,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Mysids,Mysids,Table32continued_1976_JamestownPortWilliams,0,0,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Pandalid shrimp,Pandalid shrimp,Table32continued_1976_JamestownPortWilliams,0,0,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,INSECT,Dipteran insects,Dipteran insects,Table32continued_1976_JamestownPortWilliams,0,0,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table32continued_1976_JamestownPortWilliams,0,0,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangonid shrimp,Crangonid shrimp,Table32continued_1976_JamestownPortWilliams,0,0,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Cancrid crabs,Cancrid crabs,Table32continued_1976_JamestownPortWilliams,0,0,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table32continued_1976_JamestownPortWilliams,0,0,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Caridean shrimp,Caridean shrimp,Table32continued_1976_JamestownPortWilliams,0,0,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Pinnotherid crabs,Pinnotherid crabs,Table32continued_1976_JamestownPortWilliams,0,0,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Caprellid amphipods,Caprellid amphipods,Table32continued_1976_JamestownPortWilliams,0,0,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,ZL,Ostracods,Ostracods,Table32continued_1976_JamestownPortWilliams,0,0,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyuran crabs,Brachyuran crabs,Table32continued_1976_JamestownPortWilliams,0,0,38,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Polychaete annelids,Polychaete annelids,Table32continued_1977_JamestownPortWilliams,4.08,0.04079592041,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Callianassid shrimp,Callianassid shrimp,Table32continued_1977_JamestownPortWilliams,0,0,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Unidentified decapods,Unidentified decapods,Table32continued_1977_JamestownPortWilliams,1.72,0.01719828017,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,DETRITUS,Unidentified detritus,Unidentified detritus,Table32continued_1977_JamestownPortWilliams,7.34,0.07339266073,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fishes,Fishes,Table32continued_1977_JamestownPortWilliams,49.92,0.499150085,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Gammarid amphipods,Gammarid amphipods,Table32continued_1977_JamestownPortWilliams,5.72,0.05719428057,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Tanaids,Tanaids,Table32continued_1977_JamestownPortWilliams,0.41,0.004099590041,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Table32continued_1977_JamestownPortWilliams,0.01,9.9990001e-5,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Mysids,Mysids,Table32continued_1977_JamestownPortWilliams,2.61,0.02609739026,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Pandalid shrimp,Pandalid shrimp,Table32continued_1977_JamestownPortWilliams,16.4,0.1639836016,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,INSECT,Dipteran insects,Dipteran insects,Table32continued_1977_JamestownPortWilliams,0,0,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table32continued_1977_JamestownPortWilliams,3.13,0.03129687031,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangonid shrimp,Crangonid shrimp,Table32continued_1977_JamestownPortWilliams,5.18,0.05179482052,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Cancrid crabs,Cancrid crabs,Table32continued_1977_JamestownPortWilliams,2.44,0.02439756024,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table32continued_1977_JamestownPortWilliams,0.44,0.004399560044,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Caridean shrimp,Caridean shrimp,Table32continued_1977_JamestownPortWilliams,0.46,0.004599540046,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Pinnotherid crabs,Pinnotherid crabs,Table32continued_1977_JamestownPortWilliams,0.1,9.9990001e-4,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Caprellid amphipods,Caprellid amphipods,Table32continued_1977_JamestownPortWilliams,0.05,4.99950005e-4,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,ZL,Ostracods,Ostracods,Table32continued_1977_JamestownPortWilliams,0,0,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyuran crabs,Brachyuran crabs,Table32continued_1977_JamestownPortWilliams,0,0,39,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BC,Polychaete annelids,Polychaete annelids,Table32continued_1978_JamestownPortWilliams,4.28,0.04280428043,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Callianassid shrimp,Callianassid shrimp,Table32continued_1978_JamestownPortWilliams,0,0,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Unidentified decapods,Unidentified decapods,Table32continued_1978_JamestownPortWilliams,0,0,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,DETRITUS,Unidentified detritus,Unidentified detritus,Table32continued_1978_JamestownPortWilliams,2.11,0.02110211021,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,FISH,Fishes,Fishes,Table32continued_1978_JamestownPortWilliams,0,0,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Gammarid amphipods,Gammarid amphipods,Table32continued_1978_JamestownPortWilliams,12.63,0.1263126313,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Tanaids,Tanaids,Table32continued_1978_JamestownPortWilliams,6.04,0.0604060406,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Table32continued_1978_JamestownPortWilliams,0.45,0.004500450045,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Mysids,Mysids,Table32continued_1978_JamestownPortWilliams,22.13,0.2213221322,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Pandalid shrimp,Pandalid shrimp,Table32continued_1978_JamestownPortWilliams,0,0,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,INSECT,Dipteran insects,Dipteran insects,Table32continued_1978_JamestownPortWilliams,0.25,0.002500250025,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table32continued_1978_JamestownPortWilliams,25.35,0.2535253525,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Crangonid shrimp,Crangonid shrimp,Table32continued_1978_JamestownPortWilliams,6.04,0.0604060406,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Cancrid crabs,Cancrid crabs,Table32continued_1978_JamestownPortWilliams,13.73,0.1373137314,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table32continued_1978_JamestownPortWilliams,4.07,0.04070407041,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,PWN,Caridean shrimp,Caridean shrimp,Table32continued_1978_JamestownPortWilliams,0,0,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Pinnotherid crabs,Pinnotherid crabs,Table32continued_1978_JamestownPortWilliams,0,0,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BD,Caprellid amphipods,Caprellid amphipods,Table32continued_1978_JamestownPortWilliams,0,0,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,ZL,Ostracods,Ostracods,Table32continued_1978_JamestownPortWilliams,0.5,0.00500050005,40,Fish_Miller_et_al_1980_B
+SMD,adult,Staghorn sculpin,Leptocottus armatus,BML,Brachyuran crabs,Brachyuran crabs,Table32continued_1978_JamestownPortWilliams,2.41,0.02410241024,40,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Gammarid amphipods,Gammarid amphipods,Table33_1976_AllTidepools,21.98,0.2356851812,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table33_1976_AllTidepools,32.13,0.3445206948,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BFF,Barnacle cirri,Barnacle cirri,Table33_1976_AllTidepools,2.31,0.02476946172,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Harpacticoid copepods,Harpacticoid copepods,Table33_1976_AllTidepools,0.58,0.006219172207,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Polychaete annelids,Polychaete annelids,Table33_1976_AllTidepools,9.48,0.10165129740000001,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BML,Crustacean larvae,Crustacean larvae,Table33_1976_AllTidepools,0.42,0.004503538495,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Idoteid isopods,Idoteid isopods,Table33_1976_AllTidepools,7.85,0.084173279,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,INSECT,Dipteran insects,Dipteran insects,Table33_1976_AllTidepools,0.32,0.003431267424,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,ZL,Ostracods,Ostracods,Table33_1976_AllTidepools,0.14,0.001501179498,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BML,Pagurid crabs,Pagurid crabs,Table33_1976_AllTidepools,3.64,0.03903066695,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,INSECT,Unidentified insects,Unidentified insects,Table33_1976_AllTidepools,0.27,0.002895131889,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Nenerteans,Nenerteans,Table33_1976_AllTidepools,1.71,0.0183358353,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,MA,Unidentified debris sand algae,Unidentified debris sand algae,Table33_1976_AllTidepools,0.89,0.009543212524,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BG,Acanaeid limpets,Acanaeid limpets,Table33_1976_AllTidepools,1.4,0.01501179498,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,SMD,Cottidae,Cottidae,Table33_1976_AllTidepools,4.49,0.04814497105,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Turbellarians,Turbellarians,Table33_1976_AllTidepools,1.75,0.01876474373,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Caridean shrimp,Caridean shrimp,Table33_1976_AllTidepools,1.82,0.01951533348,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BMD,Nudibranchs,Nudibranchs,Table33_1976_AllTidepools,2.08,0.02230323826,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Mysids,Mysids,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BML,Grapsid crabs,Grapsid crabs,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,FISH,Fishes,Fishes,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Cumaceans,Cumaceans,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Callianassid shrimp,Callianassid shrimp,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BFF,Chitons,Chitons,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Glyceridae,Glyceridae,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Asselotean isopods,Asselotean isopods,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,INSECT,Coleoptera,Coleoptera,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Gammaridae,Gammaridae,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Hyalidae,Hyalidae,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BML,Brachyrhynchan crab juv,Brachyrhynchan crab juv,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Isaeidae,Isaeidae,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,FISH,Fishes,Fishes,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BG,Archaeogastropods,Archaeogastropods,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Ampithodae,Ampithodae,Table33_1976_AllTidepools,0,0,41,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Gammarid amphipods,Gammarid amphipods,Table33_1977_AllTidepools,19.96,0.2151557616,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table33_1977_AllTidepools,21.63,0.2331572707,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BFF,Barnacle cirri,Barnacle cirri,Table33_1977_AllTidepools,1.06,0.01142610758,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Harpacticoid copepods,Harpacticoid copepods,Table33_1977_AllTidepools,0.7,0.00754554274,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Polychaete annelids,Polychaete annelids,Table33_1977_AllTidepools,15.51,0.1671876684,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BML,Crustacean larvae,Crustacean larvae,Table33_1977_AllTidepools,1.87,0.02015737846,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Idoteid isopods,Idoteid isopods,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,INSECT,Dipteran insects,Dipteran insects,Table33_1977_AllTidepools,0.27,0.002910423628,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,ZL,Ostracods,Ostracods,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BML,Pagurid crabs,Pagurid crabs,Table33_1977_AllTidepools,10.04,0.1082246416,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,INSECT,Unidentified insects,Unidentified insects,Table33_1977_AllTidepools,0.49,0.005281879918,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Nenerteans,Nenerteans,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,MA,Unidentified debris sand algae,Unidentified debris sand algae,Table33_1977_AllTidepools,2.65,0.02856526894,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BG,Acanaeid limpets,Acanaeid limpets,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,SMD,Cottidae,Cottidae,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Turbellarians,Turbellarians,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Caridean shrimp,Caridean shrimp,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BMD,Nudibranchs,Nudibranchs,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Mysids,Mysids,Table33_1977_AllTidepools,6.66,0.0717904495,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BML,Grapsid crabs,Grapsid crabs,Table33_1977_AllTidepools,2.34,0.02522367145,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,FISH,Fishes,Fishes,Table33_1977_AllTidepools,1.12,0.01207286838,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Cumaceans,Cumaceans,Table33_1977_AllTidepools,0.04,4.311738709e-4,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Callianassid shrimp,Callianassid shrimp,Table33_1977_AllTidepools,4.1,0.04419532176,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BFF,Chitons,Chitons,Table33_1977_AllTidepools,1.28,0.01379756387,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Glyceridae,Glyceridae,Table33_1977_AllTidepools,3.05,0.03287700765,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Asselotean isopods,Asselotean isopods,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,INSECT,Coleoptera,Coleoptera,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Gammaridae,Gammaridae,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Hyalidae,Hyalidae,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BML,Brachyrhynchan crab juv,Brachyrhynchan crab juv,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Isaeidae,Isaeidae,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,FISH,Fishes,Fishes,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BG,Archaeogastropods,Archaeogastropods,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Ampithodae,Ampithodae,Table33_1977_AllTidepools,0,0,42,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Gammarid amphipods,Gammarid amphipods,Table33_1978_AllTidepools,12.06,0.1265211918,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table33_1978_AllTidepools,20.4,0.2140159463,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BFF,Barnacle cirri,Barnacle cirri,Table33_1978_AllTidepools,11.87,0.124527906,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Harpacticoid copepods,Harpacticoid copepods,Table33_1978_AllTidepools,5,0.0524548888,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Polychaete annelids,Polychaete annelids,Table33_1978_AllTidepools,12,0.1258917331,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BML,Crustacean larvae,Crustacean larvae,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Idoteid isopods,Idoteid isopods,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,INSECT,Dipteran insects,Dipteran insects,Table33_1978_AllTidepools,0.52,0.005455308435,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,ZL,Ostracods,Ostracods,Table33_1978_AllTidepools,0.12,0.001258917331,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BML,Pagurid crabs,Pagurid crabs,Table33_1978_AllTidepools,2.72,0.0285354595,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,INSECT,Unidentified insects,Unidentified insects,Table33_1978_AllTidepools,0.17,0.001783466219,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Nenerteans,Nenerteans,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,MA,Unidentified debris sand algae,Unidentified debris sand algae,Table33_1978_AllTidepools,1.06,0.01112043642,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BG,Acanaeid limpets,Acanaeid limpets,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,SMD,Cottidae,Cottidae,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Turbellarians,Turbellarians,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Caridean shrimp,Caridean shrimp,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BMD,Nudibranchs,Nudibranchs,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Mysids,Mysids,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BML,Grapsid crabs,Grapsid crabs,Table33_1978_AllTidepools,2.45,0.02570289551,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,FISH,Fishes,Fishes,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Cumaceans,Cumaceans,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Callianassid shrimp,Callianassid shrimp,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BFF,Chitons,Chitons,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Glyceridae,Glyceridae,Table33_1978_AllTidepools,0,0,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Asselotean isopods,Asselotean isopods,Table33_1978_AllTidepools,0.79,0.00828787243,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,INSECT,Coleoptera,Coleoptera,Table33_1978_AllTidepools,0.83,0.00870751154,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Gammaridae,Gammaridae,Table33_1978_AllTidepools,1.11,0.01164498531,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Hyalidae,Hyalidae,Table33_1978_AllTidepools,2.77,0.02906000839,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BML,Brachyrhynchan crab juv,Brachyrhynchan crab juv,Table33_1978_AllTidepools,9.46,0.0992446496,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Isaeidae,Isaeidae,Table33_1978_AllTidepools,1.61,0.01689047419,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table33_1978_AllTidepools,1.94,0.02035249685,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,FISH,Fishes,Fishes,Table33_1978_AllTidepools,2.77,0.02906000839,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BG,Archaeogastropods,Archaeogastropods,Table33_1978_AllTidepools,4.61,0.04836340747,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Ampithodae,Ampithodae,Table33_1978_AllTidepools,1.06,0.01112043642,43,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Gammarid amphipods,Gammarid amphipods,Table33_1977_PortWilliams,82.43,0.8243,44,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Mysids,Mysids,Table33_1977_PortWilliams,3.74,0.0374,44,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Polychaete annelids,Polychaete annelids,Table33_1977_PortWilliams,13.25,0.1325,44,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Tanaids,Tanaids,Table33_1977_PortWilliams,0.05,5e-4,44,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table33_1977_PortWilliams,0.53,0.0053,44,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Harpacticoid copepods,Harpacticoid copepods,Table33_1977_PortWilliams,0,0,44,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table33_1977_PortWilliams,0,0,44,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,ZM,Calanoid copepods,Calanoid copepods,Table33_1977_PortWilliams,0,0,44,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,NA,Unidentified debris,Unidentified debris,Table33_1977_PortWilliams,0,0,44,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Valviferan isopods,Valviferan isopods,Table33_1977_PortWilliams,0,0,44,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Isaeidae,Isaeidae,Table33_1977_PortWilliams,0,0,44,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Gammarid amphipods,Gammarid amphipods,Table33_1978_PortWilliams,12.2,0.123381877,45,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Mysids,Mysids,Table33_1978_PortWilliams,5.68,0.0574433657,45,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BC,Polychaete annelids,Polychaete annelids,Table33_1978_PortWilliams,10.66,0.1078074434,45,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Tanaids,Tanaids,Table33_1978_PortWilliams,0.48,0.004854368932,45,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table33_1978_PortWilliams,2.39,0.02417071197,45,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Harpacticoid copepods,Harpacticoid copepods,Table33_1978_PortWilliams,26.34,0.2663834951,45,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table33_1978_PortWilliams,30.45,0.3079490291,45,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,ZM,Calanoid copepods,Calanoid copepods,Table33_1978_PortWilliams,3.28,0.03317152104,45,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,NA,Unidentified debris,Unidentified debris,Table33_1978_PortWilliams,4.57,0.04621763754,45,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Valviferan isopods,Valviferan isopods,Table33_1978_PortWilliams,1.74,0.01759708738,45,Fish_Miller_et_al_1980_B
+SMD,adult,Tidepool sculpin,Oligocottus maculosus,BD,Isaeidae,Isaeidae,Table33_1978_PortWilliams,1.09,0.01102346278,45,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Gammarid amphipods,Gammarid amphipods,Table34_1976_TwinRivers,81.15,0.8115,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,PWN,Mysids,Mysids,Table34_1976_TwinRivers,14.33,0.1433,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Hyperiid amphipods,Hyperiid amphipods,Table34_1976_TwinRivers,0.71,0.0071,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Flabelliferan isopods,Flabelliferan isopods,Table34_1976_TwinRivers,0.21,0.0021,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,PWN,Natantian shrimp,Natantian shrimp,Table34_1976_TwinRivers,0.68,0.0068,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,FISH,Fish,Fish,Table34_1976_TwinRivers,0.08,8e-4,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Idoteid isopods,Idoteid isopods,Table34_1976_TwinRivers,0,0,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BC,Polychaete annelids,Polychaete annelids,Table34_1976_TwinRivers,0,0,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Talitridae,Talitridae,Table34_1976_TwinRivers,0,0,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,INSECT,Dipteran insects,Dipteran insects,Table34_1976_TwinRivers,0,0,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,MA,Ulotrichales,Ulotrichales,Table34_1976_TwinRivers,0,0,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Atylidae,Atylidae,Table34_1976_TwinRivers,0,0,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,MA,Unidentfied algae,Unidentfied algae,Table34_1976_TwinRivers,2.84,0.0284,46,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Gammarid amphipods,Gammarid amphipods,Table34_1977_TwinRivers,86.81,0.8681,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,PWN,Mysids,Mysids,Table34_1977_TwinRivers,0.65,0.0065,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Hyperiid amphipods,Hyperiid amphipods,Table34_1977_TwinRivers,0,0,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Flabelliferan isopods,Flabelliferan isopods,Table34_1977_TwinRivers,11.1,0.111,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,PWN,Natantian shrimp,Natantian shrimp,Table34_1977_TwinRivers,0,0,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,FISH,Fish,Fish,Table34_1977_TwinRivers,0,0,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Idoteid isopods,Idoteid isopods,Table34_1977_TwinRivers,0.72,0.0072,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BC,Polychaete annelids,Polychaete annelids,Table34_1977_TwinRivers,0.65,0.0065,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Talitridae,Talitridae,Table34_1977_TwinRivers,0,0,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,INSECT,Dipteran insects,Dipteran insects,Table34_1977_TwinRivers,0,0,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,MA,Ulotrichales,Ulotrichales,Table34_1977_TwinRivers,0,0,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Atylidae,Atylidae,Table34_1977_TwinRivers,0,0,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,MA,Unidentfied algae,Unidentfied algae,Table34_1977_TwinRivers,0.07,7e-4,47,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Gammarid amphipods,Gammarid amphipods,Table34_1978_TwinRivers,39.55,0.3955,48,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,PWN,Mysids,Mysids,Table34_1978_TwinRivers,1.37,0.0137,48,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Hyperiid amphipods,Hyperiid amphipods,Table34_1978_TwinRivers,0,0,48,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Flabelliferan isopods,Flabelliferan isopods,Table34_1978_TwinRivers,48.15,0.4815,48,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,PWN,Natantian shrimp,Natantian shrimp,Table34_1978_TwinRivers,0,0,48,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,FISH,Fish,Fish,Table34_1978_TwinRivers,0,0,48,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Idoteid isopods,Idoteid isopods,Table34_1978_TwinRivers,4.66,0.0466,48,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BC,Polychaete annelids,Polychaete annelids,Table34_1978_TwinRivers,0.76,0.0076,48,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Talitridae,Talitridae,Table34_1978_TwinRivers,4.04,0.0404,48,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,INSECT,Dipteran insects,Dipteran insects,Table34_1978_TwinRivers,1.07,0.0107,48,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,MA,Ulotrichales,Ulotrichales,Table34_1978_TwinRivers,0.01,1e-4,48,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,BD,Atylidae,Atylidae,Table34_1978_TwinRivers,0.08,8e-4,48,Fish_Miller_et_al_1980_B
+POP,adult,Redtail surfperch,Amphistichus rhodoterus,MA,Unidentfied algae,Unidentfied algae,Table34_1978_TwinRivers,0.31,0.0031,48,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Nemerteans,Nemerteans,Table35_1976_AllTidepools,26.03,0.2744043854,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Polychaete annelids,Polychaete annelids,Table35_1976_AllTidepools,27.64,0.2913767658,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Gammarid amphipods,Gammarid amphipods,Table35_1976_AllTidepools,7.05,0.0743200506,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,"Unidentified debris, sand and algae","Unidentified debris, sand and algae",Table35_1976_AllTidepools,3.99,0.04206198608,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Rhodophyta,Rhodophyta,Table35_1976_AllTidepools,5.24,0.05523930002,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Sabellaridae,Sabellaridae,Table35_1976_AllTidepools,0.38,0.004005903437,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BG,Gastropods,Gastropods,Table35_1976_AllTidepools,4.39,0.04627872654,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Harpacticoid copepods,Harpacticoid copepods,Table35_1976_AllTidepools,0.02,2.10837023e-4,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table35_1976_AllTidepools,2.55,0.02688172043,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BFF,Sabellidae,Sabellidae,Table35_1976_AllTidepools,1.76,0.01855365802,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Chlorophyta ALGAE,Chlorophyta ALGAE,Table35_1976_AllTidepools,3.56,0.03752899009,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,INSECT,Dipteran insects,Dipteran insects,Table35_1976_AllTidepools,0.11,0.001159603626,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Cumaceans,Cumaceans,Table35_1976_AllTidepools,1.16,0.01222854733,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Nereidae,Nereidae,Table35_1976_AllTidepools,4.91,0.05176048914,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Lumbrineridae,Lumbrineridae,Table35_1976_AllTidepools,3.82,0.04026987139,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,PWN,Crangonid shrimp,Crangonid shrimp,Table35_1976_AllTidepools,1.16,0.01222854733,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BG,Echinoids,Echinoids,Table35_1976_AllTidepools,1.09,0.01149061775,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Ulotrichales,Ulotrichales,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,ZL,Ostracods,Ostracods,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Bangiales,Bangiales,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BFF,Barnacle cirri,Barnacle cirri,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Terebellidae,Terebellidae,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Scytosiphonaceae,Scytosiphonaceae,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BML,Crustacean larvae,Crustacean larvae,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BG,Aulacopoda,Aulacopoda,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Desmarestiaceae,Desmarestiaceae,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,PWN,Caridean shrimp,Caridean shrimp,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Asellotan isopods,Asellotan isopods,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Valviferan isopods,Valviferan isopods,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BIV,Bivalves,Bivalves,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Gammaridae,Gammaridae,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,PWN,Hippolytid shrimp,Hippolytid shrimp,Table35_1976_AllTidepools,NA,0,49,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Nemerteans,Nemerteans,Table35_1977_AllTidepools,25.18,0.2648574734,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Polychaete annelids,Polychaete annelids,Table35_1977_AllTidepools,16.91,0.1778689387,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Gammarid amphipods,Gammarid amphipods,Table35_1977_AllTidepools,6.52,0.06858104555,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,"Unidentified debris, sand and algae","Unidentified debris, sand and algae",Table35_1977_AllTidepools,1.14,0.01199116441,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Rhodophyta,Rhodophyta,Table35_1977_AllTidepools,0,0,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Sabellaridae,Sabellaridae,Table35_1977_AllTidepools,0.18,0.001893341748,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BG,Gastropods,Gastropods,Table35_1977_AllTidepools,4.34,0.04565057326,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Harpacticoid copepods,Harpacticoid copepods,Table35_1977_AllTidepools,0.12,0.001262227832,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table35_1977_AllTidepools,1.29,0.0135689492,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BFF,Sabellidae,Sabellidae,Table35_1977_AllTidepools,0.26,0.00273482697,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Chlorophyta ALGAE,Chlorophyta ALGAE,Table35_1977_AllTidepools,2.73,0.02871568318,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,INSECT,Dipteran insects,Dipteran insects,Table35_1977_AllTidepools,0,0,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Cumaceans,Cumaceans,Table35_1977_AllTidepools,0,0,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Nereidae,Nereidae,Table35_1977_AllTidepools,0,0,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Lumbrineridae,Lumbrineridae,Table35_1977_AllTidepools,0,0,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,PWN,Crangonid shrimp,Crangonid shrimp,Table35_1977_AllTidepools,4.43,0.04659724414,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BG,Echinoids,Echinoids,Table35_1977_AllTidepools,0,0,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Ulotrichales,Ulotrichales,Table35_1977_AllTidepools,8.51,0.08951299043,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,ZL,Ostracods,Ostracods,Table35_1977_AllTidepools,0.07,7.362995687e-4,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Bangiales,Bangiales,Table35_1977_AllTidepools,5.11,0.05374986852,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BFF,Barnacle cirri,Barnacle cirri,Table35_1977_AllTidepools,0.66,0.006942253077,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Terebellidae,Terebellidae,Table35_1977_AllTidepools,9.21,0.09687598612,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Scytosiphonaceae,Scytosiphonaceae,Table35_1977_AllTidepools,2.36,0.02482381403,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BML,Crustacean larvae,Crustacean larvae,Table35_1977_AllTidepools,1.46,0.01535710529,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BG,Aulacopoda,Aulacopoda,Table35_1977_AllTidepools,0.22,0.002314084359,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Desmarestiaceae,Desmarestiaceae,Table35_1977_AllTidepools,2.73,0.02871568318,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,PWN,Caridean shrimp,Caridean shrimp,Table35_1977_AllTidepools,1.64,0.01725044704,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Asellotan isopods,Asellotan isopods,Table35_1977_AllTidepools,0,0,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Valviferan isopods,Valviferan isopods,Table35_1977_AllTidepools,0,0,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BIV,Bivalves,Bivalves,Table35_1977_AllTidepools,0,0,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Gammaridae,Gammaridae,Table35_1977_AllTidepools,0,0,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,PWN,Hippolytid shrimp,Hippolytid shrimp,Table35_1977_AllTidepools,0,0,50,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Nemerteans,Nemerteans,Table35_1978_AllTidepools,4.26,0.04366543665,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Polychaete annelids,Polychaete annelids,Table35_1978_AllTidepools,31.48,0.3226732267,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Gammarid amphipods,Gammarid amphipods,Table35_1978_AllTidepools,7.5,0.07687576876,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,"Unidentified debris, sand and algae","Unidentified debris, sand and algae",Table35_1978_AllTidepools,19.79,0.2028495285,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Rhodophyta,Rhodophyta,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Sabellaridae,Sabellaridae,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BG,Gastropods,Gastropods,Table35_1978_AllTidepools,9.29,0.09522345223,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Harpacticoid copepods,Harpacticoid copepods,Table35_1978_AllTidepools,0.24,0.0024600246,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Sphaeromatic isopods,Sphaeromatic isopods,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BFF,Sabellidae,Sabellidae,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Chlorophyta ALGAE,Chlorophyta ALGAE,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,INSECT,Dipteran insects,Dipteran insects,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Cumaceans,Cumaceans,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Nereidae,Nereidae,Table35_1978_AllTidepools,2.92,0.0299302993,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Lumbrineridae,Lumbrineridae,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,PWN,Crangonid shrimp,Crangonid shrimp,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BG,Echinoids,Echinoids,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Ulotrichales,Ulotrichales,Table35_1978_AllTidepools,2.65,0.02716277163,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,ZL,Ostracods,Ostracods,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Bangiales,Bangiales,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BFF,Barnacle cirri,Barnacle cirri,Table35_1978_AllTidepools,1.49,0.01527265273,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BC,Terebellidae,Terebellidae,Table35_1978_AllTidepools,6.9,0.07072570726,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Scytosiphonaceae,Scytosiphonaceae,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BML,Crustacean larvae,Crustacean larvae,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BG,Aulacopoda,Aulacopoda,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,MA,Desmarestiaceae,Desmarestiaceae,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,PWN,Caridean shrimp,Caridean shrimp,Table35_1978_AllTidepools,0,0,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Asellotan isopods,Asellotan isopods,Table35_1978_AllTidepools,0.93,0.009532595326,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Valviferan isopods,Valviferan isopods,Table35_1978_AllTidepools,0.16,0.0016400164,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BIV,Bivalves,Bivalves,Table35_1978_AllTidepools,1.73,0.01773267733,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,BD,Gammaridae,Gammaridae,Table35_1978_AllTidepools,1.19,0.01219762198,51,Fish_Miller_et_al_1980_B
+SMD,adult,High cockscomb,Anoplarchus purpurescens,PWN,Hippolytid shrimp,Hippolytid shrimp,Table35_1978_AllTidepools,7.03,0.07205822058,51,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Tanaids,Tanaids,Table36_1976_JamestownPortWilliams,38.83,0.3883,52,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1976_JamestownPortWilliams,32.83,0.3283,52,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BIV,Bivalves,Bivalves,Table36_1976_JamestownPortWilliams,1.62,0.0162,52,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1976_JamestownPortWilliams,4,0.04,52,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1976_JamestownPortWilliams,11.36,0.1136,52,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1976_JamestownPortWilliams,0.12,0.0012,52,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Glycerid polychaetes,Glycerid polychaetes,Table36_1976_JamestownPortWilliams,11.24,0.1124,52,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BFF,Phoronids,Phoronids,Table36_1976_JamestownPortWilliams,0,0,52,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZL,Ostracods,Ostracods,Table36_1976_JamestownPortWilliams,0,0,52,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Tanaids,Tanaids,Table36_1977_JamestownPortWilliams,20.8,0.208,53,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1977_JamestownPortWilliams,8,0.08,53,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BIV,Bivalves,Bivalves,Table36_1977_JamestownPortWilliams,0,0,53,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1977_JamestownPortWilliams,2.24,0.0224,53,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1977_JamestownPortWilliams,52.96,0.5296,53,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1977_JamestownPortWilliams,0,0,53,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Glycerid polychaetes,Glycerid polychaetes,Table36_1977_JamestownPortWilliams,0,0,53,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BFF,Phoronids,Phoronids,Table36_1977_JamestownPortWilliams,16,0.16,53,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZL,Ostracods,Ostracods,Table36_1977_JamestownPortWilliams,0,0,53,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Tanaids,Tanaids,Table36_1978_JamestownPortWilliams,40.25,0.4026207862,54,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1978_JamestownPortWilliams,42.3,0.4231269381,54,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BIV,Bivalves,Bivalves,Table36_1978_JamestownPortWilliams,0.04,4.00120036e-4,54,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1978_JamestownPortWilliams,2.04,0.02040612184,54,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1978_JamestownPortWilliams,14.88,0.1488446534,54,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1978_JamestownPortWilliams,0.06,6.00180054e-4,54,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Glycerid polychaetes,Glycerid polychaetes,Table36_1978_JamestownPortWilliams,0,0,54,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BFF,Phoronids,Phoronids,Table36_1978_JamestownPortWilliams,0,0,54,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZL,Ostracods,Ostracods,Table36_1978_JamestownPortWilliams,0.4,0.00400120036,54,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1976_TwinRivers,38.99,0.3898610139,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1976_TwinRivers,38.28,0.3827617238,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1976_TwinRivers,0.01,9.9990001e-5,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Mysids,Mysids,Table36_1976_TwinRivers,6.67,0.06669333067,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1976_TwinRivers,1.43,0.01429857014,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Tanaids,Tanaids,Table36_1976_TwinRivers,0.22,0.002199780022,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Flabelliferan isopods,Flabelliferan isopods,Table36_1976_TwinRivers,2.08,0.02079792021,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Valviferan isopods,Valviferan isopods,Table36_1976_TwinRivers,0.86,0.008599140086,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BIV,Bivalves,Bivalves,Table36_1976_TwinRivers,0.65,0.006499350065,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZL,Euphausiids,Euphausiids,Table36_1976_TwinRivers,0.14,0.001399860014,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,FISH,Fish,Fish,Table36_1976_TwinRivers,10.68,0.1067893211,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Holothuroidea,Holothuroidea,Table36_1976_TwinRivers,0,0,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,MA,Chlorophyta ALGAE,Chlorophyta ALGAE,Table36_1976_TwinRivers,0,0,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PLANT,Potanogetonaceae,Potanogetonaceae,Table36_1976_TwinRivers,0,0,55,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1977_TwinRivers,9.56,0.09561912382,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1977_TwinRivers,6.82,0.06821364273,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1977_TwinRivers,0,0,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Mysids,Mysids,Table36_1977_TwinRivers,0,0,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1977_TwinRivers,0.01,1.00020004e-4,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Tanaids,Tanaids,Table36_1977_TwinRivers,0,0,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Flabelliferan isopods,Flabelliferan isopods,Table36_1977_TwinRivers,0.14,0.001400280056,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Valviferan isopods,Valviferan isopods,Table36_1977_TwinRivers,0,0,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BIV,Bivalves,Bivalves,Table36_1977_TwinRivers,0,0,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZL,Euphausiids,Euphausiids,Table36_1977_TwinRivers,0,0,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,FISH,Fish,Fish,Table36_1977_TwinRivers,0,0,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Holothuroidea,Holothuroidea,Table36_1977_TwinRivers,83.16,0.8317663533,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,MA,Chlorophyta ALGAE,Chlorophyta ALGAE,Table36_1977_TwinRivers,0.29,0.002900580116,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PLANT,Potanogetonaceae,Potanogetonaceae,Table36_1977_TwinRivers,0,0,56,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1978_TwinRivers,9.43,0.09474530292,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1978_TwinRivers,0,0,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1978_TwinRivers,0,0,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Mysids,Mysids,Table36_1978_TwinRivers,0,0,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1978_TwinRivers,0,0,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Tanaids,Tanaids,Table36_1978_TwinRivers,0,0,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Flabelliferan isopods,Flabelliferan isopods,Table36_1978_TwinRivers,0,0,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Valviferan isopods,Valviferan isopods,Table36_1978_TwinRivers,0,0,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BIV,Bivalves,Bivalves,Table36_1978_TwinRivers,0,0,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZL,Euphausiids,Euphausiids,Table36_1978_TwinRivers,0,0,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,FISH,Fish,Fish,Table36_1978_TwinRivers,0,0,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Holothuroidea,Holothuroidea,Table36_1978_TwinRivers,88.55,0.8896815031,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,MA,Chlorophyta ALGAE,Chlorophyta ALGAE,Table36_1978_TwinRivers,0,0,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PLANT,Potanogetonaceae,Potanogetonaceae,Table36_1978_TwinRivers,1.55,0.01557319401,57,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1976_MorseCreek,88.96,0.8896,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1976_MorseCreek,7.1,0.071,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1976_MorseCreek,1.89,0.0189,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Idoteid isopods,Idoteid isopods,Table36_1976_MorseCreek,1.42,0.0142,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1976_MorseCreek,0,0,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Holothuroidea,Holothuroidea,Table36_1976_MorseCreek,0,0,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,MA,Ulotrichales,Ulotrichales,Table36_1976_MorseCreek,0,0,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Mysids,Mysids,Table36_1976_MorseCreek,0,0,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Caridean shrimp,Caridean shrimp,Table36_1976_MorseCreek,0,0,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BML,Brachyuran crabs,Brachyuran crabs,Table36_1976_MorseCreek,0,0,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZM,Calanoid copepods,Calanoid copepods,Table36_1976_MorseCreek,0,0,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Ampeliscidae,Ampeliscidae,Table36_1976_MorseCreek,0,0,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Isaeidae,Isaeidae,Table36_1976_MorseCreek,0,0,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BIV,Bivalves,Bivalves,Table36_1976_MorseCreek,0.63,0.0063,58,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1977_MorseCreek,25.35,0.2537791571,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1977_MorseCreek,60.52,0.6058664531,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1977_MorseCreek,6.97,0.06977675443,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Idoteid isopods,Idoteid isopods,Table36_1977_MorseCreek,0,0,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1977_MorseCreek,4.46,0.04464911403,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Holothuroidea,Holothuroidea,Table36_1977_MorseCreek,1.14,0.01141255381,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,MA,Ulotrichales,Ulotrichales,Table36_1977_MorseCreek,0.73,0.007308038843,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Mysids,Mysids,Table36_1977_MorseCreek,0.1,0.001001101211,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Caridean shrimp,Caridean shrimp,Table36_1977_MorseCreek,0.1,0.001001101211,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BML,Brachyuran crabs,Brachyuran crabs,Table36_1977_MorseCreek,0,0,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZM,Calanoid copepods,Calanoid copepods,Table36_1977_MorseCreek,0,0,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Ampeliscidae,Ampeliscidae,Table36_1977_MorseCreek,0,0,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Isaeidae,Isaeidae,Table36_1977_MorseCreek,0,0,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BIV,Bivalves,Bivalves,Table36_1977_MorseCreek,0.52,0.005205726299,59,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1978_MorseCreek,48.26,0.4828897338,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1978_MorseCreek,43.93,0.4395637382,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1978_MorseCreek,1.97,0.0197118271,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Idoteid isopods,Idoteid isopods,Table36_1978_MorseCreek,0,0,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1978_MorseCreek,0,0,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Holothuroidea,Holothuroidea,Table36_1978_MorseCreek,0,0,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,MA,Ulotrichales,Ulotrichales,Table36_1978_MorseCreek,0,0,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Mysids,Mysids,Table36_1978_MorseCreek,0,0,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Caridean shrimp,Caridean shrimp,Table36_1978_MorseCreek,0.51,0.005103061837,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BML,Brachyuran crabs,Brachyuran crabs,Table36_1978_MorseCreek,0,0,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZM,Calanoid copepods,Calanoid copepods,Table36_1978_MorseCreek,1.94,0.01941164699,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Ampeliscidae,Ampeliscidae,Table36_1978_MorseCreek,2.2,0.02201320792,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Isaeidae,Isaeidae,Table36_1978_MorseCreek,1.01,0.01010606364,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BIV,Bivalves,Bivalves,Table36_1978_MorseCreek,0.12,0.001200720432,60,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1976_DungenessSpit,21.9,0.2189781022,61,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Mysids,Mysids,Table36_1976_DungenessSpit,51.59,0.5158484152,61,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1976_DungenessSpit,11.48,0.1147885211,61,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1976_DungenessSpit,1.38,0.01379862014,61,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Holothuroidea,Holothuroidea,Table36_1976_DungenessSpit,4.59,0.04589541046,61,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,DETRITUS,Unidentified detritus sand algae,Unidentified detritus sand algae,Table36_1976_DungenessSpit,8.94,0.08939106089,61,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZL,Ostracods,Ostracods,Table36_1976_DungenessSpit,0.11,0.001099890011,61,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1976_DungenessSpit,0.01,9.9990001e-5,61,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BFF,Tunicates,Tunicates,Table36_1976_DungenessSpit,0.01,9.9990001e-5,61,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1977_DungenessSpit,17.49,0.1749,62,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Mysids,Mysids,Table36_1977_DungenessSpit,0,0,62,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1977_DungenessSpit,66.03,0.6603,62,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1977_DungenessSpit,6.21,0.0621,62,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Holothuroidea,Holothuroidea,Table36_1977_DungenessSpit,5.08,0.0508,62,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,DETRITUS,Unidentified detritus sand algae,Unidentified detritus sand algae,Table36_1977_DungenessSpit,0,0,62,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZL,Ostracods,Ostracods,Table36_1977_DungenessSpit,0,0,62,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1977_DungenessSpit,5.19,0.0519,62,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BFF,Tunicates,Tunicates,Table36_1977_DungenessSpit,0,0,62,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1978_DungenessSpit,3.98,0.0398,63,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Mysids,Mysids,Table36_1978_DungenessSpit,0.02,2e-4,63,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1978_DungenessSpit,5.49,0.0549,63,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1978_DungenessSpit,0.02,2e-4,63,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Holothuroidea,Holothuroidea,Table36_1978_DungenessSpit,90.47,0.9047,63,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,DETRITUS,Unidentified detritus sand algae,Unidentified detritus sand algae,Table36_1978_DungenessSpit,0,0,63,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZL,Ostracods,Ostracods,Table36_1978_DungenessSpit,0.02,2e-4,63,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1978_DungenessSpit,0,0,63,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BFF,Tunicates,Tunicates,Table36_1978_DungenessSpit,0,0,63,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1976_KydakaBeach,56.96,0.5696569657,64,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1976_KydakaBeach,29.24,0.2924292429,64,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1976_KydakaBeach,0.71,0.007100710071,64,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1976_KydakaBeach,2.76,0.02760276028,64,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZL,Ostracods,Ostracods,Table36_1976_KydakaBeach,1.85,0.01850185019,64,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Holothuroidea,Holothuroidea,Table36_1976_KydakaBeach,7.08,0.07080708071,64,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BIV,Bivalves,Bivalves,Table36_1976_KydakaBeach,0.91,0.009100910091,64,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Nemerteans,Nemerteans,Table36_1976_KydakaBeach,0.46,0.004600460046,64,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Valviferan isopods,Valviferan isopods,Table36_1976_KydakaBeach,0.02,2.00020002e-4,64,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BML,Decapods unid,Decapods unid,Table36_1976_KydakaBeach,0,0,64,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Mysids,Mysids,Table36_1976_KydakaBeach,0,0,64,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Flabelliferan isopods,Flabelliferan isopods,Table36_1976_KydakaBeach,0,0,64,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Gammarid amphipods,Gammarid amphipods,Table36_1977_KydakaBeach,6.52,0.0652,65,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Cumaceans,Cumaceans,Table36_1977_KydakaBeach,15.23,0.1523,65,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Harpacticoid copepods,Harpacticoid copepods,Table36_1977_KydakaBeach,0.02,2e-4,65,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Polychaete annelids,Polychaete annelids,Table36_1977_KydakaBeach,43.46,0.4346,65,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,ZL,Ostracods,Ostracods,Table36_1977_KydakaBeach,0.45,0.0045,65,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Holothuroidea,Holothuroidea,Table36_1977_KydakaBeach,2.44,0.0244,65,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BIV,Bivalves,Bivalves,Table36_1977_KydakaBeach,0,0,65,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BC,Nemerteans,Nemerteans,Table36_1977_KydakaBeach,0,0,65,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Valviferan isopods,Valviferan isopods,Table36_1977_KydakaBeach,0,0,65,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BML,Decapods unid,Decapods unid,Table36_1977_KydakaBeach,27.42,0.2742,65,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,PWN,Mysids,Mysids,Table36_1977_KydakaBeach,4.26,0.0426,65,Fish_Miller_et_al_1980_B
+FDF,juvenile,English sole,Parophrys vetulus,BD,Flabelliferan isopods,Flabelliferan isopods,Table36_1977_KydakaBeach,0.2,0.002,65,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,FPS,Ammodytidae,Ammodytidae,Table37_1977,93.88,0.9388,66,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,BML,Cancrid crabs,Cancrid crabs,Table37_1977,5.36,0.0536,66,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,DETRITUS,Unidentified detritus sand algae,Unidentified detritus sand algae,Table37_1977,0.76,0.0076,66,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,BD,Gammarid amphipods,Gammarid amphipods,Table37_1977,0,0,66,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,BD,Holothuroidea,Holothuroidea,Table37_1977,0,0,66,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,BD,Cumaceans,Cumaceans,Table37_1977,0,0,66,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table37_1977,0,0,66,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,BC,Polychaete annelids,Polychaete annelids,Table37_1977,0,0,66,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,FPS,Ammodytidae,Ammodytidae,Table37_1978,0,0,67,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,BML,Cancrid crabs,Cancrid crabs,Table37_1978,83.77,0.8377837784,67,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,DETRITUS,Unidentified detritus sand algae,Unidentified detritus sand algae,Table37_1978,2.23,0.02230223022,67,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,BD,Gammarid amphipods,Gammarid amphipods,Table37_1978,1.14,0.01140114011,67,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,BD,Holothuroidea,Holothuroidea,Table37_1978,10.29,0.102910291,67,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,BD,Cumaceans,Cumaceans,Table37_1978,0.68,0.006800680068,67,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,BD,Flabelliferan isopods,Flabelliferan isopods,Table37_1978,1.86,0.01860186019,67,Fish_Miller_et_al_1980_B
+FDF,adult,Starry flounder,Platichthys stellatus,BC,Polychaete annelids,Polychaete annelids,Table37_1978,0.02,2.00020002e-4,67,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Mysids,Mysids,Table38_1976_DungenessSpit,33.73,0.3373337334,68,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammarid amphipods,Gammarid amphipods,Table38_1976_DungenessSpit,4.2,0.04200420042,68,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Crangonid shrimp,Crangonid shrimp,Table38_1976_DungenessSpit,40.73,0.4073407341,68,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Natantian shrimp,Natantian shrimp,Table38_1976_DungenessSpit,5.78,0.05780578058,68,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Idoteid isopods,Idoteid isopods,Table38_1976_DungenessSpit,0.43,0.004300430043,68,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Holothuroidea,Holothuroidea,Table38_1976_DungenessSpit,0.18,0.001800180018,68,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FPS,Ammodytidae,Ammodytidae,Table38_1976_DungenessSpit,14.94,0.1494149415,68,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Cumaceans,Cumaceans,Table38_1976_DungenessSpit,0,0,68,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,HE,Clupeidae,Clupeidae,Table38_1976_DungenessSpit,0,0,68,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FISH,Fish larvae juv,Fish larvae juv,Table38_1976_DungenessSpit,0,0,68,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,DETRITUS,Unidentified detritus,Unidentified detritus,Table38_1976_DungenessSpit,0,0,68,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Mysids,Mysids,Table38_1977_DungenessSpit,0.74,0.007400740074,69,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammarid amphipods,Gammarid amphipods,Table38_1977_DungenessSpit,2.91,0.02910291029,69,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Crangonid shrimp,Crangonid shrimp,Table38_1977_DungenessSpit,11.12,0.1112111211,69,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Natantian shrimp,Natantian shrimp,Table38_1977_DungenessSpit,0,0,69,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Idoteid isopods,Idoteid isopods,Table38_1977_DungenessSpit,0,0,69,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Holothuroidea,Holothuroidea,Table38_1977_DungenessSpit,0,0,69,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FPS,Ammodytidae,Ammodytidae,Table38_1977_DungenessSpit,0,0,69,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Cumaceans,Cumaceans,Table38_1977_DungenessSpit,0.48,0.004800480048,69,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,HE,Clupeidae,Clupeidae,Table38_1977_DungenessSpit,51.9,0.5190519052,69,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FISH,Fish larvae juv,Fish larvae juv,Table38_1977_DungenessSpit,32.84,0.3284328433,69,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,DETRITUS,Unidentified detritus,Unidentified detritus,Table38_1977_DungenessSpit,0,0,69,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Mysids,Mysids,Table38_1978_DungenessSpit,76.02,0.7616471295,70,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammarid amphipods,Gammarid amphipods,Table38_1978_DungenessSpit,2.3,0.02304378319,70,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Crangonid shrimp,Crangonid shrimp,Table38_1978_DungenessSpit,0,0,70,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Natantian shrimp,Natantian shrimp,Table38_1978_DungenessSpit,0,0,70,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Idoteid isopods,Idoteid isopods,Table38_1978_DungenessSpit,0,0,70,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Holothuroidea,Holothuroidea,Table38_1978_DungenessSpit,0,0,70,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FPS,Ammodytidae,Ammodytidae,Table38_1978_DungenessSpit,0,0,70,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Cumaceans,Cumaceans,Table38_1978_DungenessSpit,0.98,0.009818655445,70,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,HE,Clupeidae,Clupeidae,Table38_1978_DungenessSpit,0,0,70,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FISH,Fish larvae juv,Fish larvae juv,Table38_1978_DungenessSpit,18.07,0.1810439836,70,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,DETRITUS,Unidentified detritus,Unidentified detritus,Table38_1978_DungenessSpit,2.44,0.02444644825,70,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammarid amphipods,Gammarid amphipods,Table38_1977_MorseCreek,2.09,0.0209,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Mysids,Mysids,Table38_1977_MorseCreek,4.18,0.0418,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,HE,Clupeidae,Clupeidae,Table38_1977_MorseCreek,91.77,0.9177,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table38_1977_MorseCreek,1.96,0.0196,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FISH,Fish larvae,Fish larvae,Table38_1977_MorseCreek,0,0,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BFF,Larvaceans,Larvaceans,Table38_1977_MorseCreek,0,0,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FDF,Pleuronectidae,Pleuronectidae,Table38_1977_MorseCreek,0,0,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,DETRITUS,Unidentified detritus,Unidentified detritus,Table38_1977_MorseCreek,0,0,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BC,Polychaete annelids,Polychaete annelids,Table38_1977_MorseCreek,0,0,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Atylidae,Atylidae,Table38_1977_MorseCreek,0,0,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BML,Brachyrhynchan crab larvae,Brachyrhynchan crab larvae,Table38_1977_MorseCreek,0,0,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,MA,Ulotrichales,Ulotrichales,Table38_1977_MorseCreek,0,0,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Caridean shrimp,Caridean shrimp,Table38_1977_MorseCreek,0,0,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Eusiridae,Eusiridae,Table38_1977_MorseCreek,0,0,71,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammarid amphipods,Gammarid amphipods,Table38_1978_MorseCreek,6.24,0.0629730548,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Mysids,Mysids,Table38_1978_MorseCreek,0.24,0.002422040569,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,HE,Clupeidae,Clupeidae,Table38_1978_MorseCreek,0,0,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Hippolytid shrimp,Hippolytid shrimp,Table38_1978_MorseCreek,0,0,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FISH,Fish larvae,Fish larvae,Table38_1978_MorseCreek,70.04,0.7068321728,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BFF,Larvaceans,Larvaceans,Table38_1978_MorseCreek,0.3,0.003027550711,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FDF,Pleuronectidae,Pleuronectidae,Table38_1978_MorseCreek,14.16,0.1429003936,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,DETRITUS,Unidentified detritus,Unidentified detritus,Table38_1978_MorseCreek,1.33,0.01342214149,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BC,Polychaete annelids,Polychaete annelids,Table38_1978_MorseCreek,1.58,0.01594510041,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Atylidae,Atylidae,Table38_1978_MorseCreek,1.09,0.01100010092,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BML,Brachyrhynchan crab larvae,Brachyrhynchan crab larvae,Table38_1978_MorseCreek,0.26,0.002623877283,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,MA,Ulotrichales,Ulotrichales,Table38_1978_MorseCreek,3.34,0.03370673125,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Caridean shrimp,Caridean shrimp,Table38_1978_MorseCreek,0.47,0.004743162781,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Eusiridae,Eusiridae,Table38_1978_MorseCreek,0.04,4.036734282e-4,72,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Mysids,Mysids,Table38_1976_TwinRivers,69.68,0.6968,73,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FISH,Fishes,Fishes,Table38_1976_TwinRivers,26.4,0.264,73,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Caridean shrimp,Caridean shrimp,Table38_1976_TwinRivers,3.09,0.0309,73,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,DETRITUS,Unidentified detritus,Unidentified detritus,Table38_1976_TwinRivers,0.15,0.0015,73,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Crangonid shrimp,Crangonid shrimp,Table38_1976_TwinRivers,0.41,0.0041,73,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammarid amphipods,Gammarid amphipods,Table38_1976_TwinRivers,0.27,0.0027,73,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BC,Polychaete annelids,Polychaete annelids,Table38_1976_TwinRivers,0,0,73,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,MA,Ulotrichales,Ulotrichales,Table38_1976_TwinRivers,0,0,73,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Atylidae,Atylidae,Table38_1976_TwinRivers,0,0,73,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Mysids,Mysids,Table38_1977_TwinRivers,21.04,0.2110119346,74,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FISH,Fishes,Fishes,Table38_1977_TwinRivers,45.7,0.4583291545,74,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Caridean shrimp,Caridean shrimp,Table38_1977_TwinRivers,8.97,0.08996088657,74,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,DETRITUS,Unidentified detritus,Unidentified detritus,Table38_1977_TwinRivers,0,0,74,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Crangonid shrimp,Crangonid shrimp,Table38_1977_TwinRivers,1.58,0.01584595326,74,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammarid amphipods,Gammarid amphipods,Table38_1977_TwinRivers,3.45,0.03460034099,74,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BC,Polychaete annelids,Polychaete annelids,Table38_1977_TwinRivers,15.58,0.1562531341,74,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,MA,Ulotrichales,Ulotrichales,Table38_1977_TwinRivers,3.39,0.03399859593,74,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Atylidae,Atylidae,Table38_1977_TwinRivers,0,0,74,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Mysids,Mysids,Table38_1978_TwinRivers,6.89,0.07654705033,75,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FISH,Fishes,Fishes,Table38_1978_TwinRivers,82.67,0.9184535052,75,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Caridean shrimp,Caridean shrimp,Table38_1978_TwinRivers,0,0,75,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,DETRITUS,Unidentified detritus,Unidentified detritus,Table38_1978_TwinRivers,0,0,75,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Crangonid shrimp,Crangonid shrimp,Table38_1978_TwinRivers,0.18,0.001999777802,75,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammarid amphipods,Gammarid amphipods,Table38_1978_TwinRivers,0.18,0.001999777802,75,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BC,Polychaete annelids,Polychaete annelids,Table38_1978_TwinRivers,0,0,75,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,MA,Ulotrichales,Ulotrichales,Table38_1978_TwinRivers,0,0,75,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Atylidae,Atylidae,Table38_1978_TwinRivers,0.09,9.998889012e-4,75,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FISH,Fishes,Fishes,Table38_1976_KydakaBeach,67.59,0.6759,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Mysids,Mysids,Table38_1976_KydakaBeach,11.37,0.1137,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammarid amphipods,Gammarid amphipods,Table38_1976_KydakaBeach,2.59,0.0259,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Crangonid shrimp,Crangonid shrimp,Table38_1976_KydakaBeach,13.08,0.1308,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Caridean shrimp,Caridean shrimp,Table38_1976_KydakaBeach,5.37,0.0537,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FPS,Ammodytidae,Ammodytidae,Table38_1976_KydakaBeach,0,0,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,DETRITUS,Unidentified detritus,Unidentified detritus,Table38_1976_KydakaBeach,0,0,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,MA,Ulotrichales,Ulotrichales,Table38_1976_KydakaBeach,0,0,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BIV,Bivalves,Bivalves,Table38_1976_KydakaBeach,0,0,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Calliopiidae,Calliopiidae,Table38_1976_KydakaBeach,0,0,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Eusiridae,Eusiridae,Table38_1976_KydakaBeach,0,0,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammaridae,Gammaridae,Table38_1976_KydakaBeach,0,0,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Flabelliferan isopods,Flabelliferan isopods,Table38_1976_KydakaBeach,0,0,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Isaeidae,Isaeidae,Table38_1976_KydakaBeach,0,0,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Cumaceans,Cumaceans,Table38_1976_KydakaBeach,0,0,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BFF,Larvaceans,Larvaceans,Table38_1976_KydakaBeach,0,0,76,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FISH,Fishes,Fishes,Table38_1977_KydakaBeach,48.32,0.4831516848,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Mysids,Mysids,Table38_1977_KydakaBeach,0,0,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammarid amphipods,Gammarid amphipods,Table38_1977_KydakaBeach,0.15,0.001499850015,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Crangonid shrimp,Crangonid shrimp,Table38_1977_KydakaBeach,0,0,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Caridean shrimp,Caridean shrimp,Table38_1977_KydakaBeach,0.4,0.00399960004,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FPS,Ammodytidae,Ammodytidae,Table38_1977_KydakaBeach,50.77,0.5076492351,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,DETRITUS,Unidentified detritus,Unidentified detritus,Table38_1977_KydakaBeach,0.37,0.003699630037,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,MA,Ulotrichales,Ulotrichales,Table38_1977_KydakaBeach,0,0,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BIV,Bivalves,Bivalves,Table38_1977_KydakaBeach,0,0,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Calliopiidae,Calliopiidae,Table38_1977_KydakaBeach,0,0,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Eusiridae,Eusiridae,Table38_1977_KydakaBeach,0,0,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammaridae,Gammaridae,Table38_1977_KydakaBeach,0,0,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Flabelliferan isopods,Flabelliferan isopods,Table38_1977_KydakaBeach,0,0,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Isaeidae,Isaeidae,Table38_1977_KydakaBeach,0,0,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Cumaceans,Cumaceans,Table38_1977_KydakaBeach,0,0,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BFF,Larvaceans,Larvaceans,Table38_1977_KydakaBeach,0,0,77,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FISH,Fishes,Fishes,Table38_1978_KydakaBeach,32.56,0.3253072235,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Mysids,Mysids,Table38_1978_KydakaBeach,25.07,0.2504745729,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammarid amphipods,Gammarid amphipods,Table38_1978_KydakaBeach,0,0,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Crangonid shrimp,Crangonid shrimp,Table38_1978_KydakaBeach,0,0,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,PWN,Caridean shrimp,Caridean shrimp,Table38_1978_KydakaBeach,0,0,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,FPS,Ammodytidae,Ammodytidae,Table38_1978_KydakaBeach,0,0,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,DETRITUS,Unidentified detritus,Unidentified detritus,Table38_1978_KydakaBeach,3.37,0.03366969727,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,MA,Ulotrichales,Ulotrichales,Table38_1978_KydakaBeach,23.95,0.2392846438,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BIV,Bivalves,Bivalves,Table38_1978_KydakaBeach,7.86,0.078529323610000007,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Calliopiidae,Calliopiidae,Table38_1978_KydakaBeach,0.37,0.003696672994,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Eusiridae,Eusiridae,Table38_1978_KydakaBeach,1.12,0.01118992906,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Gammaridae,Gammaridae,Table38_1978_KydakaBeach,0.75,0.00749325607,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Flabelliferan isopods,Flabelliferan isopods,Table38_1978_KydakaBeach,0.75,0.00749325607,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Isaeidae,Isaeidae,Table38_1978_KydakaBeach,0.04,3.996403237e-4,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BD,Cumaceans,Cumaceans,Table38_1978_KydakaBeach,0.04,3.996403237e-4,78,Fish_Miller_et_al_1980_B
+FDF,adult,Sand sole,Psettichthys melanostictus,BFF,Larvaceans,Larvaceans,Table38_1978_KydakaBeach,4.21,0.04206214407,78,Fish_Miller_et_al_1980_B

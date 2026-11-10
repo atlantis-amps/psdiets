@@ -1,0 +1,161 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_LB_040299,6.41025641025641,0.0641025641,1,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_LB_040299,4.945054945054891,0.04945054945,1,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_LB_040299,74.3589743589732,0.7435897436,1,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_LB_040299,0,0,1,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_LB_040299,0,0,1,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_LB_040299,8.608058608058897,0.08608058608,1,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_LB_040299,4.945054945055105,0.04945054945,1,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_LB_040299,0.7326007326014974,0.007326007326,1,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_WB_040299,4.76190476190476,0.04761904762,2,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_WB_040299,16.666666666666742,0.1666666667,2,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_WB_040299,72.8937728937719,0.7289377289,2,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_WB_040299,0,0,2,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_WB_040299,0,0,2,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_WB_040299,0,0,2,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_WB_040299,1.2820512820512988,0.01282051282,2,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_WB_040299,4.395604395605304,0.04395604396,2,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_EM_040299,0,0,3,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_EM_040299,0,0,3,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_EM_040299,99.0842490842484,0.9908424908,3,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_EM_040299,0,0,3,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_EM_040299,0,0,3,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_EM_040299,0,0,3,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_EM_040299,0.9157509157516017,0.009157509158,3,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_EM_040299,0,0,3,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_WM_041699,8.24175824175824,0.08241758242,4,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_WM_041699,11.53846153846156,0.1153846154,4,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_WM_041699,67.7655677655666,0.6776556777,4,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_WM_041699,0,0,4,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_WM_041699,0,0,4,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_WM_041699,0.9157509157509054,0.009157509158,4,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_WM_041699,7.509157509157802,0.07509157509,4,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_WM_041699,4.029304029304896,0.04029304029,4,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_EM_041699,3.66300366300366,0.03663003663,5,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_EM_041699,1.8315018315018396,0.01831501832,5,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_EM_041699,74.9084249084238,0.7490842491,5,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_EM_041699,0,0,5,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_EM_041699,0,0,5,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_EM_041699,0,0,5,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_EM_041699,15.201465201465496,0.152014652,5,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_EM_041699,4.395604395605204,0.04395604396,5,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_LB_043099,5.12820512820513,0.05128205128,6,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_LB_043099,9.523809523809568,0.09523809524,6,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_LB_043099,53.1135531135523,0.5311355311,6,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_LB_043099,14.468864468864098,0.1446886447,6,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_LB_043099,5.860805860805897,0.05860805861,6,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_LB_043099,0,0,6,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_LB_043099,3.84615384615401,0.03846153846,6,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_LB_043099,8.058608058608996,0.08058608059,6,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_WM_043099,19.047619047619,0.1904761905,7,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_WM_043099,1.6483516483516993,0.01648351648,7,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_WM_043099,58.4249084249072,0.5842490842,7,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_WM_043099,10.439560439560495,0.1043956044,7,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_WM_043099,1.2820512820512988,0.01282051282,7,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_WM_043099,1.8315018315019103,0.01831501832,7,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_WM_043099,3.663003663003792,0.03663003663,7,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_WM_043099,3.663003663004602,0.03663003663,7,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_EM_043099,18.6813186813186,0.1868131868,8,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_EM_043099,5.6776556776558,0.05677655678,8,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_EM_043099,34.4322344322337,0.3443223443,8,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_EM_043099,38.095238095237896,0.380952381,8,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_EM_043099,0,0,8,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_EM_043099,0,0,8,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_EM_043099,3.113553113554005,0.03113553114,8,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_EM_043099,0,0,8,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_LB_051299,1.64835164835165,0.01648351648,9,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_LB_051299,2.3809523809523996,0.02380952381,9,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_LB_051299,61.355311355310654,0.6135531136,9,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_LB_051299,19.963369963369402,0.1996336996,9,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_LB_051299,2.1978021978022895,0.02197802198,9,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_LB_051299,1.4652014652015026,0.01465201465,9,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_LB_051299,10.989010989012101,0.1098901099,9,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_LB_051299,0,0,9,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_WM_051299,0.366300366300365,0.003663003663,10,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_WM_051299,5.128205128205155,0.05128205128,10,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_WM_051299,39.926739926739685,0.3992673993,10,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_WM_051299,39.926739926738904,0.3992673993,10,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_WM_051299,4.212454212454389,0.04212454212,10,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_WM_051299,1.0989010989011092,0.01098901099,10,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_WM_051299,6.410256410256693,0.0641025641,10,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_WM_051299,2.9304029304037016,0.0293040293,10,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_EM_051299,3.66300366300366,0.03663003663,11,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_EM_051299,13.73626373626374,0.1373626374,11,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_EM_051299,53.47985347985259,0.5347985348,11,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_EM_051299,21.79487179487171,0.2179487179,11,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_EM_051299,5.3113553113554985,0.05311355311,11,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_EM_051299,0,0,11,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_EM_051299,2.014652014652796,0.02014652015,11,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_EM_051299,0,0,11,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_LB_052699,0,0,12,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_LB_052699,21.4285714285715,0.2142857143,12,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_LB_052699,75.4578754578746,0.7545787546,12,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_LB_052699,0,0,12,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_LB_052699,0,0,12,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_LB_052699,0,0,12,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_LB_052699,3.113553113553209,0.03113553114,12,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_LB_052699,6.963318810448982e-13,0,12,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_CM_052699,10.4395604395604,0.1043956044,13,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_CM_052699,21.9780219780221,0.2197802198,13,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_CM_052699,62.8205128205118,0.6282051282,13,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_CM_052699,0,0,13,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_CM_052699,3.296703296703498,0.03296703297,13,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_CM_052699,0,0,13,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_CM_052699,0.7326007326007016,0.007326007326,13,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_CM_052699,0.7326007326014974,0.007326007326,13,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_LB_061099,0,0,14,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_LB_061099,2.1978021978022,0.02197802198,14,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_LB_061099,93.2234432234424,0.9322344322,14,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_LB_061099,0,0,14,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_LB_061099,0,0,14,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_LB_061099,0,0,14,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_LB_061099,3.663003663003792,0.03663003663,14,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_LB_061099,0.9157509157516017,0.009157509158,14,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_EM_061099,0,0,15,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_EM_061099,1.46520146520147,0.01465201465,15,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_EM_061099,42.307692307692136,0.4230769231,15,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_EM_061099,0,0,15,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_EM_061099,39.74358974358869,0.3974358974,15,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_EM_061099,0,0,15,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_EM_061099,10.439560439560807,0.1043956044,15,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_EM_061099,6.0439560439568965,0.06043956044,15,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_LB052699,54.5953360768175,0.5459533608,16,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_LB052699,10.425240054869803,0.1042524005,16,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_LB052699,16.049382716049493,0.1604938272,16,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_LB052699,0.4115226337448945,0.004115226337,16,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_LB052699,NA,0,16,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_LB052699,1.0973936899863048,0.0109739369,16,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_LB052699,16.3237311385453,0.1632373114,16,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_LB052699,1.0973936899867027,0.0109739369,16,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_WM_052699,58.1618655692729,0.5816186557,17,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_WM_052699,4.8010973936901,0.04801097394,17,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_WM_052699,24.691358024691503,0.2469135802,17,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_WM_052699,0,0,17,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_WM_052699,NA,0,17,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_WM_052699,0.8230452674897037,0.008230452675,17,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_WM_052699,11.522633744855796,0.1152263374,17,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_WM_052699,0,0,17,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_EM_052699,8.23045267489711,0.08230452675,18,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_EM_052699,11.111111111111203,0.1111111111,18,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_EM_052699,53.635116598079996,0.536351166,18,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_EM_052699,11.111111111110988,0.1111111111,18,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_EM_052699,NA,0,18,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_EM_052699,2.4691358024691965,0.02469135802,18,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_EM_052699,12.620027434841603,0.1262002743,18,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_EM_052699,0.8230452674899027,0.008230452675,18,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_LB061099,0.685871056241426,0.006858710562,19,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_LB061099,4.1152263374485605,0.04115226337,19,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_LB061099,89.98628257887526,0.8998628258,19,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_LB061099,0.411522633744854,0.004115226337,19,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_LB061099,NA,0,19,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_LB061099,0,0,19,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_LB061099,4.801097393689901,0.04801097394,19,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_LB061099,0,0,19,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,%_composition_by_W_CM061099,41.0150891632373,0.4101508916,20,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae larvae,%_composition_by_W_CM061099,2.331961591220903,0.02331961591,20,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae pupae/adults,%_composition_by_W_CM061099,11.796982167352596,0.1179698217,20,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish larvae,%_composition_by_W_CM061099,22.0850480109741,0.2208504801,20,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ceratopogonidae,%_composition_by_W_CM061099,NA,0,20,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta lavae,%_composition_by_W_CM061099,0,0,20,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Other insecta adult/pupae,%_composition_by_W_CM061099,8.641975308642103,0.08641975309,20,Salmon_Cordell_et_al_2001
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,%_composition_by_W_CM061099,14.128943758573001,0.1412894376,20,Salmon_Cordell_et_al_2001

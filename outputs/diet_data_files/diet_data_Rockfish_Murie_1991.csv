@@ -1,0 +1,49 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,POP,Kelp perch,Brachyistius frenatus,Table_1_Saanich inlet,675.22,0.4464175917,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,HE,Pacific Herring,Clupea harengus pallasii,Table_1_Saanich inlet,543.17,0.3591135382,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,POP,Pile Perch,Damalichthys vacca,Table_1_Saanich inlet,51.21,0.03385717969,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,FISH,Fish larvae,Fish larvae,Table_1_Saanich inlet,0,0,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,SMD,Demersal fish,Coryphopterus nicholsii,Table_1_Saanich inlet,26.78,0.01770543394,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,SMD,Demersal fish,Cottidae,Table_1_Saanich inlet,0.59,3.900749076e-4,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,SMD,Demersal fish,Pholidae,Table_1_Saanich inlet,14.72,0.009732038373,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,PWN,Demersal crustaceans,Callianassa gigas,Table_1_Saanich inlet,3.93,0.002598295571,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BML,Demersal crustaceans,Cancer gracilis,Table_1_Saanich inlet,8.17,0.005401545754,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BML,Demersal crustaceans,Cancer oregonensis,Table_1_Saanich inlet,1.87,0.001236339114,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BML,Demersal crustaceans,Cancer productus,Table_1_Saanich inlet,8.23,0.005441214389,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BML,Demersal crustaceans,Chorilia longipes,Table_1_Saanich inlet,0.29,1.917317342e-4,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BML,Demersal crustaceans,Hyas lyratus,Table_1_Saanich inlet,1.04,6.875896676e-4,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BML,Demersal crustaceans,Munida quadraspina,Table_1_Saanich inlet,30,0.01983431734,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,PWN,Demersal crustaceans,Pandalus danae,Table_1_Saanich inlet,85.94,0.05681870773,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,PWN,Demersal crustaceans,Pandalus platyceros,Table_1_Saanich inlet,29.95,0.01980126014,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BML,Demersal crustaceans,Petrolisthes eriomerus,Table_1_Saanich inlet,2.3,0.001520630996,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BML,Demersal crustaceans,Pugettia gracilis,Table_1_Saanich inlet,6.44,0.004257766788,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,PWN,Demersal crustaceans,Shrimp (Unid.),Table_1_Saanich inlet,8.07,0.005335431363,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,ZL,Pelagic crustaceans,Euphausiids,Table_1_Saanich inlet,8.21,0.005427991511,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BD,Pelagic crustaceans,Gammarid Amphipods,Table_1_Saanich inlet,0.04,2.644575645e-5,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BD,Pelagic crustaceans,Hyperiid amphipods,Table_1_Saanich inlet,0.07,4.628007378e-5,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BML,Pelagic crustaceans,Megalopa of crabs,Table_1_Saanich inlet,0.01,6.611439112e-6,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,PWN,Pelagic crustaceans,Mysids,Table_1_Saanich inlet,2.96,0.001956985977,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BFF,Miscellaneous,Clavelina huntsmani,Table_1_Saanich inlet,0.67,4.429664205e-4,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BMD,Miscellaneous,Ophiura lutkeni,Table_1_Saanich inlet,0.17,1.123944649e-4,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Copper rockfish,Copper rockfish,BC,Miscellaneous,Polychaeta,Table_1_Saanich inlet,2.48,0.0016396369,1,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,HE,Pelagic fish,Clupea harengus pallasii,Table_2_Saanich inlet,227.12,0.6505499542,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,SMD,Demersal fish,Cottidae,Table_2_Saanich inlet,0.8,0.00229147571,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,FDF,Demersal fish,Pleuronectidae,Table_2_Saanich inlet,8.18,0.02343033914,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,SMD,Demersal fish,Rhamphocottus richardsonii,Table_2_Saanich inlet,3.13,0.008965398717,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,BML,Demersal crustaceans,Acantholithodes hispidus,Table_2_Saanich inlet,1.82,0.005213107241,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,BML,Demersal crustaceans,Cancer gracilis,Table_2_Saanich inlet,0.62,0.001775893676,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,BML,Demersal crustaceans,Cancer oregonensis,Table_2_Saanich inlet,2.32,0.00664527956,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,BD,Demersal crustaceans,Caprellid Amphipod,Table_2_Saanich inlet,0.01,2.864344638e-5,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,BML,Demersal crustaceans,Chorilia longipes,Table_2_Saanich inlet,0.3,8.593033914e-4,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,BML,Demersal crustaceans,Munida quadraspina,Table_2_Saanich inlet,28.4,0.08134738772,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,PWN,Demersal crustaceans,Pandalus danae,Table_2_Saanich inlet,23.67,0.06779903758,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,PWN,Demersal crustaceans,Shrimp (Unid.),Table_2_Saanich inlet,8.44,0.02417506874,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,BML,Demersal crustaceans,Telmessus cheiragosus,Table_2_Saanich inlet,1.44,0.004124656279,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,ZL,Pelagic crustaceans,Euphausiids,Table_2_Saanich inlet,27.73,0.07942827681,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,BD,Pelagic crustaceans,Gammarid Amphipods,Table_2_Saanich inlet,0.03,8.593033914e-5,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,BD,Pelagic crustaceans,Hyperiid amphipods,Table_2_Saanich inlet,0.33,9.452337305e-4,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,BML,Pelagic crustaceans,Megalopa of crabs,Table_2_Saanich inlet,0.09,2.577910174e-4,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,PWN,Pelagic crustaceans,Mysids,Table_2_Saanich inlet,9.53,0.0272972044,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,FISH,Miscellaneous,Fish eggs,Table_2_Saanich inlet,1.03,0.002950274977,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,BC,Miscellaneous,Polychaeta,Table_2_Saanich inlet,3.31,0.009480980752,2,Rockfish_Murie_1991
+ROC,juvenileAndadult,Quillback rockfish,Quillback rockfish,ZG,Miscellaneous,Pteropod molluscs,Table_2_Saanich inlet,0.82,0.002348762603,2,Rockfish_Murie_1991

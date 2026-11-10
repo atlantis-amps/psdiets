@@ -1,0 +1,181 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapod,Crab zoea,Table_9_contribution_Gulf_islands,4.7,0.04694835681,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapod,Crab megalops,Table_9_contribution_Gulf_islands,11.5,0.114873639,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapod,Crab juvenile,Table_9_contribution_Gulf_islands,0,0,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipod,Amphipod,Table_9_contribution_Gulf_islands,0.8,0.007991209669,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BD,Caprellid,Caprellid,Table_9_contribution_Gulf_islands,0,0,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Euphausiid,Euphausiid,Table_9_contribution_Gulf_islands,1.7,0.01698132055,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepod,Copepod,Table_9_contribution_Gulf_islands,0.8,0.007991209669,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Limacina,Limacina,Table_9_contribution_Gulf_islands,0,0,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BC,Polychaeta,Polychaeta,Table_9_contribution_Gulf_islands,0.01,9.989012087e-5,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Chaetognatha,Chaetognatha,Table_9_contribution_Gulf_islands,0,0,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta adult,Insecta adult,Table_9_contribution_Gulf_islands,1.5,0.01498351813,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,HE,Herring,Herring,Table_9_contribution_Gulf_islands,30.5,0.3046648686,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,FPS,Sandlance,Sandlance,Table_9_contribution_Gulf_islands,0,0,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish remains,Fish remains,Table_9_contribution_Gulf_islands,48.6,0.4854659874,1,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapod,Crab zoea,Table_9_contribution_Plume,0.7,0.00699720112,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapod,Crab megalops,Table_9_contribution_Plume,17.7,0.1769292283,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapod,Crab juvenile,Table_9_contribution_Plume,0,0,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipod,Amphipod,Table_9_contribution_Plume,24.06,0.2405037985,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BD,Caprellid,Caprellid,Table_9_contribution_Plume,0,0,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Euphausiid,Euphausiid,Table_9_contribution_Plume,11.9,0.118952419,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepod,Copepod,Table_9_contribution_Plume,0.43,0.004298280688,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Limacina,Limacina,Table_9_contribution_Plume,0,0,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BC,Polychaeta,Polychaeta,Table_9_contribution_Plume,0,0,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Chaetognatha,Chaetognatha,Table_9_contribution_Plume,0.3,0.00299880048,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta adult,Insecta adult,Table_9_contribution_Plume,7.6,0.07596961216,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,HE,Herring,Herring,Table_9_contribution_Plume,14.18,0.1417433027,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,FPS,Sandlance,Sandlance,Table_9_contribution_Plume,0.63,0.006297481008,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish remains,Fish remains,Table_9_contribution_Plume,22.54,0.225309876,2,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapod,Crab zoea,Table_9_contribution_Central,0,0,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapod,Crab megalops,Table_9_contribution_Central,46.4,0.4644644645,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapod,Crab juvenile,Table_9_contribution_Central,0,0,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipod,Amphipod,Table_9_contribution_Central,13.9,0.1391391391,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BD,Caprellid,Caprellid,Table_9_contribution_Central,0,0,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Euphausiid,Euphausiid,Table_9_contribution_Central,2.4,0.02402402402,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepod,Copepod,Table_9_contribution_Central,0,0,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Limacina,Limacina,Table_9_contribution_Central,0,0,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BC,Polychaeta,Polychaeta,Table_9_contribution_Central,0,0,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Chaetognatha,Chaetognatha,Table_9_contribution_Central,0,0,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta adult,Insecta adult,Table_9_contribution_Central,0,0,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,HE,Herring,Herring,Table_9_contribution_Central,19.8,0.1981981982,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,FPS,Sandlance,Sandlance,Table_9_contribution_Central,0,0,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish remains,Fish remains,Table_9_contribution_Central,17.4,0.1741741742,3,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapod,Crab zoea,Table_9_contribution_North,0,0,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapod,Crab megalops,Table_9_contribution_North,1.56,0.01452378736,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Decapod,Crab juvenile,Table_9_contribution_North,0,0,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BD,Amphipod,Amphipod,Table_9_contribution_North,1.09,0.01014803091,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BD,Caprellid,Caprellid,Table_9_contribution_North,4.7,0.04375756447,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Euphausiid,Euphausiid,Table_9_contribution_North,0,0,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZM,Copepod,Copepod,Table_9_contribution_North,0,0,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Limacina,Limacina,Table_9_contribution_North,1.56,0.01452378736,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BC,Polychaeta,Polychaeta,Table_9_contribution_North,0,0,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Chaetognatha,Chaetognatha,Table_9_contribution_North,0,0,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta adult,Insecta adult,Table_9_contribution_North,0,0,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,HE,Herring,Herring,Table_9_contribution_North,0,0,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,FPS,Sandlance,Sandlance,Table_9_contribution_North,0,0,4,Salmon_Healey_et_al_1978
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish remains,Fish remains,Table_9_contribution_North,98.5,0.9170468299,4,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Decapod,Crab zoea,Table_10_contribution_Gulf_islands,5.5,0.055387714,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Decapod,Crab megalops,Table_10_contribution_Gulf_islands,47,0.4733131923,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Decapod,Crab juvenile,Table_10_contribution_Gulf_islands,0,0,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,PWN,Decapod,Shrimp larvae,Table_10_contribution_Gulf_islands,0.1,0.001007049345,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Amphipod,Amphipod,Table_10_contribution_Gulf_islands,0.4,0.004028197382,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Caprellid,Caprellid,Table_10_contribution_Gulf_islands,0.2,0.002014098691,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Euphausid,Euphausid,Table_10_contribution_Gulf_islands,0.2,0.002014098691,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZM,Copepod,Copepod,Table_10_contribution_Gulf_islands,0,0,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Limacina,Limacina,Table_10_contribution_Gulf_islands,0.3,0.003021148036,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BC,Polychaeta,Polychaeta,Table_10_contribution_Gulf_islands,0,0,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta adult,Insecta adult,Table_10_contribution_Gulf_islands,0,0,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,HE,Herring,Herring,Table_10_contribution_Gulf_islands,13.6,0.136958711,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,FPS,Sandlance,Sandlance,Table_10_contribution_Gulf_islands,3,0.03021148036,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,FISH,Fish remains,Fish remains,Table_10_contribution_Gulf_islands,29,0.2920443102,5,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Decapod,Crab zoea,Table_10_contribution_Plume,0.02,1.998001998e-4,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Decapod,Crab megalops,Table_10_contribution_Plume,22,0.2197802198,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Decapod,Crab juvenile,Table_10_contribution_Plume,0,0,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,PWN,Decapod,Shrimp larvae,Table_10_contribution_Plume,0.08,7.992007992e-4,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Amphipod,Amphipod,Table_10_contribution_Plume,32,0.3196803197,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Caprellid,Caprellid,Table_10_contribution_Plume,0.1,9.99000999e-4,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Euphausid,Euphausid,Table_10_contribution_Plume,6.3,0.06293706294,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZM,Copepod,Copepod,Table_10_contribution_Plume,0.3,0.002997002997,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Limacina,Limacina,Table_10_contribution_Plume,0.8,0.007992007992,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BC,Polychaeta,Polychaeta,Table_10_contribution_Plume,0,0,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta adult,Insecta adult,Table_10_contribution_Plume,1.5,0.01498501499,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,HE,Herring,Herring,Table_10_contribution_Plume,26,0.2597402597,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,FPS,Sandlance,Sandlance,Table_10_contribution_Plume,0,0,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,FISH,Fish remains,Fish remains,Table_10_contribution_Plume,11,0.1098901099,6,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Decapod,Crab zoea,Table_10_contribution_Central,1.6,0.01601120785,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Decapod,Crab megalops,Table_10_contribution_Central,30,0.3002101471,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Decapod,Crab juvenile,Table_10_contribution_Central,0,0,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,PWN,Decapod,Shrimp larvae,Table_10_contribution_Central,0,0,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Amphipod,Amphipod,Table_10_contribution_Central,36,0.3602521765,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Caprellid,Caprellid,Table_10_contribution_Central,0,0,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Euphausid,Euphausid,Table_10_contribution_Central,0.9,0.009006304413,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZM,Copepod,Copepod,Table_10_contribution_Central,0,0,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Limacina,Limacina,Table_10_contribution_Central,0.2,0.002001400981,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BC,Polychaeta,Polychaeta,Table_10_contribution_Central,0,0,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta adult,Insecta adult,Table_10_contribution_Central,0.03,3.002101471e-4,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,HE,Herring,Herring,Table_10_contribution_Central,0.5,0.005003502452,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,FPS,Sandlance,Sandlance,Table_10_contribution_Central,1.6,0.01601120785,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,FISH,Fish remains,Fish remains,Table_10_contribution_Central,29.1,0.2912038427,7,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Decapod,Crab zoea,Table_10_contribution_North,0.02,2.002803925e-4,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Decapod,Crab megalops,Table_10_contribution_North,5.9,0.0590827158,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Decapod,Crab juvenile,Table_10_contribution_North,0.1,0.001001401963,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,PWN,Decapod,Shrimp larvae,Table_10_contribution_North,0,0,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Amphipod,Amphipod,Table_10_contribution_North,38.2,0.3825355498,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Caprellid,Caprellid,Table_10_contribution_North,0.4,0.004005607851,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Euphausid,Euphausid,Table_10_contribution_North,10.1,0.1011415982,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZM,Copepod,Copepod,Table_10_contribution_North,0.29,0.002904065692,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Limacina,Limacina,Table_10_contribution_North,20,0.2002803925,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,BC,Polychaeta,Polychaeta,Table_10_contribution_North,0.01,1.001401963e-4,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta adult,Insecta adult,Table_10_contribution_North,0.23,0.002303224514,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,HE,Herring,Herring,Table_10_contribution_North,13.6,0.1361906669,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,FPS,Sandlance,Sandlance,Table_10_contribution_North,0.61,0.006108551973,8,Salmon_Healey_et_al_1978
+CO,adult,Coho salmon,Oncorhynchus kisutch,FISH,Fish remains,Fish remains,Table_10_contribution_North,10.4,0.1041458041,8,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BML,Decapod,Crab zoea,Table_11_contribution_Gulf_islands,5.83,0.05831166233,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BML,Decapod,Crab megalops,Table_11_contribution_Gulf_islands,24.3,0.2430486097,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BML,Decapod,Crab juvenile,Table_11_contribution_Gulf_islands,0.37,0.003700740148,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BD,Amphipod,Amphipod,Table_11_contribution_Gulf_islands,11.78,0.1178235647,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BD,Amphipod,Caprellid,Table_11_contribution_Gulf_islands,0.02,2.00040008e-4,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Euphausiid,Euphausiid,Table_11_contribution_Gulf_islands,2.24,0.0224044809,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZM,Copepod,Copepod,Table_11_contribution_Gulf_islands,18.67,0.1867373475,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Ostracod,Ostracod,Table_11_contribution_Gulf_islands,0.02,2.00040008e-4,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Limacina,Limacina,Table_11_contribution_Gulf_islands,0,0,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BC,Polychaeta,Polychaeta,Table_11_contribution_Gulf_islands,0,0,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Chaetognatha,Chaetognatha,Table_11_contribution_Gulf_islands,1.41,0.01410282056,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZG,Ctenophore,Ctenophore,Table_11_contribution_Gulf_islands,0.66,0.006601320264,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BFF,Larvacean,Larvacean,Table_11_contribution_Gulf_islands,5.23,0.05231046209,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,INSECT,Insecta adult,Insecta adult,Table_11_contribution_Gulf_islands,3.82,0.03820764153,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,NA,Eggs,Eggs,Table_11_contribution_Gulf_islands,0.93,0.009301860372,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,HE,Herring,Herring,Table_11_contribution_Gulf_islands,2.63,0.02630526105,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,FISH,Fish remains,Fish remains,Table_11_contribution_Gulf_islands,22.07,0.2207441488,9,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BML,Decapod,Crab zoea,Table_11_contribution_Plume,0.33,0.003430710053,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BML,Decapod,Crab megalops,Table_11_contribution_Plume,4.98,0.05177253353,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BML,Decapod,Crab juvenile,Table_11_contribution_Plume,0,0,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BD,Amphipod,Amphipod,Table_11_contribution_Plume,43.57,0.4529576879,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BD,Amphipod,Caprellid,Table_11_contribution_Plume,0,0,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Euphausiid,Euphausiid,Table_11_contribution_Plume,10.83,0.1125896663,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZM,Copepod,Copepod,Table_11_contribution_Plume,5.19,0.05395571265,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Ostracod,Ostracod,Table_11_contribution_Plume,0,0,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Limacina,Limacina,Table_11_contribution_Plume,0,0,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BC,Polychaeta,Polychaeta,Table_11_contribution_Plume,3.4,0.03534670964,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Chaetognatha,Chaetognatha,Table_11_contribution_Plume,5.81,0.06040128912,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZG,Ctenophore,Ctenophore,Table_11_contribution_Plume,0.36,0.003742592785,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BFF,Larvacean,Larvacean,Table_11_contribution_Plume,3.86,0.04012891153,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,INSECT,Insecta adult,Insecta adult,Table_11_contribution_Plume,7.84,0.08150535399,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,NA,Eggs,Eggs,Table_11_contribution_Plume,0.06,6.237654642e-4,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,HE,Herring,Herring,Table_11_contribution_Plume,4.07,0.04231209065,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,FISH,Fish remains,Fish remains,Table_11_contribution_Plume,5.89,0.0612329764,10,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BML,Decapod,Crab zoea,Table_11_contribution_Central,0,0,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BML,Decapod,Crab megalops,Table_11_contribution_Central,0.27,0.002699730027,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BML,Decapod,Crab juvenile,Table_11_contribution_Central,0,0,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BD,Amphipod,Amphipod,Table_11_contribution_Central,64.2,0.6419358064,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BD,Amphipod,Caprellid,Table_11_contribution_Central,0,0,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Euphausiid,Euphausiid,Table_11_contribution_Central,14.17,0.1416858314,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZM,Copepod,Copepod,Table_11_contribution_Central,4.01,0.0400959904,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Ostracod,Ostracod,Table_11_contribution_Central,0,0,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Limacina,Limacina,Table_11_contribution_Central,0.11,0.001099890011,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BC,Polychaeta,Polychaeta,Table_11_contribution_Central,0.3,0.00299970003,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Chaetognatha,Chaetognatha,Table_11_contribution_Central,1.18,0.01179882012,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZG,Ctenophore,Ctenophore,Table_11_contribution_Central,0,0,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BFF,Larvacean,Larvacean,Table_11_contribution_Central,0,0,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,INSECT,Insecta adult,Insecta adult,Table_11_contribution_Central,2.26,0.02259774023,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,NA,Eggs,Eggs,Table_11_contribution_Central,0,0,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,HE,Herring,Herring,Table_11_contribution_Central,5.91,0.05909409059,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,FISH,Fish remains,Fish remains,Table_11_contribution_Central,7.6,0.07599240076,11,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BML,Decapod,Crab zoea,Table_11_contribution_North,0,0,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BML,Decapod,Crab megalops,Table_11_contribution_North,0.38,0.00380761523,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BML,Decapod,Crab juvenile,Table_11_contribution_North,0,0,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BD,Amphipod,Amphipod,Table_11_contribution_North,45.11,0.452004008,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BD,Amphipod,Caprellid,Table_11_contribution_North,0,0,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Euphausiid,Euphausiid,Table_11_contribution_North,25.45,0.25501002,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZM,Copepod,Copepod,Table_11_contribution_North,2.82,0.02825651303,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Ostracod,Ostracod,Table_11_contribution_North,0,0,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Limacina,Limacina,Table_11_contribution_North,0,0,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BC,Polychaeta,Polychaeta,Table_11_contribution_North,18.8,0.1883767535,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZL,Chaetognatha,Chaetognatha,Table_11_contribution_North,2.82,0.02825651303,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,ZG,Ctenophore,Ctenophore,Table_11_contribution_North,0,0,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,BFF,Larvacean,Larvacean,Table_11_contribution_North,0,0,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,INSECT,Insecta adult,Insecta adult,Table_11_contribution_North,3.2,0.03206412826,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,NA,Eggs,Eggs,Table_11_contribution_North,0,0,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,HE,Herring,Herring,Table_11_contribution_North,0,0,12,Salmon_Healey_et_al_1978
+CU,adult,Chum salmon,Oncorhynchus keta,FISH,Fish remains,Fish remains,Table_11_contribution_North,1.22,0.0122244489,12,Salmon_Healey_et_al_1978

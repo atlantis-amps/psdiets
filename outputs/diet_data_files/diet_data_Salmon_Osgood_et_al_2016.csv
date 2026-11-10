@@ -1,0 +1,197 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,ZM,Crustacea,Calanoids,Figure_3_Average_proportion_diet,0.452991452991453,0.452991453,1,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,INSECT,Insecta,Insects,Figure_3_Average_proportion_diet,0.211233211233205,0.2112332112,1,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,FISH,Fish,Fishes,Figure_3_Average_proportion_diet,0.06349206349206404,0.06349206349,1,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,BML,Crustacea,Decapods,Figure_3_Average_proportion_diet,0.04395604395604402,0.04395604396,1,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,CLADOCERA,Crustacea,Cladocerans,Figure_3_Average_proportion_diet,0.01953601953601991,0.01953601954,1,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,BD,Crustacea,Amphipods,Figure_3_Average_proportion_diet,0.050061050061049994,0.05006105006,1,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,BFF,Appendicularia,Larvacean,Figure_3_Average_proportion_diet,0.05982905982906106,0.05982905983,1,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,NA,Eggs,Eggs,Figure_3_Average_proportion_diet,0,0,1,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,ZL,Crustacea,Euphausiids,Figure_3_Average_proportion_diet,0.02197802197802201,0.02197802198,1,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,ZG,Eumetazoa,Ctenophores,Figure_3_Average_proportion_diet,0,0,1,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,NA,Other,Other,Figure_3_Average_proportion_diet,0.07692307692308098,0.07692307692,1,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoids,Figure_3_Average_proportion_diet,0.415140415140415,0.4151404151,2,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insects,Figure_3_Average_proportion_diet,0.173382173382168,0.1733821734,2,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fishes,Figure_3_Average_proportion_diet,0.06349206349206205,0.06349206349,2,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapods,Figure_3_Average_proportion_diet,0.023199023199023006,0.0231990232,2,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,CLADOCERA,Crustacea,Cladocerans,Figure_3_Average_proportion_diet,0.047619047619048005,0.04761904762,2,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Amphipods,Figure_3_Average_proportion_diet,0.073260073260074,0.07326007326,2,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacean,Figure_3_Average_proportion_diet,0.08058608058608097,0.08058608059,2,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Eggs,Eggs,Figure_3_Average_proportion_diet,0.020757020757021016,0.02075702076,2,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiids,Figure_3_Average_proportion_diet,0.009768009768009955,0.009768009768,2,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Eumetazoa,Ctenophores,Figure_3_Average_proportion_diet,0.050061050061049994,0.05006105006,2,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,Figure_3_Average_proportion_diet,0.04273504273504802,0.04273504274,2,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Crustacea,Calanoids,Figure_3_Average_proportion_diet,0.62759463,0.6275946237,3,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insecta,Insects,Figure_3_Average_proportion_diet,0.14163614,0.1416361386,3,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FISH,Fish,Fishes,Figure_3_Average_proportion_diet,0.02564103,0.02564102974,3,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Crustacea,Decapods,Figure_3_Average_proportion_diet,0.01587302,0.01587301984,3,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,CLADOCERA,Crustacea,Cladocerans,Figure_3_Average_proportion_diet,0.00976801,0.009768009902,3,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Crustacea,Amphipods,Figure_3_Average_proportion_diet,0.07692308,0.07692307923,3,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Appendicularia,Larvacean,Figure_3_Average_proportion_diet,0.03174603,0.03174602968,3,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,NA,Eggs,Eggs,Figure_3_Average_proportion_diet,0.01953602,0.0195360198,3,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Crustacea,Euphausiids,Figure_3_Average_proportion_diet,0.00610501,0.006105009939,3,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZG,Eumetazoa,Ctenophores,Figure_3_Average_proportion_diet,0.003663,0.003662999963,3,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,NA,Other,Other,Figure_3_Average_proportion_diet,0.04151404,0.04151403958,3,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZM,Crustacea,Calanoids,Figure_3_Average_proportion_diet,0.10866911,0.10866911,4,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Insects,Figure_3_Average_proportion_diet,0.2002442,0.2002442,4,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Fish,Fishes,Figure_3_Average_proportion_diet,0.31135531,0.31135531,4,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapods,Figure_3_Average_proportion_diet,0.17094017,0.17094017,4,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,CLADOCERA,Crustacea,Cladocerans,Figure_3_Average_proportion_diet,0.02075702,0.02075702,4,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipods,Figure_3_Average_proportion_diet,0.07936508,0.07936508,4,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BFF,Appendicularia,Larvacean,Figure_3_Average_proportion_diet,0,0,4,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Eggs,Eggs,Figure_3_Average_proportion_diet,0,0,4,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Euphausiids,Figure_3_Average_proportion_diet,0.08180708,0.08180708,4,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZG,Eumetazoa,Ctenophores,Figure_3_Average_proportion_diet,0,0,4,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Other,Other,Figure_3_Average_proportion_diet,0.02686203,0.02686203,4,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Crustacea,Calanoids,Figure_3_Average_proportion_diet,0.1990232,0.199023198,5,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Insects,Figure_3_Average_proportion_diet,0.33821734,0.3382173366,5,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fishes,Figure_3_Average_proportion_diet,0.25030525,0.2503052475,5,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapods,Figure_3_Average_proportion_diet,0.11355311,0.1135531089,5,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,CLADOCERA,Crustacea,Cladocerans,Figure_3_Average_proportion_diet,0.00854701,0.008547009915,5,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipods,Figure_3_Average_proportion_diet,0.04517705,0.04517704955,5,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacean,Figure_3_Average_proportion_diet,0.01221001,0.01221000988,5,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Eggs,Eggs,Figure_3_Average_proportion_diet,0.00732601,0.007326009927,5,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiids,Figure_3_Average_proportion_diet,0.01953602,0.0195360198,5,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Eumetazoa,Ctenophores,Figure_3_Average_proportion_diet,0,0,5,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Figure_3_Average_proportion_diet,0.00610501,0.006105009939,5,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacifiq Herring,Clupea pallasii,ZM,Crustacea,Calanoids,Figure_3_Average_proportion_diet,0.52380952,0.52380952,6,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacifiq Herring,Clupea pallasii,INSECT,Insecta,Insects,Figure_3_Average_proportion_diet,0.002442,0.002442,6,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacifiq Herring,Clupea pallasii,FISH,Fish,Fishes,Figure_3_Average_proportion_diet,0.03296703,0.03296703,6,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacifiq Herring,Clupea pallasii,BML,Crustacea,Decapods,Figure_3_Average_proportion_diet,0.03052503,0.03052503,6,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacifiq Herring,Clupea pallasii,CLADOCERA,Crustacea,Cladocerans,Figure_3_Average_proportion_diet,0.18437118,0.18437118,6,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacifiq Herring,Clupea pallasii,BD,Crustacea,Amphipods,Figure_3_Average_proportion_diet,0.02930403,0.02930403,6,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacifiq Herring,Clupea pallasii,BFF,Appendicularia,Larvacean,Figure_3_Average_proportion_diet,0.03663004,0.03663004,6,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacifiq Herring,Clupea pallasii,NA,Eggs,Eggs,Figure_3_Average_proportion_diet,0.04761905,0.04761905,6,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacifiq Herring,Clupea pallasii,ZL,Crustacea,Euphausiids,Figure_3_Average_proportion_diet,0.01587302,0.01587302,6,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacifiq Herring,Clupea pallasii,ZG,Eumetazoa,Ctenophores,Figure_3_Average_proportion_diet,0.001221,0.001221,6,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacifiq Herring,Clupea pallasii,NA,Other,Other,Figure_3_Average_proportion_diet,0.0952381,0.0952381,6,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,ZM,Crustacea,Calanoids,Figure_3_Average_proportion_diet,0.726495726495726,0.7264957265,7,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,INSECT,Insecta,Insects,Figure_3_Average_proportion_diet,0,0,7,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,FISH,Fish,Fishes,Figure_3_Average_proportion_diet,0.009768009768009955,0.009768009768,7,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,BML,Crustacea,Decapods,Figure_3_Average_proportion_diet,0.0012210012210009946,0.001221001221,7,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,CLADOCERA,Crustacea,Cladocerans,Figure_3_Average_proportion_diet,0.10012210012210099,0.1001221001,7,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,BD,Crustacea,Amphipods,Figure_3_Average_proportion_diet,0.006105006105006083,0.006105006105,7,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,BFF,Appendicularia,Larvacean,Figure_3_Average_proportion_diet,0.0024420024420029884,0.002442002442,7,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,NA,Eggs,Eggs,Figure_3_Average_proportion_diet,0.058608058608058955,0.05860805861,7,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,ZL,Crustacea,Euphausiids,Figure_3_Average_proportion_diet,0,0,7,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,ZG,Eumetazoa,Ctenophores,Figure_3_Average_proportion_diet,0,0,7,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,NA,Other,Other,Figure_3_Average_proportion_diet,0.09523809523809401,0.09523809524,7,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,BD,Crustacea,Amphipods,Table_2_Freq_ocurr,0.369,0.1182692308,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,BFF,Crustacea,Barnacles,Table_2_Freq_ocurr,0.025,0.008012820513,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,ZM,Crustacea,Calanoids,Table_2_Freq_ocurr,0.64,0.2051282051,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,ZL,Spiralia,Chaetognaths,Table_2_Freq_ocurr,0.074,0.02371794872,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,CLADOCERA,Crustacea,Cladocerans,Table_2_Freq_ocurr,0.064,0.02051282051,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,ZG,Eumetazoa,Ctenophores,Table_2_Freq_ocurr,0,0,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,BML,Crustacea,Decapods,Table_2_Freq_ocurr,0.192,0.06153846154,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,NA,Eggs,Eggs,Table_2_Freq_ocurr,0.5,0.1602564103,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,ZL,Crustacea,Euphausiids,Table_2_Freq_ocurr,0.118,0.03782051282,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,FISH,Fish,Fish,Table_2_Freq_ocurr,0.355,0.1137820513,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,INSECT,Insecta,Insects,Table_2_Freq_ocurr,0.384,0.1230769231,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,BFF,Appendicularia,Larvacean,Table_2_Freq_ocurr,0.172,0.05512820513,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,BIV,Cephalopod,Molluscs,Table_2_Freq_ocurr,0.044,0.0141025641,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,ZL,Crustacea,Ostracods,Table_2_Freq_ocurr,0.138,0.04423076923,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,PS,Phytoplankton,Phytoplankton,Table_2_Freq_ocurr,0,0,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,BC,Annelida,Polychaetes,Table_2_Freq_ocurr,0.03,0.009615384615,8,Salmon_Osgood_et_al_2016
+SAL,juvenile,Sockeye,Oncorhynchus nerka,BD,Other,"Isopod, cumacean",Table_2_Freq_ocurr,0.015,0.004807692308,8,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Amphipods,Table_2_Freq_ocurr,0.338,0.1376221498,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Barnacles,Table_2_Freq_ocurr,0.035,0.01425081433,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoids,Table_2_Freq_ocurr,0.65,0.2646579805,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Spiralia,Chaetognaths,Table_2_Freq_ocurr,0.057,0.02320846906,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,CLADOCERA,Crustacea,Cladocerans,Table_2_Freq_ocurr,0.083,0.03379478827,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Eumetazoa,Ctenophores,Table_2_Freq_ocurr,0.083,0.03379478827,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapods,Table_2_Freq_ocurr,0.131,0.05333876221,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Eggs,Eggs,Table_2_Freq_ocurr,0.045,0.01832247557,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiids,Table_2_Freq_ocurr,0.057,0.02320846906,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Fish,Fish,Table_2_Freq_ocurr,0.232,0.09446254072,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Insects,Table_2_Freq_ocurr,0.478,0.1946254072,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Appendicularia,Larvacean,Table_2_Freq_ocurr,0.143,0.0582247557,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,BIV,Cephalopod,Molluscs,Table_2_Freq_ocurr,0.01,0.004071661238,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracods,Table_2_Freq_ocurr,0.073,0.02972312704,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,PS,Phytoplankton,Phytoplankton,Table_2_Freq_ocurr,0.006,0.002442996743,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Annelida,Polychaetes,Table_2_Freq_ocurr,0.013,0.005293159609,9,Salmon_Osgood_et_al_2016
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Other,"Isopod, cumacean",Table_2_Freq_ocurr,0.022,0.008957654723,9,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Crustacea,Amphipods,Table_2_Freq_ocurr,0.269,0.136756482,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Crustacea,Barnacles,Table_2_Freq_ocurr,0.049,0.02491103203,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Crustacea,Calanoids,Table_2_Freq_ocurr,0.807,0.4102694459,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Spiralia,Chaetognaths,Table_2_Freq_ocurr,0.076,0.03863751906,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,CLADOCERA,Crustacea,Cladocerans,Table_2_Freq_ocurr,0.019,0.009659379766,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZG,Eumetazoa,Ctenophores,Table_2_Freq_ocurr,0.011,0.005592272496,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Crustacea,Decapods,Table_2_Freq_ocurr,0.117,0.05948144382,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,NA,Eggs,Eggs,Table_2_Freq_ocurr,0.042,0.02135231317,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Crustacea,Euphausiids,Table_2_Freq_ocurr,0.057,0.0289781393,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FISH,Fish,Fish,Table_2_Freq_ocurr,0.133,0.06761565836,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insecta,Insects,Table_2_Freq_ocurr,0.273,0.1387900356,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Appendicularia,Larvacean,Table_2_Freq_ocurr,0.049,0.02491103203,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BIV,Cephalopod,Molluscs,Table_2_Freq_ocurr,0,0,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Crustacea,Ostracods,Table_2_Freq_ocurr,0.038,0.01931875953,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PS,Phytoplankton,Phytoplankton,Table_2_Freq_ocurr,0,0,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BC,Annelida,Polychaetes,Table_2_Freq_ocurr,0.023,0.0116929334,10,Salmon_Osgood_et_al_2016
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Other,"Isopod, cumacean",Table_2_Freq_ocurr,0.004,0.002033553635,10,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipods,Table_2_Freq_ocurr,0.317,0.1462177122,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BFF,Crustacea,Barnacles,Table_2_Freq_ocurr,0.017,0.007841328413,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZM,Crustacea,Calanoids,Table_2_Freq_ocurr,0.217,0.1000922509,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Spiralia,Chaetognaths,Table_2_Freq_ocurr,0.033,0.01522140221,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,CLADOCERA,Crustacea,Cladocerans,Table_2_Freq_ocurr,0.033,0.01522140221,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZG,Eumetazoa,Ctenophores,Table_2_Freq_ocurr,0,0,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapods,Table_2_Freq_ocurr,0.317,0.1462177122,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Eggs,Eggs,Table_2_Freq_ocurr,0.033,0.01522140221,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Euphausiids,Table_2_Freq_ocurr,0.217,0.1000922509,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Fish,Fish,Table_2_Freq_ocurr,0.583,0.2689114391,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Insects,Table_2_Freq_ocurr,0.317,0.1462177122,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BFF,Appendicularia,Larvacean,Table_2_Freq_ocurr,0,0,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BIV,Cephalopod,Molluscs,Table_2_Freq_ocurr,0.017,0.007841328413,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Ostracods,Table_2_Freq_ocurr,0.017,0.007841328413,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PS,Phytoplankton,Phytoplankton,Table_2_Freq_ocurr,0,0,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BC,Annelida,Polychaetes,Table_2_Freq_ocurr,0.017,0.007841328413,11,Salmon_Osgood_et_al_2016
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Other,"Isopod, cumacean",Table_2_Freq_ocurr,0.033,0.01522140221,11,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipods,Table_2_Freq_ocurr,0.136,0.0749724366,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Crustacea,Barnacles,Table_2_Freq_ocurr,0,0,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Crustacea,Calanoids,Table_2_Freq_ocurr,0.272,0.1499448732,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Spiralia,Chaetognaths,Table_2_Freq_ocurr,0,0,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,CLADOCERA,Crustacea,Cladocerans,Table_2_Freq_ocurr,0.012,0.006615214994,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZG,Eumetazoa,Ctenophores,Table_2_Freq_ocurr,0,0,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapods,Table_2_Freq_ocurr,0.247,0.1361631753,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Eggs,Eggs,Table_2_Freq_ocurr,0.012,0.006615214994,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiids,Table_2_Freq_ocurr,0.086,0.04740904079,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish,Table_2_Freq_ocurr,0.506,0.2789415656,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Insects,Table_2_Freq_ocurr,0.481,0.2651598677,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacean,Table_2_Freq_ocurr,0.012,0.006615214994,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Cephalopod,Molluscs,Table_2_Freq_ocurr,0.025,0.01378169791,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Ostracods,Table_2_Freq_ocurr,0,0,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PS,Phytoplankton,Phytoplankton,Table_2_Freq_ocurr,0,0,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelida,Polychaetes,Table_2_Freq_ocurr,0,0,12,Salmon_Osgood_et_al_2016
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Other,"Isopod, cumacean",Table_2_Freq_ocurr,0.025,0.01378169791,12,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,BD,Crustacea,Amphipods,Table_2_Freq_ocurr,0.137,0.06936708861,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,BFF,Crustacea,Barnacles,Table_2_Freq_ocurr,0.071,0.03594936709,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,ZM,Crustacea,Calanoids,Table_2_Freq_ocurr,0.701,0.3549367089,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,ZL,Spiralia,Chaetognaths,Table_2_Freq_ocurr,0.002,0.001012658228,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,CLADOCERA,Crustacea,Cladocerans,Table_2_Freq_ocurr,0.274,0.1387341772,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,ZG,Eumetazoa,Ctenophores,Table_2_Freq_ocurr,0.002,0.001012658228,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,BML,Crustacea,Decapods,Table_2_Freq_ocurr,0.143,0.07240506329,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,NA,Eggs,Eggs,Table_2_Freq_ocurr,0.073,0.03696202532,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,ZL,Crustacea,Euphausiids,Table_2_Freq_ocurr,0.064,0.03240506329,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,FISH,Fish,Fish,Table_2_Freq_ocurr,0.143,0.07240506329,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,INSECT,Insecta,Insects,Table_2_Freq_ocurr,0.01,0.005063291139,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,BFF,Appendicularia,Larvacean,Table_2_Freq_ocurr,0.067,0.03392405063,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,BIV,Cephalopod,Molluscs,Table_2_Freq_ocurr,0.094,0.04759493671,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,ZL,Crustacea,Ostracods,Table_2_Freq_ocurr,0.114,0.05772151899,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,PS,Phytoplankton,Phytoplankton,Table_2_Freq_ocurr,0.023,0.01164556962,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,BC,Annelida,Polychaetes,Table_2_Freq_ocurr,0.042,0.02126582278,13,Salmon_Osgood_et_al_2016
+HE,juvenile,Pacific Herring,Clupea pallasii,BD,Other,"Isopod, cumacean",Table_2_Freq_ocurr,0.015,0.007594936709,13,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,BD,Crustacea,Amphipods,Table_2_Freq_ocurr,0.009,0.007805724198,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,BFF,Crustacea,Barnacles,Table_2_Freq_ocurr,0.064,0.05550737207,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,ZM,Crustacea,Calanoids,Table_2_Freq_ocurr,0.734,0.6366001735,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,ZL,Spiralia,Chaetognaths,Table_2_Freq_ocurr,0,0,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,CLADOCERA,Crustacea,Cladocerans,Table_2_Freq_ocurr,0.128,0.1110147441,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,ZG,Eumetazoa,Ctenophores,Table_2_Freq_ocurr,0,0,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,BML,Crustacea,Decapods,Table_2_Freq_ocurr,0.018,0.0156114484,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,NA,Eggs,Eggs,Table_2_Freq_ocurr,0.064,0.05550737207,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,ZL,Crustacea,Euphausiids,Table_2_Freq_ocurr,0,0,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,FISH,Fish,Fish,Table_2_Freq_ocurr,0.009,0.007805724198,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,INSECT,Insecta,Insects,Table_2_Freq_ocurr,0,0,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,BFF,Appendicularia,Larvacean,Table_2_Freq_ocurr,0.009,0.007805724198,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,BIV,Cephalopod,Molluscs,Table_2_Freq_ocurr,0.009,0.007805724198,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,ZL,Crustacea,Ostracods,Table_2_Freq_ocurr,0.018,0.0156114484,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,PS,Phytoplankton,Phytoplankton,Table_2_Freq_ocurr,0.055,0.04770164788,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,BC,Annelida,Polychaetes,Table_2_Freq_ocurr,0.018,0.0156114484,14,Salmon_Osgood_et_al_2016
+FPS,juvenile,Eulachon,Thaleichthys pacificus,BD,Other,"Isopod, cumacean",Table_2_Freq_ocurr,0.018,0.0156114484,14,Salmon_Osgood_et_al_2016

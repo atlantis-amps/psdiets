@@ -1,0 +1,55 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Gadidae,Table1_Herring_spawn,82,0.2365839585,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Unidentified gagids,Table1_Herring_spawn,15,0.04327755338,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Theragra chalcogramma,Table1_Herring_spawn,62,0.178880554,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table1_Herring_spawn,0,0,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Gadus macrocephalus,Table1_Herring_spawn,5,0.01442585113,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeidae,Unidentified clupeids,Table1_Herring_spawn,15,0.04327755338,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeidae,Clupea pallasii,Table1_Herring_spawn,43,0.1240623197,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeidae,Alosa sapidissima,Table1_Herring_spawn,1.6,0.00461627236,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonidae,Unidentified salmonids,Table1_Herring_spawn,18,0.05193306405,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonidae,Oncorhynchus tshawytscha,Table1_Herring_spawn,16,0.0461627236,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottidae,Unidentified cottids,Table1_Herring_spawn,3,0.008655510675,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottidae,Leptocottus armatus,Table1_Herring_spawn,5,0.01442585113,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytidae,Ammodytes hexapterus,Table1_Herring_spawn,28,0.0807847663,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,POP,Embiotocidae,Cymatogaster aggregata,Table1_Herring_spawn,18,0.05193306405,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulidae,Engraulis mordax,Table1_Herring_spawn,3,0.008655510675,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectidae,Unidentified pleuronectids,Table1_Herring_spawn,3,0.008655510675,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidae,Unidentified liparids,Table1_Herring_spawn,2,0.00577034045,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajidae,Unidentified rajids,Table1_Herring_spawn,2,0.00577034045,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Osmeridae,Unidentified osmerids,Table1_Herring_spawn,2,0.00577034045,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenidae,Unidentified scorpaenids,Table1_Herring_spawn,0,0,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcidae,Unidentified zoarcids,Table1_Herring_spawn,3,0.008655510675,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholidae,Unidentified pholids,Table1_Herring_spawn,2,0.00577034045,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentified fish spp.,Unidentified fish spp.,Table1_Herring_spawn,2,0.00577034045,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentified fish spp.,Unidentified fish spp.,Table1_Herring_spawn,5,0.01442585113,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopodidae,Octopus rubescens,Table1_Herring_spawn,5,0.01442585113,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Octopodidae,Loligo opalescens,Table1_Herring_spawn,3,0.008655510675,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,INVERT,Arthropoda,Unidentifiable crustaceans,Table1_Herring_spawn,3,0.008655510675,1,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Gadidae,Table1_Herring_post-spawn,37,0.141221374,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Unidentified gagids,Table1_Herring_post-spawn,9,0.03435114504,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Theragra chalcogramma,Table1_Herring_post-spawn,25,0.09541984733,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Merluccius productus,Table1_Herring_post-spawn,2,0.007633587786,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadidae,Gadus macrocephalus,Table1_Herring_post-spawn,2,0.007633587786,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeidae,Unidentified clupeids,Table1_Herring_post-spawn,25,0.09541984733,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeidae,Clupea pallasii,Table1_Herring_post-spawn,40,0.1526717557,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeidae,Alosa sapidissima,Table1_Herring_post-spawn,0,0,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonidae,Unidentified salmonids,Table1_Herring_post-spawn,32,0.1221374046,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonidae,Oncorhynchus tshawytscha,Table1_Herring_post-spawn,0,0,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottidae,Unidentified cottids,Table1_Herring_post-spawn,2,0.007633587786,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottidae,Leptocottus armatus,Table1_Herring_post-spawn,2,0.007633587786,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Ammodytidae,Ammodytes hexapterus,Table1_Herring_post-spawn,42,0.1603053435,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,POP,Embiotocidae,Cymatogaster aggregata,Table1_Herring_post-spawn,3,0.01145038168,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Engraulidae,Engraulis mordax,Table1_Herring_post-spawn,2,0.007633587786,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectidae,Unidentified pleuronectids,Table1_Herring_post-spawn,8,0.03053435115,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparidae,Unidentified liparids,Table1_Herring_post-spawn,0,0,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Rajidae,Unidentified rajids,Table1_Herring_post-spawn,8,0.03053435115,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Osmeridae,Unidentified osmerids,Table1_Herring_post-spawn,0,0,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Scorpaenidae,Unidentified scorpaenids,Table1_Herring_post-spawn,2,0.007633587786,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Zoarcidae,Unidentified zoarcids,Table1_Herring_post-spawn,3,0.01145038168,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Pholidae,Unidentified pholids,Table1_Herring_post-spawn,0,0,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentified fish spp.,Unidentified fish spp.,Table1_Herring_post-spawn,8,0.03053435115,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentified fish spp.,Unidentified fish spp.,Table1_Herring_post-spawn,0,0,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopodidae,Octopus rubescens,Table1_Herring_post-spawn,6,0.02290076336,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Octopodidae,Loligo opalescens,Table1_Herring_post-spawn,2,0.007633587786,2,HSL_Thomas_et_al_2011
+HSL,adult,Harbor seal,Phoca vitulina,INVERT,Arthropoda,Unidentifiable crustaceans,Table1_Herring_post-spawn,2,0.007633587786,2,HSL_Thomas_et_al_2011

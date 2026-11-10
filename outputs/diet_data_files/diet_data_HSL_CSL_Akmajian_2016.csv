@@ -1,0 +1,261 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Clupeid,Clupeid,Table_4_spring,30,0.08928571429,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,HE,Clupea pallasii,Pacific herring,Table_4_spring,14,0.04166666667,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Sardinops sagax,Pacific sardine,Table_4_spring,0,0,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Alosa sapidissima,American shad,Table_4_spring,8,0.02380952381,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SSK,Rajidae,Skate,Table_4_spring,51,0.1517857143,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SALMON,Salmon,Non-juvenile salmon,Table_4_spring,43,0.1279761905,1,HSL_CSL_Akmajian_2016
+PIN,juvenile,Eumetopiad jubatus,Steller sea lion,SALMON,Salmon,Juvenile salmon,Table_4_spring,7,0.02083333333,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,ROCKFISH,Rockfish,Sebastes spp.,Table_4_spring,49,0.1458333333,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,DOG,Squalus acanthias,Spiny dogfish,Table_4_spring,32,0.09523809524,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Platichthys stellatus,Starry flounder,Table_4_spring,7,0.02083333333,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Flatfish,Flatfish,Table_4_spring,8,0.02380952381,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,HAP,Atheresthes stomias,Arrowtooth flounder,Table_4_spring,4,0.0119047619,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Iopsetta exilis,Butter sole,Table_4_spring,4,0.0119047619,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Glyptocephalaszachirus,Rex sole,Table_4_spring,0,0,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Microstomas pacificus,Dover sole,Table_4_spring,3,0.008928571429,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Citharichthys spp.,Sanddab,Table_4_spring,1,0.002976190476,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Psettichthys melanostichus,Sand sole,Table_4_spring,2,0.005952380952,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Codfish,Codfish,Table_4_spring,14,0.04166666667,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Gadus macrocephalus,Pacific cod,Table_4_spring,2,0.005952380952,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Theragra chalcogramma,Walleye pollock,Table_4_spring,16,0.04761904762,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FISH,Bony fish,Bony fish,Table_4_spring,10,0.02976190476,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Merluccius productus,Pacific hake,Table_4_spring,3,0.008928571429,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Engraulis mordax,Northern anchovy,Table_4_spring,7,0.02083333333,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FVS,Lingcod,Lingcod,Table_4_spring,7,0.02083333333,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SMD,Hexagrammids,Hexagrammids,Table_4_spring,0,0,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,PELAGIC,Pleurogrammus monopterygius,Atka mackarel,Table_4_spring,0,0,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Pacific sand lance,Pacific sand lance,Table_4_spring,3,0.008928571429,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,BMS,Cephalopod,Cephalopod,Table_4_spring,2,0.005952380952,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SQX,Squid,Squid,Table_4_spring,0,0,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,BMS,Octopus,Octopus,Table_4_spring,0,0,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SSK,Sharks & rays,Sharks & rays,Table_4_spring,4,0.0119047619,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Smelts,Smelts,Table_4_spring,5,0.01488095238,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,LAMPREY,Pacific lamprey,Pacific lamprey,Table_4_spring,0,0,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,LAMPREY,Lamprey,Lamprey,Table_4_spring,0,0,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,PELAGIC,Pacific mackerel,Pacific mackerel,Table_4_spring,0,0,1,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Clupeid,Clupeid,Table_4_summer,34,0.1391162029,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,HE,Clupea pallasii,Pacific herring,Table_4_summer,8.3,0.03396072013,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Sardinops sagax,Pacific sardine,Table_4_summer,24,0.09819967267,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Alosa sapidissima,American shad,Table_4_summer,1,0.004091653028,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SSK,Rajidae,Skate,Table_4_summer,28,0.1145662848,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SALMON,Salmon,Non-juvenile salmon,Table_4_summer,15,0.06137479542,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SALMON,Salmon,Juvenile salmon,Table_4_summer,3.1,0.01268412439,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,ROCKFISH,Rockfish,Sebastes spp.,Table_4_summer,7.3,0.0298690671,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,DOG,Squalus acanthias,Spiny dogfish,Table_4_summer,18,0.0736497545,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Platichthys stellatus,Starry flounder,Table_4_summer,17,0.06955810147,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Flatfish,Flatfish,Table_4_summer,8.3,0.03396072013,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,HAP,Atheresthes stomias,Arrowtooth flounder,Table_4_summer,5.2,0.02127659574,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Iopsetta exilis,Butter sole,Table_4_summer,4.2,0.01718494272,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Glyptocephalaszachirus,Rex sole,Table_4_summer,1,0.004091653028,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Microstomas pacificus,Dover sole,Table_4_summer,0,0,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Citharichthys spp.,Sanddab,Table_4_summer,0,0,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Psettichthys melanostichus,Sand sole,Table_4_summer,0,0,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Codfish,Codfish,Table_4_summer,1,0.004091653028,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Gadus macrocephalus,Pacific cod,Table_4_summer,4.2,0.01718494272,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Theragra chalcogramma,Walleye pollock,Table_4_summer,0,0,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FISH,Bony fish,Bony fish,Table_4_summer,25,0.1022913257,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Merluccius productus,Pacific hake,Table_4_summer,18,0.0736497545,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Engraulis mordax,Northern anchovy,Table_4_summer,7.3,0.0298690671,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FVS,Lingcod,Lingcod,Table_4_summer,2.1,0.008592471358,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SMD,Hexagrammids,Hexagrammids,Table_4_summer,0,0,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,PELAGIC,Pleurogrammus monopterygius,Atka mackarel,Table_4_summer,0,0,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Pacific sand lance,Pacific sand lance,Table_4_summer,4.2,0.01718494272,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,BMS,Cephalopod,Cephalopod,Table_4_summer,1,0.004091653028,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SQX,Squid,Squid,Table_4_summer,1,0.004091653028,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,BMS,Octopus,Octopus,Table_4_summer,0,0,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SSK,Sharks & rays,Sharks & rays,Table_4_summer,1,0.004091653028,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Smelts,Smelts,Table_4_summer,0,0,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,LAMPREY,Pacific lamprey,Pacific lamprey,Table_4_summer,0,0,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,LAMPREY,Lamprey,Lamprey,Table_4_summer,1,0.004091653028,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,PELAGIC,Pacific mackerel,Pacific mackerel,Table_4_summer,4.2,0.01718494272,2,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Clupeid,Clupeid,Table_4_fall,32,0.09658919408,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,HE,Clupea pallasii,Pacific herring,Table_4_fall,20,0.0603682463,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Sardinops sagax,Pacific sardine,Table_4_fall,11,0.03320253547,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Alosa sapidissima,American shad,Table_4_fall,3.8,0.0114699668,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SSK,Rajidae,Skate,Table_4_fall,37,0.1116812557,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SALMON,Salmon,Non-juvenile salmon,Table_4_fall,31,0.09357078177,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SALMON,Salmon,Juvenile salmon,Table_4_fall,6.7,0.02022336251,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,ROCKFISH,Rockfish,Sebastes spp.,Table_4_fall,30,0.09055236945,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,DOG,Squalus acanthias,Spiny dogfish,Table_4_fall,36,0.1086628433,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Platichthys stellatus,Starry flounder,Table_4_fall,12,0.03622094778,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Flatfish,Flatfish,Table_4_fall,10,0.03018412315,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,HAP,Atheresthes stomias,Arrowtooth flounder,Table_4_fall,1.9,0.005734983399,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Iopsetta exilis,Butter sole,Table_4_fall,1,0.003018412315,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Glyptocephalaszachirus,Rex sole,Table_4_fall,2.9,0.008753395714,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Microstomas pacificus,Dover sole,Table_4_fall,0,0,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Citharichthys spp.,Sanddab,Table_4_fall,1.9,0.005734983399,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Psettichthys melanostichus,Sand sole,Table_4_fall,0,0,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Codfish,Codfish,Table_4_fall,2.9,0.008753395714,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Gadus macrocephalus,Pacific cod,Table_4_fall,7.6,0.02293993359,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Theragra chalcogramma,Walleye pollock,Table_4_fall,1.9,0.005734983399,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FISH,Bony fish,Bony fish,Table_4_fall,14,0.04225777241,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Merluccius productus,Pacific hake,Table_4_fall,25,0.07546030788,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Engraulis mordax,Northern anchovy,Table_4_fall,10,0.03018412315,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FVS,Lingcod,Lingcod,Table_4_fall,4.8,0.01448837911,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SMD,Hexagrammids,Hexagrammids,Table_4_fall,2.9,0.008753395714,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,PELAGIC,Pleurogrammus monopterygius,Atka mackarel,Table_4_fall,2.9,0.008753395714,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Pacific sand lance,Pacific sand lance,Table_4_fall,2.9,0.008753395714,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,BMS,Cephalopod,Cephalopod,Table_4_fall,4.8,0.01448837911,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SQX,Squid,Squid,Table_4_fall,1.9,0.005734983399,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,BMS,Octopus,Octopus,Table_4_fall,1,0.003018412315,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SSK,Sharks & rays,Sharks & rays,Table_4_fall,3.8,0.0114699668,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Smelts,Smelts,Table_4_fall,1,0.003018412315,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,LAMPREY,Pacific lamprey,Pacific lamprey,Table_4_fall,1.9,0.005734983399,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,LAMPREY,Lamprey,Lamprey,Table_4_fall,2.9,0.008753395714,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,PELAGIC,Pacific mackerel,Pacific mackerel,Table_4_fall,1.9,0.005734983399,3,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Clupeid,Clupeid,Table_4_winter,26,0.07951070336,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,HE,Clupea pallasii,Pacific herring,Table_4_winter,17,0.05198776758,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Sardinops sagax,Pacific sardine,Table_4_winter,1.2,0.003669724771,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Alosa sapidissima,American shad,Table_4_winter,6.1,0.01865443425,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SSK,Rajidae,Skate,Table_4_winter,46,0.1406727829,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SALMON,Salmon,Non-juvenile salmon,Table_4_winter,57,0.1743119266,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SALMON,Salmon,Juvenile salmon,Table_4_winter,21,0.06422018349,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,ROCKFISH,Rockfish,Sebastes spp.,Table_4_winter,60,0.1834862385,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,DOG,Squalus acanthias,Spiny dogfish,Table_4_winter,26,0.07951070336,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Platichthys stellatus,Starry flounder,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Flatfish,Flatfish,Table_4_winter,1.2,0.003669724771,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,HAP,Atheresthes stomias,Arrowtooth flounder,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Iopsetta exilis,Butter sole,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Glyptocephalaszachirus,Rex sole,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Microstomas pacificus,Dover sole,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Citharichthys spp.,Sanddab,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FDF,Psettichthys melanostichus,Sand sole,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Codfish,Codfish,Table_4_winter,13,0.03975535168,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Gadus macrocephalus,Pacific cod,Table_4_winter,8.5,0.02599388379,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Theragra chalcogramma,Walleye pollock,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FISH,Bony fish,Bony fish,Table_4_winter,4.9,0.01498470948,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FMM,Merluccius productus,Pacific hake,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Engraulis mordax,Northern anchovy,Table_4_winter,3.7,0.01131498471,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FVS,Lingcod,Lingcod,Table_4_winter,2.4,0.007339449541,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SMD,Hexagrammids,Hexagrammids,Table_4_winter,4.9,0.01498470948,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,PELAGIC,Pleurogrammus monopterygius,Atka mackarel,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Pacific sand lance,Pacific sand lance,Table_4_winter,8.5,0.02599388379,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,BMS,Cephalopod,Cephalopod,Table_4_winter,3.7,0.01131498471,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SQX,Squid,Squid,Table_4_winter,1.2,0.003669724771,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,BMS,Octopus,Octopus,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,SSK,Sharks & rays,Sharks & rays,Table_4_winter,3.7,0.01131498471,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,FPS,Smelts,Smelts,Table_4_winter,6.1,0.01865443425,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,LAMPREY,Pacific lamprey,Pacific lamprey,Table_4_winter,4.9,0.01498470948,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,LAMPREY,Lamprey,Lamprey,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+PIN,adult,Eumetopiad jubatus,Steller sea lion,PELAGIC,Pacific mackerel,Pacific mackerel,Table_4_winter,0,0,4,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,HE,Clupea pallasii,Pacific herring,Table_5_spring_2011,35,0.1014492754,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Clupeid,Clupeid,Table_5_spring_2011,15,0.04347826087,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Alosa sapidissima,American shad,Table_5_spring_2011,25,0.07246376812,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Sardinops sagax,Pacific sardine,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SALMON,Salmon,Non-juvenile salmon,Table_5_spring_2011,25,0.07246376812,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SALMON,Salmon,Juvenile salmon,Table_5_spring_2011,15,0.04347826087,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Pacific hake,Pacific hake,Table_5_spring_2011,40,0.115942029,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,DOG,Squalus acanthias,Spiny dogfish,Table_5_spring_2011,45,0.1304347826,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,ROCKFISH,Rockfish,Sebastes spp.,Table_5_spring_2011,65,0.1884057971,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,BMS,Cephalopod,Cephalopod,Table_5_spring_2011,15,0.04347826087,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,BMS,Octopus,Octopus,Table_5_spring_2011,15,0.04347826087,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SQX,Squid,Squid,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Engraulis mordax,Northern anchovy,Table_5_spring_2011,5,0.01449275362,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Smelts,Smelts,Table_5_spring_2011,15,0.04347826087,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Eulachon,Eulachon,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FISH,Bony fish,Bony fish,Table_5_spring_2011,5,0.01449275362,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,HAP,Atheresthes stomias,Arrowtooth flounder,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FDF,Flatfish,Flatfish,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FDF,Microstomas pacificus,Dover sole,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FDF,Platichthys stellatus,Starry flounder,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SSK,Sharks & rays,Sharks & rays,Table_5_spring_2011,5,0.01449275362,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Codfish,Codfish,Table_5_spring_2011,10,0.02898550725,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Gadus macrocephalus,Pacific cod,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Theragra chalcogramma,Walleye pollock,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SSK,Rajidae,Skate,Table_5_spring_2011,10,0.02898550725,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SMD,Hexagrammids,Hexagrammids,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,PELAGIC,Jackmackerel,Jackmackerel,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,LAMPREY,Pacific lamprey,Pacific lamprey,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SMD,Sculpins,Sculpins,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SMD,Snailfish,Snailfish,Table_5_spring_2011,0,0,5,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,HE,Clupea pallasii,Pacific herring,Table_5_fall_2011,22,0.07013069812,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Clupeid,Clupeid,Table_5_fall_2011,29,0.09244501116,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Alosa sapidissima,American shad,Table_5_fall_2011,36,0.1147593242,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Sardinops sagax,Pacific sardine,Table_5_fall_2011,33,0.1051960472,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SALMON,Salmon,Non-juvenile salmon,Table_5_fall_2011,36,0.1147593242,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SALMON,Salmon,Juvenile salmon,Table_5_fall_2011,6.7,0.02135798534,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Pacific hake,Pacific hake,Table_5_fall_2011,53,0.1689512273,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,DOG,Squalus acanthias,Spiny dogfish,Table_5_fall_2011,29,0.09244501116,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,ROCKFISH,Rockfish,Sebastes spp.,Table_5_fall_2011,8.9,0.02837105515,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,BMS,Cephalopod,Cephalopod,Table_5_fall_2011,0,0,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,BMS,Octopus,Octopus,Table_5_fall_2011,2.2,0.007013069812,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SQX,Squid,Squid,Table_5_fall_2011,2.2,0.007013069812,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Engraulis mordax,Northern anchovy,Table_5_fall_2011,18,0.0573796621,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Smelts,Smelts,Table_5_fall_2011,6.7,0.02135798534,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Eulachon,Eulachon,Table_5_fall_2011,2.2,0.007013069812,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FISH,Bony fish,Bony fish,Table_5_fall_2011,4.4,0.01402613962,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,HAP,Atheresthes stomias,Arrowtooth flounder,Table_5_fall_2011,6.7,0,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FDF,Flatfish,Flatfish,Table_5_fall_2011,4.4,0.02135798534,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FDF,Microstomas pacificus,Dover sole,Table_5_fall_2011,2.2,0.01402613962,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FDF,Platichthys stellatus,Starry flounder,Table_5_fall_2011,0,0.007013069812,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SSK,Sharks & rays,Sharks & rays,Table_5_fall_2011,6.7,0,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Codfish,Codfish,Table_5_fall_2011,0,0.02135798534,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Gadus macrocephalus,Pacific cod,Table_5_fall_2011,0,0,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Theragra chalcogramma,Walleye pollock,Table_5_fall_2011,0,0,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SSK,Rajidae,Skate,Table_5_fall_2011,2.2,0.007013069812,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SMD,Hexagrammids,Hexagrammids,Table_5_fall_2011,0,0,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,PELAGIC,Jackmackerel,Jackmackerel,Table_5_fall_2011,0,0,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,LAMPREY,Pacific lamprey,Pacific lamprey,Table_5_fall_2011,0,0,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SMD,Sculpins,Sculpins,Table_5_fall_2011,0,0,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SMD,Snailfish,Snailfish,Table_5_fall_2011,2.2,0.007013069812,6,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,HE,Clupea pallasii,Pacific herring,Table_5_summer_2012,32,0.1076643564,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Clupeid,Clupeid,Table_5_summer_2012,26,0.08747728955,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Alosa sapidissima,American shad,Table_5_summer_2012,5.3,0.01783190902,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Sardinops sagax,Pacific sardine,Table_5_summer_2012,0.02,6.729022273e-5,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SALMON,Salmon,Non-juvenile salmon,Table_5_summer_2012,42,0.1413094677,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SALMON,Salmon,Juvenile salmon,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Pacific hake,Pacific hake,Table_5_summer_2012,21,0.07065473387,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,DOG,Squalus acanthias,Spiny dogfish,Table_5_summer_2012,58,0.1951416459,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,ROCKFISH,Rockfish,Sebastes spp.,Table_5_summer_2012,21,0.07065473387,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,BMS,Cephalopod,Cephalopod,Table_5_summer_2012,16,0.05383217818,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,BMS,Octopus,Octopus,Table_5_summer_2012,5.3,0.01783190902,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SQX,Squid,Squid,Table_5_summer_2012,11,0.0370096225,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Engraulis mordax,Northern anchovy,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Smelts,Smelts,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Eulachon,Eulachon,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FISH,Bony fish,Bony fish,Table_5_summer_2012,16,0.05383217818,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,HAP,Atheresthes stomias,Arrowtooth flounder,Table_5_summer_2012,11,0.0370096225,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FDF,Flatfish,Flatfish,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FDF,Microstomas pacificus,Dover sole,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FDF,Platichthys stellatus,Starry flounder,Table_5_summer_2012,5.3,0.01783190902,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SSK,Sharks & rays,Sharks & rays,Table_5_summer_2012,11,0.0370096225,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Codfish,Codfish,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Gadus macrocephalus,Pacific cod,Table_5_summer_2012,5.3,0.01783190902,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Theragra chalcogramma,Walleye pollock,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SSK,Rajidae,Skate,Table_5_summer_2012,11,0.0370096225,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SMD,Hexagrammids,Hexagrammids,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,PELAGIC,Jackmackerel,Jackmackerel,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,LAMPREY,Pacific lamprey,Pacific lamprey,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SMD,Sculpins,Sculpins,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SMD,Snailfish,Snailfish,Table_5_summer_2012,0,0,7,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,HE,Clupea pallasii,Pacific herring,Table_5_fall_2012,38,0.1594628619,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Clupeid,Clupeid,Table_5_fall_2012,26,0.1091061687,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Alosa sapidissima,American shad,Table_5_fall_2012,15,0.06294586655,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Sardinops sagax,Pacific sardine,Table_5_fall_2012,20.5,0.08602601762,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SALMON,Salmon,Non-juvenile salmon,Table_5_fall_2012,31,0.1300881242,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SALMON,Salmon,Juvenile salmon,Table_5_fall_2012,5.1,0.02140159463,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Pacific hake,Pacific hake,Table_5_fall_2012,7.7,0.0323122115,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,DOG,Squalus acanthias,Spiny dogfish,Table_5_fall_2012,10,0.04196391104,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,ROCKFISH,Rockfish,Sebastes spp.,Table_5_fall_2012,5.1,0.02140159463,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,BMS,Cephalopod,Cephalopod,Table_5_fall_2012,2.6,0.01091061687,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,BMS,Octopus,Octopus,Table_5_fall_2012,5.1,0.02140159463,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SQX,Squid,Squid,Table_5_fall_2012,2.6,0.01091061687,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Engraulis mordax,Northern anchovy,Table_5_fall_2012,10,0.04196391104,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Smelts,Smelts,Table_5_fall_2012,13,0.05455308435,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FPS,Eulachon,Eulachon,Table_5_fall_2012,0,0,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FISH,Bony fish,Bony fish,Table_5_fall_2012,13,0.05455308435,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,HAP,Atheresthes stomias,Arrowtooth flounder,Table_5_fall_2012,2.6,0.01091061687,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FDF,Flatfish,Flatfish,Table_5_fall_2012,2.6,0.01091061687,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FDF,Microstomas pacificus,Dover sole,Table_5_fall_2012,0,0,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FDF,Platichthys stellatus,Starry flounder,Table_5_fall_2012,0,0,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SSK,Sharks & rays,Sharks & rays,Table_5_fall_2012,5.1,0.02140159463,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Codfish,Codfish,Table_5_fall_2012,5.1,0.02140159463,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Gadus macrocephalus,Pacific cod,Table_5_fall_2012,2.6,0.01091061687,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,FMM,Theragra chalcogramma,Walleye pollock,Table_5_fall_2012,2.6,0.01091061687,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SSK,Rajidae,Skate,Table_5_fall_2012,2.6,0.01091061687,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SMD,Hexagrammids,Hexagrammids,Table_5_fall_2012,2.6,0.01091061687,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,PELAGIC,Jackmackerel,Jackmackerel,Table_5_fall_2012,2.6,0.01091061687,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,LAMPREY,Pacific lamprey,Pacific lamprey,Table_5_fall_2012,2.6,0.01091061687,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SMD,Sculpins,Sculpins,Table_5_fall_2012,2.6,0.01091061687,8,HSL_CSL_Akmajian_2016
+CSL,adult,Zalophus californianus,California sea lion,SMD,Snailfish,Snailfish,Table_5_fall_2012,0,0,8,HSL_CSL_Akmajian_2016

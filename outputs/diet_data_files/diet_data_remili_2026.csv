@@ -1,0 +1,17 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ROR,adult,Orcinus orca,Resident orca,CI,Chinook salmon,Chinook salmon,Figure 5. A. female. median,22.59,0.2574945857,1,remili_2026
+ROR,adult,Orcinus orca,Resident orca,CU,Chum salmon,Chum salmon,Figure 5. A. female. median,7.96,0.09073293058,1,remili_2026
+ROR,adult,Orcinus orca,Resident orca,CO,Coho salmon,Coho salmon,Figure 5. A. female. median,23.96,0.2731106805,1,remili_2026
+ROR,adult,Orcinus orca,Resident orca,SSK,Big skate,Big skate,Figure 5. A. female. median,0.34,0.003875527186,1,remili_2026
+ROR,adult,Orcinus orca,Resident orca,FDF,Dover sole,Dover sole,Figure 5. A. female. median,20.45,0.2331015616,1,remili_2026
+ROR,adult,Orcinus orca,Resident orca,FDF,English sole,English sole,Figure 5. A. female. median,0.56,0.006383221247,1,remili_2026
+ROR,adult,Orcinus orca,Resident orca,FVS,Lingcod,Lingcod,Figure 5. A. female. median,4.4,0.05015388123,1,remili_2026
+ROR,adult,Orcinus orca,Resident orca,HAP,Pacific halibut,Pacific halibut,Figure 5. A. female. median,7.47,0.08514761199,1,remili_2026
+ROR,adult,Orcinus orca,Resident orca,CI,Chinook salmon,Chinook salmon,"Figure 5. A. male, median",32.34,0.3670411985,2,remili_2026
+ROR,adult,Orcinus orca,Resident orca,CU,Chum salmon,Chum salmon,"Figure 5. A. male, median",7.27,0.08251049824,2,remili_2026
+ROR,adult,Orcinus orca,Resident orca,CO,Coho salmon,Coho salmon,"Figure 5. A. male, median",13.6,0.1543525139,2,remili_2026
+ROR,adult,Orcinus orca,Resident orca,SSK,Big skate,Big skate,"Figure 5. A. male, median",0.1,0.001134944955,2,remili_2026
+ROR,adult,Orcinus orca,Resident orca,FDF,Dover sole,Dover sole,"Figure 5. A. male, median",17.6,0.1997503121,2,remili_2026
+ROR,adult,Orcinus orca,Resident orca,FDF,English sole,English sole,"Figure 5. A. male, median",4.63,0.05254795142,2,remili_2026
+ROR,adult,Orcinus orca,Resident orca,FVS,Lingcod,Lingcod,"Figure 5. A. male, median",0.1,0.001134944955,2,remili_2026
+ROR,adult,Orcinus orca,Resident orca,HAP,Pacific halibut,Pacific halibut,"Figure 5. A. male, median",12.47,0.1415276359,2,remili_2026

@@ -1,0 +1,235 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,Table_2_FO_Spring,41,0.1979719942,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupeid spp.,Table_2_FO_Spring,29,0.1400289715,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Gadidae spp.,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Theragra chalcogramma,Table_2_FO_Spring,5.9,0.02848865282,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Merluccius productus,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadids,Microgadus proximus,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Adult salmonid spp.,Table_2_FO_Spring,12,0.05794302269,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,CU,Salmonids,Oncorhynchus keta,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Salmonids,Oncorhynchus nerka,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Juvenile salmonid spp.,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids,Oncorhynchus tshawytscha juvenil,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Salmonids,Oncorhynchus nerka juvenil,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Pacific sandlance,Ammodytes hexapterus,Table_2_FO_Spring,12,0.05794302269,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Nothern anchovy,Engraulis mordax,Table_2_FO_Spring,18,0.08691453404,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Cottid spp.,Table_2_FO_Spring,5.9,0.02848865282,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Leptocottus armatus,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Cottids,Hemilepidotus spp.,Table_2_FO_Spring,5.9,0.02848865282,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Flattfish,Pleuronectids spp.,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopods,Octopus rubescens,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Berryteuthis magister,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Gonathidae,Table_2_FO_Spring,5.9,0.02848865282,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Non identificable ceph. Spp. Statolith only,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Skate spp.,Rajid spp.,Table_2_FO_Spring,12,0.05794302269,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparid spp.,Snailfish spp.,Table_2_FO_Spring,5.9,0.02848865282,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,POP,Shiner perch,Cymatogaster aggregata,Table_2_FO_Spring,18,0.08691453404,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Smelt spp.,Osmerid spp.,Table_2_FO_Spring,5.9,0.02848865282,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Rainbow smelt,Osmerus mordax dentex,Table_2_FO_Spring,5.9,0.02848865282,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Eulachon,Thaleichthys pacificus,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Three-spine stickleback,Gasterosteus aculeatus,Table_2_FO_Spring,12,0.05794302269,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockspine,Scorpaenid spp.,Table_2_FO_Spring,5.9,0.02848865282,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin mindshipmen,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gunnel spp.,Pholid spp.,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,California headlight fish,Diaphus theta,Table_2_FO_Spring,5.9,0.02848865282,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Eelpout spp.,Zoarcid spp.,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Lamprey spp.,Petromyzontid spp.,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_2_FO_Spring,0,0,1,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,Table_2_FO_Summer_Fall,39,0.1651143099,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupeid spp.,Table_2_FO_Summer_Fall,9.8,0.04149026249,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Gadidae spp.,Table_2_FO_Summer_Fall,5.9,0.0249788315,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Theragra chalcogramma,Table_2_FO_Summer_Fall,9.8,0.04149026249,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Merluccius productus,Table_2_FO_Summer_Fall,0,0,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadids,Microgadus proximus,Table_2_FO_Summer_Fall,7.8,0.03302286198,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Adult salmonid spp.,Table_2_FO_Summer_Fall,22,0.09314140559,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,CU,Salmonids,Oncorhynchus keta,Table_2_FO_Summer_Fall,2,0.008467400508,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Salmonids,Oncorhynchus nerka,Table_2_FO_Summer_Fall,2,0.008467400508,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Juvenile salmonid spp.,Table_2_FO_Summer_Fall,9.8,0.04149026249,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids,Oncorhynchus tshawytscha juvenil,Table_2_FO_Summer_Fall,7.8,0.03302286198,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Salmonids,Oncorhynchus nerka juvenil,Table_2_FO_Summer_Fall,2,0.008467400508,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Pacific sandlance,Ammodytes hexapterus,Table_2_FO_Summer_Fall,9.8,0.04149026249,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Nothern anchovy,Engraulis mordax,Table_2_FO_Summer_Fall,2,0.008467400508,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Cottid spp.,Table_2_FO_Summer_Fall,5.9,0.0249788315,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Leptocottus armatus,Table_2_FO_Summer_Fall,14,0.05927180356,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Cottids,Hemilepidotus spp.,Table_2_FO_Summer_Fall,0,0,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Flattfish,Pleuronectids spp.,Table_2_FO_Summer_Fall,2,0.008467400508,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopods,Octopus rubescens,Table_2_FO_Summer_Fall,2,0.008467400508,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Berryteuthis magister,Table_2_FO_Summer_Fall,2,0.008467400508,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Gonathidae,Table_2_FO_Summer_Fall,2,0.008467400508,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Non identificable ceph. Spp. Statolith only,Table_2_FO_Summer_Fall,0,0,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Skate spp.,Rajid spp.,Table_2_FO_Summer_Fall,0,0,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparid spp.,Snailfish spp.,Table_2_FO_Summer_Fall,0,0,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,POP,Shiner perch,Cymatogaster aggregata,Table_2_FO_Summer_Fall,5.9,0.0249788315,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Smelt spp.,Osmerid spp.,Table_2_FO_Summer_Fall,9.8,0.04149026249,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Rainbow smelt,Osmerus mordax dentex,Table_2_FO_Summer_Fall,0,0,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Eulachon,Thaleichthys pacificus,Table_2_FO_Summer_Fall,0,0,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Three-spine stickleback,Gasterosteus aculeatus,Table_2_FO_Summer_Fall,2,0.008467400508,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockspine,Scorpaenid spp.,Table_2_FO_Summer_Fall,12,0.05080440305,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin mindshipmen,Table_2_FO_Summer_Fall,16,0.06773920406,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gunnel spp.,Pholid spp.,Table_2_FO_Summer_Fall,2,0.008467400508,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,California headlight fish,Diaphus theta,Table_2_FO_Summer_Fall,0,0,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Eelpout spp.,Zoarcid spp.,Table_2_FO_Summer_Fall,27,0.1143099069,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Lamprey spp.,Petromyzontid spp.,Table_2_FO_Summer_Fall,3.9,0.01651143099,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_2_FO_Summer_Fall,0,0,2,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,Table_2_FO_Winter,59,0.1731728794,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupeid spp.,Table_2_FO_Winter,3.5,0.01027296742,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Gadidae spp.,Table_2_FO_Winter,14,0.04109186968,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Theragra chalcogramma,Table_2_FO_Winter,21,0.06163780452,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Merluccius productus,Table_2_FO_Winter,6.9,0.02025242149,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadids,Microgadus proximus,Table_2_FO_Winter,6.9,0.02025242149,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Adult salmonid spp.,Table_2_FO_Winter,3.5,0.01027296742,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,CU,Salmonids,Oncorhynchus keta,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Salmonids,Oncorhynchus nerka,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids,Juvenile salmonid spp.,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids,Oncorhynchus tshawytscha juvenil,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Salmonids,Oncorhynchus nerka juvenil,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Pacific sandlance,Ammodytes hexapterus,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Nothern anchovy,Engraulis mordax,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Cottid spp.,Table_2_FO_Winter,17,0.04989727033,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Leptocottus armatus,Table_2_FO_Winter,14,0.04109186968,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Cottids,Hemilepidotus spp.,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Flattfish,Pleuronectids spp.,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Cephalopods,Octopus rubescens,Table_2_FO_Winter,6.9,0.02025242149,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Berryteuthis magister,Table_2_FO_Winter,3.5,0.01027296742,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Gonathidae,Table_2_FO_Winter,6.9,0.02025242149,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Cephalopods,Non identificable ceph. Spp. Statolith only,Table_2_FO_Winter,6.9,0.02025242149,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Skate spp.,Rajid spp.,Table_2_FO_Winter,17,0.04989727033,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Liparid spp.,Snailfish spp.,Table_2_FO_Winter,10,0.02935133549,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,POP,Shiner perch,Cymatogaster aggregata,Table_2_FO_Winter,48,0.1408864103,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Smelt spp.,Osmerid spp.,Table_2_FO_Winter,10,0.02935133549,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Rainbow smelt,Osmerus mordax dentex,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Eulachon,Thaleichthys pacificus,Table_2_FO_Winter,3.4,0.009979454065,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Three-spine stickleback,Gasterosteus aculeatus,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockspine,Scorpaenid spp.,Table_2_FO_Winter,41,0.1203404755,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin mindshipmen,Table_2_FO_Winter,17,0.04989727033,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gunnel spp.,Pholid spp.,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,California headlight fish,Diaphus theta,Table_2_FO_Winter,3.4,0.009979454065,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Eelpout spp.,Zoarcid spp.,Table_2_FO_Winter,14,0.04109186968,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Lamprey spp.,Petromyzontid spp.,Table_2_FO_Winter,0,0,3,HSL_Lance_&_Jefferies_2007
+HSL,adult,Harbor seal,Phoca vitulina,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_2_FO_Winter,6.9,0.02025242149,3,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,HE,Pacific herring,Clupea pallasii,Table_6_FO_Spring_2006_2007,17,0.05482102548,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,HE,Clupeid spp.,Clupeid spp.,Table_6_FO_Spring_2006_2007,33,0.1064172847,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FMM,Codfish spp.,Gadidae spp.,Table_6_FO_Spring_2006_2007,17,0.05482102548,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FMM,Walleye pollock,Theragra chalcogramma,Table_6_FO_Spring_2006_2007,8.3,0.0267655595,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Pacific sandlance,Ammodytes hexapterus,Table_6_FO_Spring_2006_2007,8.3,0.0267655595,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,DOG,Spiny dogfish,Squalus acanthias,Table_6_FO_Spring_2006_2007,8.3,0.0267655595,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FDF,Righteye flounder spp.,Pleuronectid spp.,Table_6_FO_Spring_2006_2007,17,0.05482102548,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,BMS,Cephalopoda,Octopus rubescens,Table_6_FO_Spring_2006_2007,8.3,0.0267655595,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Cephalopoda,Not identifiable ceph. spp.,Table_6_FO_Spring_2006_2007,8.3,0.0267655595,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SSK,Skate spp.,Rajid spp.,Table_6_FO_Spring_2006_2007,92,0.2966784908,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Liparidid spp.,Snailfish spp.,Table_6_FO_Spring_2006_2007,8.3,0.0267655595,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Three-spine stickleback,Gasterosteus aculeatus,Table_6_FO_Spring_2006_2007,42,0.1354401806,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,ROCKFISH,Rockfish spp.,Scorpaenid spp.,Table_6_FO_Spring_2006_2007,8.3,0.0267655595,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FISH,Not identifiable fish. spp.,Not identifiable fish. spp.,Table_6_FO_Spring_2006_2007,17,0.05482102548,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FISH,Not identifiable fish. spp.,Not identifiable fish. spp.,Table_6_FO_Spring_2006_2007,17,0.05482102548,4,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,HE,Clupeids,Clupea pallasii,Table_3_FO_Spring,98,0.4977145759,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,HE,Clupeids,Clupeid spp.,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Clupeids,Alosa sapidissima,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FMM,Gadidae,Gadidae spp.,Table_3_FO_Spring,8.2,0.04164550533,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FMM,Gadidae,Theragra chalcogramma,Table_3_FO_Spring,8.2,0.04164550533,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FMM,Gadidae,Merluccius productus,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Gadidae,Microgadus proximus,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SALMON,Salmonidae,Adult salmonid spp.,Table_3_FO_Spring,6.6,0.03351955307,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,CU,Salmonidae,Oncorhynchus keta,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SAL,Salmonidae,Oncorhynchus nerka,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,CO,Salmonidae,Oncorhynchus kisutch,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SALMON,Salmonidae,Juvenile salmonid spp.,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,CI,Salmonidae,Oncorhynchus tshawytscha,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Pacific sandlance,Ammodytes hexapterus,Table_3_FO_Spring,16,0.0812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Northern anchovy,Engraulis mordax,Table_3_FO_Spring,26,0.1320467242,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,DOG,Spiny dogfish,Squalus acanthias,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Cottidae,Cottid spp. Sculpin spp.,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,ROC,Cottidae,Hemilepidotus spp.,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FDF,Flatfish,Pleuronectid spp. Righteye flounder spp.,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,BMS,Cephalopoda,Octopus rubescens,Table_3_FO_Spring,3.3,0.01675977654,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Cephalopoda,Berryteuthis magister,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Cephalopoda,Loligo opalescens,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Cephalopoda,Gonatidae spp.,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Not identifiable ceph. spp. statolith only,Not identifiable ceph. spp. statolith only,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SSK,Skate spp.,Rajid spp.,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Snailfish spp.,Liparidid spp.,Table_3_FO_Spring,4.9,0.0248857288,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Osmerid spp.,smelt spp.,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Thaleichthys pacificus,Eulachon,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Three-spine stickleback,Gasterosteus aculeatus,Table_3_FO_Spring,3.3,0.01675977654,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,ROCKFISH,Rockfish spp.,Scorpaenid spp.,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Gunnel spp.,Pholid spp.,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,MYCTOPHID,California headlight fish,Diaphus theta,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Zoarcid spp.,Eelpout spp.,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,LAMPREY,Lamprey spp.,Petromizontid spp.,Table_3_FO_Spring,0,0,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,MYCTOPHID,Stenobrachius leucopsarus,Northern lampfish,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FISH,Not identifiable fish spp.,Not identifiable fish spp.,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_3_FO_Spring,1.6,0.00812595226,5,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,HE,Clupeids,Clupea pallasii,Table_3_FO_Summer_Fall,17,0.07286755251,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,HE,Clupeids,Clupeid spp.,Table_3_FO_Summer_Fall,14,0.06000857265,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Clupeids,Alosa sapidissima,Table_3_FO_Summer_Fall,1.6,0.006858122589,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FMM,Gadidae,Gadidae spp.,Table_3_FO_Summer_Fall,6.2,0.02657522503,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FMM,Gadidae,Theragra chalcogramma,Table_3_FO_Summer_Fall,16,0.06858122589,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FMM,Gadidae,Merluccius productus,Table_3_FO_Summer_Fall,4.7,0.02014573511,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Gadidae,Microgadus proximus,Table_3_FO_Summer_Fall,0,0,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SALMON,Salmonidae,Adult salmonid spp.,Table_3_FO_Summer_Fall,67,0.2871838834,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,CU,Salmonidae,Oncorhynchus keta,Table_3_FO_Summer_Fall,9.4,0.04029147021,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SAL,Salmonidae,Oncorhynchus nerka,Table_3_FO_Summer_Fall,1.6,0.006858122589,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,CO,Salmonidae,Oncorhynchus kisutch,Table_3_FO_Summer_Fall,1.6,0.006858122589,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SALMON,Salmonidae,Juvenile salmonid spp.,Table_3_FO_Summer_Fall,11,0.0471495928,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,CI,Salmonidae,Oncorhynchus tshawytscha,Table_3_FO_Summer_Fall,0,0,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Pacific sandlance,Ammodytes hexapterus,Table_3_FO_Summer_Fall,22,0.0942991856,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Northern anchovy,Engraulis mordax,Table_3_FO_Summer_Fall,4.7,0.02014573511,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,DOG,Spiny dogfish,Squalus acanthias,Table_3_FO_Summer_Fall,1.6,0.006858122589,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Cottidae,Cottid spp. Sculpin spp.,Table_3_FO_Summer_Fall,0,0,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,ROC,Cottidae,Hemilepidotus spp.,Table_3_FO_Summer_Fall,4.7,0.02014573511,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FDF,Flatfish,Pleuronectid spp. Righteye flounder spp.,Table_3_FO_Summer_Fall,1.6,0.006858122589,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,BMS,Cephalopoda,Octopus rubescens,Table_3_FO_Summer_Fall,0,0,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Cephalopoda,Berryteuthis magister,Table_3_FO_Summer_Fall,7.8,0.03343334762,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Cephalopoda,Loligo opalescens,Table_3_FO_Summer_Fall,3.1,0.01328761252,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Cephalopoda,Gonatidae spp.,Table_3_FO_Summer_Fall,0,0,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Not identifiable ceph. spp. statolith only,Not identifiable ceph. spp. statolith only,Table_3_FO_Summer_Fall,6.3,0.02700385769,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SSK,Skate spp.,Rajid spp.,Table_3_FO_Summer_Fall,3.1,0.01328761252,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Snailfish spp.,Liparidid spp.,Table_3_FO_Summer_Fall,3.1,0.01328761252,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Osmerid spp.,smelt spp.,Table_3_FO_Summer_Fall,1.6,0.006858122589,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Thaleichthys pacificus,Eulachon,Table_3_FO_Summer_Fall,0,0,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Three-spine stickleback,Gasterosteus aculeatus,Table_3_FO_Summer_Fall,4.7,0.02014573511,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,ROCKFISH,Rockfish spp.,Scorpaenid spp.,Table_3_FO_Summer_Fall,6.3,0.02700385769,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Gunnel spp.,Pholid spp.,Table_3_FO_Summer_Fall,1.6,0.006858122589,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,MYCTOPHID,California headlight fish,Diaphus theta,Table_3_FO_Summer_Fall,0,0,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Zoarcid spp.,Eelpout spp.,Table_3_FO_Summer_Fall,3.1,0.01328761252,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,LAMPREY,Lamprey spp.,Petromizontid spp.,Table_3_FO_Summer_Fall,6.3,0.02700385769,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,MYCTOPHID,Stenobrachius leucopsarus,Northern lampfish,Table_3_FO_Summer_Fall,0,0,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FISH,Not identifiable fish spp.,Not identifiable fish spp.,Table_3_FO_Summer_Fall,1.6,0.006858122589,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_3_FO_Summer_Fall,0,0,6,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,HE,Clupeids,Clupea pallasii,Table_3_FO_Winter,81,0.298562477,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,HE,Clupeids,Clupeid spp.,Table_3_FO_Winter,19,0.07003317361,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Clupeids,Alosa sapidissima,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FMM,Gadidae,Gadidae spp.,Table_3_FO_Winter,6.3,0.02322152599,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FMM,Gadidae,Theragra chalcogramma,Table_3_FO_Winter,31,0.1142646517,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FMM,Gadidae,Merluccius productus,Table_3_FO_Winter,13,0.04791743457,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Gadidae,Microgadus proximus,Table_3_FO_Winter,6.3,0.02322152599,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SALMON,Salmonidae,Adult salmonid spp.,Table_3_FO_Winter,13,0.04791743457,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,CU,Salmonidae,Oncorhynchus keta,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SAL,Salmonidae,Oncorhynchus nerka,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,CO,Salmonidae,Oncorhynchus kisutch,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SALMON,Salmonidae,Juvenile salmonid spp.,Table_3_FO_Winter,6.3,0.02322152599,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,CI,Salmonidae,Oncorhynchus tshawytscha,Table_3_FO_Winter,6.3,0.02322152599,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Pacific sandlance,Ammodytes hexapterus,Table_3_FO_Winter,19,0.07003317361,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Northern anchovy,Engraulis mordax,Table_3_FO_Winter,6.3,0.02322152599,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,DOG,Spiny dogfish,Squalus acanthias,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Cottidae,Cottid spp. Sculpin spp.,Table_3_FO_Winter,6.3,0.02322152599,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,ROC,Cottidae,Hemilepidotus spp.,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FDF,Flatfish,Pleuronectid spp. Righteye flounder spp.,Table_3_FO_Winter,6.3,0.02322152599,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,BMS,Cephalopoda,Octopus rubescens,Table_3_FO_Winter,6.3,0.02322152599,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Cephalopoda,Berryteuthis magister,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Cephalopoda,Loligo opalescens,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Cephalopoda,Gonatidae spp.,Table_3_FO_Winter,6.3,0.02322152599,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SQX,Not identifiable ceph. spp. statolith only,Not identifiable ceph. spp. statolith only,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SSK,Skate spp.,Rajid spp.,Table_3_FO_Winter,13,0.04791743457,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Snailfish spp.,Liparidid spp.,Table_3_FO_Winter,6.3,0.02322152599,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Osmerid spp.,smelt spp.,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FPS,Thaleichthys pacificus,Eulachon,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Three-spine stickleback,Gasterosteus aculeatus,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,ROCKFISH,Rockfish spp.,Scorpaenid spp.,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Gunnel spp.,Pholid spp.,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,MYCTOPHID,California headlight fish,Diaphus theta,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,SMD,Zoarcid spp.,Eelpout spp.,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,LAMPREY,Lamprey spp.,Petromizontid spp.,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,MYCTOPHID,Stenobrachius leucopsarus,Northern lampfish,Table_3_FO_Winter,0,0,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FISH,Not identifiable fish spp.,Not identifiable fish spp.,Table_3_FO_Winter,6.3,0.02322152599,7,HSL_Lance_&_Jefferies_2007
+PIN,adult,Steller sea lion,Eumetopias jubatus,FISH,Unidentifiable fish spp.,Unidentifiable fish spp.,Table_3_FO_Winter,13,0.04791743457,7,HSL_Lance_&_Jefferies_2007

@@ -1,0 +1,81 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,figure_12,25.92,0.1412842036,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Other Diptera,Diptera,figure_12,4.25,0.02316581271,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Crustacea,Calanoida,figure_12,14.04,0.07652894364,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera-aphidoidea,figure_12,1.53,0.008339692576,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,figure_12,1.66,0.009048293906,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Inorganic,Inorganic,figure_12,1.42,0.007740106835,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Aphididae,Insecta,figure_12,2.82,0.01537119808,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda-brachyura,figure_12,2.54,0.01384497983,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Harpacticoida,figure_12,0.41,0.002234819579,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Other Diptera,Diptera,figure_12,2.59,0.01411751881,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Nematocera,figure_12,1.17,0.00637741197,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Drosophiloidea,figure_12,92,0.5014717105,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Pleocyemata-caridea,figure_12,0.31,0.001689741633,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Crustacea,Balanomorpha,figure_12,0.28,0.001526218249,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Araneae,Araneae,figure_12,0.21,0.001144663687,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Cumacea,figure_12,0.22,0.001199171482,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera,figure_12,1.07,0.005832334024,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Scolioidea,Scolioidea,figure_12,2.54,0.01384497983,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psylloidea,figure_12,0.85,0.004633162542,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda-Hyperiidea,figure_12,0.18,9.811403031e-4,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Mysida,figure_12,8.21,0.04475089938,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Gnathostomata,Osteichthyes,figure_12,3.82,0.02082197754,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BFF,Appendicularia,Larvacea-copelata,figure_12,0.02,1.090155892e-4,1,Salmon_Meyer_et_al_1981_A
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Perciformes-Ammodytodei,figure_12,15.4,0.08394200371,1,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Other Diptera,Diptera,figure_13,3.05,0.03216620966,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Gammaridea,figure_13,30.16,0.3180763552,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Inorganic,Inorganic,figure_13,8.64,0.09112001687,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Aphididae,Insecta,figure_13,3.74,0.03944315545,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,Cumacea,figure_13,2.37,0.02499472685,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,Mysida,figure_13,3.24,0.03417000633,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Arachnida,Acarina,figure_13,0.24,0.00253111158,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Homoptera-Aphidoidea,figure_13,0.27,0.002847500527,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,MA,Chlorophyta,Chlorophycea,figure_13,0.91,0.009597131407,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,SG,Monocotyledoneae,Monocotyledoneae,figure_13,0.01,1.054629825e-4,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BFF,Crustacea,Balanomorpha,figure_13,0.57,0.006011390002,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Other Diptera,Diptera,figure_13,3.92,0.04134148914,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,figure_13,0.12,0.00126555579,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Harpacticoida,figure_13,0.03,3.163889475e-4,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Gnathostomata,Osteichthyes,figure_13,18.82,0.1984813331,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Coleoptera-adephaga,figure_13,1,0.01054629825,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Hymenoptera,Apoidea,figure_13,7.55,0.07962455178,2,Salmon_Meyer_et_al_1981_A
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,SALMON,Actinopterygii,Salmoniformes,figure_13,10.18,0.1073613162,2,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,figure_14,19.04,0.1991423491,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,figure_14,1.12,0.01171425583,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,figure_14,19.1,0.1997698985,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Homoptera-aphideidea,figure_14,1.71,0.01788515846,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psylloidea,figure_14,1.84,0.01924484887,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Nematocera,figure_14,0.4,0.004183662797,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Aphididae,Insecta,figure_14,1.03,0.0107729317,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Inorganic,Inorganic,figure_14,1.88,0.01966321514,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Cumacea,figure_14,0.67,0.007007635185,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,figure_14,39.73,0.4155423073,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Drosophiloidea,figure_14,1.07,0.01119129798,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hexapoda,Collembola,figure_14,0.14,0.001464281979,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Cyclopoida,figure_14,0.19,0.001987239828,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Annelida,Oligochaeta,figure_14,0.24,0.002510197678,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Mycetophidoidea,figure_14,0.31,0.003242338668,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Other Diptera,Diptera,figure_14,0.18,0.001882648259,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Araneae,Araneae,figure_14,0.23,0.002405606108,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Coleoptera-staphylinoidea,figure_14,0.33,0.003451521807,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Crustacea,Balanomorpha,figure_14,0.05,5.229578496e-4,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysida,figure_14,3.08,0.03221420354,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arachnida,Acarina,figure_14,0.03,3.137747098e-4,3,Salmon_Meyer_et_al_1981_A
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Hymenoptera,figure_14,3.24,0.03388766865,3,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,PWN,Crustacea,Mysida,figure_15,12.4,0.1256841678,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,NA,Inorganic,Inorganic,figure_15,3.17,0.03213054936,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,INSECT,Aphididae,Insecta,figure_15,1.43,0.01449422258,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,BD,Crustacea,Gammaridea,figure_15,1.18,0.01196026759,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,INSECT,Insecta,Tricoptera,figure_15,0.46,0.004662477194,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,BD,Crustacea,Flabellifera,figure_15,0.36,0.003648895196,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,INSECT,Insecta,Homoptera-Aphidoidea,figure_15,0.02,2.027163998e-4,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,MA,Chlorophyta,Chlorophyceae,figure_15,0.11,0.001114940199,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,INSECT,Other Diptera,Diptera,figure_15,0.02,2.027163998e-4,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,SG,Dicotyledonae,Dicotyledonae,figure_15,0.19,0.001925805798,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,FISH,Gnathostomata,Osteichthyes,figure_15,14.33,0.1452463004,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,SALMON,Actinopterygii,Salmoniformes,figure_15,55.1,0.5584836813,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,ROCKFISH,Scorpaenid spp.,Scorpaenid spp.,figure_15,3.03,0.03071153456,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,SG,Monocotyledoneae,Monocotyledoneae,figure_15,3.81,0.03861747415,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,BFF,Cipripedia,Cipripedia,figure_15,0.7,0.007095073991,4,Salmon_Meyer_et_al_1981_A
+STEELHEAD,juvenile,Steelhead,Oncorhynchus mykiss,NA,Rodentia,Rodentia,figure_15,2.35,0.02381917697,4,Salmon_Meyer_et_al_1981_A

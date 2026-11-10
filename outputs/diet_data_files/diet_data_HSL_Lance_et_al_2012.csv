@@ -1,0 +1,208 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,FO_Summer_Fall,28.74,0.1417299536,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Herrings,FO_Summer_Fall,17.51,0.08634973863,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Alosa sapidissima,FO_Summer_Fall,0.76,0.003747904133,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Sardinops sagax,FO_Summer_Fall,0.25,0.001232863201,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids_adult,Unident. Salmonids,FO_Summer_Fall,51.37,0.2533287306,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Salmonids_adult,Oncorhynchus gorbuscha,FO_Summer_Fall,2,0.009862905612,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CO,Salmonids_adult,Oncorhynchus kisutch,FO_Summer_Fall,1.6,0.00789032449,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CU,Salmonids_adult,Oncorhynchus keta,FO_Summer_Fall,1.59,0.007841009962,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Salmonids_adult,Oncorhynchus nerka,FO_Summer_Fall,0.81,0.003994476773,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids_adult,Oncorhynchus tshawytscha,FO_Summer_Fall,0.58,0.002860242627,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Sand lance,Ammodytes hexapterus,FO_Summer_Fall,10.06,0.04961041523,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Anchovy,Engraulis mordax,FO_Summer_Fall,1.19,0.005868428839,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Theragra chalcogramma,FO_Summer_Fall,12.19,0.06011440971,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Unident. Gadids,FO_Summer_Fall,7.3,0.03599960548,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Merluccius productus,FO_Summer_Fall,1.97,0.009714962028,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadids,Microgadus proximus,FO_Summer_Fall,0.41,0.00202189565,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Gadus macrocephalus,FO_Summer_Fall,0.08,3.945162245e-4,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids_juvenile,Unident. Salmonids,FO_Summer_Fall,11.58,0.057106223489999997,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids_juvenile,Oncorhynchus tshawytscha,FO_Summer_Fall,4.75,0.02342440083,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CO,Salmonids_juvenile,Oncorhynchus kisutch,FO_Summer_Fall,0.2,9.862905612e-4,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Salmonids_juvenile,Oncorhynchus nerka,FO_Summer_Fall,0.08,3.945162245e-4,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Unident.cottids,FO_Summer_Fall,2.57,0.01267383371,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Leptocottus armatus,FO_Summer_Fall,4.59,0.02263536838,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Cottids,Hemilepidotus spp.,FO_Summer_Fall,2.46,0.0121313739,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Aspicottus bison,FO_Summer_Fall,0.05,2.465726403e-4,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surf perch,Cymatogaster aggregata,FO_Summer_Fall,2.89,0.01425189861,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockfish,Unident. Scorpaenids,FO_Summer_Fall,2.75,0.01356149522,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockfish,Unident. Scorpaenids adult,FO_Summer_Fall,0.22,0.001084919617,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockfish,Unident. Scorpaenids juvenile,FO_Summer_Fall,0.13,6.410888648e-4,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,DOG,Spiny dogfish,Squalus acanthias,FO_Summer_Fall,0.96,0.004734194694,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Snailfishes,Unident. Liparidids,FO_Summer_Fall,0.42,0.002071210179,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Skates,Unident. Rajids,FO_Summer_Fall,1.94,0.009567018444,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Eelpouts,Unident. Zoarcids,FO_Summer_Fall,4.52,0.02229016668,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Righteye flounders,Unident. Pleuronectids,FO_Summer_Fall,2.76,0.01361080974,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,FO_Summer_Fall,0.96,0.004734194694,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Unident. Pholids,Gunnels,FO_Summer_Fall,1.83,0.009024558635,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,FO_Summer_Fall,1.79,0.008827300523,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Unident. Petromyzontids,Lampreys,FO_Summer_Fall,1.72,0.008482098826,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Unident. Osmerids,smelts,FO_Summer_Fall,1.38,0.006805404872,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,FO_Summer_Fall,1.3,0.006410888648,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,FO_Summer_Fall,1.11,0.005473912615,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,FO_Summer_Fall,1.3,0.006410888648,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,FO_Summer_Fall,1.11,0.005473912615,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,FO_Summer_Fall,0.76,0.003747904133,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Thaleichthys pacificus,Eulachon,FO_Summer_Fall,0.7,0.003452016964,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenlings,FO_Summer_Fall,0.46,0.002268468291,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Diaphua theta,California headligth fish,FO_Summer_Fall,0.5,0.002465726403,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FVS,Anarrhichthys ocellatus,Wolf eel,FO_Summer_Fall,0.32,0.001578064898,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FRESHWATER,Cryptacanthodes giganteus,Cryptacanthodes giganteus,FO_Summer_Fall,0.31,0.00152875037,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Microstomus pacificus,Dover sole,FO_Summer_Fall,0.27,0.001331492258,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Unident. Bothids,Lefteye flounders,FO_Summer_Fall,0.23,0.001134234145,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Unident. Stichaeids,Pricklebacks,FO_Summer_Fall,0.23,0.001134234145,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Unident. Shrimps,Shrimps,FO_Summer_Fall,0.2,9.862905612e-4,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Ronquilus jordani,Northern ronquil,FO_Summer_Fall,0.16,7.89032449e-4,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Isopsetta isolepis,Butter sole,FO_Summer_Fall,0.08,3.945162245e-4,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,BML,Unident. Crustaceans,Crustaceans,FO_Summer_Fall,0.08,3.945162245e-4,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Errex zachirus,Rex sole,FO_Summer_Fall,0.08,3.945162245e-4,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Unident. Bothids/pleuronectids,Flatfish,FO_Summer_Fall,0.04,1.972581122e-4,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Stenobrachius leucopsarus,Northern lampfish,FO_Summer_Fall,0,0,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Unident. Argentinids,Argentines,FO_Summer_Fall,0,0,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CU,Scomber japonicus,Chum mackarel,FO_Summer_Fall,0,0,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FVS,Ophion elongatus,Lingcod,FO_Summer_Fall,0,0,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Psettichthys melanostictus,Pacific sand sole,FO_Summer_Fall,0,0,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Pacific red octopus,FO_Summer_Fall,1.69,0.008334155242,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Berryteuthis magister,Magister armhook squid,FO_Summer_Fall,1.76,0.008679356939,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Gonatus onyx,Clawed armhook squid,FO_Summer_Fall,0.71,0.003501331492,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Loligo spp.,Cephalopods,FO_Summer_Fall,0,0,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Gonatus spp.,Cephalopods,FO_Summer_Fall,0.12,5.917743367e-4,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Unident. Cephalopods,Cephalopods,FO_Summer_Fall,0.3,0.001479435842,1,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,FO_Winter,38.84,0.1649396976,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Herrings,FO_Winter,16.05,0.06815865466,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Alosa sapidissima,FO_Winter,2.84,0.01206047223,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Sardinops sagax,FO_Winter,0.16,6.794632241e-4,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids_adult,Unident. Salmonids,FO_Winter,8.99,0.0381773399,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Salmonids_adult,Oncorhynchus gorbuscha,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CO,Salmonids_adult,Oncorhynchus kisutch,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CU,Salmonids_adult,Oncorhynchus keta,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Salmonids_adult,Oncorhynchus nerka,FO_Winter,2.25,0.009554951588,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids_adult,Oncorhynchus tshawytscha,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Sand lance,Ammodytes hexapterus,FO_Winter,32.83,0.1394173603,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Anchovy,Engraulis mordax,FO_Winter,17.5,0.07431629013,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Theragra chalcogramma,FO_Winter,8.8,0.03737047732,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Unident. Gadids,FO_Winter,13.96,0.0592831663,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Merluccius productus,FO_Winter,5.2,0.02208255478,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadids,Microgadus proximus,FO_Winter,0.92,0.003906913538,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Gadus macrocephalus,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids_juvenile,Unident. Salmonids,FO_Winter,0.73,0.00310005096,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids_juvenile,Oncorhynchus tshawytscha,FO_Winter,0.73,0.00310005096,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CO,Salmonids_juvenile,Oncorhynchus kisutch,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Salmonids_juvenile,Oncorhynchus nerka,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Unident.cottids,FO_Winter,7.74,0.03286903346,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Leptocottus armatus,FO_Winter,3.23,0.01371666384,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Cottids,Hemilepidotus spp.,FO_Winter,5.89,0.02501273994,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Aspicottus bison,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surf perch,Cymatogaster aggregata,FO_Winter,6.87,0.02917445218,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockfish,Unident. Scorpaenids,FO_Winter,5.43,0.02305928317,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockfish,Unident. Scorpaenids adult,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockfish,Unident. Scorpaenids juvenile,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,DOG,Spiny dogfish,Squalus acanthias,FO_Winter,13.1,0.05563105147,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Snailfishes,Unident. Liparidids,FO_Winter,12.08,0.05129947342,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Skates,Unident. Rajids,FO_Winter,10.68,0.04535417021,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Eelpouts,Unident. Zoarcids,FO_Winter,0.86,0.003652114829,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Righteye flounders,Unident. Pleuronectids,FO_Winter,3,0.01273993545,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,FO_Winter,2.56,0.01087141158,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Unident. Pholids,Gunnels,FO_Winter,0.57,0.002420587736,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,FO_Winter,0.65,0.002760319348,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Unident. Petromyzontids,Lampreys,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Unident. Osmerids,smelts,FO_Winter,0.77,0.003269916766,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,FO_Winter,3.34,0.0141837948,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Thaleichthys pacificus,Eulachon,FO_Winter,0.1,4.24664515e-4,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenlings,FO_Winter,0.82,0.003482249023,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Diaphua theta,California headligth fish,FO_Winter,0.1,4.24664515e-4,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FVS,Anarrhichthys ocellatus,Wolf eel,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FRESHWATER,Cryptacanthodes giganteus,Cryptacanthodes giganteus,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Microstomus pacificus,Dover sole,FO_Winter,0.41,0.001741124512,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Unident. Bothids,Lefteye flounders,FO_Winter,0.41,0.001741124512,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Unident. Stichaeids,Pricklebacks,FO_Winter,0.1,4.24664515e-4,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Unident. Shrimps,Shrimps,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Ronquilus jordani,Northern ronquil,FO_Winter,0.41,0.001741124512,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Isopsetta isolepis,Butter sole,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,BML,Unident. Crustaceans,Crustaceans,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Errex zachirus,Rex sole,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Unident. Bothids/pleuronectids,Flatfish,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Stenobrachius leucopsarus,Northern lampfish,FO_Winter,0.41,0.001741124512,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Unident. Argentinids,Argentines,FO_Winter,0.82,0.003482249023,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CU,Scomber japonicus,Chum mackarel,FO_Winter,0.41,0.001741124512,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FVS,Ophion elongatus,Lingcod,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Psettichthys melanostictus,Pacific sand sole,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Pacific red octopus,FO_Winter,1.95,0.008280958043,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Berryteuthis magister,Magister armhook squid,FO_Winter,0.91,0.003864447087,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Gonatus onyx,Clawed armhook squid,FO_Winter,0.82,0.003482249023,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Loligo spp.,Cephalopods,FO_Winter,0.32,0.001358926448,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Gonatus spp.,Cephalopods,FO_Winter,0,0,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Unident. Cephalopods,Cephalopods,FO_Winter,0.92,0.003906913538,2,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Clupea pallasii,FO_Spring,63.05,0.2903656627,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,HE,Clupeids,Herrings,FO_Spring,7.76,0.03573731233,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Alosa sapidissima,FO_Spring,2.49,0.01146725615,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Clupeids,Sardinops sagax,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids_adult,Unident. Salmonids,FO_Spring,4.16,0.01915814682,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,PIS,Salmonids_adult,Oncorhynchus gorbuscha,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CO,Salmonids_adult,Oncorhynchus kisutch,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CU,Salmonids_adult,Oncorhynchus keta,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Salmonids_adult,Oncorhynchus nerka,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids_adult,Oncorhynchus tshawytscha,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Sand lance,Ammodytes hexapterus,FO_Spring,25.02,0.1152252003,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Anchovy,Engraulis mordax,FO_Spring,10.22,0.04706640877,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Theragra chalcogramma,FO_Spring,13.23,0.06092843327,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Unident. Gadids,FO_Spring,15.03,0.06921801603,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Merluccius productus,FO_Spring,6.78,0.03122409505,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gadids,Microgadus proximus,FO_Spring,0.63,0.002901353965,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FMM,Gadids,Gadus macrocephalus,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SALMON,Salmonids_juvenile,Unident. Salmonids,FO_Spring,1.09,0.005019802892,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CI,Salmonids_juvenile,Oncorhynchus tshawytscha,FO_Spring,1.56,0.007184305057,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CO,Salmonids_juvenile,Oncorhynchus kisutch,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SAL,Salmonids_juvenile,Oncorhynchus nerka,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Unident.cottids,FO_Spring,11.27,0.05190199871,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Leptocottus armatus,FO_Spring,1.83,0.00842774247,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,ROC,Cottids,Hemilepidotus spp.,FO_Spring,0.61,0.00280924749,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Cottids,Aspicottus bison,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,POP,Surf perch,Cymatogaster aggregata,FO_Spring,4.09,0.01883577415,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockfish,Unident. Scorpaenids,FO_Spring,3.55,0.01634889933,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockfish,Unident. Scorpaenids adult,FO_Spring,0.8,0.003684259003,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,ROCKFISH,Rockfish,Unident. Scorpaenids juvenile,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,DOG,Spiny dogfish,Squalus acanthias,FO_Spring,1.24,0.005710601455,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Snailfishes,Unident. Liparidids,FO_Spring,5.81,0.02675693101,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SSK,Skates,Unident. Rajids,FO_Spring,8.29,0.03817813392,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Eelpouts,Unident. Zoarcids,FO_Spring,1.19,0.005480335268,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Righteye flounders,Unident. Pleuronectids,FO_Spring,5.1,0.02348715115,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Gasterosteus aculeatus,Three-spine stickleback,FO_Spring,6.21,0.02859906051,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Unident. Pholids,Gunnels,FO_Spring,0.85,0.003914525191,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Porichthys notatus,Plainfin midshipman,FO_Spring,2.21,0.0101777655,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,LAMPREY,Unident. Petromyzontids,Lampreys,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Unident. Osmerids,smelts,FO_Spring,0.66,0.003039513678,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,FO_Spring,0.19,8.750115133e-4,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,FO_Spring,0.36,0.001657916552,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Pleuronectes vetulus,English sole,FO_Spring,0.19,8.750115133e-4,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Hypomesus pretiosus,Surf smelt,FO_Spring,0.36,0.001657916552,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Platichthys stellatus,Starry flounder,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Thaleichthys pacificus,Eulachon,FO_Spring,1.05,0.004835589942,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Hexagrammid species,Greenlings,FO_Spring,0.75,0.003453992816,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Diaphua theta,California headligth fish,FO_Spring,0.57,0.00262503454,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FVS,Anarrhichthys ocellatus,Wolf eel,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FRESHWATER,Cryptacanthodes giganteus,Cryptacanthodes giganteus,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Microstomus pacificus,Dover sole,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Unident. Bothids,Lefteye flounders,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Unident. Stichaeids,Pricklebacks,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,PWN,Unident. Shrimps,Shrimps,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SMD,Ronquilus jordani,Northern ronquil,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Isopsetta isolepis,Butter sole,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,BML,Unident. Crustaceans,Crustaceans,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Errex zachirus,Rex sole,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Unident. Bothids/pleuronectids,Flatfish,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,MYCTOPHID,Stenobrachius leucopsarus,Northern lampfish,FO_Spring,0.44,0.002026342452,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FPS,Unident. Argentinids,Argentines,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,CU,Scomber japonicus,Chum mackarel,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FVS,Ophion elongatus,Lingcod,FO_Spring,0.28,0.001289490651,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,FDF,Psettichthys melanostictus,Pacific sand sole,FO_Spring,0.1,4.605323754e-4,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,BMS,Octopus rubescens,Pacific red octopus,FO_Spring,5.33,0.02454637561,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Berryteuthis magister,Magister armhook squid,FO_Spring,0.91,0.004190844616,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Gonatus onyx,Clawed armhook squid,FO_Spring,1.13,0.005204015842,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Loligo spp.,Cephalopods,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Gonatus spp.,Cephalopods,FO_Spring,0,0,3,HSL_Lance_et_al_2012
+HSL,adult,Harbor seal,Phoca vitulina,SQX,Unident. Cephalopods,Cephalopods,FO_Spring,0.75,0.003453992816,3,HSL_Lance_et_al_2012

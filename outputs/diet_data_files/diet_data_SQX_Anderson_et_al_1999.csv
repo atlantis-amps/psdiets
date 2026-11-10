@@ -1,0 +1,19 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+BMS,INVERT,red octopus,red octopus,BC,sea snail,Olivella baetica,Table_3,13,0.1780821918,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BFF,Barnacle,Barnacle fragments,Table_3,15,0.2054794521,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BMD,Alia sp.,Alia sp.,Table_3,11,0.1506849315,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BMD,Kurtizella sp.,Kurtizella sp.,Table_3,7,0.09589041096,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BC,Mollusca,Nassarius mendicus,Table_3,6,0.08219178082,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BIV,Mollusca,Pododesmus macrochishma,Table_3,2,0.02739726027,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BIV,Mollusca,Clinocardium nuttalli,Table_3,4,0.05479452055,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BIV,Mollusca,Protothaca staminea,Table_3,3,0.04109589041,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BMD,Mollusca,Eulima sp.,Table_3,1,0.01369863014,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BIV,Mollusca,Lucinoma annulata,Table_3,1,0.01369863014,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BIV,Mollusca,Macoma nasuta,Table_3,1,0.01369863014,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BMD,Mollusca,Polinices lewisii,Table_3,1,0.01369863014,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BIV,Mollusca,Chlamys hastata,Table_3,3,0.04109589041,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BML,Crustacea,Cancer oregonensis,Table_3,1,0.01369863014,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BFF,Mollusca,Crepipatella lingulata,Table_3,1,0.01369863014,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BIV,Mollusca,Simomactra falcata,Table_3,1,0.01369863014,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BMD,Mollusca,Natica clausa,Table_3,1,0.01369863014,1,SQX_Anderson_et_al_1999
+BMS,INVERT,red octopus,red octopus,BC,Mollusca,Odostomia sp.,Table_3,1,0.01369863014,1,SQX_Anderson_et_al_1999

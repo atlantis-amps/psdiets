@@ -1,0 +1,40 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+FPS,adult,Surf smelt,Surf smelt,PARASITE,Nematoda,Nematoda,Table_14,0.01,1.021763564e-4,1,Fish_Simenstad_et_al_1988
+FPS,adult,Surf smelt,Surf smelt,BC,Polychaeta,Polychaeta,Table_14,27.4,0.2799632165,1,Fish_Simenstad_et_al_1988
+FPS,adult,Surf smelt,Surf smelt,ZM,Calanoida,Calanoida,Table_14,0.1,0.001021763564,1,Fish_Simenstad_et_al_1988
+FPS,adult,Surf smelt,Surf smelt,BD,Harpacticoida,Harpacticoida,Table_14,47.5,0.4853376929,1,Fish_Simenstad_et_al_1988
+FPS,adult,Surf smelt,Surf smelt,ZL,Poecilostomatioda,Poecilostomatioda,Table_14,0.1,0.001021763564,1,Fish_Simenstad_et_al_1988
+FPS,adult,Surf smelt,Surf smelt,BFF,Balanomorpha,Balanomorpha,Table_14,0.01,1.021763564e-4,1,Fish_Simenstad_et_al_1988
+FPS,adult,Surf smelt,Surf smelt,PWN,Cumacea,Cumacea,Table_14,1.6,0.01634821702,1,Fish_Simenstad_et_al_1988
+FPS,adult,Surf smelt,Surf smelt,BD,Gammaridea,Gammaridea,Table_14,21.15,0.2161029938,1,Fish_Simenstad_et_al_1988
+HE,adult,Pacific herring,Pacific herring,BG,Gastropoda,Gastropoda,Table_14,0.01,1.00060036e-4,2,Fish_Simenstad_et_al_1988
+HE,adult,Pacific herring,Pacific herring,CLADOCERA,Cladocera,Cladocera,Table_14,0.01,1.00060036e-4,2,Fish_Simenstad_et_al_1988
+HE,adult,Pacific herring,Pacific herring,ZM,Calanoida,Calanoida,Table_14,0.3,0.003001801081,2,Fish_Simenstad_et_al_1988
+HE,adult,Pacific herring,Pacific herring,BD,Harpacticoida,Harpacticoida,Table_14,29.1,0.2911747048,2,Fish_Simenstad_et_al_1988
+HE,adult,Pacific herring,Pacific herring,ZL,Poecilostomatioda,Poecilostomatioda,Table_14,0.01,1.00060036e-4,2,Fish_Simenstad_et_al_1988
+HE,adult,Pacific herring,Pacific herring,BFF,Balanomorpha,Balanomorpha,Table_14,0.1,0.00100060036,2,Fish_Simenstad_et_al_1988
+HE,adult,Pacific herring,Pacific herring,PWN,Cumacea,Cumacea,Table_14,0.01,1.00060036e-4,2,Fish_Simenstad_et_al_1988
+HE,adult,Pacific herring,Pacific herring,BD,Gammaridea,Gammaridea,Table_14,2.7,0.02701620973,2,Fish_Simenstad_et_al_1988
+HE,adult,Pacific herring,Pacific herring,BML,Decapoda,Decapoda,Table_14,67.7,0.6774064439,2,Fish_Simenstad_et_al_1988
+FPS,adult,Pacific sand lance,Pacific sand lance,CLADOCERA,Cladocera,Cladocera,Table_14,0.01,9.890218574e-5,3,Fish_Simenstad_et_al_1988
+FPS,adult,Pacific sand lance,Pacific sand lance,ZM,Calanoida,Calanoida,Table_14,2.6,0.02571456829,3,Fish_Simenstad_et_al_1988
+FPS,adult,Pacific sand lance,Pacific sand lance,BD,Harpacticoida,Harpacticoida,Table_14,91,0.9000098902,3,Fish_Simenstad_et_al_1988
+FPS,adult,Pacific sand lance,Pacific sand lance,ZL,Poecilostomatioda,Poecilostomatioda,Table_14,0.3,0.002967065572,3,Fish_Simenstad_et_al_1988
+FPS,adult,Pacific sand lance,Pacific sand lance,ZM,Caligoida,Caligoida,Table_14,0.2,0.001978043715,3,Fish_Simenstad_et_al_1988
+FPS,adult,Pacific sand lance,Pacific sand lance,BFF,Balanomorpha,Balanomorpha,Table_14,0.1,9.890218574e-4,3,Fish_Simenstad_et_al_1988
+FPS,adult,Pacific sand lance,Pacific sand lance,PWN,Cumacea,Cumacea,Table_14,0.5,0.004945109287,3,Fish_Simenstad_et_al_1988
+FPS,adult,Pacific sand lance,Pacific sand lance,BD,Gammaridea,Gammaridea,Table_14,3.4,0.03362674315,3,Fish_Simenstad_et_al_1988
+FPS,adult,Pacific sand lance,Pacific sand lance,BML,Decapoda,Decapoda,Table_14,3,0.02967065572,3,Fish_Simenstad_et_al_1988
+CU,adult,Chum salmon,Chum salmon,ZM,Calanoida,Calanoida,Table_14,4.1,0.041,4,Fish_Simenstad_et_al_1988
+CU,adult,Chum salmon,Chum salmon,BD,Harpacticoida,Harpacticoida,Table_14,71,0.71,4,Fish_Simenstad_et_al_1988
+CU,adult,Chum salmon,Chum salmon,BFF,Balanomorpha,Balanomorpha,Table_14,0.7,0.007,4,Fish_Simenstad_et_al_1988
+CU,adult,Chum salmon,Chum salmon,BD,Gammaridea,Gammaridea,Table_14,19.3,0.193,4,Fish_Simenstad_et_al_1988
+CU,adult,Chum salmon,Chum salmon,ZL,Euphausiacea,Euphausiacea,Table_14,1.4,0.014,4,Fish_Simenstad_et_al_1988
+CU,adult,Chum salmon,Chum salmon,BML,Decapoda,Decapoda,Table_14,3.5,0.035,4,Fish_Simenstad_et_al_1988
+SMD,adult,Three-spine stickleback,Three-spine stickleback,BC,Polychaeta,Polychaeta,Table_14,1.8,0.018,5,Fish_Simenstad_et_al_1988
+SMD,adult,Three-spine stickleback,Three-spine stickleback,ZM,Calanoida,Calanoida,Table_14,0.1,0.001,5,Fish_Simenstad_et_al_1988
+SMD,adult,Three-spine stickleback,Three-spine stickleback,BD,Harpacticoida,Harpacticoida,Table_14,14.8,0.148,5,Fish_Simenstad_et_al_1988
+SMD,adult,Three-spine stickleback,Three-spine stickleback,ZL,Poecilostomatioda,Poecilostomatioda,Table_14,0.1,0.001,5,Fish_Simenstad_et_al_1988
+SMD,adult,Three-spine stickleback,Three-spine stickleback,BFF,Balanomorpha,Balanomorpha,Table_14,0.1,0.001,5,Fish_Simenstad_et_al_1988
+SMD,adult,Three-spine stickleback,Three-spine stickleback,BD,Gammaridea,Gammaridea,Table_14,82.3,0.823,5,Fish_Simenstad_et_al_1988
+SMD,adult,Three-spine stickleback,Three-spine stickleback,BD,Caprellidea,Caprellidea,Table_14,0.8,0.008,5,Fish_Simenstad_et_al_1988

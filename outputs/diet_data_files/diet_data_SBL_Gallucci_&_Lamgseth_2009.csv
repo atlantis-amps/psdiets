@@ -1,0 +1,4 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,DOG,Spiny dogfish,Squalus acanthias,Text_1,1,0.3333333333,1,SBL_Gallucci_&_Lamgseth_2009
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,RAT,Ratfish,Hydrolagus collei,Text_1,1,0.3333333333,1,SBL_Gallucci_&_Lamgseth_2009
+SBL,juvenileAndadult,Chondrichthyes,Hexanchus griseus,BMS,Cephalopoda,Pacific octopus,Text_1,1,0.3333333333,1,SBL_Gallucci_&_Lamgseth_2009

@@ -1,0 +1,25 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Gunnels,Gunnels,Table_1_%FS_Protection_Island_1982,17.33,0.1733,1,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Blennies,Blennies,Table_1_%FS_Protection_Island_1982,41.76,0.4176,1,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sculpin,Sculpin,Table_1_%FS_Protection_Island_1982,21.88,0.2188,1,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,POP,Sea perch,Sea perch,Table_1_%FS_Protection_Island_1982,2.56,0.0256,1,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,FPS,Sandlance,Sandlance,Table_1_%FS_Protection_Island_1982,6.53,0.0653,1,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,HE,Herring,Herring,Table_1_%FS_Protection_Island_1982,0.28,0.0028,1,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,None,None,Table_1_%FS_Protection_Island_1982,2.27,0.0227,1,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Unknown,Unknown,Table_1_%FS_Protection_Island_1982,7.39,0.0739,1,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Gunnels,Gunnels,Table_1_%FS_Hedrick_1981,0,0,2,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Blennies,Blennies,Table_1_%FS_Hedrick_1981,73.81,0.7381,2,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sculpin,Sculpin,Table_1_%FS_Hedrick_1981,23.81,0.2381,2,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,POP,Sea perch,Sea perch,Table_1_%FS_Hedrick_1981,2.38,0.0238,2,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,FPS,Sandlance,Sandlance,Table_1_%FS_Hedrick_1981,0,0,2,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,HE,Herring,Herring,Table_1_%FS_Hedrick_1981,0,0,2,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,None,None,Table_1_%FS_Hedrick_1981,0,0,2,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Unknown,Unknown,Table_1_%FS_Hedrick_1981,0,0,2,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Gunnels,Gunnels,Table_1_%FS_Drent_1965,0,0,3,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Blennies,Blennies,Table_1_%FS_Drent_1965,48.43,0.4490496059,3,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sculpin,Sculpin,Table_1_%FS_Drent_1965,22.83,0.2116828929,3,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,POP,Sea perch,Sea perch,Table_1_%FS_Drent_1965,1.36,0.01261010663,3,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,FPS,Sandlance,Sandlance,Table_1_%FS_Drent_1965,6.1,0.05656003709,3,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,HE,Herring,Herring,Table_1_%FS_Drent_1965,0,0,3,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,None,None,Table_1_%FS_Drent_1965,0,0,3,SB_Cyra_1982
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Unknown,Unknown,Table_1_%FS_Drent_1965,29.13,0.2700973574,3,SB_Cyra_1982

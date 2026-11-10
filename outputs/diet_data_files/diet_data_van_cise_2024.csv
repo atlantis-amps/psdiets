@@ -1,0 +1,8 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ROR,adult,Orcinus orca,Resident orca,CI,Chinook salmon,Chinook salmon,Figure 2. Proportion species present in a sample,90,0.4598640846,1,van_cise_2024
+ROR,adult,Orcinus orca,Resident orca,CU,Chum salmon,Chum salmon,Figure 2. Proportion species present in a sample,48.14,0.2459761893,1,van_cise_2024
+ROR,adult,Orcinus orca,Resident orca,CO,Coho salmon,Coho salmon,Figure 2. Proportion species present in a sample,28.26,0.1443973226,1,van_cise_2024
+ROR,adult,Orcinus orca,Resident orca,HAP,Arrowtooth flounder,Arrowtooth flounder,Figure 2. Proportion species present in a sample,4.19,0.02140922794,1,van_cise_2024
+ROR,adult,Orcinus orca,Resident orca,SMD,Sablefish,Sablefish,Figure 2. Proportion species present in a sample,4.19,0.02140922794,1,van_cise_2024
+ROR,adult,Orcinus orca,Resident orca,STEELHEAD,Steelhead,Steelhead,Figure 2. Proportion species present in a sample,11.51,0.05881150682,1,van_cise_2024
+ROR,adult,Orcinus orca,Resident orca,FVS,Lingcod,Lingcod,Figure 2. Proportion species present in a sample,9.42,0.04813244086,1,van_cise_2024

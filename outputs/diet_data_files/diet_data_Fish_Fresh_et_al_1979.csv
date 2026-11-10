@@ -1,0 +1,588 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+POP,adult,Shiner perch,Shiner perch,BD,Crustacea,Gammaridea,Fig9a_Grav_Comp,41.27,0.4127412741,1,Fish_Fresh_et_al_1979
+POP,adult,Shiner perch,Shiner perch,BD,Crustacea,Caprellidea,Fig9a_Grav_Comp,1.83,0.01830183018,1,Fish_Fresh_et_al_1979
+POP,adult,Shiner perch,Shiner perch,ZM,Crustacea,Calanoida,Fig9a_Grav_Comp,37.6,0.3760376038,1,Fish_Fresh_et_al_1979
+POP,adult,Shiner perch,Shiner perch,BD,isopods,sphaeromatidae,Fig9a_Grav_Comp,0.01,1.00010001e-4,1,Fish_Fresh_et_al_1979
+POP,adult,Shiner perch,Shiner perch,PWN,Crustacea,Callianassidae,Fig9a_Grav_Comp,19.28,0.1928192819,1,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BC,Annelida,Polychaeta,Fig 69_Grav_Comp,25.23,0.2523,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BIV,Bivalvia,Bivalvia,Fig 69_Grav_Comp,2.18,0.0218,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BD,Crustacea,Gammaridea,Fig 69_Grav_Comp,0.43,0.0043,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BFF,Hydrozoa,Hydroida,Fig 69_Grav_Comp,1,0.01,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BD,Crustacea,hippolytidae,Fig 69_Grav_Comp,1.97,0.0197,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BML,Decapoda,Paguridae,Fig 69_Grav_Comp,3.25,0.0325,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig 69_Grav_Comp,4.8,0.048,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BC,Annelida,Serpulidae,Fig 69_Grav_Comp,0.14,0.0014,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,MA,Ulvophyceae,Ulotrichales,Fig 69_Grav_Comp,0.67,0.0067,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BFF,Cnidaria,Anthozoa,Fig 69_Grav_Comp,0.37,0.0037,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BML,Crustacea,Natantia,Fig 69_Grav_Comp,0.91,0.0091,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,MA,Rhodophyta,Rhodophyta,Fig 69_Grav_Comp,0.47,0.0047,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BC,Annelida,Nereididae,Fig 69_Grav_Comp,57.91,0.5791,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BML,Crustacea,brachyura,Fig 69_Grav_Comp,0.02,2e-4,2,Fish_Fresh_et_al_1979
+FDF,adult,C-O sole,Pleuronichthys coenosus,BC,polychaete worms,Sabellaridae,Fig 69_Grav_Comp,0.65,0.0065,2,Fish_Fresh_et_al_1979
+FDF,adult,Starry flounder,Platichthys stellatus,BIV,Bivalvia,Bivalvia,Fig68_Grav_Comp,1.01,0.01025588952,3,Fish_Fresh_et_al_1979
+FDF,adult,Starry flounder,Platichthys stellatus,BC,Annelida,Polychaeta,Fig68_Grav_Comp,0.49,0.004975629569,3,Fish_Fresh_et_al_1979
+FDF,adult,Starry flounder,Platichthys stellatus,BD,Crustacea,Gammaridea,Fig68_Grav_Comp,2.54,0.02579203899,3,Fish_Fresh_et_al_1979
+FDF,adult,Starry flounder,Platichthys stellatus,MA,Algae,Unidentified algae,Fig68_Grav_Comp,2.93,0.02975223396,3,Fish_Fresh_et_al_1979
+FDF,adult,Starry flounder,Platichthys stellatus,BG,Echinoidea,Dendrasteridae,Fig68_Grav_Comp,57.43,0.5831640942,3,Fish_Fresh_et_al_1979
+FDF,adult,Starry flounder,Platichthys stellatus,MA,Ulvophyceae,Ulvaceae,Fig68_Grav_Comp,0.05,5.07717303e-4,3,Fish_Fresh_et_al_1979
+FDF,adult,Starry flounder,Platichthys stellatus,PWN,Crustacea,Callianassidae,Fig68_Grav_Comp,29.2,0.296506905,3,Fish_Fresh_et_al_1979
+FDF,adult,Starry flounder,Platichthys stellatus,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig68_Grav_Comp,0.03,3.046303818e-4,3,Fish_Fresh_et_al_1979
+FDF,adult,Starry flounder,Platichthys stellatus,BML,Crustacea,Grapsidae,Fig68_Grav_Comp,0.1,0.001015434606,3,Fish_Fresh_et_al_1979
+FDF,adult,Starry flounder,Platichthys stellatus,BIV,Bivalvia,Mytidae,Fig68_Grav_Comp,3.64,0.03696181966,3,Fish_Fresh_et_al_1979
+FDF,adult,Starry flounder,Platichthys stellatus,BD,Crustacea,Tanaidacea-Dikonophora,Fig68_Grav_Comp,0.01,1.015434606e-4,3,Fish_Fresh_et_al_1979
+FDF,adult,Starry flounder,Platichthys stellatus,BML,Crab,Cancridae,Fig68_Grav_Comp,1.05,0.01066206336,3,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BC,Annelida,Polychaeta,Fig67_Grav_Comp_1978,68.22,0.6911854103,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BD,Crustacea,Gammaridea,Fig67_Grav_Comp_1978,3.23,0.0327254306,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,PWN,Crustacea,Cumacea,Fig67_Grav_Comp_1978,0.38,0.003850050659,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BIV,Bivalvia,Bivalvia,Fig67_Grav_Comp_1978,11.24,0.1138804458,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BD,Crustacea,Tanaidacea-Dikonophora,Fig67_Grav_Comp_1978,0.25,0.002532928065,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BD,Crustacea,Harpacticoida,Fig67_Grav_Comp_1978,2.13,0.02158054711,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,PWN,Crustacea,Pleocyemata-caridea,Fig67_Grav_Comp_1978,0.05,5.06585613e-4,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BG,Crustacea,Dendrasteridae,Fig67_Grav_Comp_1978,1.87,0.01894630193,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BML,Crustacea,Decapoda-pleocyemata,Fig67_Grav_Comp_1978,0.18,0.001823708207,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BD,isopods,Sphaeromatidae,Fig67_Grav_Comp_1978,0.68,0.006889564336,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,PWN,Crustacea,Callianassidae,Fig67_Grav_Comp_1978,3.64,0.03687943262,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BC,Spiralia,Nemertea,Fig67_Grav_Comp_1978,0.32,0.003242147923,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BD,sea cucumber,Holothuroidea,Fig67_Grav_Comp_1978,6.51,0.06595744681,4,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BC,Annelida,Polychaeta,Fig66_Grav_Comp_1977,64.9,0.6464143426,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BD,Crustacea,Gammaridea,Fig66_Grav_Comp_1977,4.8,0.04780876494,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,PWN,Crustacea,Cumacea,Fig66_Grav_Comp_1977,0.3,0.002988047809,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BIV,Bivalvia,Bivalvia,Fig66_Grav_Comp_1977,7.05,0.07021912351,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BC,Spiralia,Nemertea,Fig66_Grav_Comp_1977,1.47,0.01464143426,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BD,Crustacea,Tanaidacea,Fig66_Grav_Comp_1977,0.08,7.96812749e-4,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BD,Annelida,Maldanidae,Fig66_Grav_Comp_1977,1.32,0.01314741036,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BIV,Bivalvia,Veneroida,Fig66_Grav_Comp_1977,1.04,0.01035856574,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,ZL,Crustacea,Ostracoda,Fig66_Grav_Comp_1977,0.33,0.00328685259,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,MA,Rhodophyta,Rhodophyta,Fig66_Grav_Comp_1977,6.12,0.0609561753,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BML,Crustacea,Natantia,Fig66_Grav_Comp_1977,1.09,0.01085657371,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BC,Annelida,Nereidae,Fig66_Grav_Comp_1977,0.21,0.002091633466,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,PARASITE,Nematoida,Nematoda,Fig66_Grav_Comp_1977,0.15,0.001494023904,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BD,crustacea,Amphipoda-Hyperiidea,Fig66_Grav_Comp_1977,0.02,1.992031873e-4,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BML,Crustacea,Eucarida-Decapoda,Fig66_Grav_Comp_1977,0.13,0.001294820717,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,MA,Ulvophyceae,Ulotrichales,Fig66_Grav_Comp_1977,0.61,0.006075697211,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,PWN,Crustacea,Crangonidae,Fig66_Grav_Comp_1977,7.79,0.07758964143,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,NA,Unidentified,Unidentified,Fig66_Grav_Comp_1977,0.68,0.006772908367,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BD,Crustacea,Caprellidae,Fig66_Grav_Comp_1977,1.3,0.01294820717,5,Fish_Fresh_et_al_1979
+FDF,adult,English sole,Parophrys vetulus,BD,Flabelligera,Flabelligera,Fig66_Grav_Comp_1977,1.01,0.01005976096,5,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BD,Crustacea,Gammaridea,Fig65_Grav_Comp_1978,1.4,0.01440329218,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BC,Annelida,Polychaeta,Fig65_Grav_Comp_1978,8.21,0.08446502058,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,NA,Unidentified,Unidentified,Fig65_Grav_Comp_1978,8.02,0.08251028807,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BD,isopods,Sphaeromatidae,Fig65_Grav_Comp_1978,2.43,0.025,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BIV,Bivalvia,Bivalvia,Fig65_Grav_Comp_1978,8.07,0.08302469136,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BD,Crustacea,Caprellidea,Fig65_Grav_Comp_1978,0.19,0.00195473251,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig65_Grav_Comp_1978,0.7,0.007201646091,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BG,Sea snail,Acmaeidae,Fig65_Grav_Comp_1978,3.84,0.03950617284,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BD,Crustacea,Tanaidacea-Dikonophora,Fig65_Grav_Comp_1978,0.04,4.115226337e-4,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,SMD,Cottid Sculpins,Cottidae,Fig65_Grav_Comp_1978,5.79,0.05956790123,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BML,Crustacea,Grapsidae,Fig65_Grav_Comp_1978,4.98,0.0512345679,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BG,Echinoidea,Dendrasteridae,Fig65_Grav_Comp_1978,5.59,0.05751028807,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,MA,Ulvophyceae,Ulotrichales,Fig65_Grav_Comp_1978,14.55,0.149691358,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,FDF,Pleuronectiformes,Pleuronectidae,Fig65_Grav_Comp_1978,1.84,0.01893004115,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BFF,Crustacea,Cirripedia,Fig65_Grav_Comp_1978,0.91,0.009362139918,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,PWN,Crustacea,Cumacea,Fig65_Grav_Comp_1978,0.06,6.172839506e-4,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,PWN,Crustacea,Callianassidae,Fig65_Grav_Comp_1978,5.14,0.05288065844,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BD,Sea cucumber,Synaptidae,Fig65_Grav_Comp_1978,3.6,0.03703703704,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BML,Crustacea,Decapoda-brachyura,Fig65_Grav_Comp_1978,0.91,0.009362139918,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,MA,Ulvophyceae,Ulvaceae,Fig65_Grav_Comp_1978,16.98,0.174691358,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BML,Crustacea,pinnotheridae,Fig65_Grav_Comp_1978,0.61,0.006275720165,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BD,Crustacea,Corophiidae,Fig65_Grav_Comp_1978,0.33,0.003395061728,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,MA,Bangiophyceae,Bangiaceae,Fig65_Grav_Comp_1978,3.01,0.03096707819,6,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BD,Crustacea,Gammaridea,Fig_64_Grav_Comp_1977,1.99,0.02033101757,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BC,Annelida,Polychaeta,Fig_64_Grav_Comp_1977,8.67,0.08857785043,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,NA,Unidentified,Unidentified,Fig_64_Grav_Comp_1977,0.86,0.008786268901,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BIV,Bivalvia,Bivalvia,Fig_64_Grav_Comp_1977,5.13,0.05241111565,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BD,Crustacea,Caprellidea,Fig_64_Grav_Comp_1977,0.04,4.086636698e-4,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,MA,Ulvophyceae,Ulotrichales,Fig_64_Grav_Comp_1977,54.82,0.5600735595,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,PWN,Crustacea,Cumacea,Fig_64_Grav_Comp_1977,0.05,5.108295872e-4,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,MA,Bangiophyceae,Bangiaceae,Fig_64_Grav_Comp_1977,4.15,0.04239885574,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BC,Annelida,Nereidae,Fig_64_Grav_Comp_1977,5.76,0.05884756845,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BML,Crustacea,brachyura,Fig_64_Grav_Comp_1977,9.72,0.09930527176,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BD,Crustacea,Hippolytidae,Fig_64_Grav_Comp_1977,0.46,0.004699632203,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BD,Annelida,Maldanidae,Fig_64_Grav_Comp_1977,0.6,0.006129955047,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,PWN,Crustacea,Crangonidae,Fig_64_Grav_Comp_1977,3.44,0.0351450756,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BML,Decapoda,paguridae,Fig_64_Grav_Comp_1977,2.14,0.02186350633,7,Fish_Fresh_et_al_1979
+FDF,adult,Rock sole,Lepidopsetta bilineata,BD,Paratanidae,Paratanidae,Fig_64_Grav_Comp_1977,0.05,5.108295872e-4,7,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Gammaridea,Fig63_Grav_Comp_1978,1.79,0.01825785394,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,NA,Rocks,Rocks,Fig63_Grav_Comp_1978,8.81,0.08986128111,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Grapsidae,Fig63_Grav_Comp_1978,36.82,0.3755609955,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Pleocyemata-caridea larvae,Fig63_Grav_Comp_1978,0.53,0.005405956752,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BC,Annelida,Polychaeta,Fig63_Grav_Comp_1978,0.43,0.004385964912,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Mysidacea,Fig63_Grav_Comp_1978,0.12,0.001223990208,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,FISH,Actinopterygii,Teleostei,Fig63_Grav_Comp_1978,1.46,0.01489188086,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,isopods,Sphaeromatidae,Fig63_Grav_Comp_1978,0.44,0.004487964096,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Eucarida-Decapoda-brachybhynch,Fig63_Grav_Comp_1978,7.11,0.07252141983,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Crangonidae,Fig63_Grav_Comp_1978,1.79,0.01825785394,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BC,Spiralia,Nemertea,Fig63_Grav_Comp_1978,0.83,0.008465932273,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Callianassidae,Fig63_Grav_Comp_1978,25.71,0.2622399021,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Decapoda-Brachyura,Fig63_Grav_Comp_1978,0.92,0.009383924929,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,ZM,Crustacea,Calanoida,Fig63_Grav_Comp_1978,0.2,0.00203998368,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Caprellidea,Fig63_Grav_Comp_1978,1.88,0.01917584659,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,MA,Ulvophyceae,Ulotrichales,Fig63_Grav_Comp_1978,0.54,0.005507955936,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,SALMON,Vertebrata,Salmonidae,Fig63_Grav_Comp_1978,1.82,0.01856385149,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Teleostei,Oxyrhyncha,Fig63_Grav_Comp_1978,1.52,0.01550387597,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Atelecyclidae,Fig63_Grav_Comp_1978,2.18,0.02223582211,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,HE,Actinopterygii,Clupeidae,Fig63_Grav_Comp_1978,1.95,0.01988984088,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Pandalidae,Fig63_Grav_Comp_1978,1.19,0.0121379029,8,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Gammaridea,Fig62_Grav_Comp_1977,1.93,0.01934837093,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BC,Annelida,Polychaeta,Fig62_Grav_Comp_1977,1.38,0.01383458647,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,FISH,Actinopterygii,Teleostei,Fig62_Grav_Comp_1977,11.46,0.114887218,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Eucarida-Decapoda-brachybhynch,Fig62_Grav_Comp_1977,2.2,0.02205513784,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Crangonidae,Fig62_Grav_Comp_1977,1.75,0.01754385965,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Callianassidae,Fig62_Grav_Comp_1977,3,0.03007518797,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,ZM,Crustacea,Calanoida,Fig62_Grav_Comp_1977,0.01,1.002506266e-4,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Natantia,Fig62_Grav_Comp_1977,10.97,0.1099749373,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Eucarida-decapoda,Fig62_Grav_Comp_1977,7.77,0.07789473684,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Hippolytidae,Fig62_Grav_Comp_1977,5.24,0.05253132832,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PARASITE,Nematoida,Nematoda,Fig62_Grav_Comp_1977,0.01,1.002506266e-4,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crab,cancridae,Fig62_Grav_Comp_1977,8.31,0.08330827068,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,NA,Unidentified,Unidentified,Fig62_Grav_Comp_1977,5.61,0.0562406015,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,MA,Rhodophyta,Rhodophyta,Fig62_Grav_Comp_1977,0.44,0.004411027569,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BMS,Mollusca,Cephalopoda,Fig62_Grav_Comp_1977,1.09,0.0109273183,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Brachyura,Fig62_Grav_Comp_1977,1.78,0.01784461153,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Tanaidacea,Fig62_Grav_Comp_1977,0.01,1.002506266e-4,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BG,Crustacea,Idotheidae,Fig62_Grav_Comp_1977,1.04,0.01042606516,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,eucarida-decapoda-brachyrhynch,Fig62_Grav_Comp_1977,35.75,0.35839599,9,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Gammaridea,Fig61_Grav_Comp_1977_1978,0.16,0.001608040201,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,NA,Rocks,Rocks,Fig61_Grav_Comp_1977_1978,14.23,0.1430150754,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BC,Annelida,Polychaeta,Fig61_Grav_Comp_1977_1978,0.07,7.035175879e-4,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Mysidacea,Fig61_Grav_Comp_1977_1978,0.94,0.009447236181,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,FISH,Actinopterygii,Teleostei,Fig61_Grav_Comp_1977_1978,6.2,0.06231155779,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,isopods,Sphaeromatidae,Fig61_Grav_Comp_1977_1978,0.4,0.004020100503,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Eucarida-Decapoda-brachybhynch,Fig61_Grav_Comp_1977_1978,17.57,0.1765829146,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Crangonidae,Fig61_Grav_Comp_1977_1978,0.34,0.003417085427,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BC,Spiralia,Nemertea,Fig61_Grav_Comp_1977_1978,0.04,4.020100503e-4,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,MA,Ulvophyceae,Ulotrichales,Fig61_Grav_Comp_1977_1978,0.69,0.006934673367,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,SALMON,Vertebrata,Salmonidae,Fig61_Grav_Comp_1977_1978,9.45,0.09497487437,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Teleostei,Oxyrhyncha,Fig61_Grav_Comp_1977_1978,2.59,0.02603015075,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Natantia,Fig61_Grav_Comp_1977_1978,0.77,0.007738693467,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Eucarida-decapoda,Fig61_Grav_Comp_1977_1978,2.46,0.02472361809,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Hippolytidae,Fig61_Grav_Comp_1977_1978,0.68,0.006834170854,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PARASITE,Nematoida,Nematoda,Fig61_Grav_Comp_1977_1978,0.11,0.001105527638,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crab,cancridae,Fig61_Grav_Comp_1977_1978,1.61,0.01618090452,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,NA,Unidentified,Unidentified,Fig61_Grav_Comp_1977_1978,2.99,0.03005025126,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,MA,Rhodophyta,Rhodophyta,Fig61_Grav_Comp_1977_1978,1.98,0.01989949749,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PARASITE,Platyhelminthes,Trematoda,Fig61_Grav_Comp_1977_1978,0.01,1.005025126e-4,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Brachyura,Fig61_Grav_Comp_1977_1978,3.47,0.03487437186,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Tanaidacea,Fig61_Grav_Comp_1977_1978,0.01,1.005025126e-4,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Corophiidae,Fig61_Grav_Comp_1977_1978,0.11,0.001105527638,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Decapoda,Paguridae,Fig61_Grav_Comp_1977_1978,10.32,0.103718593,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BIV,Gastropoda,Haliotidae,Fig61_Grav_Comp_1977_1978,21.69,0.2179899497,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Gammaridea,Fig61_Grav_Comp_1977_1978,0.61,0.006130653266,10,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BC,Annelida,Polychaeta,Fig_60_Grav_Comp_77_78_PS,0.46,0.00473494596,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Mysidacea,Fig_60_Grav_Comp_77_78_PS,0.7,0.007205352548,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,FISH,Actinopterygii,Teleostei,Fig_60_Grav_Comp_77_78_PS,7.53,0.07750900669,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,isopods,Sphaeromatidae,Fig_60_Grav_Comp_77_78_PS,0.3,0.003088008235,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Eucarida-Decapoda-brachybhynch,Fig_60_Grav_Comp_77_78_PS,22.19,0.2284096758,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Crangonidae,Fig_60_Grav_Comp_77_78_PS,0.7,0.007205352548,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BC,Spiralia,Nemertea,Fig_60_Grav_Comp_77_78_PS,0.03,3.088008235e-4,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,MA,Ulvophyceae,Ulotrichales,Fig_60_Grav_Comp_77_78_PS,0.51,0.005249613999,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,SALMON,Vertebrata,Salmonidae,Fig_60_Grav_Comp_77_78_PS,7.03,0.0723623263,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Teleostei,Oxyrhyncha,Fig_60_Grav_Comp_77_78_PS,1.93,0.01986618631,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Natantia,Fig_60_Grav_Comp_77_78_PS,3.37,0.03468862584,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Eucarida-decapoda,Fig_60_Grav_Comp_77_78_PS,3.81,0.03921770458,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Hippolytidae,Fig_60_Grav_Comp_77_78_PS,1.84,0.01893978384,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PARASITE,Nematoida,Nematoda,Fig_60_Grav_Comp_77_78_PS,0.08,8.234688626e-4,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crab,cancridae,Fig_60_Grav_Comp_77_78_PS,3.32,0.0341739578,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,NA,Unidentified,Unidentified,Fig_60_Grav_Comp_77_78_PS,12.01,0.123623263,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,MA,Rhodophyta,Rhodophyta,Fig_60_Grav_Comp_77_78_PS,1.58,0.01626351004,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PARASITE,Platyhelminthes,Trematoda,Fig_60_Grav_Comp_77_78_PS,0.01,1.029336078e-4,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Brachyura,Fig_60_Grav_Comp_77_78_PS,3.04,0.03129181678,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Tanaidacea,Fig_60_Grav_Comp_77_78_PS,0.03,3.088008235e-4,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,eucarida-decapoda-brachyrhynch,Fig_60_Grav_Comp_77_78_PS,0.56,0.005764282038,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Corophiidae,Fig_60_Grav_Comp_77_78_PS,0.09,9.264024704e-4,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Decapoda,Paguridae,Fig_60_Grav_Comp_77_78_PS,7.68,0.07905301081,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BIV,Gastropoda,Haliotidae,Fig_60_Grav_Comp_77_78_PS,16.13,0.1660319094,11,Fish_Fresh_et_al_1979
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,SMD,Teleostei,Gasterosteidae,Fig_60_Grav_Comp_77_78_PS,2.22,0.02285126094,11,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Bangiophyceae,Bangiaceae,Fig59_Grav_Comp_trynet_77_78,13.95,0.1395139514,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BD,Crustacea,Gammaridea,Fig59_Grav_Comp_trynet_77_78,0.14,0.001400140014,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BC,Annelida,Polychaeta,Fig59_Grav_Comp_trynet_77_78,1.26,0.01260126013,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Ulvophyceae,Ulotrichales,Fig59_Grav_Comp_trynet_77_78,59.93,0.599359936,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BML,Crab,cancridae,Fig59_Grav_Comp_trynet_77_78,3.53,0.03530353035,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BML,Crustacea,Natantia,Fig59_Grav_Comp_trynet_77_78,0.22,0.002200220022,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Rhodophyta,Rhodophyta,Fig59_Grav_Comp_trynet_77_78,0.95,0.009500950095,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BML,Crustacea,Eucarida-Decapoda,Fig59_Grav_Comp_trynet_77_78,0.06,6.00060006e-4,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,NA,Unidentified,Unidentified,Fig59_Grav_Comp_trynet_77_78,4.59,0.04590459046,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BMD,Gastropoda,Nassariidae,Fig59_Grav_Comp_trynet_77_78,0.14,0.001400140014,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BIV,Bivalvia,Bivalvia,Fig59_Grav_Comp_trynet_77_78,0.02,2.00020002e-4,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BC,Pycnogonida,Ammotheidae,Fig59_Grav_Comp_trynet_77_78,0.04,4.00040004e-4,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Florideophyceae,Rhodymeniaceae,Fig59_Grav_Comp_trynet_77_78,4.55,0.04550455046,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BD,Crustacea,Caprellidea,Fig59_Grav_Comp_trynet_77_78,0.02,2.00020002e-4,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BD,Crustacea,Caprellidae,Fig59_Grav_Comp_trynet_77_78,0.06,6.00060006e-4,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BFF,Hydrozoa,Hydroida,Fig59_Grav_Comp_trynet_77_78,0.02,2.00020002e-4,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BFF,Anthozoa,Ceriantipatharia,Fig59_Grav_Comp_trynet_77_78,0.84,0.008400840084,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,PWN,Crustacea,Crangonidae,Fig59_Grav_Comp_trynet_77_78,6.64,0.06640664066,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Rhodhophyceac,Salieriaceae,Fig59_Grav_Comp_trynet_77_78,0.02,2.00020002e-4,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BML,Crustacea,Eucarida-Decapoda-Brachyrhynch,Fig59_Grav_Comp_trynet_77_78,2.5,0.02500250025,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BC,Polychaeta,Eunicidae,Fig59_Grav_Comp_trynet_77_78,0.51,0.005100510051,12,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Bangiophyceae,Bangiaceae,Fig58_Grav_Comp_beachseine_77_78,6.5,0.06537919936,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BD,Crustacea,Gammaridea,Fig58_Grav_Comp_beachseine_77_78,0.14,0.001408167371,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BC,Annelida,Polychaeta,Fig58_Grav_Comp_beachseine_77_78,0.19,0.001911084289,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Ulvophyceae,Ulotrichales,Fig58_Grav_Comp_beachseine_77_78,73.68,0.7410983705,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BML,Crustacea,Natantia,Fig58_Grav_Comp_beachseine_77_78,0.5,0.005029169181,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Rhodophyta,Rhodophyta,Fig58_Grav_Comp_beachseine_77_78,1.83,0.0184067592,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,NA,Unidentified,Unidentified,Fig58_Grav_Comp_beachseine_77_78,0.08,8.04667069e-4,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BIV,Bivalvia,Bivalvia,Fig58_Grav_Comp_beachseine_77_78,0.13,0.001307583987,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BD,isopods,Sphaeromatidae,Fig58_Grav_Comp_beachseine_77_78,0.4,0.004023335345,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BG,Crustacea,Idotheidae,Fig58_Grav_Comp_beachseine_77_78,0.14,0.001408167371,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BD,Crustacea,Gammaridea,Fig58_Grav_Comp_beachseine_77_78,0.17,0.001709917522,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,NA,Unidentified eggs,unidentified eggs,Fig58_Grav_Comp_beachseine_77_78,11.06,0.1112452223,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,FISH,Actinopterygii,Teleostei,Fig58_Grav_Comp_beachseine_77_78,1.48,0.01488634078,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Chlorophyta,Chlorophyta,Fig58_Grav_Comp_beachseine_77_78,3.12,0.03138201569,13,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Bangiophyceae,Bangiaceae,Fig57_Grav_Comp_77_78,8.29,0.08431651749,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BD,Crustacea,Gammaridea,Fig57_Grav_Comp_77_78,0.14,0.001423921888,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BC,Annelida,Polychaeta,Fig57_Grav_Comp_77_78,0.45,0.004576891782,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Ulvophyceae,Ulotrichales,Fig57_Grav_Comp_77_78,70.39,0.7159275834,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BML,Crab,cancridae,Fig57_Grav_Comp_77_78,0.85,0.008645240033,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BML,Crustacea,Natantia,Fig57_Grav_Comp_77_78,0.43,0.004373474369,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Rhodophyta,Rhodophyta,Fig57_Grav_Comp_77_78,1.62,0.01647681041,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,NA,Unidentified,Unidentified,Fig57_Grav_Comp_77_78,1.16,0.01179820993,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BIV,Bivalvia,Bivalvia,Fig57_Grav_Comp_77_78,0.1,0.001017087063,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Florideophyceae,Rhodymeniaceae,Fig57_Grav_Comp_77_78,1.09,0.01108624898,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,PWN,Crustacea,Crangonidae,Fig57_Grav_Comp_77_78,1.59,0.0161716843,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,BD,isopods,Sphaeromatidae,Fig57_Grav_Comp_77_78,0.31,0.003152969894,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,NA,Unidentified eggs,unidentified eggs,Fig57_Grav_Comp_77_78,8.41,0.08553702197,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,FISH,Actinopterygii,Teleostei,Fig57_Grav_Comp_77_78,1.12,0.0113913751,14,Fish_Fresh_et_al_1979
+SMD,adult,Buffalo sculpin,Enophrys bison,MA,Chlorophyta,Chlorophyta,Fig57_Grav_Comp_77_78,2.37,0.02410496338,14,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BD,Crustacea,Hippolytidae,Fig56_Grav_Comp,9.98,0.1001806866,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BML,Crustacea,Natantia,Fig56_Grav_Comp,9.68,0.09716924312,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,PWN,Crustacea,Crangonidae,Fig56_Grav_Comp,10.07,0.1010841197,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BD,Crustacea,Gammaridea,Fig56_Grav_Comp,0.71,0.007127082915,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BC,Annelida,Polychaeta,Fig56_Grav_Comp,3.26,0.03272435254,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BML,Crustacea,Eucarida-Decapoda,Fig56_Grav_Comp,3.75,0.03764304357,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BML,Crustacea,Crustacea,Fig56_Grav_Comp,4.44,0.04456936358,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BML,Crab,Cancridea,Fig56_Grav_Comp,5.33,0.05350331259,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BML,Crustacea,brachyura,Fig56_Grav_Comp,9.86,0.09897610922,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,PWN,Crustacea,Pandalidae,Fig56_Grav_Comp,18.37,0.1844007227,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BML,Decapoda,paguridae,Fig56_Grav_Comp,2.53,0.02539650673,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,PWN,Crustacea,cumacea,Fig56_Grav_Comp,0.05,5.019072475e-4,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BML,Crustacea,Majidae,Fig56_Grav_Comp,3.4,0.03412969283,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BML,Crab,Cancridea,Fig56_Grav_Comp,1.08,0.01084119655,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BIV,Bivalvia,Bivalvia,Fig56_Grav_Comp,0.28,0.002810680586,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,BML,Crustacea,Eucarida-Decapoda-Brachyrhynch,Fig56_Grav_Comp,0.44,0.004416783778,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,FISH,Actinopterygii,Teleostei,Fig56_Grav_Comp,15.7,0.1575988757,15,Fish_Fresh_et_al_1979
+SMD,adult,Roughback sculpin,Chitonotus pugetensis,NA,Unidentified,Unidentified,Fig56_Grav_Comp,0.69,0.006926320016,15,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,BD,Crustacea,Gammaridea,Fig55_Grav_Comp,8.31,0.08358479179,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,BML,Crustacea,Natantia,Fig55_Grav_Comp,12.48,0.1255280628,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,BD,Crustacea,Hippolytidae,Fig55_Grav_Comp,20,0.2011667673,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,PWN,Crustacea,Crangonidae,Fig55_Grav_Comp,8.22,0.08267954134,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,BD,crustacea,Amphipoda-Hyperiidea,Fig55_Grav_Comp,0.28,0.002816334742,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,NA,Unidentified,Unidentified,Fig55_Grav_Comp,13.98,0.1406155703,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,BD,Crustacea,Tanaidacea,Fig55_Grav_Comp,0.07,7.040836854e-4,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,BD,Crustacea,Caprellidea,Fig55_Grav_Comp,0.89,0.008951921143,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,PWN,Crustacea,Mysidacea,Fig55_Grav_Comp,0.49,0.004928585798,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,BC,Annelida,Polychaeta,Fig55_Grav_Comp,0.91,0.00915308791,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,BIV,Bivalvia,Bivalvia,Fig55_Grav_Comp,2.76,0.02776101388,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,ZM,Crustacea,Calanoida,Fig55_Grav_Comp,0.17,0.001709917522,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,BD,crustacea,Amphipoda,Fig55_Grav_Comp,7.45,0.0749346208,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,BC,Annelida,Nereidae,Fig55_Grav_Comp,7.91,0.07956145645,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,PWN,Crustacea,Pandalidae,Fig55_Grav_Comp,4.07,0.04093743714,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,BD,Crustacea,Corophiidae,Fig55_Grav_Comp,0.61,0.006135586401,16,Fish_Fresh_et_al_1979
+SMD,adult,Pacific tomcod,Microgadus proximus,PWN,Crustacea,Callianassidae,Fig55_Grav_Comp,10.82,0.1088312211,16,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BC,Annelida,Polychaeta,Fig54_Grav_Comp,13.27,0.1326867313,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BD,Crustacea,Hippolytidae,Fig54_Grav_Comp,3.35,0.03349665033,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BML,Crab,Cancridea,Fig54_Grav_Comp,15.05,0.1504849515,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BML,Crustacea,Brachyura,Fig54_Grav_Comp,23.43,0.2342765723,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BIV,Bivalvia,Bivalvia,Fig54_Grav_Comp,3.88,0.03879612039,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BG,Mollusca,Gastropoda,Fig54_Grav_Comp,2.15,0.02149785021,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,PWN,Crustacea,Crangonidae,Fig54_Grav_Comp,1.65,0.01649835016,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,FISH,Actinopterygii,Teleostei,Fig54_Grav_Comp,0.94,0.009399060094,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,SMD,Cottid Sculpins,Cottidae,Fig54_Grav_Comp,3.79,0.03789621038,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BML,Crustacea,Natantia,Fig54_Grav_Comp,0.35,0.003499650035,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,MA,Ulvophyceae,Ulotrichales,Fig54_Grav_Comp,0.14,0.001399860014,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,PARASITE,Platyhelminthes,Trematoda,Fig54_Grav_Comp,2.55,0.02549745025,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BML,Crustacea,Anomura,Fig54_Grav_Comp,0.17,0.001699830017,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BG,Olive snails,Olividae,Fig54_Grav_Comp,0.8,0.00799920008,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BC,Spiralia,Nemertea,Fig54_Grav_Comp,5.88,0.05879412059,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BML,Crustacea,Eucarida-Decapoda-Brachyrhynch,Fig54_Grav_Comp,2.98,0.0297970203,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BML,Crustacea,Eucarida-Decapoda-Brachyrhynch,Fig54_Grav_Comp,7.83,0.07829217078,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BD,Annelida,Sipunculidae,Fig54_Grav_Comp,11.42,0.1141885811,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BG,Sea urchin-Sea snail,Echinoidea-Scutellina,Fig54_Grav_Comp,0.16,0.001599840016,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BD,Crustacea,Gammaridea,Fig54_Grav_Comp,0.01,9.9990001e-5,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,BML,Crustacea,Eucarida-Decapoda,Fig54_Grav_Comp,0.05,4.99950005e-4,17,Fish_Fresh_et_al_1979
+RAT,adult,Ratfish,Hydrolagus colliei,NA,Unidentified,Unidentified,Fig54_Grav_Comp,0.16,0.001599840016,17,Fish_Fresh_et_al_1979
+DOG,adult,spiny dogfish,Squalus acanthias,BC,Annelida,Nereidae,Fig53_Grav_Comp,99,0.9900990099,18,Fish_Fresh_et_al_1979
+DOG,adult,spiny dogfish,Squalus acanthias,BD,crustacea,Amphipoda-Hyperiidea,Fig53_Grav_Comp,0.22,0.002200220022,18,Fish_Fresh_et_al_1979
+DOG,adult,spiny dogfish,Squalus acanthias,BML,Crustacea,Natantia,Fig53_Grav_Comp,0.64,0.006400640064,18,Fish_Fresh_et_al_1979
+DOG,adult,spiny dogfish,Squalus acanthias,BML,Crustacea,Brachyura-larva,Fig53_Grav_Comp,0.1,0.00100010001,18,Fish_Fresh_et_al_1979
+DOG,adult,spiny dogfish,Squalus acanthias,ZL,Spiralia,Chaetognatha,Fig53_Grav_Comp,0.03,3.00030003e-4,18,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Fig52_Grav_Comp_78,4.06,0.04066099149,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,decapoda-pleocyemata larvae,Fig52_Grav_Comp_78,1.69,0.01692538808,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,ZM,Crustacea,calanoida,Fig52_Grav_Comp_78,0.17,0.001702553831,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,teleostei,Fig52_Grav_Comp_78,1.29,0.01291937907,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BD,crustacea,Amphipoda-Hyperiidea,Fig52_Grav_Comp_78,0.32,0.003204807211,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BML,Decapoda,paguridae,Fig52_Grav_Comp_78,0.36,0.003605408112,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,Fig52_Grav_Comp_78,8.49,0.08502754131,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig52_Grav_Comp_78,1.23,0.01231847772,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,pleocyemata-caridea larvae,Fig52_Grav_Comp_78,0.13,0.001301952929,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,mysidacea,Fig52_Grav_Comp_78,1.57,0.01572358538,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,cumacea,Fig52_Grav_Comp_78,0.02,2.003004507e-4,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,INSECT,Endopterygota,diptera,Fig52_Grav_Comp_78,0.02,2.003004507e-4,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,insecta,Fig52_Grav_Comp_78,0.06,6.00901352e-4,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BD,isopods,Sphaeromatidae,Fig52_Grav_Comp_78,0.13,0.001301952929,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BML,crustacea,Anomura,Fig52_Grav_Comp_78,0.05,5.007511267e-4,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BD,crustacea,caprellidea,Fig52_Grav_Comp_78,0.03,3.00450676e-4,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,FDF,Pleuronectiformes,pleuronectidae,Fig52_Grav_Comp_78,0.19,0.001902854281,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,callianassidae,Fig52_Grav_Comp_78,3.18,0.03184777166,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BC,Annelida,polychaeta,Fig52_Grav_Comp_78,3.56,0.03565348022,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,decapoda-brachyura larvae,Fig52_Grav_Comp_78,0.03,3.00450676e-4,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,FPS,Actinopterygii,Ammodytidae,Fig52_Grav_Comp_78,0.46,0.004606910366,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Tanaidacea-Dikonophora,Fig52_Grav_Comp_78,0,0,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,NA,Unidentified eggs,unidentified eggs,Fig52_Grav_Comp_78,0.52,0.005207811718,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,SALMON,Vertebrata,salmonidae,Fig52_Grav_Comp_78,2.13,0.021331998,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,FPS,Osmeroidei,osmeridae,Fig52_Grav_Comp_78,70.16,0.702653981,19,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Fig51_Grav_Comp_77,8.32,0.08368537518,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,ZM,Crustacea,calanoida,Fig51_Grav_Comp_77,0.03,3.017501509e-4,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,teleostei,Fig51_Grav_Comp_77,27.15,0.2730838865,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BD,crustacea,Amphipoda-Hyperiidea,Fig51_Grav_Comp_77,0.16,0.001609334138,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,Fig51_Grav_Comp_77,13.02,0.1309595655,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,mysidacea,Fig51_Grav_Comp_77,17.35,0.1745121706,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,cumacea,Fig51_Grav_Comp_77,2.88,0.02896801448,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,INSECT,Endopterygota,diptera,Fig51_Grav_Comp_77,4.53,0.04556427278,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,INSECT,Arthropoda,insecta,Fig51_Grav_Comp_77,0.49,0.004928585798,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BML,crustacea,Anomura,Fig51_Grav_Comp_77,0.64,0.006437336552,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Natantia,Fig51_Grav_Comp_77,0.94,0.009454838061,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Crangonidae,Fig51_Grav_Comp_77,13.71,0.1378998189,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Tanaidacea,Fig51_Grav_Comp_77,0.08,8.04667069e-4,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,harpacticoida,Fig51_Grav_Comp_77,0.28,0.002816334742,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Brachyura,Fig51_Grav_Comp_77,0.08,8.04667069e-4,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera,Fig51_Grav_Comp_77,0.05,5.029169181e-4,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Hippolytidae,Fig51_Grav_Comp_77,0.24,0.002414001207,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Caprellidea,Fig51_Grav_Comp_77,0.21,0.002112251056,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,mysidae,Fig51_Grav_Comp_77,5.78,0.05813719574,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophiidae,Fig51_Grav_Comp_77,0.03,3.017501509e-4,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Eucarida-Decapoda,Fig51_Grav_Comp_77,3.33,0.03349426675,20,Fish_Fresh_et_al_1979
+CI,juvenile,chinook salmon,Oncorhynchus tshawytscha,BFF,Crustacea,Arachnidiidae,Fig51_Grav_Comp_77,0.12,0.001207000604,20,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Gammaridea,Fig49_Grav_Comp_78,11.28,0.1154200348,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,crustacea,Amphipoda-Hyperiidea,Fig49_Grav_Comp_78,3.42,0.03499437225,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZM,Crustacea,Calanoida,Fig49_Grav_Comp_78,3.01,0.03079914049,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapoda-Pleocyemata Larvae,Fig49_Grav_Comp_78,6.22,0.0636447355,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,Pleocyemata-Caridea Larvae,Fig49_Grav_Comp_78,5.85,0.05985879464,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Euphausiacea,Fig49_Grav_Comp_78,34.2,0.3499437225,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,Mysidacea,Fig49_Grav_Comp_78,14.24,0.1457075616,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleostei,Fig49_Grav_Comp_78,2.42,0.02476209966,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Endopterygota,diptera,Fig49_Grav_Comp_78,0.35,0.003581295406,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,cumacea,Fig49_Grav_Comp_78,0.56,0.005730072649,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Arthropoda,insecta,Fig49_Grav_Comp_78,0.47,0.004809168116,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,harpacticoida,Fig49_Grav_Comp_78,0.58,0.005934718101,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,isopods,Sphaeromatidae,Fig49_Grav_Comp_78,0.29,0.00296735905,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BC,Annelida,Polychaeta,Fig49_Grav_Comp_78,2.24,0.0229202906,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,crustacea,Anomura,Fig49_Grav_Comp_78,0.56,0.005730072649,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Eucarida-Decapoda-Brachyrhynch,Fig49_Grav_Comp_78,7.81,0.07991404891,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Tanaidacea-Dikonophora,Fig49_Grav_Comp_78,0.12,0.001227872711,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,NA,Unidentified,Unidentified,Fig49_Grav_Comp_78,0.17,0.00173948634,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,Callianassidae,Fig49_Grav_Comp_78,1.79,0.01831576793,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,SALMON,Vertebrata,Salmonidae,Fig49_Grav_Comp_78,2.15,0.02199938606,21,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Gammaridea,Fig48_Grav_Comp_TC_77,1.59,0.01590159016,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Endopterygota,diptera,Fig48_Grav_Comp_TC_77,6.35,0.06350635064,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,cumacea,Fig48_Grav_Comp_TC_77,NA,0,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Arthropoda,insecta,Fig48_Grav_Comp_TC_77,0.46,0.004600460046,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,harpacticoida,Fig48_Grav_Comp_TC_77,NA,0,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,isopods,Sphaeromatidae,Fig48_Grav_Comp_TC_77,4.5,0.04500450045,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Coleoptera,Fig48_Grav_Comp_TC_77,0.54,0.005400540054,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Eucarida-Decapoda,Fig48_Grav_Comp_TC_77,0.53,0.005300530053,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,MA,Ulvophyceae,Ulotrichales,Fig48_Grav_Comp_TC_77,0.26,0.002600260026,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Hippolytidae,Fig48_Grav_Comp_TC_77,6.29,0.06290629063,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Ostracoda,Fig48_Grav_Comp_TC_77,9.99,0.099909991,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Euphausiacea,Fig48_Grav_Comp_TC_77,69.35,0.6935693569,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Chaoborus,Fig48_Grav_Comp_TC_77,0.13,0.001300130013,22,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Gammaridea,Fig47_Grav_Comp_BS_77,30.52,0.3128972729,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,crustacea,Amphipoda-Hyperiidea,Fig47_Grav_Comp_BS_77,0.68,0.006971498872,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZM,Crustacea,Calanoida,Fig47_Grav_Comp_BS_77,0.04,4.10088169e-4,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,Mysidacea,Fig47_Grav_Comp_BS_77,21.68,0.2222677876,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleostei,Fig47_Grav_Comp_BS_77,NA,0,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Endopterygota,diptera,Fig47_Grav_Comp_BS_77,1.21,0.01240516711,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,cumacea,Fig47_Grav_Comp_BS_77,4.97,0.05095345499,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Arthropoda,insecta,Fig47_Grav_Comp_BS_77,1.48,0.01517326225,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,harpacticoida,Fig47_Grav_Comp_BS_77,1.71,0.01753126922,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,isopods,Sphaeromatidae,Fig47_Grav_Comp_BS_77,1.35,0.0138404757,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BC,Annelida,Polychaeta,Fig47_Grav_Comp_BS_77,0.7,0.007176542957,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Eucarida-Decapoda,Fig47_Grav_Comp_BS_77,22.22,0.2278039779,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Natantia,Fig47_Grav_Comp_BS_77,0.75,0.007689153168,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Isopoda,Valvifera,Fig47_Grav_Comp_BS_77,0.25,0.002563051056,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Amphipoda,Isaeidae,Fig47_Grav_Comp_BS_77,0.77,0.007894197252,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BC,Annelida,Nereidae,Fig47_Grav_Comp_BS_77,7.59,0.07781423006,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Caprellidea,Fig47_Grav_Comp_BS_77,0.22,0.002255484929,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Homoptera,Fig47_Grav_Comp_BS_77,0.07,7.176542957e-4,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Caprellidae,Fig47_Grav_Comp_BS_77,0.25,0.002563051056,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Corophiidae,Fig47_Grav_Comp_BS_77,1.08,0.01107238056,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Gammaridea,Fig47_Grav_Comp_BS_77,NA,0,23,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Gammaridea,Fig46_Grav_Comp_77,24.34,0.250257043,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,crustacea,Amphipoda-Hyperiidea,Fig46_Grav_Comp_77,0.54,0.005552128316,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZM,Crustacea,Calanoida,Fig46_Grav_Comp_77,0.03,3.084515731e-4,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,Mysidacea,Fig46_Grav_Comp_77,17.05,0.1753033107,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleostei,Fig46_Grav_Comp_77,NA,0,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Endopterygota,diptera,Fig46_Grav_Comp_77,2.31,0.02375077113,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,cumacea,Fig46_Grav_Comp_77,3.91,0.04020152169,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Arthropoda,insecta,Fig46_Grav_Comp_77,1.26,0.01295496607,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,harpacticoida,Fig46_Grav_Comp_77,1.35,0.01388032079,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,isopods,Sphaeromatidae,Fig46_Grav_Comp_77,2.02,0.02076907259,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BC,Annelida,Polychaeta,Fig46_Grav_Comp_77,0.55,0.005654945507,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Coleoptera,Fig46_Grav_Comp_77,0.11,0.001130989101,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Eucarida-Decapoda,Fig46_Grav_Comp_77,17.59,0.180855439,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,MA,Ulvophyceae,Ulotrichales,Fig46_Grav_Comp_77,NA,0,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Hippolytidae,Fig46_Grav_Comp_77,1.41,0.01449722394,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Ostracoda,Fig46_Grav_Comp_77,2.18,0.02241414765,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Euphausiacea,Fig46_Grav_Comp_77,14.81,0.1522722599,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Chaoborus,Fig46_Grav_Comp_77,NA,0,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Natantia,Fig46_Grav_Comp_77,0.59,0.006066214271,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Isopoda,Valvifera,Fig46_Grav_Comp_77,0.2,0.002056343821,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Amphipoda,Isaeidae,Fig46_Grav_Comp_77,NA,0,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BC,Annelida,Nereidae,Fig46_Grav_Comp_77,5.97,0.06138186305,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Caprellidea,Fig46_Grav_Comp_77,0.17,0.001747892248,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,INSECT,Insecta,Homoptera,Fig46_Grav_Comp_77,0.06,6.169031462e-4,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Caprellidae,Fig46_Grav_Comp_77,0.2,0.002056343821,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Corophiidae,Fig46_Grav_Comp_77,NA,0,24,Fish_Fresh_et_al_1979
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Gammaridea,Fig46_Grav_Comp_77,0.61,0.0062718486530000004,24,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig43_Grav_Comp_TW_78,19,0.1923466289,25,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig43_Grav_Comp_TW_78,43.56,0.4409799555,25,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,crustacea,Amphipoda-Hyperiidea,Fig43_Grav_Comp_TW_78,10.2,0.1032597692,25,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Endopterygota,diptera,Fig43_Grav_Comp_TW_78,2.08,0.02105689411,25,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Fig43_Grav_Comp_TW_78,15.57,0.1576230006,25,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig43_Grav_Comp_TW_78,1.45,0.01467908483,25,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-Caridea,Fig43_Grav_Comp_TW_78,2.06,0.02085442397,25,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig43_Grav_Comp_TW_78,0.08,8.098805426e-4,25,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,insecta,Fig43_Grav_Comp_TW_78,0.64,0.006479044341,25,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Larvacea,Fig43_Grav_Comp_TW_78,2.66,0.02692852804,25,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysidacea,Fig43_Grav_Comp_TW_78,0.2,0.002024701357,25,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig43_Grav_Comp_TW_78,1.28,0.01295808868,25,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig42_Grav_Comp_BS_78,13.28,0.135565537,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig42_Grav_Comp_BS_78,39.82,0.4064924459,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,crustacea,Amphipoda-Hyperiidea,Fig42_Grav_Comp_BS_78,1.6,0.01633319722,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Endopterygota,diptera,Fig42_Grav_Comp_BS_78,0.16,0.001633319722,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Fig42_Grav_Comp_BS_78,1.08,0.01102490813,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig42_Grav_Comp_BS_78,2.24,0.02286647611,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,insecta,Fig42_Grav_Comp_BS_78,0.08,8.166598612e-4,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysidacea,Fig42_Grav_Comp_BS_78,7.79,0.07952225398,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Cumacea,Fig42_Grav_Comp_BS_78,0.57,0.005818701511,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-Caridea Larvae,Fig42_Grav_Comp_BS_78,2.23,0.02276439363,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Copepoda,Fig42_Grav_Comp_BS_78,4.27,0.04358922009,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Euphausiacea,Fig42_Grav_Comp_BS_78,20.84,0.2127398938,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-Pleocyemata,Fig42_Grav_Comp_BS_78,3.29,0.03358513679,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Chordata,Urochordata,Fig42_Grav_Comp_BS_78,0.55,0.005614536546,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Unidentified eggs,Unidentified eggs,Fig42_Grav_Comp_BS_78,0.16,0.001633319722,26,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig41_Grav_Comp_TW_77,3.39,0.0340498192,27,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig41_Grav_Comp_TW_77,4.97,0.04991964644,27,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Endopterygota,diptera,Fig41_Grav_Comp_TW_77,11.74,0.1179188429,27,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig41_Grav_Comp_TW_77,18.96,0.1904379269,27,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,insecta,Fig41_Grav_Comp_TW_77,3.61,0.03625954198,27,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig41_Grav_Comp_TW_77,2.26,0.02269987947,27,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Cumacea,Fig41_Grav_Comp_TW_77,2.71,0.02721976697,27,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chaoborus,Fig41_Grav_Comp_TW_77,51.92,0.5214945761,27,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig40_Grav_Comp_BS_77,38.98,0.399139873,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig40_Grav_Comp_BS_77,2.55,0.02611099734,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,crustacea,Amphipoda-Hyperiidea,Fig40_Grav_Comp_BS_77,6.49,0.06645504813,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Endopterygota,diptera,Fig40_Grav_Comp_BS_77,0.24,0.002457505632,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Fig40_Grav_Comp_BS_77,2.73,0.02795412656,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig40_Grav_Comp_BS_77,14.18,0.1451976244,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-Caridea,Fig40_Grav_Comp_BS_77,NA,0,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig40_Grav_Comp_BS_77,NA,0,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,insecta,Fig40_Grav_Comp_BS_77,0.49,0.005017407332,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Larvacea,Fig40_Grav_Comp_BS_77,NA,0,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysidacea,Fig40_Grav_Comp_BS_77,2.28,0.0233463035,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig40_Grav_Comp_BS_77,NA,0,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Cumacea,Fig40_Grav_Comp_BS_77,2.88,0.02949006758,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Cyclopoida,Fig40_Grav_Comp_BS_77,0.92,0.009420438255,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Natantia,Fig40_Grav_Comp_BS_77,1.66,0.01699774729,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Eucarida-Decapoda,Fig40_Grav_Comp_BS_77,2.56,0.02621339341,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-Brachyura,Fig40_Grav_Comp_BS_77,1.78,0.0182265001,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Hippolytidae,Fig40_Grav_Comp_BS_77,3.35,0.03430268278,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,FDF,Actinopterygii,Pleronectiformes,Fig40_Grav_Comp_BS_77,16.57,0.1696702847,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Brachyura,Fig40_Grav_Comp_BS_77,NA,0,28,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Harpacticoida,Fig39_Grav_Comp_77,38.34,0.3964019851,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Calanoida,Fig39_Grav_Comp_77,2.59,0.0267783292,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,crustacea,Amphipoda-Hyperiidea,Fig39_Grav_Comp_77,6.37,0.06586021505,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Endopterygota,diptera,Fig39_Grav_Comp_77,0.45,0.004652605459,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,FISH,Actinopterygii,Teleostei,Fig39_Grav_Comp_77,2.68,0.02770885029,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Gammaridea,Fig39_Grav_Comp_77,14.27,0.1475392887,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Pleocyemata-Caridea,Fig39_Grav_Comp_77,NA,0,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Crustacea,Ostracoda,Fig39_Grav_Comp_77,NA,0,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Arthropoda,insecta,Fig39_Grav_Comp_77,0.55,0.005686517783,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Urochordata,Larvacea,Fig39_Grav_Comp_77,NA,0,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Mysidacea,Fig39_Grav_Comp_77,2.24,0.02315963606,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Crustacea,Fig39_Grav_Comp_77,NA,0,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Crustacea,Cumacea,Fig39_Grav_Comp_77,2.87,0.02967328371,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Crustacea,Cyclopoida,Fig39_Grav_Comp_77,0.9,0.009305210918,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Natantia,Fig39_Grav_Comp_77,1.63,0.01685277089,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Eucarida-Decapoda,Fig39_Grav_Comp_77,2.52,0.02605459057,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Decapoda-Brachyura,Fig39_Grav_Comp_77,NA,0,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Hippolytidae,Fig39_Grav_Comp_77,3.29,0.03401571547,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,FDF,Actinopterygii,Pleronectiformes,Fig39_Grav_Comp_77,16.27,0.1682175352,29,Fish_Fresh_et_al_1979
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Crustacea,Brachyura,Fig39_Grav_Comp_77,1.75,0.01809346567,29,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Crustacea,harpacticoida,Fig38_Grav_Comp_TW_78,40.74,0.4073592641,30,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Crustacea,Ostracoda,Fig38_Grav_Comp_TW_78,2.46,0.02459754025,30,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FISH,Actinopterygii,teleostei,Fig38_Grav_Comp_TW_78,40.17,0.401659834,30,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Crustacea,Mysidacea,Fig38_Grav_Comp_TW_78,0.05,4.99950005e-4,30,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Crustacea,Cumacea,Fig38_Grav_Comp_TW_78,0.47,0.004699530047,30,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Crustacea,Gammaridea,Fig38_Grav_Comp_TW_78,0.47,0.004699530047,30,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,crustacea,Amphipoda-Hyperiidea,Fig38_Grav_Comp_TW_78,2.84,0.02839716028,30,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Endopterygota,diptera,Fig38_Grav_Comp_TW_78,4.25,0.04249575042,30,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Crustacea,Calanoida,Fig38_Grav_Comp_TW_78,8.51,0.08509149085,30,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,NA,Unidentified,Unidentified,Fig38_Grav_Comp_TW_78,0.05,4.99950005e-4,30,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Crustacea,harpacticoida,Fig37_Grav_Comp_BS_78,15.58,0.1570881226,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Crustacea,Ostracoda,Fig37_Grav_Comp_BS_78,NA,0,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FISH,Actinopterygii,teleostei,Fig37_Grav_Comp_BS_78,0.24,0.00241984271,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Crustacea,Mysidacea,Fig37_Grav_Comp_BS_78,31.89,0.3215366001,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Crustacea,Cumacea,Fig37_Grav_Comp_BS_78,4.03,0.04063319218,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Crustacea,Gammaridea,Fig37_Grav_Comp_BS_78,1.95,0.01966122202,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,crustacea,Amphipoda-Hyperiidea,Fig37_Grav_Comp_BS_78,6.68,0.06735228877,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Endopterygota,diptera,Fig37_Grav_Comp_BS_78,NA,0,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Crustacea,Calanoida,Fig37_Grav_Comp_BS_78,28.54,0.287759629,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,NA,Unidentified,Unidentified,Fig37_Grav_Comp_BS_78,NA,0,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Crustacea,Pleocyemata-Caridea Larvae,Fig37_Grav_Comp_BS_78,0.48,0.00483968542,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BC,Annelida,polychaeta,Fig37_Grav_Comp_BS_78,1.04,0.01048598508,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Crustacea,Eucarida-Decapoda-Brachyrhynch Larvae,Fig37_Grav_Comp_BS_78,3.22,0.03246622303,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Crustacea,Copepoda,Fig37_Grav_Comp_BS_78,2.27,0.02288767897,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Crustacea,Euphausiacea,Fig37_Grav_Comp_BS_78,1.94,0.01956039524,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Spiralia,Chaetognatha,Fig37_Grav_Comp_BS_78,1.32,0.01330913491,31,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Crustacea,harpacticoida,Fig36_Grav_Comp_77,0.19,0.001937589231,32,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,PWN,Crustacea,Cumacea,Fig36_Grav_Comp_77,0.82,0.008362227208,32,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Crustacea,Gammaridea,Fig36_Grav_Comp_77,4.29,0.04374872527,32,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,crustacea,Amphipoda-Hyperiidea,Fig36_Grav_Comp_77,0.51,0.00520089741,32,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Endopterygota,diptera,Fig36_Grav_Comp_77,NA,0,32,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Crustacea,Calanoida,Fig36_Grav_Comp_77,36.94,0.3767081379,32,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Urochordata,Larvacea,Fig36_Grav_Comp_77,50.7,0.5170303896,32,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Crustacea,Eucarida-Decapoda,Fig36_Grav_Comp_77,2.06,0.0210075464,32,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Crustacea,Natantia,Fig36_Grav_Comp_77,2.38,0.02427085458,32,Fish_Fresh_et_al_1979
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Crustacea,Tanaidacea,Fig36_Grav_Comp_77,0.17,0.00173363247,32,Fish_Fresh_et_al_1979
+FPS,adult,Surf Smelt,Hypomesus pretiosus,PWN,Crustacea,Shrimp larvae,%_Biomass_1978,92.7,1,33,Fish_Fresh_et_al_1979
+HE,juvenile,Pacific herring,Clupea harengus pallasii,ZM,Crustacea,Calanoid copepods,%_Biomass_Tatsolo_point,16.8,0.168,34,Fish_Fresh_et_al_1979
+HE,juvenile,Pacific herring,Clupea harengus pallasii,BD,Crustacea,gammarid amphipods,%_Biomass_Tatsolo_point,16.8,0.168,34,Fish_Fresh_et_al_1979
+HE,juvenile,Pacific herring,Clupea harengus pallasii,FISH,Fish,Fish larvae,%_Biomass_Tatsolo_point,60.8,0.608,34,Fish_Fresh_et_al_1979
+HE,juvenile,Pacific herring,Clupea harengus pallasii,ZL,Crustacea,Ostracods/crab larvae,%_Biomass_Tatsolo_point,5.6,0.056,34,Fish_Fresh_et_al_1979
+FMM,juvenile,Pacific Cod,Gadus macrocephalus,ZM,Crustacea,Cyclopoid copepods,Frequency_Tatsolo_point,1,0.25,35,Fish_Fresh_et_al_1979
+FMM,juvenile,Pacific Cod,Gadus macrocephalus,ZM,Crustacea,Calanoid copepods,Frequency_Tatsolo_point,1,0.25,35,Fish_Fresh_et_al_1979
+FMM,juvenile,Pacific Cod,Gadus macrocephalus,PWN,Crustacea,Hippolytid shrimp,Frequency_Tatsolo_point,1,0.25,35,Fish_Fresh_et_al_1979
+FMM,juvenile,Pacific Cod,Gadus macrocephalus,BD,Crustacea,Hyperiid amphipods,Frequency_Tatsolo_point,1,0.25,35,Fish_Fresh_et_al_1979
+SMD,juvenile,Threespine Stickleback,Gasterosteus aculeatus,BD,Crustacea,harpacticoid copepods,Frequency_Dupont_Dock,6,1,36,Fish_Fresh_et_al_1979
+SMD,juvenile,Threespine Stickleback,Gasterosteus aculeatus,BD,Crustacea,gammarid amphipods,Biomass_Dupont_Dock,95.24,1,37,Fish_Fresh_et_al_1979
+SMD,juvenile,Threespine Stickleback,Gasterosteus aculeatus,ZL,Crustacea,decapod zoea,Frequency_Dupont_Dock,1,1,38,Fish_Fresh_et_al_1979
+SMD,adult,Threespine Stickleback,Gasterosteus aculeatus,PWN,Crustacea,shrimp zoea,Frequency_Sandy_cove,6,1,39,Fish_Fresh_et_al_1979
+SMD,adult,Bay pipefish,Syngnathus griseolineatus,BML,Crustacea,crustacean eggs,Biomass_Dupont_Dock,2.4,0.024,40,Fish_Fresh_et_al_1979
+SMD,adult,Bay pipefish,Syngnathus griseolineatus,BD,Crustacea,gammarid amphipods,Biomass_Dupont_Dock,97.6,0.976,40,Fish_Fresh_et_al_1979
+SMD,adult,Rock greenling,Hexagrammos lagocephalus,PWN,Crustacea,hippolytid shrimp,Frequency_Tatsolo_point,8,0.8888888889,41,Fish_Fresh_et_al_1979
+SMD,adult,Rock greenling,Hexagrammos lagocephalus,BML,crab,cancer sp,Frequency_Tatsolo_point,1,0.1111111111,41,Fish_Fresh_et_al_1979
+SMD,adult,Padded sculpin,Artedius fenestralis,PWN,Crustacea,hippolytid shrimp,Text_1_Frequency,1,0.1666666667,42,Fish_Fresh_et_al_1979
+SMD,adult,Padded sculpin,Artedius fenestralis,PWN,Crustacea,hippolytid shrimp,Text_1_Frequency,1,0.1666666667,42,Fish_Fresh_et_al_1979
+SMD,adult,Padded sculpin,Artedius fenestralis,PWN,Crustacea,hippolytid shrimp,Text_1_Frequency,1,0.1666666667,42,Fish_Fresh_et_al_1979
+SMD,adult,Padded sculpin,Artedius fenestralis,PWN,Crustacea,hippolytid shrimp,Text_1_Frequency,1,0.1666666667,42,Fish_Fresh_et_al_1979
+SMD,adult,Padded sculpin,Artedius fenestralis,PWN,Crustacea,hippolytid shrimp,Text_1_Frequency,1,0.1666666667,42,Fish_Fresh_et_al_1979
+SMD,adult,Padded sculpin,Artedius fenestralis,PWN,Crustacea,hippolytid shrimp,Text_1_Frequency,1,0.1666666667,42,Fish_Fresh_et_al_1979
+SMD,adult,Smoothhead sculpin,Artedius lateralis,BD,isopods,Gnorimosphaeroma oregonensis,Text_2,80,0.8,43,Fish_Fresh_et_al_1979
+SMD,adult,Smoothhead sculpin,Artedius lateralis,BD,Crustacea,gammarid amphipods,Text_2,13.33333333,0.1333333333,43,Fish_Fresh_et_al_1979
+SMD,adult,Smoothhead sculpin,Artedius lateralis,BD,Crustacea,tanaid,Text_2,6.666666667,0.06666666667,43,Fish_Fresh_et_al_1979
+SMD,adult,Sharpnose sculpin,Clinicottus acuticeps,BD,isopods,Gnorimosphaeroma oregonensis,Text_3_Frequency,1,0.3333333333,44,Fish_Fresh_et_al_1979
+SMD,adult,Sharpnose sculpin,Clinicottus acuticeps,BD,Crustacea,gammarid amphipods,Text_3_Frequency,1,0.3333333333,44,Fish_Fresh_et_al_1979
+SMD,adult,Sharpnose sculpin,Clinicottus acuticeps,PWN,Crustacea,shrimp zoea,Text_3_Frequency,1,0.3333333333,44,Fish_Fresh_et_al_1979
+SMD,adult,Sailfin sculpin,Nautichthys oculofasciatus,BC,Annelida,polychaetes,Text_4_Frequency,3,0.5,45,Fish_Fresh_et_al_1979
+SMD,adult,Sailfin sculpin,Nautichthys oculofasciatus,BD,Crustacea,gammarid amphipods,Text_4_Frequency,2,0.3333333333,45,Fish_Fresh_et_al_1979
+SMD,adult,Sailfin sculpin,Nautichthys oculofasciatus,PWN,Crustacea,Shrimp,Text_4_Frequency,1,0.1666666667,45,Fish_Fresh_et_al_1979
+SMD,adult,Tubenose Poacher,Pallasina barbata,BD,Crustacea,harpacticoid copepods,Text_5_Frequency,100,1,46,Fish_Fresh_et_al_1979
+SMD,adult,Penpoint gunnel,Apodichthys flavidus,BD,Crustacea,gammarid amphipods,Text_6_Frequency,6,1,47,Fish_Fresh_et_al_1979
+FDF,adult,Dover sole,Microstomus pacificus,BC,Annelida,Polychaete,Text_7_%_Weight,57.4,0.574,48,Fish_Fresh_et_al_1979
+FDF,adult,Dover sole,Microstomus pacificus,BIV,Bivalve,Bivalve,Text_7_%_Weight,32.6,0.326,48,Fish_Fresh_et_al_1979
+FDF,adult,Dover sole,Microstomus pacificus,BD,Crustacea,gammarid amphipods,Text_7_%_Weight,10,0.1,48,Fish_Fresh_et_al_1979
+SMD,adult,Tidepool sculpin,Oligottus maculosus,BD,gammarid amphipods,gammarid amphipods,Text_8_Frequency,1,0.2,49,Fish_Fresh_et_al_1979
+SMD,adult,Tidepool sculpin,Oligottus maculosus,BD,caprellid amphipods,caprellid amphipods,Text_8_Frequency,1,0.2,49,Fish_Fresh_et_al_1979
+SMD,adult,Tidepool sculpin,Oligottus maculosus,BD,Tanaids,Tanaids,Text_8_Frequency,1,0.2,49,Fish_Fresh_et_al_1979
+SMD,adult,Tidepool sculpin,Oligottus maculosus,BD,flabilliferan isopods,isopods,Text_8_Frequency,1,0.2,49,Fish_Fresh_et_al_1979
+SMD,adult,Tidepool sculpin,Oligottus maculosus,BC,Polychaete,Polychaete,Text_8_Frequency,1,0.2,49,Fish_Fresh_et_al_1979

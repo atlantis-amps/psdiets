@@ -1,0 +1,422 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_1_Village_Bay_curved_past_Enterprise_Reef_86a,20,0.08474576271,1,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Brachyura,Brachyura larvae,NO_TN_1_Village_Bay_curved_past_Enterprise_Reef_86a,16,0.06779661017,1,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Oikopleura,Oikopleura,NO_TN_1_Village_Bay_curved_past_Enterprise_Reef_86a,200,0.8474576271,1,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_1_Village_Bay_curved_past_Enterprise_Reef_86b,30,0.2307692308,2,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Oikopleura,Oikopleura,NO_TN_1_Village_Bay_curved_past_Enterprise_Reef_86b,100,0.7692307692,2,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Cirripedia,Cypris stage,NO_TN_1_Village_Bay_curved_past_Enterprise_Reef_87,300,1,3,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,NA,Eggs,Eggs,NO_TN_1_Village_Bay_curved_past_Enterprise_Reef,0,0,4,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Oikopleura,Oikopleura,NO_TN_1_Village_Bay_curved_past_Enterprise_Reef,400,1,4,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,NO_TN_1_Village_Bay_curved_past_Enterprise_Reef,2,1,5,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Chaetognath,Oikopleura,NO_TN_1_Village_Bay_curved_past_Enterprise_Reef,300,1,6,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Cirripedia,Balanus cypris stage,NO_TN_2_Village_Bay_64,275,0.8986928105,7,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Eucalanus bungii bungii,NO_TN_2_Village_Bay_64,4,0.01307189542,7,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Metridia okhotensis,NO_TN_2_Village_Bay_64,7,0.02287581699,7,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Brachyura,Megalops stage,NO_TN_2_Village_Bay_64,20,0.06535947712,7,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Eucalanus bungii bungii,NO_TN_2_Village_Bay_73,5,0.03937007874,8,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Diptera larvae,NO_TN_2_Village_Bay_73,120,0.9448818898,8,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,SMD,Fish,Clevelandia ios,NO_TN_2_Village_Bay_73,2,0.0157480315,8,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_2_Village_Bay_84,8,0.0174291939,9,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Eucalanus bungii bungii,NO_TN_2_Village_Bay_84,5,0.01089324619,9,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Euphausiid,Euphausia pacifica,NO_TN_2_Village_Bay_84,3,0.006535947712,9,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura larvae,NO_TN_2_Village_Bay_84,33,0.07189542484,9,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Arachnida,Arachnida,NO_TN_2_Village_Bay_84,2,0.004357298475,9,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Oikopleura,Oikopleura,NO_TN_2_Village_Bay_84,400,0.871459695,9,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_2_Village_Bay_84,6,0.01307189542,9,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ROCKFISH,Fish,Sebastodes sp. larvae,NO_TN_2_Village_Bay_84,2,0.004357298475,9,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_2_Village_Bay_92,16,0.3636363636,10,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_2_Village_Bay_92,28,0.6363636364,10,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_2_Village_Bay_98,24,0.3243243243,11,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura larvae,NO_TN_2_Village_Bay_98,10,0.1351351351,11,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_2_Village_Bay_98,37,0.5,11,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FMM,Fish,Merluccius productus,NO_TN_2_Village_Bay_98,3,0.04054054054,11,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Brachyura,Brachyura,NO_TN_2_Village_Bay_123,3,0.75,12,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FPS,Fish,Ammodytes hexapterus,NO_TN_2_Village_Bay_123,1,0.25,12,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_2_Village_Bay_110,22,0.7586206897,13,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_2_Village_Bay_110,3,0.1034482759,13,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Eucalanus bungii bungii,NO_TN_2_Village_Bay_110,2,0.06896551724,13,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Brachyura,Brachyura larvae,NO_TN_2_Village_Bay_110,2,0.06896551724,13,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_2_Village_Bay_117,7,0.09459459459,14,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_2_Village_Bay_117,12,0.1621621622,14,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Euphausiid,Thysanoessa longipes,NO_TN_2_Village_Bay_117,1,0.01351351351,14,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Brachyura,Megalops stage,NO_TN_2_Village_Bay_117,27,0.3648648649,14,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_2_Village_Bay_117,14,0.1891891892,14,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FPS,Fish,Thaleichthys pacificus,NO_TN_2_Village_Bay_117,13,0.1756756757,14,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_3_Active_Pass_80,2,0.01851851852,15,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Chaetognath,Balanus cypris stage,NO_TN_3_Active_Pass_80,8,0.07407407407,15,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_3_Active_Pass_80,6,0.05555555556,15,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Pseudocalanus minutus,NO_TN_3_Active_Pass_80,26,0.2407407407,15,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_3_Active_Pass_80,20,0.1851851852,15,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura larvae,NO_TN_3_Active_Pass_80,45,0.4166666667,15,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ROCKFISH,Fish,Sebastodes sp. larvae,NO_TN_3_Active_Pass_80,1,0.009259259259,15,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_3_Active_Pass_84,1,0.01020408163,16,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Chaetognath,Cypris stage,NO_TN_3_Active_Pass_84,4,0.04081632653,16,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,NO_TN_3_Active_Pass_84,9,0.09183673469,16,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Eucalanus bungii bungii,NO_TN_3_Active_Pass_84,7,0.07142857143,16,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Pseudocalanus minutus,NO_TN_3_Active_Pass_84,18,0.1836734694,16,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_3_Active_Pass_84,40,0.4081632653,16,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Euphausiid,Thysanoessa spinifera,NO_TN_3_Active_Pass_84,1,0.01020408163,16,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura larvae,NO_TN_3_Active_Pass_84,17,0.1734693878,16,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ROCKFISH,Fish,Sebastodes sp. larvae,NO_TN_3_Active_Pass_84,1,0.01020408163,16,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Chaetognath,Sagitta elegans,NO_TN_3_Active_Pass_96,3,0.2,17,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Polychaete,Tomopteris sp.,NO_TN_3_Active_Pass_96,1,0.06666666667,17,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,NO_TN_3_Active_Pass_96,2,0.1333333333,17,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,HE,Fish,Clupea pallasii,NO_TN_3_Active_Pass_96,1,0.06666666667,17,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,FPS,Fish,Thaleichthys pacificus,NO_TN_3_Active_Pass_96,2,0.1333333333,17,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp.,NO_TN_3_Active_Pass_96,6,0.4,17,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Chaetognath,Sagitta elegans,NO_TN_3_Active_Pass_110,21,0.3818181818,18,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BC,Polychaete,Tomopteris sp.,NO_TN_3_Active_Pass_110,16,0.2909090909,18,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,NO_TN_3_Active_Pass_110,7,0.1272727273,18,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Mysiid,Proneomysis wailsei,NO_TN_3_Active_Pass_110,1,0.01818181818,18,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,NO_TN_3_Active_Pass_110,5,0.09090909091,18,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,HE,Fish,Clupea pallasii,NO_TN_3_Active_Pass_110,2,0.03636363636,18,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,FMM,Fish,Merluccius productus,NO_TN_3_Active_Pass_110,3,0.05454545455,18,FISH_Barraclough_&_Fulton_1967
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,BC,Polychaete,Polychaete,NO_TN_3_Active_Pass_99,4,0.05263157895,19,FISH_Barraclough_&_Fulton_1967
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,NO_TN_3_Active_Pass_99,7,0.09210526316,19,FISH_Barraclough_&_Fulton_1967
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,ZM,Copepod,Pseudocalanus minutus,NO_TN_3_Active_Pass_99,8,0.1052631579,19,FISH_Barraclough_&_Fulton_1967
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,BD,Amphipod,Parathemisto pacifica,NO_TN_3_Active_Pass_99,45,0.5921052632,19,FISH_Barraclough_&_Fulton_1967
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,BML,Anomura,Anomura larvae,NO_TN_3_Active_Pass_99,12,0.1578947368,19,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Chaetognath,Balanus cypris stage,NO_TN_4_Strait_of_Georgia_Active_Pass_78,17,0.04057279236,20,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_4_Strait_of_Georgia_Active_Pass_78,24,0.05727923628,20,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_78,264,0.630071599,20,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura larvae,NO_TN_4_Strait_of_Georgia_Active_Pass_78,84,0.200477327,20,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Oikopleura,Oikopleura,NO_TN_4_Strait_of_Georgia_Active_Pass_78,30,0.07159904535,20,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_4_Strait_of_Georgia_Active_Pass_88,10,0.02150537634,21,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Chaetognath,Cypris stage,NO_TN_4_Strait_of_Georgia_Active_Pass_88,20,0.04301075269,21,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_88,9,0.01935483871,21,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_4_Strait_of_Georgia_Active_Pass_88,15,0.03225806452,21,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_88,350,0.752688172,21,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Euprimno abyssalis,NO_TN_4_Strait_of_Georgia_Active_Pass_88,4,0.008602150538,21,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura larvae,NO_TN_4_Strait_of_Georgia_Active_Pass_88,40,0.08602150538,21,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_4_Strait_of_Georgia_Active_Pass_88,7,0.01505376344,21,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FPS,Fish,Thaleichthys pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_88,10,0.02150537634,21,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_4_Strait_of_Georgia_Active_Pass_91,5,0.05050505051,22,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BC,Polychaete,Tomopteris larvae,NO_TN_4_Strait_of_Georgia_Active_Pass_91,1,0.0101010101,22,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Chaetognath,Cypris stage,NO_TN_4_Strait_of_Georgia_Active_Pass_91,5,0.05050505051,22,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_91,4,0.0404040404,22,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_4_Strait_of_Georgia_Active_Pass_91,6,0.06060606061,22,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Eucalanus bungii bungii,NO_TN_4_Strait_of_Georgia_Active_Pass_91,2,0.0202020202,22,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Pseudocalanus minutus,NO_TN_4_Strait_of_Georgia_Active_Pass_91,16,0.1616161616,22,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_91,30,0.303030303,22,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura larvae,NO_TN_4_Strait_of_Georgia_Active_Pass_91,23,0.2323232323,22,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_4_Strait_of_Georgia_Active_Pass_91,3,0.0303030303,22,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ROCKFISH,Fish,Sebastodes sp. larvae,NO_TN_4_Strait_of_Georgia_Active_Pass_91,4,0.0404040404,22,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BC,Polychaete,Tomopteris sp.,NO_TN_4_Strait_of_Georgia_Active_Pass_99,43,0.2905405405,23,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_99,12,0.08108108108,23,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Eucalanus bungii bungii,NO_TN_4_Strait_of_Georgia_Active_Pass_99,7,0.0472972973,23,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_99,80,0.5405405405,23,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Culicidae,NO_TN_4_Strait_of_Georgia_Active_Pass_99,1,0.006756756757,23,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_4_Strait_of_Georgia_Active_Pass_99,5,0.03378378378,23,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_4_Strait_of_Georgia_Active_Pass_103,16,0.2253521127,24,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BC,Polychaete,Tomopteris sp.,NO_TN_4_Strait_of_Georgia_Active_Pass_103,11,0.1549295775,24,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Chaetognath,Cypris stage,NO_TN_4_Strait_of_Georgia_Active_Pass_103,6,0.08450704225,24,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_4_Strait_of_Georgia_Active_Pass_103,10,0.1408450704,24,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_103,14,0.1971830986,24,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura larvae,NO_TN_4_Strait_of_Georgia_Active_Pass_103,8,0.1126760563,24,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_4_Strait_of_Georgia_Active_Pass_103,6,0.08450704225,24,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_4_Strait_of_Georgia_Active_Pass_121,8,0.06451612903,25,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_4_Strait_of_Georgia_Active_Pass_121,18,0.1451612903,25,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_121,70,0.564516129,25,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Euphausiid,Euphausia pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_121,3,0.02419354839,25,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_4_Strait_of_Georgia_Active_Pass_121,25,0.2016129032,25,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_4_Strait_of_Georgia_Active_Pass_93,11,0.06707317073,26,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_4_Strait_of_Georgia_Active_Pass_93,30,0.1829268293,26,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_93,58,0.3536585366,26,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Euphausiid,Thysanoessa raschii,NO_TN_4_Strait_of_Georgia_Active_Pass_93,3,0.01829268293,26,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura larvae,NO_TN_4_Strait_of_Georgia_Active_Pass_93,33,0.2012195122,26,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_4_Strait_of_Georgia_Active_Pass_93,3,0.01829268293,26,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FPS,Fish,Thaleichthys pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_93,18,0.1097560976,26,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FPS,Fish,Leuroglossus stilbius,NO_TN_4_Strait_of_Georgia_Active_Pass_93,1,0.006097560976,26,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ROCKFISH,Fish,Sebastodes sp.,NO_TN_4_Strait_of_Georgia_Active_Pass_93,7,0.04268292683,26,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_4_Strait_of_Georgia_Active_Pass_96,12,0.02464065708,27,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_96,39,0.08008213552,27,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Pseudocalanus minutus,NO_TN_4_Strait_of_Georgia_Active_Pass_96,7,0.01437371663,27,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_96,236,0.4845995893,27,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Euprimno abyssalis,NO_TN_4_Strait_of_Georgia_Active_Pass_96,2,0.004106776181,27,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura larvae,NO_TN_4_Strait_of_Georgia_Active_Pass_96,73,0.1498973306,27,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FPS,Fish,Thaleichthys pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_96,118,0.2422997947,27,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_4_Strait_of_Georgia_Active_Pass_102,40,0.1538461538,28,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_102,19,0.07307692308,28,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_4_Strait_of_Georgia_Active_Pass_102,12,0.04615384615,28,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Pseudocalanus minutus,NO_TN_4_Strait_of_Georgia_Active_Pass_102,2,0.007692307692,28,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_102,159,0.6115384615,28,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura larvae,NO_TN_4_Strait_of_Georgia_Active_Pass_102,10,0.03846153846,28,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FPS,Fish,Thaleichthys pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_102,18,0.06923076923,28,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_4_Strait_of_Georgia_Active_Pass_123,64,0.2601626016,29,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BC,Polychaete,Tomopteris sp.,NO_TN_4_Strait_of_Georgia_Active_Pass_123,5,0.02032520325,29,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_123,28,0.1138211382,29,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_4_Strait_of_Georgia_Active_Pass_123,2,0.008130081301,29,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_123,103,0.418699187,29,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Euphausiid,Thysanoessa raschii,NO_TN_4_Strait_of_Georgia_Active_Pass_123,1,0.00406504065,29,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura,NO_TN_4_Strait_of_Georgia_Active_Pass_123,18,0.07317073171,29,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_4_Strait_of_Georgia_Active_Pass_123,1,0.00406504065,29,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FPS,Fish,Thaleichthys pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_123,24,0.09756097561,29,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Chaetognath,Sagitta elegans,NO_TN_4_Strait_of_Georgia_Active_Pass_95,49,0.362962963,30,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_95,4,0.02962962963,30,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepod,Eucalanus bungii bungii,NO_TN_4_Strait_of_Georgia_Active_Pass_95,5,0.03703703704,30,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,NO_TN_4_Strait_of_Georgia_Active_Pass_95,8,0.05925925926,30,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_95,41,0.3037037037,30,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Anomura,Anomura larvae,NO_TN_4_Strait_of_Georgia_Active_Pass_95,17,0.1259259259,30,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,HE,Fish,Clupea pallasii,NO_TN_4_Strait_of_Georgia_Active_Pass_95,2,0.01481481481,30,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,FPS,Fish,Thaleichthys pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_95,9,0.06666666667,30,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Chaetognath,Sagitta elegans,NO_TN_4_Strait_of_Georgia_Active_Pass_102,43,0.2756410256,31,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_102,7,0.04487179487,31,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_102,52,0.3333333333,31,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Euphausiid,Thysanoessa raschii,NO_TN_4_Strait_of_Georgia_Active_Pass_102,14,0.08974358974,31,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Anomura,Anomura larvae,NO_TN_4_Strait_of_Georgia_Active_Pass_102,34,0.2179487179,31,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,FPS,Fish,Thaleichthys pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_102,6,0.03846153846,31,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Chaetognath,Sagitta elegans,NO_TN_4_Strait_of_Georgia_Active_Pass_112,54,0.5,32,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_112,4,0.03703703704,32,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,NO_TN_4_Strait_of_Georgia_Active_Pass_112,9,0.08333333333,32,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_112,14,0.1296296296,32,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Euphausiid,Thysanoessa raschii,NO_TN_4_Strait_of_Georgia_Active_Pass_112,3,0.02777777778,32,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,HE,Fish,Clupea pallasii,NO_TN_4_Strait_of_Georgia_Active_Pass_112,4,0.03703703704,32,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,FPS,Fish,Thaleichthys pacificus,NO_TN_4_Strait_of_Georgia_Active_Pass_112,20,0.1851851852,32,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Chaetognath,Sagitta elegans,NO_TN_4_Strait_of_Georgia_Active_Pass_148,64,0.7710843373,33,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,NO_TN_4_Strait_of_Georgia_Active_Pass_148,3,0.03614457831,33,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,NO_TN_4_Strait_of_Georgia_Active_Pass_148,16,0.1927710843,33,FISH_Barraclough_&_Fulton_1967
+ROCKFISH,juvenile,Rockfish,Sebastodes sp.,ZM,Copepod,Microcalanus pygmaeus,NO_TN_4_Strait_of_Georgia_Active_Pass_11.5,3,0.75,34,FISH_Barraclough_&_Fulton_1967
+ROCKFISH,juvenile,Rockfish,Sebastodes sp.,BIV,Bivalve,Prodisconch stage,NO_TN_4_Strait_of_Georgia_Active_Pass_11.5,1,0.25,34,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Copepods digested,NO_TN_5_Strait_of_Georgia_off_Active_Pass_20,3,1,35,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Copepod,NO_TN_5_Strait_of_Georgia_off_Active_Pass_22,1,1,36,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BC,Polychaete,Polychaete larvae,NO_TN_5_Strait_of_Georgia_off_Active_Pass_77,4,0.1818181818,37,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Ostracod,Conchoecia alata minor,NO_TN_5_Strait_of_Georgia_off_Active_Pass_77,3,0.1363636364,37,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura larvae,NO_TN_5_Strait_of_Georgia_off_Active_Pass_77,4,0.1818181818,37,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Cecidomyiidae,NO_TN_5_Strait_of_Georgia_off_Active_Pass_77,2,0.09090909091,37,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Oikopleura,Oikopleura,NO_TN_5_Strait_of_Georgia_off_Active_Pass_77,9,0.4090909091,37,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Ostracod,Conchoecia alata minor,NO_TN_5_Strait_of_Georgia_off_Active_Pass_98,5,0.5,38,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_5_Strait_of_Georgia_off_Active_Pass_98,4,0.4,38,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Cecidomyiidae,NO_TN_5_Strait_of_Georgia_off_Active_Pass_98,1,0.1,38,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_5_Strait_of_Georgia_off_Active_Pass_105,6,0.09677419355,39,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Ostracod,Conchoecia alata minor,NO_TN_5_Strait_of_Georgia_off_Active_Pass_105,2,0.03225806452,39,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_5_Strait_of_Georgia_off_Active_Pass_105,9,0.1451612903,39,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_5_Strait_of_Georgia_off_Active_Pass_105,45,0.7258064516,39,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Chaetognath,Sagitta elegans,NO_TN_5_Strait_of_Georgia_off_Active_Pass_106,29,0.1021126761,40,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,NO_TN_5_Strait_of_Georgia_off_Active_Pass_106,41,0.1443661972,40,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_5_Strait_of_Georgia_off_Active_Pass_106,149,0.5246478873,40,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura,NO_TN_5_Strait_of_Georgia_off_Active_Pass_106,18,0.06338028169,40,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_5_Strait_of_Georgia_off_Active_Pass_106,20,0.07042253521,40,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,FPS,Fish,Thaleichthys pacificus,NO_TN_5_Strait_of_Georgia_off_Active_Pass_106,27,0.09507042254,40,FISH_Barraclough_&_Fulton_1967
+FPS,juvenile,Eulachon,Thaleichthys pacificus,PARASITE,Parasite,Trematode,NO_TN_5_Strait_of_Georgia_off_Active_Pass_20,NA,#DIV/0!,41,FISH_Barraclough_&_Fulton_1967
+FPS,juvenile,Eulachon,Thaleichthys pacificus,ZM,Copepod,Microcalanus pygmaeus,NO_TN_5_Strait_of_Georgia_off_Active_Pass_24,1,1,42,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Black-eyed goby,Coryphopterus nicholsii,CLADOCERA,Cladocera,Cladocera,NO_TN_5_Strait_of_Georgia_off_Active_Pass_77,3,1,43,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZL,Euphausiid,Euphausiid eggs,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_19,1,1,44,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,PARASITE,Parasite,Lecithaster gibbosus,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_20,2,1,45,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZL,Euphausiid,Euphausiid eggs,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_23,1,1,46,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZL,Euphausiid,Euphausiid eggs,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_65,4800,1,47,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZL,Euphausiid,Euphausiid eggs,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_72,550,1,48,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZL,Euphausiid,Euphausia pacifica eggs,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_75,600,1,49,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZL,Euphausiid,Euphausiid eggs,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_77,650,1,50,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZL,Euphausiid,Euphausia pacifica eggs,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_114,5040,1,51,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZL,Ostracod,Conchoecia alata minor,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_138,3,0.0009970089731,52,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZL,Euphausiid,Euphausiid eggs,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_138,3000,0.9970089731,52,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,BML,Brachyura,Brachyura larvae,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_138,6,0.001994017946,52,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZL,Ostracod,Philomedes sp.,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_146,18,0.0332103321,53,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZL,Ostracod,Conchoecia alata minor,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_146,4,0.007380073801,53,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZM,Copepod,Calanus plumchrus,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_146,9,0.01660516605,53,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_146,8,0.0147601476,53,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZL,Euphausiid,Euphausiid Eggs,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_146,500,0.9225092251,53,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZL,Euphausiid,Euphausia pacifica,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_146,3,0.005535055351,53,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,HE,Fish,Clupea pallasii,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_181,3,1,54,FISH_Barraclough_&_Fulton_1967
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Euphausiid,Euphausia pacifica,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_67,1,0.03571428571,55,FISH_Barraclough_&_Fulton_1967
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insect,Lepidoptera,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_67,2,0.07142857143,55,FISH_Barraclough_&_Fulton_1967
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hymenoptera,Ichneumonidae,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_67,10,0.3571428571,55,FISH_Barraclough_&_Fulton_1967
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Diptera,Drosophilidae,NO_TN_7_Strait_of_Georgia_1-1.5_miles_off_Point_Roberts_67,15,0.5357142857,55,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Calanus pacificus,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_20,1,1,56,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_58,25,1,57,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Calanus pacificus,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_66,3,0.04411764706,58,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_66,65,0.9558823529,58,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Calanus pacificus,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_70,1,0.007633587786,59,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_70,130,0.9923664122,59,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,PWN,Anomura,Crangon,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_108,5,0.1162790698,60,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,BML,Brachyura,Zoea stage,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_108,38,0.8837209302,60,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,PWN,Anomura,Crangon larvae,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_149,100,0.7407407407,61,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,BML,Brachyura,Zoea stage,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_149,35,0.2592592593,61,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZL,Euphausiid,Thysanoessa raschii (eggs),NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_159,8000,1,62,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_146,2,0.08333333333,63,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Euphausiid,Thysanoessa raschii,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_146,2,0.08333333333,63,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Brachyura,Zoea stage,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_146,19,0.7916666667,63,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FDF,Fish,Lyopsetta exilis,NO_TN_8_Off_Point_Roberts_near_Tsawwassen_Dock_146,1,0.04166666667,63,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_25_Off_Galiano_Island_16,2,1,64,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_25_Off_Galiano_Island_24,3,1,65,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_25_Off_Galiano_Island_25,4,1,66,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Copepod exoskeletons,NO_TN_25_Off_Galiano_Island_26,2,1,67,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_25_Off_Galiano_Island_27,2,1,68,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,BC,Polychaete,Tompoteris,NO_TN_25_Off_Galiano_Island_104,2,0.004587155963,69,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Calanus pacificus,NO_TN_25_Off_Galiano_Island_104,81,0.1857798165,69,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Eucalanus bungii bungii,NO_TN_25_Off_Galiano_Island_104,9,0.02064220183,69,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_25_Off_Galiano_Island_104,42,0.09633027523,69,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,NO_TN_25_Off_Galiano_Island_104,30,0.06880733945,69,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,BD,Amphipod,Orchomenella sp.,NO_TN_25_Off_Galiano_Island_104,57,0.130733945,69,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZL,Euphausiid,Calyptopis stage,NO_TN_25_Off_Galiano_Island_104,210,0.4816513761,69,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,BML,Brachyura,Megalops stage,NO_TN_25_Off_Galiano_Island_104,5,0.01146788991,69,FISH_Barraclough_&_Fulton_1967
+FPS,juvenile,Eulachon,Thaleichthys pacificus,ZM,Copepod,Pseudocalanus minutus,NO_TN_25_Off_Galiano_Island_25,1,1,70,FISH_Barraclough_&_Fulton_1967
+FPS,juvenile,Eulachon,Thaleichthys pacificus,ZM,Copepod,Pseudocalanus minutus,NO_TN_25_Off_Galiano_Island_27,3,1,71,FISH_Barraclough_&_Fulton_1967
+ROCKFISH,juvenile,Rockfish,Sebastodes sp.,CLADOCERA,Cladocera,Cladocera nauplii,NO_TN_25_Off_Galiano_Island_5,3,1,72,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Copepod digested,NO_TN_26_Off_south_end_of_Galiano Island_21,2,1,73,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_26_Off_south_end_of_Galiano Island_24a,2,1,74,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,PARASITE,Parasite,Lecithaster gibbosus,NO_TN_26_Off_south_end_of_Galiano Island_24b,1,1,75,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_26_Off_south_end_of_Galiano Island_24c,1,1,76,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_26_Off_south_end_of_Galiano Island_25,4,0.4,77,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_26_Off_south_end_of_Galiano Island_25,6,0.6,77,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Hemiptera,NO_TN_26_Off_south_end_of_Galiano Island_83,2,0.1176470588,78,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Trichoptera,NO_TN_26_Off_south_end_of_Galiano Island_83,4,0.2352941176,78,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Hymenoptera,NO_TN_26_Off_south_end_of_Galiano Island_83,5,0.2941176471,78,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Chironomidae,NO_TN_26_Off_south_end_of_Galiano Island_83,6,0.3529411765,78,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Pseudocalanus minutus,NO_TN_26_Off_south_end_of_Galiano Island_87,11,0.1833333333,79,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_26_Off_south_end_of_Galiano Island_87,17,0.2833333333,79,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Euphausiid,Calyptopis stage,NO_TN_26_Off_south_end_of_Galiano Island_87,6,0.1,79,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Trichoptera,NO_TN_26_Off_south_end_of_Galiano Island_87,7,0.1166666667,79,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Hymenoptera,NO_TN_26_Off_south_end_of_Galiano Island_87,4,0.06666666667,79,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Chironomidae,NO_TN_26_Off_south_end_of_Galiano Island_87,15,0.25,79,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Orchomenella sp.,NO_TN_26_Off_south_end_of_Galiano Island_92,1,0.125,80,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Trichoptera,NO_TN_26_Off_south_end_of_Galiano Island_92,2,0.25,80,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Hymenoptera,NO_TN_26_Off_south_end_of_Galiano Island_92,4,0.5,80,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_26_Off_south_end_of_Galiano Island_92,1,0.125,80,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Chaetognath,Cirripedia,NO_TN_26_Off_south_end_of_Galiano Island_98,3,0.08571428571,81,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,NO_TN_26_Off_south_end_of_Galiano Island_98,6,0.1714285714,81,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Eucalanus bungii bungii,NO_TN_26_Off_south_end_of_Galiano Island_98,1,0.02857142857,81,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Acartia sp.,NO_TN_26_Off_south_end_of_Galiano Island_98,3,0.08571428571,81,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Orchomenella sp.,NO_TN_26_Off_south_end_of_Galiano Island_98,14,0.4,81,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Hemiptera,NO_TN_26_Off_south_end_of_Galiano Island_98,2,0.05714285714,81,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Trichoptera,NO_TN_26_Off_south_end_of_Galiano Island_98,4,0.1142857143,81,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Hymenoptera,NO_TN_26_Off_south_end_of_Galiano Island_98,2,0.05714285714,81,FISH_Barraclough_&_Fulton_1967
+ROCKFISH,juvenile,Rockfish,Sebastodes sp.,CLADOCERA,Cladocera,Cladocera nauplii,NO_TN_26_Off_south_end_of_Galiano Island_8,6,1,82,FISH_Barraclough_&_Fulton_1967
+ROCKFISH,juvenile,Rockfish,Sebastodes sp.,ZL,Pteropod,Limacina helicina,NO_TN_26_Off_south_end_of_Galiano Island_10,3,1,83,FISH_Barraclough_&_Fulton_1967
+SMD,adult,Bay pipefish,Syngnathus griseolineatus,BD,Amphipod,Caprella sp.,NO_TN_26_Off_south_end_of_Galiano Island_168,5,1,84,FISH_Barraclough_&_Fulton_1967
+FPS,juvenile,Pacific sandlance,Ammodytes hexapterus,ZM,Copepod,Pseudocalanus minutus,NO_TN_26_Off_south_end_of_Galiano Island_95,8,1,85,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_23,2,1,86,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Ostracod,Philomedes sp.,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_90,3,0.1764705882,87,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Pseudocalanus minutus,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_90,5,0.2941176471,87,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Caprella sp.,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_90,2,0.1176470588,87,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Euphausiid,Euphausia pacifica,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_90,4,0.2352941176,87,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Cecidomyiidae,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_90,2,0.1176470588,87,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_90,1,0.05882352941,87,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Pseudocalanus minutus,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_97,5,0.1515151515,88,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_97,28,0.8484848485,88,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BC,Polychaete,Callizona angelini,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_99,3,0.08333333333,89,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Ostracod,Philomedes sp.,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_99,2,0.05555555556,89,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_99,2,0.05555555556,89,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_99,9,0.25,89,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Calliopius sp.,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_99,4,0.1111111111,89,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Euphausiid,Calyptopis stage,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_99,3,0.08333333333,89,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Hymenoptera (ants),NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_99,4,0.1111111111,89,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Hymenoptera,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_99,3,0.08333333333,89,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Cecidomyiidae,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_99,5,0.1388888889,89,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,SMD,Fish,Stichaeidae,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_99,1,0.02777777778,89,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZL,Ostracod,Philomedes sp.,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_102,2,1,90,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_110,8,0.8888888889,91,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,HE,Fish,Clupea pallasii,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_110,1,0.1111111111,91,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BC,Polychaete,Callizona angelini,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_135,2,0.1111111111,92,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Amphipod,Calliopius sp.,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_135,2,0.1111111111,92,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_135,3,0.1666666667,92,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Brachyura,Cancer sp.,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_135,11,0.6111111111,92,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Euphausiid,Thysanoessa raschii,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_88,5,1,93,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_98,14,0.09655172414,94,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Euphausiid,Thysanoessa raschii,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_98,1,0.006896551724,94,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Oikopleura,Oikopleura,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_98,130,0.8965517241,94,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Ostracod,Philomedes sp.,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_106,6,0.07692307692,95,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZL,Euphausiid,Euphausia pacifica,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_106,2,0.02564102564,95,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Oikopleura,Oikopleura,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_106,70,0.8974358974,95,FISH_Barraclough_&_Fulton_1967
+FPS,juvenile,Pacific sandlance,Ammodytes hexapterus,ZM,Copepod,Calanus pacificus,NO_TN_27_Strait_of_Georgia_off_Belle_Islando_Group_84,10,1,96,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Nauplii stage,NO_TN_28_Between Point Roberts and Active Pass_19,2,1,97,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,PARASITE,Parasite,Trematode,NO_TN_28_Between Point Roberts and Active Pass_22,1,1,98,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,PARASITE,Trematode,Pentagramma petrowi,NO_TN_28_Between Point Roberts and Active Pass_22b,1,1,99,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Chaetognath,Cypris stage,NO_TN_28_Between Point Roberts and Active Pass_83,5,0.3333333333,100,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Hymenoptera,NO_TN_28_Between Point Roberts and Active Pass_83,4,0.2666666667,100,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Chaoboridae,NO_TN_28_Between Point Roberts and Active Pass_83,6,0.4,100,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Neuroptera,NO_TN_28_Between Point Roberts and Active Pass_102,3,0.2307692308,101,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Trichoptera,NO_TN_28_Between Point Roberts and Active Pass_102,2,0.1538461538,101,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Hymenoptera,NO_TN_28_Between Point Roberts and Active Pass_102,2,0.1538461538,101,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Cecidomyiidae,NO_TN_28_Between Point Roberts and Active Pass_102,6,0.4615384615,101,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,NO_TN_28_Between Point Roberts and Active Pass_240,3,1,102,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipod,Calliopius sp.,NO_TN_28_Between Point Roberts and Active Pass_92,7,0.1627906977,103,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insect,Hemiptera,NO_TN_28_Between Point Roberts and Active Pass_92,2,0.04651162791,103,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insect,Trichoptera,NO_TN_28_Between Point Roberts and Active Pass_92,6,0.1395348837,103,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insect,Hymenoptera,NO_TN_28_Between Point Roberts and Active Pass_92,3,0.06976744186,103,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insect,Cecidomyiidae,NO_TN_28_Between Point Roberts and Active Pass_92,19,0.4418604651,103,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insect,Odonata,NO_TN_28_Between Point Roberts and Active Pass_92,1,0.02325581395,103,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insect,Culicidae,NO_TN_28_Between Point Roberts and Active Pass_92,2,0.04651162791,103,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insect,Cecidomyiidae,NO_TN_28_Between Point Roberts and Active Pass_92,3,0.06976744186,103,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insect,Odonata,NO_TN_28_Between Point Roberts and Active Pass_111,1,0.1666666667,104,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Culicidae,NO_TN_28_Between Point Roberts and Active Pass_111,2,0.3333333333,104,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,NO_TN_28_Between Point Roberts and Active Pass_111,3,0.5,104,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophore,Digested Pleurobrachia,NO_TN_28_Between Point Roberts and Active Pass_124,2,0.05882352941,105,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Chaetognath,Cypris stage,NO_TN_28_Between Point Roberts and Active Pass_124,2,0.05882352941,105,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BFF,Oikopleura,Oikopleura,NO_TN_28_Between Point Roberts and Active Pass_124,30,0.8823529412,105,FISH_Barraclough_&_Fulton_1967
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,ZL,Ostracod,Philomedes sp.,NO_TN_28_Between Point Roberts and Active Pass_78,26,0.8666666667,106,FISH_Barraclough_&_Fulton_1967
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,BD,Copepod,Harpacticoid copepod,NO_TN_28_Between Point Roberts and Active Pass_78,1,0.03333333333,106,FISH_Barraclough_&_Fulton_1967
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,ZL,Euphausiid,Thysanoessa raschii,NO_TN_28_Between Point Roberts and Active Pass_78,2,0.06666666667,106,FISH_Barraclough_&_Fulton_1967
+SAL,juvenile,Sockeye salmon,Oncorhynchus nerka,PARASITE,Parasite,Cestode,NO_TN_28_Between Point Roberts and Active Pass_78,1,0.03333333333,106,FISH_Barraclough_&_Fulton_1967
+ROCKFISH,juvenile,Rockfish,Sebastodes sp.,BML,Copepod,Nauplii,NO_TN_28_Between Point Roberts and Active Pass_6.5,5,1,107,FISH_Barraclough_&_Fulton_1967
+ROCKFISH,juvenile,Rockfish,Sebastodes sp.,CLADOCERA,Cladocera,Cladocera nauplii,NO_TN_28_Between Point Roberts and Active Pass_7a,4,1,108,FISH_Barraclough_&_Fulton_1967
+ROCKFISH,juvenile,Rockfish,Sebastodes sp.,ZM,Copepod,Nauplii Pseudocalanus minutus,NO_TN_28_Between Point Roberts and Active Pass_7b,3,1,109,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Three-spined stickleback,Gasterosteus aculeatus,ZM,Copepod,Pseudocalanus minutus,NO_TN_28_Between Point Roberts and Active Pass_24,16,0.5925925926,110,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Three-spined stickleback,Gasterosteus aculeatus,ZM,Copepod,Pseudocalanus minutus,NO_TN_28_Between Point Roberts and Active Pass_24,11,0.4074074074,110,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Three-spined stickleback,Gasterosteus aculeatus,CLADOCERA,Cladocera,Cladocera,NO_TN_28_Between Point Roberts and Active Pass_28,2,1,111,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Three-spined stickleback,Gasterosteus aculeatus,ZM,Copepod,Pseudocalanus minutus,NO_TN_28_Between Point Roberts and Active Pass_30,6,0.75,112,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Three-spined stickleback,Gasterosteus aculeatus,INSECT,Insect,Hymenoptera,NO_TN_28_Between Point Roberts and Active Pass_30,2,0.25,112,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Three-spined stickleback,Gasterosteus aculeatus,ZM,Copepod,Pseudocalanus minutus,NO_TN_28_Between Point Roberts and Active Pass_31,12,1,113,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Three-spined stickleback,Gasterosteus aculeatus,INSECT,Insect,Hymenoptera,NO_TN_28_Between Point Roberts and Active Pass_32,4,1,114,FISH_Barraclough_&_Fulton_1967
+SMD,adult,Black-eyed goby,Coryphopterus nicholsii,ZM,Copepod,Pseudocalanus minutus,NO_TN_28_Between Point Roberts and Active Pass_124,1,1,115,FISH_Barraclough_&_Fulton_1967
+FPS,juvenile,Pacific sandlance,Ammodytes hexapterus,CLADOCERA,Cladocera,Cladocera,NO_TN_28_Between Point Roberts and Active Pass_85,2,0.1111111111,116,FISH_Barraclough_&_Fulton_1967
+FPS,juvenile,Pacific sandlance,Ammodytes hexapterus,ZM,Copepod,Pseudocalanus minutus,NO_TN_28_Between Point Roberts and Active Pass_85,12,0.6666666667,116,FISH_Barraclough_&_Fulton_1967
+FPS,juvenile,Pacific sandlance,Ammodytes hexapterus,BML,Anomura,Anomura larvae,NO_TN_28_Between Point Roberts and Active Pass_85,4,0.2222222222,116,FISH_Barraclough_&_Fulton_1967
+FPS,juvenile,Pacific sandlance,Ammodytes hexapterus,ZM,Copepod,Pseudocalanus minutus,NO_TN_28_Between Point Roberts and Active Pass_98,2,1,117,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Brachyura,Pagurid larvae,NO_TN_28_Between Point Roberts and Active Pass_93,3,0.075,118,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Neuroptera,NO_TN_28_Between Point Roberts and Active Pass_93,3,0.075,118,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Chaoboridae,NO_TN_28_Between Point Roberts and Active Pass_93,6,0.15,118,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Oikopleura,Oikopleura,NO_TN_28_Between Point Roberts and Active Pass_93,28,0.7,118,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,CLADOCERA,Cladocera,Cladocera,NO_TN_28_Between Point Roberts and Active Pass_97,2,0.1176470588,119,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZM,Copepod,Pseudocalanus minutus,NO_TN_28_Between Point Roberts and Active Pass_97,3,0.1764705882,119,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Brachyura,Pagurid larvae,NO_TN_28_Between Point Roberts and Active Pass_97,12,0.7058823529,119,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_29_Between Active Pass and Point Roberts_21,1,1,120,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_29_Between Active Pass and Point Roberts_22,2,0.6666666667,121,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,PARASITE,Parasite,Lecithaster gibbosus,NO_TN_29_Between Active Pass and Point Roberts_22,1,0.3333333333,121,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,PARASITE,Parasite,Lecithaster gibbosus,NO_TN_29_Between Active Pass and Point Roberts_23a,1,1,122,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_29_Between Active Pass and Point Roberts_23b,3,1,123,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_29_Between Active Pass and Point Roberts_23c,2,1,124,FISH_Barraclough_&_Fulton_1967
+HE,juvenile,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_29_Between Active Pass and Point Roberts_25,2,1,125,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,PARASITE,Parasite,Lecithaster gibbosus,NO_TN_29_Between Active Pass and Point Roberts_133,2,0.04651162791,126,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,BFF,Chaetognath,Cypris stage,NO_TN_29_Between Active Pass and Point Roberts_133,4,0.09302325581,126,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_29_Between Active Pass and Point Roberts_133,14,0.3255813953,126,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,NO_TN_29_Between Active Pass and Point Roberts_133,16,0.3720930233,126,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,BML,Anomura,Anomura larvae,NO_TN_29_Between Active Pass and Point Roberts_133,7,0.1627906977,126,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZM,Copepod,Calanus pacificus,NO_TN_29_Between Active Pass and Point Roberts_157,15,0.08620689655,127,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZM,Copepod,Eucalanus bungii bungii,NO_TN_29_Between Active Pass and Point Roberts_157,57,0.3275862069,127,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,NO_TN_29_Between Active Pass and Point Roberts_157,16,0.09195402299,127,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,NO_TN_29_Between Active Pass and Point Roberts_157,28,0.1609195402,127,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,BD,Amphipod,Euprimno abyssalis,NO_TN_29_Between Active Pass and Point Roberts_157,4,0.02298850575,127,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,BD,Amphipod,Orchomenella sp.,NO_TN_29_Between Active Pass and Point Roberts_157,21,0.1206896552,127,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,BML,Anomura,Anomura larvae,NO_TN_29_Between Active Pass and Point Roberts_157,29,0.1666666667,127,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,BML,Brachyura,Brachyura,NO_TN_29_Between Active Pass and Point Roberts_157,2,0.01149425287,127,FISH_Barraclough_&_Fulton_1967
+HE,adult,Pacific herring,Clupea pallasii,ROCKFISH,Fish,Sebastodes sp.,NO_TN_29_Between Active Pass and Point Roberts_157,2,0.01149425287,127,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BFF,Chaetognath,Cypris stage,NO_TN_29_Between Active Pass and Point Roberts_80,28,0.1944444444,128,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Scina borealis,NO_TN_29_Between Active Pass and Point Roberts_80,2,0.01388888889,128,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BD,Amphipod,Orchomenella sp.,NO_TN_29_Between Active Pass and Point Roberts_80,84,0.5833333333,128,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,BML,Anomura,Anomura,NO_TN_29_Between Active Pass and Point Roberts_80,1,0.006944444444,128,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Hemiptera,NO_TN_29_Between Active Pass and Point Roberts_80,5,0.03472222222,128,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Trichoptera,NO_TN_29_Between Active Pass and Point Roberts_80,7,0.04861111111,128,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Neuroptera,NO_TN_29_Between Active Pass and Point Roberts_80,2,0.01388888889,128,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Muscidae,NO_TN_29_Between Active Pass and Point Roberts_80,1,0.006944444444,128,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Diptera,Chironomidae,NO_TN_29_Between Active Pass and Point Roberts_80,14,0.09722222222,128,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Coleoptera,Coccinellidae,NO_TN_29_Between Active Pass and Point Roberts_88,2,0.2857142857,129,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Hymenoptra,NO_TN_29_Between Active Pass and Point Roberts_88,2,0.2857142857,129,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,INSECT,Insect,Chironomidae,NO_TN_29_Between Active Pass and Point Roberts_88,3,0.4285714286,129,FISH_Barraclough_&_Fulton_1967
+PIS,juvenile,Pink salmon,Oncorhynchus gorbuscha,ZG,Ctenophore,Pleurobrachia,NO_TN_29_Between Active Pass and Point Roberts_93,1,1,130,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,NO_TN_29_Between Active Pass and Point Roberts_200,3,1,131,FISH_Barraclough_&_Fulton_1967
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,NO_TN_29_Between Active Pass and Point Roberts_224,7,1,132,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BML,Anomura,Anomura,NO_TN_29_Between Active Pass and Point Roberts_103,2,0.09523809524,133,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insect,Hemiptera,NO_TN_29_Between Active Pass and Point Roberts_103,1,0.04761904762,133,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insect,Trichoptera,NO_TN_29_Between Active Pass and Point Roberts_103,6,0.2857142857,133,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insect,Hymenoptera,NO_TN_29_Between Active Pass and Point Roberts_103,2,0.09523809524,133,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Hymenoptera,Ichneumonidae,NO_TN_29_Between Active Pass and Point Roberts_103,3,0.1428571429,133,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insect,Chironomidae,NO_TN_29_Between Active Pass and Point Roberts_103,7,0.3333333333,133,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Amphipod,Scina borealis,NO_TN_29_Between Active Pass and Point Roberts_114,1,1,134,FISH_Barraclough_&_Fulton_1967
+CU,juvenile,Chum salmon,Oncorhynchus keta,ZG,Ctenophore,Pleurobrachia digested,NO_TN_29_Between Active Pass and Point Roberts_141,2,1,135,FISH_Barraclough_&_Fulton_1967
+ROCKFISH,juvenile,Rockfish,Sebastodes sp.,BML,Copepod,Nauplii,NO_TN_29_Between Active Pass and Point Roberts_5,1,1,136,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Three-spined stickleback,Gasterosteus aculeatus,BD,Amphipod,Calliopius sp.,NO_TN_29_Between Active Pass and Point Roberts_27,3,1,137,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Three-spined stickleback,Gasterosteus aculeatus,ZM,Copepod,Pseudocalanus minutus,NO_TN_29_Between Active Pass and Point Roberts_27b,5,0.2380952381,138,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Three-spined stickleback,Gasterosteus aculeatus,BD,Amphipod,Calliopius sp.,NO_TN_29_Between Active Pass and Point Roberts_27b,16,0.7619047619,138,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Three-spined stickleback,Gasterosteus aculeatus,ZM,Copepod,Pseudocalanus minutus,NO_TN_29_Between Active Pass and Point Roberts_29,6,0.6,139,FISH_Barraclough_&_Fulton_1967
+SMD,juvenile,Three-spined stickleback,Gasterosteus aculeatus,BD,Amphipod,Calliopius sp.,NO_TN_29_Between Active Pass and Point Roberts_29,4,0.4,139,FISH_Barraclough_&_Fulton_1967

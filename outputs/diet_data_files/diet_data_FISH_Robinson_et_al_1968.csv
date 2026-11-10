@@ -1,0 +1,1093 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,eggs P. minutus,Tow_1_Strait_of_Georgia_CP_17,4,1,1,FISH_Robinson_et_al_1968
+CO,juvenile,Clupea pallasii,Oncorhynchus kisutch,PLANT,Water plant stem,Water plant stem,Tow_1_Strait_of_Georgia_OK_125,1,0.5,2,FISH_Robinson_et_al_1968
+CO,juvenile,Clupea pallasii,Oncorhynchus kisutch,BD,Amphipod,Gammaridea,Tow_1_Strait_of_Georgia_OK_125,1,0.5,2,FISH_Robinson_et_al_1968
+CO,juvenile,Clupea pallasii,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,Tow_1_Strait_of_Georgia_OK_143,11,0.9166666667,3,FISH_Robinson_et_al_1968
+CO,juvenile,Clupea pallasii,Oncorhynchus kisutch,ZL,Euphausiid,Euphausiid,Tow_1_Strait_of_Georgia_OK_143,1,0.08333333333,3,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Amphipod,Tow_1_Strait_of_Georgia_OK_153,75,0.5067567568,4,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Caprellidae,Tow_1_Strait_of_Georgia_OK_153,1,0.006756756757,4,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BML,Decapod,Brachyuran zoea,Tow_1_Strait_of_Georgia_OK_153,70,0.472972973,4,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BML,Decapod,Brachyuran megalopa,Tow_1_Strait_of_Georgia_OK_153,2,0.01351351351,4,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,SQX,Mollusca,Squid pen,Tow_1_Strait_of_Georgia_Oki_162,1,0.3333333333,5,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,SMD,Fish,Hexagrammos decagrammus,Tow_1_Strait_of_Georgia_Oki_162,2,0.6666666667,5,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ZM,Copepod,Calanus plumchrus,Tow_1_Strait_of_Georgia_OT_102,50,0.7246376812,6,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,BML,Decapod,Brachyuran zoea,Tow_1_Strait_of_Georgia_OT_102,12,0.1739130435,6,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,INSECT,Diptera,Diptera,Tow_1_Strait_of_Georgia_OT_102,1,0.01449275362,6,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastodes sp,Tow_1_Strait_of_Georgia_OT_102,6,0.08695652174,6,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_1_Strait_of_Georgia_Oke_38,4,0.5714285714,7,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,Tow_1_Strait_of_Georgia_Oke_38,1,0.1428571429,7,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,Tow_1_Strait_of_Georgia_Oke_38,1,0.1428571429,7,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Diptera,Tow_1_Strait_of_Georgia_Oke_38,1,0.1428571429,7,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_1_Strait_of_Georgia_OKe_65,28,0.7777777778,8,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Ostracoda,Conchoecia alata minor,Tow_1_Strait_of_Georgia_OKe_65,1,0.02777777778,8,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_1_Strait_of_Georgia_OKe_65,4,0.1111111111,8,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,Tow_1_Strait_of_Georgia_OKe_65,1,0.02777777778,8,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_1_Strait_of_Georgia_OKe_65,1,0.02777777778,8,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,Tow_1_Strait_of_Georgia_OKe_65,1,0.02777777778,8,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_1_Strait_of_Georgia_Oke_95,25,0.641025641,9,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,Tow_1_Strait_of_Georgia_Oke_95,14,0.358974359,9,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_1_Strait_of_Georgia_ON_104,18,0.09278350515,10,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Parathemisto pacifica,Tow_1_Strait_of_Georgia_ON_104,1,0.005154639175,10,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ROCKFISH,Fish,Sebastodes sp,Tow_1_Strait_of_Georgia_ON_104,175,0.9020618557,10,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,PARASITE,Cestoda,Cestoda,Tow_1_Strait_of_Georgia_ON_111,2,0.008456659619,11,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus pacificus,Tow_1_Strait_of_Georgia_ON_111,85,0.3594080338,11,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Parathemisto pacifica,Tow_1_Strait_of_Georgia_ON_111,1,0.00422832981,11,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BML,Decapod,Brachyuran zoea,Tow_1_Strait_of_Georgia_ON_111,2,0.008456659619,11,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ROCKFISH,Fish,Sebastodes sp,Tow_1_Strait_of_Georgia_ON_111,145,0.6131078224,11,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,FPS,Fish,Ammodytes hexapterus,Tow_1_Strait_of_Georgia_ON_111,1,0.00422832981,11,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,NA,Digested matter,Digested matter,Tow_1_Strait_of_Georgia_ON_111,0.5,0.002114164905,11,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,ZL,Euphausiid,Euphausia pacifica,Tow_1_Strait_of_Georgia_HD_56,1,1,12,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,CLADOCERA,Cladocera,Podon sp,Tow_1_Strait_of_Georgia_HD_60,1,0.03703703704,13,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,ZM,Copepod,Calanus plumchrus,Tow_1_Strait_of_Georgia_HD_60,25,0.9259259259,13,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BFF,Cirrepedia,Balanus sp nauplius,Tow_1_Strait_of_Georgia_HD_60,1,0.03703703704,13,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,ZM,Copepod,Calanus plumchrus,Tow_1_Strait_of_Georgia_HD_62,6,1,14,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,ZM,Copepod,Calanus plumchrus,Tow_1_Strait_of_Georgia_HD_67,10,1,15,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,ZM,Copepod,Calanus plumchrus,Tow_1_Strait_of_Georgia_HD_69,25,1,16,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Copepod nauplii,Tow_1_Strait_of_Georgia_SS_5a,3,1,17,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,Tow_1_Strait_of_Georgia_SS_8,1,0.5,18,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Copepod nauplius,Tow_1_Strait_of_Georgia_SS_8,1,0.5,18,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Copepod nauplii,Tow_1_Strait_of_Georgia_SS_5b,2,1,19,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Copepod nauplii,Tow_1_Strait_of_Georgia_SS_6,4,1,20,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,Tow_1_Strait_of_Georgia_SS_10,1,0.07692307692,21,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Copepod nauplii,Tow_1_Strait_of_Georgia_SS_10,8,0.6153846154,21,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Copepod eggs,Tow_1_Strait_of_Georgia_SS_10,4,0.3076923077,21,FISH_Robinson_et_al_1968
+SMD,juvenile,Epigeichthys atropurpureus,Epigeichthys atropurpureus,ZM,Copepod,Copepod nauplii,Tow_1_Strait_of_Georgia_EA_6.5,9,1,22,FISH_Robinson_et_al_1968
+SMD,juvenile,Epigeichthys atropurpureus,Epigeichthys atropurpureus,ZM,Copepod,Copepod nauplii,Tow_1_Strait_of_Georgia_EA_13,2,1,23,FISH_Robinson_et_al_1968
+SMD,juvenile,Epigeichthys atropurpureus,Epigeichthys atropurpureus,ZM,Copepod,Pseudocalanus minutus,Tow_1_Strait_of_Georgia_EA_29,2,1,24,FISH_Robinson_et_al_1968
+SMD,juvenile,Epigeichthys atropurpureus,Epigeichthys atropurpureus,ZM,Copepod,Pseudocalanus minutus,Tow_1_Strait_of_Georgia_EA_31,3,0.09090909091,25,FISH_Robinson_et_al_1968
+SMD,juvenile,Epigeichthys atropurpureus,Epigeichthys atropurpureus,NA,Copepod,eggs,Tow_1_Strait_of_Georgia_EA_31,30,0.9090909091,25,FISH_Robinson_et_al_1968
+SMD,juvenile,Epigeichthys atropurpureus,Epigeichthys atropurpureus,ZM,Copepod,Pseudocalanus minutus,Tow_1_Strait_of_Georgia_EA_32,1,0.1111111111,26,FISH_Robinson_et_al_1968
+SMD,juvenile,Epigeichthys atropurpureus,Epigeichthys atropurpureus,NA,Copepod,eggs,Tow_1_Strait_of_Georgia_EA_32,8,0.8888888889,26,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Cyphocaris challengeri,Tow_2_Off_Valdes_Island_OK_98,1,0.07692307692,27,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Phoridae,Tow_2_Off_Valdes_Island_OK_98,12,0.9230769231,27,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepod,Calanus plumchrus,Tow_2_Off_Valdes_Island_OK_136,65,0.3801169591,28,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,Tow_2_Off_Valdes_Island_OK_136,46,0.269005848,28,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Euprimno abyssalis,Tow_2_Off_Valdes_Island_OK_136,1,0.005847953216,28,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BML,Decapod,Brachyuran zoea,Tow_2_Off_Valdes_Island_OK_136,56,0.3274853801,28,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BML,Decapod,Brachyuran megalopa,Tow_2_Off_Valdes_Island_OK_136,2,0.01169590643,28,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastodes sp,Tow_2_Off_Valdes_Island_OK_136,1,0.005847953216,28,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ZM,Copepod,Calanus plumchrus,Tow_2_Off_Valdes_Island_OT_116,90,0.8571428571,29,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,BD,Amphipod,Parathemisto pacifica,Tow_2_Off_Valdes_Island_OT_116,3,0.02857142857,29,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,BD,Amphipod,Euprimno abyssalis,Tow_2_Off_Valdes_Island_OT_116,3,0.02857142857,29,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ZL,Euphausiid,Euphausia pacifica,Tow_2_Off_Valdes_Island_OT_116,3,0.02857142857,29,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastodes sp,Tow_2_Off_Valdes_Island_OT_116,6,0.05714285714,29,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_2_Off_Valdes_Island_Oke_78,55,0.9322033898,30,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,Tow_2_Off_Valdes_Island_Oke_78,4,0.06779661017,30,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_2_Off_Valdes_Island_Oke_93,33,1,31,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,CLADOCERA,Cladocera,Podon sp,Tow_2_Off_Valdes_Island_ON_94,2,0.0487804878,32,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZL,Ostracoda,Conchoecia alata minor,Tow_2_Off_Valdes_Island_ON_94,25,0.6097560976,32,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_2_Off_Valdes_Island_ON_94,8,0.1951219512,32,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Aetideus armatus,Tow_2_Off_Valdes_Island_ON_94,2,0.0487804878,32,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Parathemisto pacifica,Tow_2_Off_Valdes_Island_ON_94,4,0.09756097561,32,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,FISH,Fish,Fish remains,Tow_2_Off_Valdes_Island_ON_106,3,1,33,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_2_Off_Valdes_Island_ON_133,210,1,34,FISH_Robinson_et_al_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZM,Copepod,Copepod nauplii,Tow_2_Off_Valdes_Island_MP_4.5,2,1,35,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,PL,Diatom,Coscinodiscus sp,Tow_2_Off_Valdes_Island_SS_7,1,0.1428571429,36,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Copepod nauplii,Tow_2_Off_Valdes_Island_SS_7,6,0.8571428571,36,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_3_Porlier_Pass_CP_108,75,1,37,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Ostracoda,Conchoecia alata minor,Tow_3_Porlier_Pass_CP_184,1,9.460737938e-4,38,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_3_Porlier_Pass_CP_184,1000,0.9460737938,38,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_3_Porlier_Pass_CP_184,25,0.02365184484,38,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Metridia sp,Tow_3_Porlier_Pass_CP_184,25,0.02365184484,38,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,Tow_3_Porlier_Pass_CP_184,3,0.002838221381,38,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Brachyuran zoea,Tow_3_Porlier_Pass_CP_184,3,0.002838221381,38,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,BD,Amphipod,Gammaridea,Tow_3_Porlier_Pass_SG_150,4,0.8,39,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,PWN,Decapod,Crangon communis,Tow_3_Porlier_Pass_SG_150,1,0.2,39,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Cyphocaris challengeri,Tow_3_Porlier_Pass_Oki_97,1,0.125,40,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Hyperiidea,Tow_3_Porlier_Pass_Oki_97,1,0.125,40,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BML,Decapod,Brachyuran zoea,Tow_3_Porlier_Pass_Oki_97,4,0.5,40,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Coleoptera,Coleoptera,Tow_3_Porlier_Pass_Oki_97,1,0.125,40,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Phoridae,Tow_3_Porlier_Pass_Oki_97,1,0.125,40,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,PLANT,Spring of Cedar,Thuja plicata,Tow_3_Porlier_Pass_OT_94,1,0.2,41,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,PARASITE,Nematode,Nematode,Tow_3_Porlier_Pass_OT_94,3,0.6,41,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,INSECT,Coleoptera,"Wingcases, pr",Tow_3_Porlier_Pass_OT_94,1,0.2,41,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_3_Porlier_Pass_Oke_58,3,0.1363636364,42,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_3_Porlier_Pass_Oke_58,18,0.8181818182,42,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,FISH,Fish,Fish larva,Tow_3_Porlier_Pass_Oke_58,1,0.04545454545,42,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,Tow_3_Porlier_Pass_Oke_61,45,0.9183673469,43,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Brachyuran megalopa,Tow_3_Porlier_Pass_Oke_61,1,0.02040816327,43,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,FISH,Fish,Fish larva,Tow_3_Porlier_Pass_Oke_61,3,0.0612244898,43,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Ostracoda,Conchoecia alata minor,Tow_3_Porlier_Pass_Oke_75,1,1,44,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Ostracoda,Conchoecia alata minor,Tow_3_Porlier_Pass_Oke_80,1,0.007936507937,45,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_3_Porlier_Pass_Oke_80,120,0.9523809524,45,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Amphipod,Tow_3_Porlier_Pass_Oke_80,1,0.007936507937,45,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Tipulidae,Tow_3_Porlier_Pass_Oke_80,1,0.007936507937,45,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,Tow_3_Porlier_Pass_Oke_80,3,0.02380952381,45,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Ostracoda,Conchoecia alata minor,Tow_3_Porlier_Pass_Oke_100,1,0.01204819277,46,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_3_Porlier_Pass_Oke_100,73,0.8795180723,46,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Diptera,Tow_3_Porlier_Pass_Oke_100,5,0.06024096386,46,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Culicidae,Tow_3_Porlier_Pass_Oke_100,2,0.02409638554,46,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_3_Porlier_Pass_Oke_100,2,0.02409638554,46,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,PARASITE,Cestoda,Cestoda,Tow_3_Porlier_Pass_ON_86,1,0.02325581395,47,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZL,Ostracoda,Conchoecia alata minor,Tow_3_Porlier_Pass_ON_86,5,0.1162790698,47,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_3_Porlier_Pass_ON_86,35,0.8139534884,47,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Gammaridea,Tow_3_Porlier_Pass_ON_86,2,0.04651162791,47,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZL,Ostracoda,Conchoecia alata minor,Tow_3_Porlier_Pass_ON_89,3,0.04615384615,48,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_3_Porlier_Pass_ON_89,60,0.9230769231,48,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BML,Decapod,Brachyuran zoea,Tow_3_Porlier_Pass_ON_89,2,0.03076923077,48,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZL,Ostracoda,Conchoecia alata minor,Tow_3_Porlier_Pass_ON_96,30,0.652173913,49,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Copepod,Harpacticoid,Tow_3_Porlier_Pass_ON_96,1,0.02173913043,49,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ROCKFISH,Fish,Sebastodes sp,Tow_3_Porlier_Pass_ON_96,15,0.3260869565,49,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_3_Porlier_Pass_ON_100,50,0.7936507937,50,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Parathemisto pacifica,Tow_3_Porlier_Pass_ON_100,1,0.01587301587,50,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Coleoptera,Coleoptera,Tow_3_Porlier_Pass_ON_100,1,0.01587301587,50,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Culicidae,Tow_3_Porlier_Pass_ON_100,5,0.07936507937,50,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Phoridae,Tow_3_Porlier_Pass_ON_100,6,0.09523809524,50,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_3_Porlier_Pass_ON_108,100,1,51,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,ZM,Copepod,Calanus plumchrus,Tow_3_Porlier_Pass_HD_59,10,1,52,FISH_Robinson_et_al_1968
+FVS,juvenile,Ophiodon elongatus,Ophiodon elongatus,ZM,Copepod,Calanus plumchrus,Tow_3_Porlier_Pass_OE_77,12,1,53,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Copepod nauplii,Tow_3_Porlier_Pass_SS_5,2,1,54,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,PARASITE,Trematoda,Lecithaster gibbosus,Tow_3_Porlier_Pass_AH_30,1,0.3333333333,55,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BFF,Larvacea,Oikopleura sp,Tow_3_Porlier_Pass_AH_30,2,0.6666666667,55,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_4_Porlier_Pass_CP_139,10,1,56,FISH_Robinson_et_al_1968
+CO,juvenile,Clupea pallasii,Oncorhynchus kisutch,ZM,Copepod,Calanus plumchrus,Tow_4_Porlier_Pass_CP_116,9,0.2571428571,57,FISH_Robinson_et_al_1968
+CO,juvenile,Clupea pallasii,Oncorhynchus kisutch,BD,Amphipod,Calliopius sp,Tow_4_Porlier_Pass_CP_116,1,0.02857142857,57,FISH_Robinson_et_al_1968
+CO,juvenile,Clupea pallasii,Oncorhynchus kisutch,BML,Decapod,Brachyuran zoea,Tow_4_Porlier_Pass_CP_116,17,0.4857142857,57,FISH_Robinson_et_al_1968
+CO,juvenile,Clupea pallasii,Oncorhynchus kisutch,INSECT,Diptera,Mycetophilidae,Tow_4_Porlier_Pass_CP_116,5,0.1428571429,57,FISH_Robinson_et_al_1968
+CO,juvenile,Clupea pallasii,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastodes sp,Tow_4_Porlier_Pass_CP_116,3,0.08571428571,57,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Mycetophilidae,Tow_4_Porlier_Pass_Oke_42,6,1,58,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_4_Porlier_Pass_Oke_56,26,0.8387096774,59,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_4_Porlier_Pass_Oke_56,5,0.1612903226,59,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_4_Porlier_Pass_Oke_68,2,0.03278688525,60,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_4_Porlier_Pass_Oke_68,22,0.3606557377,60,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Aetideus armatus,Tow_4_Porlier_Pass_Oke_68,2,0.03278688525,60,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Eurytemora transversalis,Tow_4_Porlier_Pass_Oke_68,1,0.01639344262,60,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Acartia longiremis,Tow_4_Porlier_Pass_Oke_68,2,0.03278688525,60,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Calliopius sp,Tow_4_Porlier_Pass_Oke_68,26,0.4262295082,60,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,Tow_4_Porlier_Pass_Oke_68,6,0.09836065574,60,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_4_Porlier_Pass_Oke_78,6,0.2307692308,61,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Acartia longiremis,Tow_4_Porlier_Pass_Oke_78,2,0.07692307692,61,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Culicidae,Tow_4_Porlier_Pass_Oke_78,12,0.4615384615,61,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_4_Porlier_Pass_Oke_78,6,0.2307692308,61,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_4_Porlier_Pass_Oke_86,16,0.4571428571,62,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hymenoptera,Hymenoptera,Tow_4_Porlier_Pass_Oke_86,2,0.05714285714,62,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Culicidae,Tow_4_Porlier_Pass_Oke_86,8,0.2285714286,62,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_4_Porlier_Pass_Oke_86,9,0.2571428571,62,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_4_Porlier_Pass_Oke_96,40,0.2985074627,63,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Gammaridea,Tow_4_Porlier_Pass_Oke_96,1,0.007462686567,63,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Tipulidae,Tow_4_Porlier_Pass_Oke_96,2,0.01492537313,63,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Culicidae,Tow_4_Porlier_Pass_Oke_96,24,0.1791044776,63,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_4_Porlier_Pass_Oke_96,67,0.5,63,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZL,Ostracoda,Conchoecia alata minor,Tow_4_Porlier_Pass_ON_81,1,0.1428571429,64,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Copepod,Harpacticoid,Tow_4_Porlier_Pass_ON_81,3,0.4285714286,64,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Calliopius sp,Tow_4_Porlier_Pass_ON_81,1,0.1428571429,64,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ROCKFISH,Fish,Sebastodes sp,Tow_4_Porlier_Pass_ON_81,2,0.2857142857,64,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZL,Ostracoda,Conchoecia alata minor,Tow_4_Porlier_Pass_ON_97,1,1,65,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ROCKFISH,Fish,Sebastodes sp,Tow_4_Porlier_Pass_ON_106,2,1,66,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_4_Porlier_Pass_ON_109,40,0.9756097561,67,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Parathemisto pacifica,Tow_4_Porlier_Pass_ON_109,1,0.0243902439,67,FISH_Robinson_et_al_1968
+SMD,juvenile,Oncorhynchus nerka,hexagrammos decagrammus,ZL,Ostracoda,Conchoecia alata minor,Tow_4_Porlier_Pass_ON_52,35,1,68,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_5_Porlier_Pass_CP_100,1,0.03571428571,69,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Ostracoda,Conchoecia alata minor,Tow_5_Porlier_Pass_CP_100,1,0.03571428571,69,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_5_Porlier_Pass_CP_100,1,0.03571428571,69,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Epilabidocera amphitrites,Tow_5_Porlier_Pass_CP_100,1,0.03571428571,69,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_5_Porlier_Pass_CP_100,7,0.25,69,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp nauplius,Tow_5_Porlier_Pass_CP_100,2,0.07142857143,69,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,NA,Euphausiid,eggs,Tow_5_Porlier_Pass_CP_100,3,0.1071428571,69,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Larvacea,Oikopleura sp,Tow_5_Porlier_Pass_CP_100,2,0.07142857143,69,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,NA,Fish,Scale,Tow_5_Porlier_Pass_CP_100,10,0.3571428571,69,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_5_Porlier_Pass_CP_143,400,1,70,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_5_Porlier_Pass_CP_147,1000,1,71,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Hymenoptera,Hymenoptera,Tow_5_Porlier_Pass_Oki_96,2,1,72,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,PARASITE,Trematoda,Lecithaster gibbosus,Tow_5_Porlier_Pass_Oke_107,4,0.09756097561,73,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_5_Porlier_Pass_Oke_107,1,0.0243902439,73,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_5_Porlier_Pass_Oke_107,24,0.5853658537,73,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,Tow_5_Porlier_Pass_Oke_107,8,0.1951219512,73,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Mycetophilidae,Tow_5_Porlier_Pass_Oke_107,1,0.0243902439,73,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Culicidae,Tow_5_Porlier_Pass_Oke_107,3,0.07317073171,73,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Diptera,Tow_5_Porlier_Pass_ON_101,1,0.01960784314,74,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Mycetophilidae,Tow_5_Porlier_Pass_ON_101,30,0.5882352941,74,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Culicidae,Tow_5_Porlier_Pass_ON_101,20,0.3921568627,74,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Amphipod,Tow_5_Porlier_Pass_ON_106,1,0.01149425287,75,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Neuroptera,Neuroptera,Tow_5_Porlier_Pass_ON_106,1,0.01149425287,75,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Hymenoptera,Hymenoptera,Tow_5_Porlier_Pass_ON_106,3,0.03448275862,75,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Hymenoptera,Ichneumonidea,Tow_5_Porlier_Pass_ON_106,1,0.01149425287,75,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Tipulidae,Tow_5_Porlier_Pass_ON_106,3,0.03448275862,75,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Culicidae,Tow_5_Porlier_Pass_ON_106,23,0.2643678161,75,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Phoridae,Tow_5_Porlier_Pass_ON_106,55,0.632183908,75,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,ZL,Ostracoda,Conchoecia alata minor,Tow_5_Porlier_Pass_HD_67,110,0.9821428571,76,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BD,Copepod,Harpacticoid,Tow_5_Porlier_Pass_HD_67,1,0.008928571429,76,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BD,Amphipod,Gammaridea,Tow_5_Porlier_Pass_HD_67,1,0.008928571429,76,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Copepod nauplii,Tow_5_Porlier_Pass_AH_24,5,0.7142857143,77,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BFF,Larvacea,Oikopleura sp,Tow_5_Porlier_Pass_AH_24,2,0.2857142857,77,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepod,Calanus plumchrus,Tow_6_Galiano_Island_Oki_101,13,0.26,78,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepoda,Pseudocalanus minutus,Tow_6_Galiano_Island_Oki_101,3,0.06,78,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Isopod,Isopod,Tow_6_Galiano_Island_Oki_101,1,0.02,78,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,Tow_6_Galiano_Island_Oki_101,2,0.04,78,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BML,Decapod,Brachyuran zoea,Tow_6_Galiano_Island_Oki_101,25,0.5,78,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Hymenoptera,Hymenoptera,Tow_6_Galiano_Island_Oki_101,2,0.04,78,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Phoridae,Tow_6_Galiano_Island_Oki_101,3,0.06,78,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,Tow_6_Galiano_Island_Oki_101,1,0.02,78,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_6_Galiano_Island_Oke_64,2,0.02298850575,79,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_6_Galiano_Island_Oke_64,7,0.08045977011,79,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,Tow_6_Galiano_Island_Oke_64,2,0.02298850575,79,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Culicidae,Tow_6_Galiano_Island_Oke_64,2,0.02298850575,79,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_6_Galiano_Island_Oke_64,3,0.03448275862,79,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,Tow_6_Galiano_Island_Oke_64,70,0.8045977011,79,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,Tow_6_Galiano_Island_Oke_64,1,0.01149425287,79,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,Tow_6_Galiano_Island_Oke_80,40,1,80,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_6_Galiano_Island_Oke_100,200,0.9090909091,81,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hymenoptera,Hymenoptera,Tow_6_Galiano_Island_Oke_100,2,0.009090909091,81,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Culicidae,Tow_6_Galiano_Island_Oke_100,6,0.02727272727,81,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_6_Galiano_Island_Oke_100,12,0.05454545455,81,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Copepod,Tow_6_Galiano_Island_ON_68,12.5,0.3846153846,82,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Culicidae,Tow_6_Galiano_Island_ON_68,8,0.2461538462,82,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Phoridae,Tow_6_Galiano_Island_ON_68,12,0.3692307692,82,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZL,Ostracoda,Conchoecia alata minor,Tow_6_Galiano_Island_ON_95,110,0.7142857143,83,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_6_Galiano_Island_ON_95,12,0.07792207792,83,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_6_Galiano_Island_ON_95,1,0.006493506494,83,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Scina borealis,Tow_6_Galiano_Island_ON_95,30,0.1948051948,83,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,FISH,Fish,Fish,Tow_6_Galiano_Island_ON_95,1,0.006493506494,83,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,ZM,Copepod,Calanus sp,Tow_6_Galiano_Island_HD_61,4,0.5,84,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,ZM,Copepod,Pseudocalanus minutus,Tow_6_Galiano_Island_HD_61,3,0.375,84,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BD,Isopod,Isopod,Tow_6_Galiano_Island_HD_61,1,0.125,84,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BML,Copepod,nauplii,Tow_6_Galiano_Island_HD_37,35,0.9722222222,85,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,NA,Copepod,eggs,Tow_6_Galiano_Island_HD_37,1,0.02777777778,85,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_7_Porlier_Pass_CP_11,5,1,86,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_7_Porlier_Pass_CP_12,9,1,87,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_7_Porlier_Pass_CP_13,3,1,88,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus sp,Tow_7_Porlier_Pass_CP_195,500,1,89,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplii,Tow_7_Porlier_Pass_TP_6,3,1,90,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplii,Tow_7_Porlier_Pass_TP_8,3,1,91,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,BML,Copepod,nauplii,Tow_7_Porlier_Pass_PS_5,5,1,92,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,BML,Copepod,nauplii,Tow_7_Porlier_Pass_PS_6,2,1,93,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_7_Porlier_Pass_SS_4,7,1,94,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_7_Porlier_Pass_SS_5,6,1,95,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_7_Porlier_Pass_SS_6,5,0.8333333333,96,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,eggs,Tow_7_Porlier_Pass_SS_6,1,0.1666666667,96,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_7_Porlier_Pass_SS_7,32,1,97,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_7_Porlier_Pass_SS_5,5,1,98,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_7_Porlier_Pass_SS_8,21,1,99,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,Tow_7_Porlier_Pass_SS_12,1,0.0243902439,100,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_7_Porlier_Pass_SS_12,40,0.9756097561,100,FISH_Robinson_et_al_1968
+SMD,juvenile,Epigeichthys atropurpureus,Epigeichthys atropurpureus,BML,Copepod,nauplii,Tow_7_Porlier_Pass_EA_7,7,1,101,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,PL,Diatom,Coscinodiscus sp,Tow_7_Porlier_Pass_AH_6,1,0.3333333333,102,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BML,Copepod,nauplii,Tow_7_Porlier_Pass_AH_6,2,0.6666666667,102,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Copepod,Tow_7_Porlier_Pass_AH_25,2,1,103,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplius,Tow_8_Inside_Active_Pass_CP_12,1,1,104,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_8_Inside_Active_Pass_CP_13,2,1,105,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus sp,Tow_8_Inside_Active_Pass_CP_198,150,0.8670520231,106,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Euphausiid,Thysanoessa sp,Tow_8_Inside_Active_Pass_CP_198,23,0.1329479769,106,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepod,Calanus plumchrus,Tow_8_Inside_Active_Pass_Oki_86,10,0.5555555556,107,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepod,Pseudocalanus minutus,Tow_8_Inside_Active_Pass_Oki_86,2,0.1111111111,107,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BFF,Cirrepedia,Balanus sp nauplius,Tow_8_Inside_Active_Pass_Oki_86,4,0.2222222222,107,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,Tow_8_Inside_Active_Pass_Oki_86,1,0.05555555556,107,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,NA,Euphausiid,eggs,Tow_8_Inside_Active_Pass_Oki_86,1,0.05555555556,107,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Thysanoessa sp,Tow_8_Inside_Active_Pass_Oki_133,1,0.25,108,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,Tow_8_Inside_Active_Pass_Oki_133,3,0.75,108,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_8_Inside_Active_Pass_SS_6,7,1,109,FISH_Robinson_et_al_1968
+SMD,juvenile,Coryphopterus nicholsii,Coryphopterus nicholsii,BML,Copepod,nauplius,Tow_8_Inside_Active_Pass_CN_3.5,1,1,110,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Copepod,Tow_8_Inside_Active_Pass_AH_23,2,0.25,111,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Pseudocalanus minutus,Tow_8_Inside_Active_Pass_AH_23,1,0.125,111,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BML,Copepod,nauplii,Tow_8_Inside_Active_Pass_AH_23,5,0.625,111,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BML,Copepod,nauplii & metanauplii,Tow_8_Inside_Active_Pass_AH_27,75,1,112,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Calanoid,Tow_8_Inside_Active_Pass_AH_31,2,0.0625,113,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BML,Copepod,nauplii & metanauplii,Tow_8_Inside_Active_Pass_AH_31,30,0.9375,113,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_9_Entrance_Active_Pass_CP_12,3,1,114,FISH_Robinson_et_al_1968
+SAL,juvenile,Clupea pallasii,Oncorhynchus nerka,PARASITE,Cestoda,Cestoda,Tow_9_Entrance_Active_Pass_ON_82,3,0.05660377358,115,FISH_Robinson_et_al_1968
+SAL,juvenile,Clupea pallasii,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_9_Entrance_Active_Pass_ON_82,50,0.9433962264,115,FISH_Robinson_et_al_1968
+SMD,juvenile,Clupea pallasii,hexagrammos decagrammus,ZM,Copepod,Calanus plumchrus,Tow_9_Entrance_Active_Pass_HD_61,8,0.8,116,FISH_Robinson_et_al_1968
+SMD,juvenile,Clupea pallasii,hexagrammos decagrammus,ZM,Copepod,Eurytemora transversalis,Tow_9_Entrance_Active_Pass_HD_61,1,0.1,116,FISH_Robinson_et_al_1968
+SMD,juvenile,Clupea pallasii,hexagrammos decagrammus,BD,Amphipod,Scina borealis,Tow_9_Entrance_Active_Pass_HD_61,1,0.1,116,FISH_Robinson_et_al_1968
+SMD,juvenile,Clupea pallasii,hexagrammos decagrammus,ZM,Copepod,Calanus plumchrus,Tow_9_Entrance_Active_Pass_HD_63,14,0.875,117,FISH_Robinson_et_al_1968
+SMD,juvenile,Clupea pallasii,hexagrammos decagrammus,BD,Amphipod,Amphipod,Tow_9_Entrance_Active_Pass_HD_63,2,0.125,117,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,PARASITE,Cestoda,Cestoda,Tow_10_Off_Belle_Isle_Chain_Island_ON_88,2,0.06060606061,118,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Copepod,Tow_10_Off_Belle_Isle_Chain_Island_ON_88,1,0.0303030303,118,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_10_Off_Belle_Isle_Chain_Island_ON_88,30,0.9090909091,118,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_10_Off_Belle_Isle_Chain_Island_SS_5,2,1,119,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_10_Off_Belle_Isle_Chain_Island_SS_7,7,1,120,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_11_3_miles_off_Active_Pass_CP_12,2,1,121,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_11_3_miles_off_Active_Pass_CP_13,2,1,122,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,CLADOCERA,Cladocera,Podon sp,Tow_11_3_miles_off_Active_Pass_ON_67,3,0.04545454545,123,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus plumchrus,Tow_11_3_miles_off_Active_Pass_ON_67,30,0.4545454545,123,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Pseudocalanus minutus,Tow_11_3_miles_off_Active_Pass_ON_67,7,0.1060606061,123,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Euchaeta japonica,Tow_11_3_miles_off_Active_Pass_ON_67,1,0.01515151515,123,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Parathemisto pacifica,Tow_11_3_miles_off_Active_Pass_ON_67,18,0.2727272727,123,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Chironomidae,Tow_11_3_miles_off_Active_Pass_ON_67,3,0.04545454545,123,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Phoridae,Tow_11_3_miles_off_Active_Pass_ON_67,4,0.06060606061,123,FISH_Robinson_et_al_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,BML,Copepod,nauplii,Tow_11_3_miles_off_Active_Pass_MP_6.5,3,1,124,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,BML,Copepod,nauplii,Tow_11_3_miles_off_Active_Pass_PS_4.5,3,1,125,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_11_3_miles_off_Active_Pass_SS_6a,4,1,126,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_11_3_miles_off_Active_Pass_SS_6b,5,1,127,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,PL,Diatom,Coscinodiscus sp,Tow_11_3_miles_off_Active_Pass_SS_8,1,0.03125,128,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_11_3_miles_off_Active_Pass_SS_8,30,0.9375,128,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,eggs,Tow_11_3_miles_off_Active_Pass_SS_8,1,0.03125,128,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,PARASITE,Trematoda,Lecithaster gibbosus,Tow_11_3_miles_off_Active_Pass_AH_26,1,0.1428571429,129,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BML,Copepod,nauplii,Tow_11_3_miles_off_Active_Pass_AH_26,6,0.8571428571,129,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplius,Tow_12_6_miles_off_Active_pass_CP_11,1,1,130,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_12_6_miles_off_Active_pass_CP_12,2,1,131,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,BML,Copepod,nauplii,Tow_12_6_miles_off_Active_pass_PS_5.5,2,1,132,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,BML,Copepod,nauplius,Tow_12_6_miles_off_Active_pass_PS_7,1,0.2,133,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,ZM,Copepod,eggs P. minutus,Tow_12_6_miles_off_Active_pass_PS_7,4,0.8,133,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_12_6_miles_off_Active_pass_SS_5,5,1,134,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_12_6_miles_off_Active_pass_SS_8,15,1,135,FISH_Robinson_et_al_1968
+SMD,juvenile,Stichaeidae,Stichaeidae,BML,Copepod,nauplii,Tow_12_6_miles_off_Active_pass_ST_11,3,1,136,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_13_Off_Point_Roberts_CP_11,4,1,137,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Ostracoda,Conchoecia alata minor,Tow_13_Off_Point_Roberts_CP_115,1,0.5,138,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Brachyuran zoea,Tow_13_Off_Point_Roberts_CP_115,1,0.5,138,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_13_Off_Point_Roberts_CP_147,100,0.1709401709,139,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Ostracoda,Conchoecia alata minor,Tow_13_Off_Point_Roberts_CP_147,6,0.01025641026,139,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_13_Off_Point_Roberts_CP_147,400,0.6837606838,139,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_13_Off_Point_Roberts_CP_147,6,0.01025641026,139,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_13_Off_Point_Roberts_CP_147,8,0.01367521368,139,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp nauplius,Tow_13_Off_Point_Roberts_CP_147,15,0.02564102564,139,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Larvacea,Oikopleura sp,Tow_13_Off_Point_Roberts_CP_147,50,0.08547008547,139,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_13_Off_Point_Roberts_CP_149,75,0.1958224543,140,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Ostracoda,Conchoecia alata minor,Tow_13_Off_Point_Roberts_CP_149,10,0.02610966057,140,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_13_Off_Point_Roberts_CP_149,250,0.6527415144,140,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_13_Off_Point_Roberts_CP_149,12,0.03133159269,140,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_13_Off_Point_Roberts_CP_149,20,0.05221932115,140,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp nauplius,Tow_13_Off_Point_Roberts_CP_149,14,0.0365535248,140,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,NA,Fish,Larvae,Tow_13_Off_Point_Roberts_CP_149,2,0.005221932115,140,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_13_Off_Point_Roberts_CP_177,330,0.9939759036,141,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,NA,Euphausiid,egg,Tow_13_Off_Point_Roberts_CP_177,1,0.003012048193,141,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Brachyuran megalopa,Tow_13_Off_Point_Roberts_CP_177,1,0.003012048193,141,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,Tow_13_Off_Point_Roberts_Oki_136,3,1,142,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_13_Off_Point_Roberts_Oke_49,2,0.01869158879,143,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Amphipod,Tow_13_Off_Point_Roberts_Oke_49,21,0.1962616822,143,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Brachyuran megalopa,Tow_13_Off_Point_Roberts_Oke_49,1,0.009345794393,143,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hemiptera,Aphididae,Tow_13_Off_Point_Roberts_Oke_49,1,0.009345794393,143,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Trichoptera,Trichoptera,Tow_13_Off_Point_Roberts_Oke_49,1,0.009345794393,143,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_13_Off_Point_Roberts_Oke_49,1,0.009345794393,143,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,Tow_13_Off_Point_Roberts_Oke_49,80,0.7476635514,143,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Mycetophilidae,Tow_13_Off_Point_Roberts_Oke_64,4,0.0097799511,144,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,Tow_13_Off_Point_Roberts_Oke_64,5,0.01222493888,144,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,Tow_13_Off_Point_Roberts_Oke_64,400,0.97799511,144,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hemiptera,Hemiptera,Tow_13_Off_Point_Roberts_Oke_74,1,0.001246882793,145,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_13_Off_Point_Roberts_Oke_74,1,0.001246882793,145,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,Tow_13_Off_Point_Roberts_Oke_74,800,0.9975062344,145,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Ostracod,Philomedes sp,Tow_13_Off_Point_Roberts_Oke_88,3,0.4285714286,146,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Trichoptera,Trichoptera,Tow_13_Off_Point_Roberts_Oke_88,1,0.1428571429,146,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Mycetophilidae,Tow_13_Off_Point_Roberts_Oke_88,3,0.4285714286,146,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,CLADOCERA,Cladocera,Podon sp,Tow_13_Off_Point_Roberts_ON_134,2,0.4,147,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Copepod,Tow_13_Off_Point_Roberts_ON_134,1,0.2,147,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Hymenoptera,Cynipoidea,Tow_13_Off_Point_Roberts_ON_134,1,0.2,147,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BFF,Larvacea,Oikopleura sp,Tow_13_Off_Point_Roberts_ON_134,1,0.2,147,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,ZG,Ctenophore,Pleurobrachia sp,Tow_13_Off_Point_Roberts_HP_146,22.5,0.3543307087,148,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,ZM,Copepod,Copepod,Tow_13_Off_Point_Roberts_HP_146,20,0.3149606299,148,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,BFF,Larvacea,Oikopleura sp,Tow_13_Off_Point_Roberts_HP_146,20,0.3149606299,148,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,NA,Fish,Scale,Tow_13_Off_Point_Roberts_HP_146,1,0.0157480315,148,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,ZG,Ctenophore,Pleurobrachia sp,Tow_13_Off_Point_Roberts_HP_155,27.5,0.4700854701,149,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,ZM,Copepod,Copepod,Tow_13_Off_Point_Roberts_HP_155,30,0.5128205128,149,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,BD,Cumacean,Diastylis sp,Tow_13_Off_Point_Roberts_HP_155,1,0.01709401709,149,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,BML,Copepod,nauplius,Tow_13_Off_Point_Roberts_PS_6,1,1,150,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,PARASITE,Acanthocephalan parasites,Acanthocephalan parasites,Tow_13_Off_Point_Roberts_PS_150,50,1,151,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_13_Off_Point_Roberts_PS_150,6,1,152,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_14_Tsawwassen_Dock_CP_144,50,0.1923076923,153,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_14_Tsawwassen_Dock_CP_144,5,0.01923076923,153,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp nauplius,Tow_14_Tsawwassen_Dock_CP_144,5,0.01923076923,153,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_14_Tsawwassen_Dock_CP_144,200,0.7692307692,153,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_14_Tsawwassen_Dock_CP_183,135,0.5793991416,154,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Ostracoda,Conchoecia alata minor,Tow_14_Tsawwassen_Dock_CP_183,35,0.1502145923,154,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus sp,Tow_14_Tsawwassen_Dock_CP_183,1,0.004291845494,154,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_14_Tsawwassen_Dock_CP_183,9,0.03862660944,154,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepoda,Centropages abdominalis,Tow_14_Tsawwassen_Dock_CP_183,4,0.01716738197,154,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp nauplius,Tow_14_Tsawwassen_Dock_CP_183,12,0.05150214592,154,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Brachyuran megalopa,Tow_14_Tsawwassen_Dock_CP_183,2,0.008583690987,154,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,HE,Fish,Clupea pallasii,Tow_14_Tsawwassen_Dock_CP_183,5,0.02145922747,154,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_14_Tsawwassen_Dock_CP_183,30,0.1287553648,154,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_14_Tsawwassen_Dock_Oke_50,450,0.9297520661,155,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Copepod,Tow_14_Tsawwassen_Dock_Oke_50,1,0.002066115702,155,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hemiptera,Aphididae,Tow_14_Tsawwassen_Dock_Oke_50,1,0.002066115702,155,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Diptera,Tow_14_Tsawwassen_Dock_Oke_50,1,0.002066115702,155,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,Tow_14_Tsawwassen_Dock_Oke_50,1,0.002066115702,155,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,Tow_14_Tsawwassen_Dock_Oke_50,30,0.06198347107,155,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_14_Tsawwassen_Dock_Oke_63,1400,0.9845288326,156,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Evadne sp,Tow_14_Tsawwassen_Dock_Oke_63,4,0.002812939522,156,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Ostracoda,Conchoecia alata minor,Tow_14_Tsawwassen_Dock_Oke_63,1,7.032348805e-4,156,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,Tow_14_Tsawwassen_Dock_Oke_63,1,7.032348805e-4,156,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,Tow_14_Tsawwassen_Dock_Oke_63,5,0.003516174402,156,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Cirrepedia,Balanus sp nauplius,Tow_14_Tsawwassen_Dock_Oke_63,1,7.032348805e-4,156,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,NA,Euphausiid,Eggs,Tow_14_Tsawwassen_Dock_Oke_63,2,0.001406469761,156,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,HE,Fish,Clupea pallasii,Tow_14_Tsawwassen_Dock_Oke_63,1,7.032348805e-4,156,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,FPS,Fish,Thaleichthys pacificus,Tow_14_Tsawwassen_Dock_Oke_63,6,0.004219409283,156,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Gobiidae,Tow_14_Tsawwassen_Dock_Oke_63,1,7.032348805e-4,156,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_14_Tsawwassen_Dock_Oke_73,1,8.223684211e-4,157,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Epilabidocera amphitrites,Tow_14_Tsawwassen_Dock_Oke_73,1,8.223684211e-4,157,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Cyphocaris challengeri,Tow_14_Tsawwassen_Dock_Oke_73,3,0.002467105263,157,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hymenoptera,Hymenoptera,Tow_14_Tsawwassen_Dock_Oke_73,2,0.001644736842,157,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Chironomidae,Tow_14_Tsawwassen_Dock_Oke_73,4,0.003289473684,157,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_14_Tsawwassen_Dock_Oke_73,5,0.004111842105,157,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,Tow_14_Tsawwassen_Dock_Oke_73,1200,0.9868421053,157,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_14_Tsawwassen_Dock_Oke_86,2100,0.9589041096,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Evadne sp,Tow_14_Tsawwassen_Dock_Oke_86,10,0.004566210046,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Ostracoda,Conchoecia alata minor,Tow_14_Tsawwassen_Dock_Oke_86,25,0.01141552511,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Copepod,Tow_14_Tsawwassen_Dock_Oke_86,2,9.132420091e-4,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,Tow_14_Tsawwassen_Dock_Oke_86,9,0.004109589041,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Acartia longiremis,Tow_14_Tsawwassen_Dock_Oke_86,3,0.001369863014,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiid,Euphausiid egg,Tow_14_Tsawwassen_Dock_Oke_86,1,4.566210046e-4,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Brachyuran megalopa,Tow_14_Tsawwassen_Dock_Oke_86,1,4.566210046e-4,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Trichoptera,Trichoptera,Tow_14_Tsawwassen_Dock_Oke_86,1,4.566210046e-4,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Diptera,Tow_14_Tsawwassen_Dock_Oke_86,5,0.002283105023,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Tipulidae,Tow_14_Tsawwassen_Dock_Oke_86,1,4.566210046e-4,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_14_Tsawwassen_Dock_Oke_86,1,4.566210046e-4,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,HE,Fish,Clupea pallasii,Tow_14_Tsawwassen_Dock_Oke_86,2,9.132420091e-4,158,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,FPS,Fish,Thaleichthys pacificus,Tow_14_Tsawwassen_Dock_Oke_86,29,0.01324200913,158,FISH_Robinson_et_al_1968
+SMD,juvenile,Gobiidae,Gobiidae,BML,Copepod,nauplii,Tow_14_Tsawwassen_Dock_GO_4.5,4,1,159,FISH_Robinson_et_al_1968
+SMD,juvenile,Gobiidae,Gobiidae,BML,Copepod,nauplius,Tow_14_Tsawwassen_Dock_GO_5,1,1,160,FISH_Robinson_et_al_1968
+SMD,juvenile,Stichaeidae,Stichaeidae,PS,Phytoplankton,Phytoplankton,Tow_14_Tsawwassen_Dock_ST_7,9,1,161,FISH_Robinson_et_al_1968
+SMD,juvenile,Stichaeidae,Stichaeidae,PS,Phytoplankton,Phytoplankton,Tow_14_Tsawwassen_Dock_ST_8,3,1,162,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Calanus pacificus,Tow_14_Tsawwassen_Dock_AH_92,2,0.001955034213,163,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Pseudocalanus minutus,Tow_14_Tsawwassen_Dock_AH_92,3,0.00293255132,163,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BFF,Larvacea,Oikopleura sp,Tow_14_Tsawwassen_Dock_AH_92,1000,0.9775171065,163,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,HE,Fish,Clupea pallasii,Tow_14_Tsawwassen_Dock_AH_92,2,0.001955034213,163,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,FPS,Fish,Thaleichthys pacificus,Tow_14_Tsawwassen_Dock_AH_92,16,0.0156402737,163,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_15_Canoe_Pass_Buoy_CP_14,3,1,164,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_15_Canoe_Pass_Buoy_CP_28,5,0.625,165,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_15_Canoe_Pass_Buoy_CP_28,3,0.375,165,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_15_Canoe_Pass_Buoy_CP_31,4,0.8,166,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BD,Copepod,Harpacticoid,Tow_15_Canoe_Pass_Buoy_CP_31,1,0.2,166,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_15_Canoe_Pass_Buoy_CP_36,12,0.9230769231,167,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_15_Canoe_Pass_Buoy_CP_36,1,0.07692307692,167,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_15_Canoe_Pass_Buoy_CP_42,8,0.8,168,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,NA,Euphausiid,eggs,Tow_15_Canoe_Pass_Buoy_CP_42,2,0.2,168,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_15_Canoe_Pass_Buoy_CP_108,7,1,169,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_15_Canoe_Pass_Buoy_CP_161,220,0.9482758621,170,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,Tow_15_Canoe_Pass_Buoy_CP_161,12,0.05172413793,170,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,HE,Fish,Clupea pallasii,Tow_15_Canoe_Pass_Buoy_CP_183,1,0.1428571429,171,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_15_Canoe_Pass_Buoy_CP_183,6,0.8571428571,171,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,PARASITE,Trematode,Trematode,Tow_15_Canoe_Pass_Buoy_Oke_83,2,1,172,FISH_Robinson_et_al_1968
+FPS,juvenile,Oncorhynchus keta,Hypomesus pretiosus,PARASITE,Trematoda,Lecithaster gibbosus,Tow_15_Canoe_Pass_Buoy_HP_26,1,0.5,173,FISH_Robinson_et_al_1968
+FPS,juvenile,Oncorhynchus keta,Hypomesus pretiosus,NA,Euphausiid,egg,Tow_15_Canoe_Pass_Buoy_HP_26,1,0.5,173,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,PARASITE,Trematoda,Lecithaster gibbosus,Tow_15_Canoe_Pass_Buoy_PS_45,1,1,174,FISH_Robinson_et_al_1968
+SMD,juvenile,Gobiidae,Gobiidae,PS,Phytoplankton,Phytoplankton,Tow_15_Canoe_Pass_Buoy_GO_7,4,1,175,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,PS,Phytoplankton,Phytoplankton,Tow_15_Canoe_Pass_Buoy_RJ_10,1,0.5,176,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,BFF,Cirrepedia,Balanus sp nauplius,Tow_15_Canoe_Pass_Buoy_RJ_10,1,0.5,176,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,CLADOCERA,Cladocera,Podon sp,Tow_15_Canoe_Pass_Buoy_AH_66,6,0.6,177,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Pseudocalanus minutus,Tow_15_Canoe_Pass_Buoy_AH_66,1,0.1,177,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BFF,Cirrepedia,Balanus sp nauplius,Tow_15_Canoe_Pass_Buoy_AH_66,3,0.3,177,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,CLADOCERA,Cladocera,Podon sp,Tow_15_Canoe_Pass_Buoy_AH_87,950,0.9424603175,178,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZL,Ostracoda,Conchoecia alata minor,Tow_15_Canoe_Pass_Buoy_AH_87,10,0.009920634921,178,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Calanus plumchrus,Tow_15_Canoe_Pass_Buoy_AH_87,37,0.03670634921,178,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Pseudocalanus minutus,Tow_15_Canoe_Pass_Buoy_AH_87,2,0.001984126984,178,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BD,Amphipod,Parathemisto pacifica,Tow_15_Canoe_Pass_Buoy_AH_87,3,0.002976190476,178,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BML,Decapod,Brachyuran megalopa,Tow_15_Canoe_Pass_Buoy_AH_87,1,9.920634921e-4,178,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BIV,Pelecypoda,Disconch larvae,Tow_15_Canoe_Pass_Buoy_AH_87,2,0.001984126984,178,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,FPS,Fish,Thaleichthys pacificus,Tow_15_Canoe_Pass_Buoy_AH_87,3,0.002976190476,178,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,FPS,Fish,Thaleichthys pacificus,Tow_15_Canoe_Pass_Buoy_AH_106,3,1,179,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_16_Knuckle_Buoy_CP_29,1,1,180,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_16_Knuckle_Buoy_CP_43,2,1,181,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_16_Knuckle_Buoy_CP_168,2,1,182,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,BD,Amphipod,Caprellidae,Tow_16_Knuckle_Buoy_OT_68,1,0.3333333333,183,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,INSECT,Insect,Insecta,Tow_16_Knuckle_Buoy_OT_68,2,0.6666666667,183,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,BD,Amphipod,Caprellidae,Tow_16_Knuckle_Buoy_OT_97,2,0.6666666667,184,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,INSECT,Coleoptera,Coleoptera,Tow_16_Knuckle_Buoy_OT_97,1,0.3333333333,184,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,NA,Wood,Wood,Tow_16_Knuckle_Buoy_Oke_59,1,0.25,185,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insect,Insect,Tow_16_Knuckle_Buoy_Oke_59,3,0.75,185,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hemiptera,Cicadidae,Tow_16_Knuckle_Buoy_Oke_72,1,0.01030927835,186,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Trichoptera,Trichoptera,Tow_16_Knuckle_Buoy_Oke_72,6,0.0618556701,186,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Tipulidae,Tow_16_Knuckle_Buoy_Oke_72,1,0.01030927835,186,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,Tow_16_Knuckle_Buoy_Oke_72,85,0.8762886598,186,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Dolichopodidae,Tow_16_Knuckle_Buoy_Oke_72,3,0.03092783505,186,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_16_Knuckle_Buoy_Oke_72,1,0.01030927835,186,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,ZM,Copepod,Pseudocalanus minutus,Tow_16_Knuckle_Buoy_TP_27,1,1,187,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BFF,Cirrepedia,Balanus sp nauplius,Tow_16_Knuckle_Buoy_TP_39,10,1,188,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,PARASITE,Nematode,Nematode,Tow_16_Knuckle_Buoy_TP_59,1,0.2,189,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,PARASITE,Trematoda,Lecithaster gibbosus,Tow_16_Knuckle_Buoy_TP_59,2,0.4,189,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,ZM,Copepod,Pseudocalanus minutus,Tow_16_Knuckle_Buoy_TP_59,2,0.4,189,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,CLADOCERA,Cladocera,Podon sp,Tow_16_Knuckle_Buoy_TP_91,1,0.1666666667,190,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,ZM,Copepod,Pseudocalanus minutus,Tow_16_Knuckle_Buoy_TP_91,1,0.1666666667,190,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BD,Amphipod,Gammaridea,Tow_16_Knuckle_Buoy_TP_91,4,0.6666666667,190,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,BFF,Cirrepedia,Balanus sp egg,Tow_16_Knuckle_Buoy_RJ_6,1,1,191,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,BFF,Cirrepedia,Balanus sp egg,Tow_16_Knuckle_Buoy_RJ_7,1,1,192,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,MA,Copepod,Phaeophyte,Tow_16_Knuckle_Buoy_AH_65,1,0.5,193,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Pseudocalanus minutus,Tow_16_Knuckle_Buoy_AH_65,1,0.5,193,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_17_Off_Thrasher_Rock_CP_12,2,1,194,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplius,Tow_17_Off_Thrasher_Rock_CP_13a,1,0.1428571429,195,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp egg,Tow_17_Off_Thrasher_Rock_CP_13a,6,0.8571428571,195,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,metanauplii,Tow_17_Off_Thrasher_Rock_CP_13b,2,0.2222222222,196,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp egg,Tow_17_Off_Thrasher_Rock_CP_13b,7,0.7777777778,196,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplii,Tow_17_Off_Thrasher_Rock_TP_12,3,1,197,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,BML,Copepod,nauplii,Tow_17_Off_Thrasher_Rock_PS_9,4,1,198,FISH_Robinson_et_al_1968
+SMD,juvenile,Gobiidae,Gobiidae,BML,Copepod,nauplius,Tow_17_Off_Thrasher_Rock_GO_4,1,1,199,FISH_Robinson_et_al_1968
+SMD,juvenile,Epigeichthys atropurpureus,Epigeichthys atropurpureus,BML,Copepod,nauplius,Tow_17_Off_Thrasher_Rock_EA_8,1,0.1,200,FISH_Robinson_et_al_1968
+SMD,juvenile,Epigeichthys atropurpureus,Epigeichthys atropurpureus,NA,Copepod,eggs,Tow_17_Off_Thrasher_Rock_EA_8,4,0.4,200,FISH_Robinson_et_al_1968
+SMD,juvenile,Epigeichthys atropurpureus,Epigeichthys atropurpureus,BFF,Cirrepedia,Balanus sp egg,Tow_17_Off_Thrasher_Rock_EA_8,5,0.5,200,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepodite,Copepodite,Tow_18_Off_Valdes_Island_CP_12,1,1,201,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplii,Tow_18_Off_Valdes_Island_TP_15,2,1,202,FISH_Robinson_et_al_1968
+FVS,juvenile,Ophiodon elongatus,Ophiodon elongatus,ZM,Copepod,Calanus pacificus,Tow_18_Off_Valdes_Island_OE_60,12,1,203,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_18_Off_Valdes_Island_SS_6,9,1,204,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_18_Off_Valdes_Island_SS_8,12,1,205,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,Tow_18_Off_Valdes_Island_SS_10,1,0.03571428571,206,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,metanauplii,Tow_18_Off_Valdes_Island_SS_10,2,0.07142857143,206,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_18_Off_Valdes_Island_SS_10,7,0.25,206,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,egg,Tow_18_Off_Valdes_Island_SS_10,1,0.03571428571,206,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,PL,Diatom,Coscinodiscus sp,Tow_18_Off_Valdes_Island_SS_10,1,0.03571428571,206,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_18_Off_Valdes_Island_SS_10,15,0.5357142857,206,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,egg,Tow_18_Off_Valdes_Island_SS_10,1,0.03571428571,206,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepodite,Copepodite,Tow_18_Off_Valdes_Island_SS_13,1,0.0625,207,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_18_Off_Valdes_Island_SS_13,5,0.3125,207,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BFF,Cirrepedia,Balanus sp egg,Tow_18_Off_Valdes_Island_SS_13,10,0.625,207,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp egg,Tow_19_Porlier_Pass_CP_13,3,1,208,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_19_Porlier_Pass_CP_26,5,0.04310344828,209,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplius,Tow_19_Porlier_Pass_CP_26,1,0.008620689655,209,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,eggs P. minutus,Tow_19_Porlier_Pass_CP_26,110,0.9482758621,209,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Evadne sp,Tow_19_Porlier_Pass_CP_146,1,0.01470588235,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_19_Porlier_Pass_CP_146,20,0.2941176471,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_19_Porlier_Pass_CP_146,19,0.2794117647,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepoda,Centropages abdominalis,Tow_19_Porlier_Pass_CP_146,2,0.02941176471,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_19_Porlier_Pass_CP_146,1,0.01470588235,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,NA,Copepod,eggs,Tow_19_Porlier_Pass_CP_146,4,0.05882352941,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp nauplius,Tow_19_Porlier_Pass_CP_146,1,0.01470588235,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BD,Hyperiidea,Hyperoche sp,Tow_19_Porlier_Pass_CP_146,1,0.01470588235,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Euphausia,Calyptopis,Tow_19_Porlier_Pass_CP_146,1,0.01470588235,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Brachyuran zoea,Tow_19_Porlier_Pass_CP_146,1,0.01470588235,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Porcellanid zoea,Tow_19_Porlier_Pass_CP_146,1,0.01470588235,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Chaetognatha,Chaetognatha,Tow_19_Porlier_Pass_CP_146,1,0.01470588235,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_19_Porlier_Pass_CP_146,15,0.2205882353,210,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,MA,Phaeophyta,Fucus sp float,Tow_19_Porlier_Pass_CP_163,1,0.001199040767,211,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_19_Porlier_Pass_CP_163,12,0.01438848921,211,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_19_Porlier_Pass_CP_163,800,0.9592326139,211,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_19_Porlier_Pass_CP_163,10,0.01199040767,211,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,Tow_19_Porlier_Pass_CP_163,1,0.001199040767,211,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Brachyuran zoea,Tow_19_Porlier_Pass_CP_163,2,0.002398081535,211,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_19_Porlier_Pass_CP_163,8,0.009592326139,211,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Nematode,Nematode,Tow_19_Porlier_Pass_CP_192,1,0.004149377593,212,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Polychaeta,Tomopteris sp,Tow_19_Porlier_Pass_CP_192,1,0.004149377593,212,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_19_Porlier_Pass_CP_192,9,0.03734439834,212,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_19_Porlier_Pass_CP_192,200,0.8298755187,212,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_19_Porlier_Pass_CP_192,15,0.0622406639,212,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Gaidius variabilis,Tow_19_Porlier_Pass_CP_192,2,0.008298755187,212,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,Tow_19_Porlier_Pass_CP_192,7,0.02904564315,212,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Brachyuran zoea,Tow_19_Porlier_Pass_CP_192,6,0.02489626556,212,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,PARASITE,Trematoda,Lecithaster gibbosus,Tow_19_Porlier_Pass_OG_67,2,0.06896551724,213,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,CLADOCERA,Cladocera,Podon sp,Tow_19_Porlier_Pass_OG_67,11,0.3793103448,213,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Epilabidocera amphitrites,Tow_19_Porlier_Pass_OG_67,1,0.03448275862,213,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipod,Cyphocaris challengeri,Tow_19_Porlier_Pass_OG_67,6,0.2068965517,213,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BML,Decapod,Brachyuran zoea,Tow_19_Porlier_Pass_OG_67,1,0.03448275862,213,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Diptera,Tipulidae,Tow_19_Porlier_Pass_OG_67,1,0.03448275862,213,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Diptera,Chironomidae,Tow_19_Porlier_Pass_OG_67,5,0.1724137931,213,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ROCKFISH,Fish,Sebastodes sp,Tow_19_Porlier_Pass_OG_67,2,0.06896551724,213,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,CLADOCERA,Cladocera,Podon sp,Tow_19_Porlier_Pass_OG_82,3,0.75,214,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Diptera,Diptera,Tow_19_Porlier_Pass_OG_82,1,0.25,214,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,BD,Isopod,Isopod,Tow_19_Porlier_Pass_OT_109,1,0.3333333333,215,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,NA,Euphausiid,fragments,Tow_19_Porlier_Pass_OT_109,1,0.3333333333,215,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,INSECT,Hymenoptera,Braconidae,Tow_19_Porlier_Pass_OT_109,1,0.3333333333,215,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,INSECT,Diptera,Chironomidae,Tow_19_Porlier_Pass_OT_119,1,0.3333333333,216,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ZM,Copepod,Epilabidocera amphitrites,Tow_19_Porlier_Pass_OT_119,1,0.3333333333,216,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,INSECT,Diptera,Chironomidae,Tow_19_Porlier_Pass_OT_119,1,0.3333333333,216,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_19_Porlier_Pass_Oke_40,400,0.9523809524,217,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Cyclopoida,Tow_19_Porlier_Pass_Oke_40,3,0.007142857143,217,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Cyphocaris challengeri,Tow_19_Porlier_Pass_Oke_40,1,0.002380952381,217,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Trichoptera,Trichoptera,Tow_19_Porlier_Pass_Oke_40,2,0.004761904762,217,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Chironomidae,Tow_19_Porlier_Pass_Oke_40,14,0.03333333333,217,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_19_Porlier_Pass_Oke_61,2,0.03846153846,218,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Trichoptera,Trichoptera,Tow_19_Porlier_Pass_Oke_61,8,0.1538461538,218,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hemiptera,Aphididae,Tow_19_Porlier_Pass_Oke_61,1,0.01923076923,218,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Tipulidae,Tow_19_Porlier_Pass_Oke_61,1,0.01923076923,218,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Chironomidae,Tow_19_Porlier_Pass_Oke_61,40,0.7692307692,218,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Cyphocaris challengeri,Tow_19_Porlier_Pass_Oke_69,2,0.25,219,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hemiptera,Aphididae,Tow_19_Porlier_Pass_Oke_69,1,0.125,219,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Chironomidae,Tow_19_Porlier_Pass_Oke_69,5,0.625,219,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_19_Porlier_Pass_Oke_80,5,0.04672897196,220,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Ostracoda,Conchoecia alata minor,Tow_19_Porlier_Pass_Oke_80,100,0.9345794393,220,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Cyphocaris challengeri,Tow_19_Porlier_Pass_Oke_80,1,0.009345794393,220,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,Tow_19_Porlier_Pass_Oke_80,1,0.009345794393,220,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Chironomidae,Tow_19_Porlier_Pass_Oke_114,1,1,221,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,PLANT,Stem of water reed,Stem of water reed,Tow_19_Porlier_Pass_ON_93,1,0.0625,222,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,CLADOCERA,Cladocera,Podon sp,Tow_19_Porlier_Pass_ON_93,2,0.125,222,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZL,Ostracoda,Conchoecia alata minor,Tow_19_Porlier_Pass_ON_93,3,0.1875,222,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Cyphocaris challengeri,Tow_19_Porlier_Pass_ON_93,5,0.3125,222,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Diptera,Tow_19_Porlier_Pass_ON_93,1,0.0625,222,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Chironomidae,Tow_19_Porlier_Pass_ON_93,2,0.125,222,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Phoridae,Tow_19_Porlier_Pass_ON_93,2,0.125,222,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Chironomidae,Tow_19_Porlier_Pass_ON_96,1,1,223,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplii,Tow_19_Porlier_Pass_TP_8,9,1,224,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,ZM,Copepod,Pseudocalanus minutus,Tow_19_Porlier_Pass_TP_42,2,1,225,FISH_Robinson_et_al_1968
+FDF,juvenile,Pleuronectidae,Pleuronectidae,BML,Copepod,nauplii,Tow_19_Porlier_Pass_PL_6a,5,0.625,226,FISH_Robinson_et_al_1968
+FDF,juvenile,Pleuronectidae,Pleuronectidae,BFF,Cirrepedia,Balanus sp egg,Tow_19_Porlier_Pass_PL_6a,3,0.375,226,FISH_Robinson_et_al_1968
+FDF,juvenile,Pleuronectidae,Pleuronectidae,BFF,Cirrepedia,Balanus sp egg,Tow_19_Porlier_Pass_PL_6b,3,1,227,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,CLADOCERA,Cladocera,Podon sp,Tow_19_Porlier_Pass_HD_63,1,0.02777777778,228,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,ZM,Copepod,Pseudocalanus minutus,Tow_19_Porlier_Pass_HD_63,32,0.8888888889,228,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BD,Amphipod,Parathemisto pacifica,Tow_19_Porlier_Pass_HD_63,1,0.02777777778,228,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,NA,Euphausiid,eggs,Tow_19_Porlier_Pass_HD_63,2,0.05555555556,228,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,FPS,Fish,Thaleichthys pacificus,Tow_19_Porlier_Pass_HD_72,4,1,229,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_19_Porlier_Pass_SS_5a,3,1,230,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_19_Porlier_Pass_SS_5b,3,1,231,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_19_Porlier_Pass_SS_6,4,0.2857142857,232,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BFF,Cirrepedia,Balanus sp egg,Tow_19_Porlier_Pass_SS_6,10,0.7142857143,232,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PS,Phytoplankton,Phytoplankton,Tow_20_Porlier_Pass_CP_12,1,0.5,233,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp egg,Tow_20_Porlier_Pass_CP_12,1,0.5,233,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp egg,Tow_20_Porlier_Pass_CP_15,10,1,234,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_20_Porlier_Pass_CP_121,14,0.5833333333,235,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_20_Porlier_Pass_CP_121,4,0.1666666667,235,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Evadne sp,Tow_20_Porlier_Pass_CP_121,1,0.04166666667,235,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Ostracoda,Conchoecia alata minor,Tow_20_Porlier_Pass_CP_121,1,0.04166666667,235,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_20_Porlier_Pass_CP_121,2,0.08333333333,235,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_20_Porlier_Pass_CP_121,2,0.08333333333,235,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_20_Porlier_Pass_CP_122,44,0.3333333333,236,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_20_Porlier_Pass_CP_122,61,0.4621212121,236,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Evadne sp,Tow_20_Porlier_Pass_CP_122,1,0.007575757576,236,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus pacificus,Tow_20_Porlier_Pass_CP_122,1,0.007575757576,236,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_20_Porlier_Pass_CP_122,9,0.06818181818,236,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_20_Porlier_Pass_CP_122,13,0.09848484848,236,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,HE,Fish,Clupea pallasii,Tow_20_Porlier_Pass_CP_122,2,0.01515151515,236,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_20_Porlier_Pass_CP_122,1,0.007575757576,236,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_20_Porlier_Pass_CP_176,10,0.7692307692,237,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_20_Porlier_Pass_CP_176,1,0.07692307692,237,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_20_Porlier_Pass_CP_176,2,0.1538461538,237,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_20_Porlier_Pass_CP_197,3,0.04918032787,238,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_20_Porlier_Pass_CP_197,47,0.7704918033,238,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Ostracoda,Conchoecia alata minor,Tow_20_Porlier_Pass_CP_197,1,0.01639344262,238,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_20_Porlier_Pass_CP_197,5,0.08196721311,238,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_20_Porlier_Pass_CP_197,1,0.01639344262,238,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,HE,Fish,Clupea pallasii,Tow_20_Porlier_Pass_CP_197,1,0.01639344262,238,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_20_Porlier_Pass_CP_197,3,0.04918032787,238,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,NA,Wood,Chunk of Wood,Tow_20_Porlier_Pass_SG_158,1,0.07142857143,239,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,BD,Isopod,Isopod,Tow_20_Porlier_Pass_SG_158,1,0.07142857143,239,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,INSECT,Coleoptera,Scarabaeidae,Tow_20_Porlier_Pass_SG_158,1,0.07142857143,239,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,INSECT,Diptera,Diptera,Tow_20_Porlier_Pass_SG_158,1,0.07142857143,239,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,INSECT,Diptera,Chironomidae,Tow_20_Porlier_Pass_SG_158,1,0.07142857143,239,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,INSECT,Diptera,Cecidomyiidae,Tow_20_Porlier_Pass_SG_158,1,0.07142857143,239,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,INSECT,Diptera,Phoridae,Tow_20_Porlier_Pass_SG_158,7,0.5,239,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,INSECT,Culicidae,larva culicidae,Tow_20_Porlier_Pass_SG_158,1,0.07142857143,239,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,CLADOCERA,Cladocera,Podon sp,Tow_20_Porlier_Pass_OG_108,14,0.6363636364,240,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Acartia longiremis,Tow_20_Porlier_Pass_OG_108,1,0.04545454545,240,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BFF,Cirrepedia,Balanus sp nauplius,Tow_20_Porlier_Pass_OG_108,1,0.04545454545,240,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Hemiptera,Aphididae,Tow_20_Porlier_Pass_OG_108,1,0.04545454545,240,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Diptera,Mycetophilidae,Tow_20_Porlier_Pass_OG_108,1,0.04545454545,240,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Diptera,Chironomidae,Tow_20_Porlier_Pass_OG_108,1,0.04545454545,240,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Diptera,Phoridae,Tow_20_Porlier_Pass_OG_108,1,0.04545454545,240,FISH_Robinson_et_al_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Culicidae,larva culicidae,Tow_20_Porlier_Pass_OG_108,2,0.09090909091,240,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Euprimno abyssalis,Tow_20_Porlier_Pass_Oki_94,1,0.05555555556,241,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,Tow_20_Porlier_Pass_Oki_94,3,0.1666666667,241,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Tipulidae,Tow_20_Porlier_Pass_Oki_94,1,0.05555555556,241,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Chironomidae,Tow_20_Porlier_Pass_Oki_94,4,0.2222222222,241,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Cecidomyiidae,Tow_20_Porlier_Pass_Oki_94,1,0.05555555556,241,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Dolichopodidae,Tow_20_Porlier_Pass_Oki_94,1,0.05555555556,241,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Phoridae,Tow_20_Porlier_Pass_Oki_94,7,0.3888888889,241,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,PLANT,Willow leaf,Willow leaf,Tow_20_Porlier_Pass_Oki_106,1,0.03846153846,242,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,PWN,Mysid,Neomysis rayii,Tow_20_Porlier_Pass_Oki_106,2,0.07692307692,242,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Hemiptera,Aphididae,Tow_20_Porlier_Pass_Oki_106,1,0.03846153846,242,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Chironomidae,Tow_20_Porlier_Pass_Oki_106,3,0.1153846154,242,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Cecidomyiidae,Tow_20_Porlier_Pass_Oki_106,6,0.2307692308,242,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Phoridae,Tow_20_Porlier_Pass_Oki_106,8,0.3076923077,242,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Culicidae,larva culicidae,Tow_20_Porlier_Pass_Oki_106,5,0.1923076923,242,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,metanauplius,Tow_20_Porlier_Pass_TP_10,1,0.3333333333,243,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplius,Tow_20_Porlier_Pass_TP_10,1,0.3333333333,243,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BFF,Cirrepedia,Balanus sp egg,Tow_20_Porlier_Pass_TP_10,1,0.3333333333,243,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BFF,Cirrepedia,Balanus sp egg,Tow_20_Porlier_Pass_TP_11a,2,1,244,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,ZS,Rotifers,Rotifers,Tow_20_Porlier_Pass_TP_11b,3,0.3,245,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,metanauplii,Tow_20_Porlier_Pass_TP_11b,1,0.1,245,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplii,Tow_20_Porlier_Pass_TP_11b,4,0.4,245,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BFF,Cirrepedia,Balanus sp egg,Tow_20_Porlier_Pass_TP_11b,2,0.2,245,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,PS,Phytoplankton,Phytoplankton,Tow_20_Porlier_Pass_PS_5,1,0.5,246,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,BFF,Cirrepedia,Balanus sp egg,Tow_20_Porlier_Pass_PS_5,1,0.5,246,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,BFF,Cirrepedia,Balanus sp egg,Tow_20_Porlier_Pass_PS_8a,6,1,247,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,CLADOCERA,Cladocera,Podon sp,Tow_20_Porlier_Pass_PS_8b,1,0.2,248,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,BFF,Cirrepedia,Balanus sp egg,Tow_20_Porlier_Pass_PS_8b,4,0.8,248,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,PARASITE,Trematoda,Lecithaster gibbosus,Tow_20_Porlier_Pass_HD_66,1,0.1428571429,249,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,ZL,Ostracoda,Conchoecia alata minor,Tow_20_Porlier_Pass_HD_66,6,0.8571428571,249,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplius,Tow_20_Porlier_Pass_SS_6,1,0.1428571429,250,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BFF,Cirrepedia,Balanus sp egg,Tow_20_Porlier_Pass_SS_6,6,0.8571428571,250,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BFF,Cirrepedia,Balanus sp egg,Tow_20_Porlier_Pass_SS_7,1,1,251,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,BFF,Cirrepedia,Balanus sp egg,Tow_20_Porlier_Pass_SS_7,11,1,252,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplius,Tow_21_Porlier_Pass_CP_12a,1,1,253,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_21_Porlier_Pass_CP_12b,2,0.6666666667,254,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,NA,Copepod,egg,Tow_21_Porlier_Pass_CP_12b,1,0.3333333333,254,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepoda,Centropages abdominalis,Tow_21_Porlier_Pass_CP_32,2,0.1052631579,255,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_21_Porlier_Pass_CP_32,17,0.8947368421,255,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_21_Porlier_Pass_CP_37,5,0.09615384615,256,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_21_Porlier_Pass_CP_37,3,0.05769230769,256,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepoda,Centropages abdominalis,Tow_21_Porlier_Pass_CP_37,6,0.1153846154,256,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_21_Porlier_Pass_CP_37,37,0.7115384615,256,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_21_Porlier_Pass_CP_37,1,0.01923076923,256,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_21_Porlier_Pass_CP_40,20,0.253164557,257,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepoda,Centropages abdominalis,Tow_21_Porlier_Pass_CP_40,9,0.11392405060000001,257,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_21_Porlier_Pass_CP_40,50,0.6329113924,257,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_21_Porlier_Pass_CP_150,6,0.009693053312,258,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_21_Porlier_Pass_CP_150,50,0.08077544426,258,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Evadne sp,Tow_21_Porlier_Pass_CP_150,6,0.009693053312,258,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Ostracoda,Conchoecia alata minor,Tow_21_Porlier_Pass_CP_150,8,0.01292407108,258,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus sp,Tow_21_Porlier_Pass_CP_150,6,0.009693053312,258,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Aetideus armatus,Tow_21_Porlier_Pass_CP_150,2,0.003231017771,258,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepoda,Centropages abdominalis,Tow_21_Porlier_Pass_CP_150,14,0.02261712439,258,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_21_Porlier_Pass_CP_150,325,0.5250403877,258,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp nauplii,Tow_21_Porlier_Pass_CP_150,2,0.003231017771,258,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_21_Porlier_Pass_CP_150,200,0.3231017771,258,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_21_Porlier_Pass_CP_172,1,0.1111111111,259,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_21_Porlier_Pass_CP_172,3,0.3333333333,259,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_21_Porlier_Pass_CP_172,5,0.5555555556,259,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_21_Porlier_Pass_CP_189,1,0.03703703704,260,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_21_Porlier_Pass_CP_189,2,0.07407407407,260,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_21_Porlier_Pass_CP_189,9,0.3333333333,260,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_21_Porlier_Pass_CP_189,15,0.5555555556,260,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,CLADOCERA,Cladocera,Podon sp,Tow_21_Porlier_Pass_SG_150,1,0.5,261,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,FPS,Fish,Thaleichthys pacificus,Tow_21_Porlier_Pass_SG_150,1,0.5,261,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,INSECT,Diptera,Culicidae larvae,Tow_21_Porlier_Pass_OT_73,6,0.75,262,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,INSECT,Diptera,Phoridae,Tow_21_Porlier_Pass_OT_73,2,0.25,262,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,NA,Diptera,fragments,Tow_21_Porlier_Pass_OT_74,20,0.7692307692,263,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,INSECT,Diptera,Culicidae larvae,Tow_21_Porlier_Pass_OT_74,6,0.2307692308,263,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,PARASITE,Nematode,Nematode,Tow_21_Porlier_Pass_ON_102,1,0.3333333333,264,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Acartia longiremis,Tow_21_Porlier_Pass_ON_102,1,0.3333333333,264,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Culicidae larvae,Tow_21_Porlier_Pass_ON_102,1,0.3333333333,264,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplius,Tow_21_Porlier_Pass_TP_11,1,1,265,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplii,Tow_21_Porlier_Pass_TP_12a,2,1,266,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,NA,Copepod,egg,Tow_21_Porlier_Pass_TP_12b,1,1,267,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,NA,Copepod,egg,Tow_21_Porlier_Pass_TP_13,1,1,268,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplius,Tow_21_Porlier_Pass_TP_15,1,1,269,FISH_Robinson_et_al_1968
+SMD,juvenile,Stichaeidae,Stichaeidae,BML,Copepod,nauplii,Tow_21_Porlier_Pass_ST_5.5,2,1,270,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_22_Porlier_Pass_CP_136,6,0.0375,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_22_Porlier_Pass_CP_136,2,0.0125,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Ostracoda,Conchoecia alata minor,Tow_22_Porlier_Pass_CP_136,1,0.00625,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Ostracod,Philomedes sp,Tow_22_Porlier_Pass_CP_136,1,0.00625,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_22_Porlier_Pass_CP_136,6,0.0375,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_22_Porlier_Pass_CP_136,73,0.45625,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Metridia sp,Tow_22_Porlier_Pass_CP_136,6,0.0375,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Eurytemora transversalis,Tow_22_Porlier_Pass_CP_136,5,0.03125,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_22_Porlier_Pass_CP_136,23,0.14375,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp nauplii,Tow_22_Porlier_Pass_CP_136,17,0.10625,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,NA,Euphausiid,egg,Tow_22_Porlier_Pass_CP_136,4,0.025,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Euphausia,Calyptopis,Tow_22_Porlier_Pass_CP_136,4,0.025,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Euphausia,Furcilia,Tow_22_Porlier_Pass_CP_136,3,0.01875,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Brachyuran zoea,Tow_22_Porlier_Pass_CP_136,2,0.0125,271,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_22_Porlier_Pass_CP_136,7,0.04375,271,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Ostracoda,Conchoecia alata minor,Tow_22_Porlier_Pass_Oki_86,6,0.1224489796,272,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Ostracod,Philomedes sp,Tow_22_Porlier_Pass_Oki_86,4,0.08163265306,272,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepod,Calanus plumchrus,Tow_22_Porlier_Pass_Oki_86,6,0.1224489796,272,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Calliopius sp,Tow_22_Porlier_Pass_Oki_86,15,0.306122449,272,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BML,Decapod,Brachyuran zoea,Tow_22_Porlier_Pass_Oki_86,7,0.1428571429,272,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,NA,Diptera,fragments,Tow_22_Porlier_Pass_Oki_86,5,0.1020408163,272,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Culicidae,Tow_22_Porlier_Pass_Oki_86,6,0.1224489796,272,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Orchomenella sp,Tow_22_Porlier_Pass_Oki_103,1,0.1111111111,273,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BML,Decapod,Brachyuran zoea,Tow_22_Porlier_Pass_Oki_103,7,0.7777777778,273,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,FISH,Fish,Fish,Tow_22_Porlier_Pass_Oki_103,1,0.1111111111,273,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,BC,Pycnogonida,Pycnogonida,Tow_22_Porlier_Pass_OT_97,1,0.125,274,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ZM,Copepod,Calanus plumchrus,Tow_22_Porlier_Pass_OT_97,3,0.375,274,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,BML,Decapod,Brachyuran zoea,Tow_22_Porlier_Pass_OT_97,4,0.5,274,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ZM,Copepod,Calanus plumchrus,Tow_22_Porlier_Pass_OT_100,10,1,275,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Calliopius sp,Tow_22_Porlier_Pass_Oke_66,4,0.6666666667,276,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,FPS,Fish,Thaleichthys pacificus,Tow_22_Porlier_Pass_Oke_66,2,0.3333333333,276,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Ostracoda,Conchoecia alata minor,Tow_22_Porlier_Pass_Oke_95,1,0.25,277,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Calliopius sp,Tow_22_Porlier_Pass_Oke_95,2,0.5,277,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,FISH,Fish,Fish,Tow_22_Porlier_Pass_Oke_95,1,0.25,277,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus pacificus,Tow_22_Porlier_Pass_ON_98,2,0.07142857143,278,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Pseudocalanus minutus,Tow_22_Porlier_Pass_ON_98,15,0.5357142857,278,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Acartia longiremis,Tow_22_Porlier_Pass_ON_98,3,0.1071428571,278,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BML,Decapod,Brachyuran zoea,Tow_22_Porlier_Pass_ON_98,1,0.03571428571,278,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BFF,Larvacea,Oikopleura sp,Tow_22_Porlier_Pass_ON_98,2,0.07142857143,278,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,FPS,Fish,Thaleichthys pacificus,Tow_22_Porlier_Pass_ON_98,3,0.1071428571,278,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ROCKFISH,Fish,Sebastodes sp,Tow_22_Porlier_Pass_ON_98,1,0.03571428571,278,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,SMD,Fish,Gobiidae,Tow_22_Porlier_Pass_ON_98,1,0.03571428571,278,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus pacificus,Tow_22_Porlier_Pass_ON_106,37,0.08277404922,279,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Pseudocalanus minutus,Tow_22_Porlier_Pass_ON_106,1,0.002237136465,279,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepoda,Centropages abdominalis,Tow_22_Porlier_Pass_ON_106,1,0.002237136465,279,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Parathemisto pacifica,Tow_22_Porlier_Pass_ON_106,7,0.01565995526,279,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BML,Decapod,Brachyuran zoea,Tow_22_Porlier_Pass_ON_106,1,0.002237136465,279,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BFF,Larvacea,Oikopleura sp,Tow_22_Porlier_Pass_ON_106,400,0.8948545861,279,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplius,Tow_22_Porlier_Pass_TP_7,1,1,280,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplii,Tow_22_Porlier_Pass_TP_10,3,1,281,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplii,Tow_22_Porlier_Pass_TP_11,3,0.75,282,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BFF,Cirrepedia,Balanus sp egg,Tow_22_Porlier_Pass_TP_11,1,0.25,282,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_22_Porlier_Pass_SS_4.5,3,1,283,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_22_Porlier_Pass_SS_5a,9,1,284,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_22_Porlier_Pass_SS_5b,14,0.9333333333,285,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BFF,Cirrepedia,Balanus sp egg,Tow_22_Porlier_Pass_SS_5b,1,0.06666666667,285,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_22_Porlier_Pass_SS_6,7,0.875,286,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,metanauplius,Tow_22_Porlier_Pass_SS_6,1,0.125,286,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,Tow_22_Porlier_Pass_SS_10,3,0.09375,287,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepodite,Copepodite,Tow_22_Porlier_Pass_SS_10,6,0.1875,287,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,metanauplii,Tow_22_Porlier_Pass_SS_10,9,0.28125,287,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_22_Porlier_Pass_SS_10,14,0.4375,287,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,Tow_22_Porlier_Pass_SS_13,10,0.3333333333,288,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,metanauplii,Tow_22_Porlier_Pass_SS_13,5,0.1666666667,288,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BFF,Cirrepedia,Balanus sp egg,Tow_22_Porlier_Pass_SS_13,15,0.5,288,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Ostracoda,Conchoecia alata minor,Tow_23_Valdes_Island_Oke_80,4,0.0412371134,289,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,Tow_23_Valdes_Island_Oke_80,85,0.8762886598,289,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,Tow_23_Valdes_Island_Oke_80,3,0.03092783505,289,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Calliopius sp,Tow_23_Valdes_Island_Oke_80,1,0.01030927835,289,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Tipulidae,Tow_23_Valdes_Island_Oke_80,1,0.01030927835,289,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,Tow_23_Valdes_Island_Oke_80,1,0.01030927835,289,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,Tow_23_Valdes_Island_Oke_80,2,0.0206185567,289,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_24_Point_Grey_CP_13,2,0.2222222222,290,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp egg,Tow_24_Point_Grey_CP_13,7,0.7777777778,290,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplii,Tow_24_Point_Grey_CP_14,2,0.1333333333,291,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BFF,Cirrepedia,Balanus sp egg,Tow_24_Point_Grey_CP_14,11,0.7333333333,291,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BIV,Pelecypoda,Prodisconch larvae,Tow_24_Point_Grey_CP_14,2,0.1333333333,291,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_CP_26,3,0.75,292,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplius,Tow_24_Point_Grey_CP_26,1,0.25,292,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_CP_110,300,0.7672634271,293,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus sp,Tow_24_Point_Grey_CP_110,30,0.07672634271,293,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Eucalanus bungii bungii,Tow_24_Point_Grey_CP_110,1,0.002557544757,293,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,Tow_24_Point_Grey_CP_110,16,0.04092071611,293,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BD,Amphipod,Cyphocaris challengeri,Tow_24_Point_Grey_CP_110,1,0.002557544757,293,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Brachyuran zoea,Tow_24_Point_Grey_CP_110,18,0.04603580563,293,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Porcellanid zoea,Tow_24_Point_Grey_CP_110,2,0.005115089514,293,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_24_Point_Grey_CP_110,22,0.05626598465,293,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FDF,Fish,Platichthys stellatus,Tow_24_Point_Grey_CP_110,1,0.002557544757,293,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_CP_121,620,0.9422492401,294,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZL,Ostracoda,Conchoecia alata minor,Tow_24_Point_Grey_CP_121,1,0.001519756839,294,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Brachyuran megalopa,Tow_24_Point_Grey_CP_121,4,0.006079027356,294,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_24_Point_Grey_CP_121,32,0.04863221884,294,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FDF,Fish,Platichthys stellatus,Tow_24_Point_Grey_CP_121,1,0.001519756839,294,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_CP_122,1200,0.9029345372,295,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus sp,Tow_24_Point_Grey_CP_122,85,0.06395786305,295,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BD,Amphipod,Parathemisto pacifica,Tow_24_Point_Grey_CP_122,7,0.005267118134,295,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BD,Amphipod,Cyphocaris challengeri,Tow_24_Point_Grey_CP_122,3,0.002257336343,295,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Decapod,Brachyuran megalopa,Tow_24_Point_Grey_CP_122,12,0.009029345372,295,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_24_Point_Grey_CP_122,21,0.0158013544,295,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FDF,Fish,Platichthys stellatus,Tow_24_Point_Grey_CP_122,1,7.524454477e-4,295,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Hemiptera,Aphididae,Tow_24_Point_Grey_Oki_84,2,0.09523809524,296,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Chironomidae,Tow_24_Point_Grey_Oki_84,14,0.6666666667,296,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Cecidomyiidae,Tow_24_Point_Grey_Oki_84,1,0.04761904762,296,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Phoridae,Tow_24_Point_Grey_Oki_84,4,0.1904761905,296,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,SMD,Fish,Hexagrammos decagrammus,Tow_24_Point_Grey_Oki_108,1,1,297,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_Oke_58,900,0.9879253568,298,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,Tow_24_Point_Grey_Oke_58,1,0.001097694841,298,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Cyphocaris challengeri,Tow_24_Point_Grey_Oke_58,1,0.001097694841,298,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Chironomidae,Tow_24_Point_Grey_Oke_58,3,0.003293084523,298,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,Tow_24_Point_Grey_Oke_58,5,0.005488474204,298,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_24_Point_Grey_Oke_58,1,0.001097694841,298,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_Oke_76,1800,0.9983361065,299,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Ostracoda,Conchoecia alata minor,Tow_24_Point_Grey_Oke_76,3,0.001663893511,299,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_Oke_77,150,0.9615384615,300,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Gammaridea,Tow_24_Point_Grey_Oke_77,2,0.01282051282,300,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Cyphocaris challengeri,Tow_24_Point_Grey_Oke_77,2,0.01282051282,300,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,Tow_24_Point_Grey_Oke_77,2,0.01282051282,300,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_Oke_89,260,0.9961685824,301,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Chironomidae,Tow_24_Point_Grey_Oke_89,1,0.003831417625,301,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplius,Tow_24_Point_Grey_TP_8,1,1,302,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,BML,Copepod,nauplii,Tow_24_Point_Grey_TP_10,3,1,303,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,ZS,Rotifers,Rotifers,Tow_24_Point_Grey_PS_7,1,0.1111111111,304,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_PS_7,1,0.1111111111,304,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,BFF,Cirrepedia,Balanus sp egg,Tow_24_Point_Grey_PS_7,7,0.7777777778,304,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_PS_10a,1,1,305,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_PS_10b,1,1,306,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BD,Amphipod,Cyphocaris challengeri,Tow_24_Point_Grey_HD_61,2,1,307,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_HD_67,105,0.875,308,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,ZL,Ostracoda,Conchoecia alata minor,Tow_24_Point_Grey_HD_67,6,0.05,308,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BD,Amphipod,Parathemisto pacifica,Tow_24_Point_Grey_HD_67,2,0.01666666667,308,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BD,Amphipod,Cyphocaris challengeri,Tow_24_Point_Grey_HD_67,5,0.04166666667,308,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BML,Decapod,Brachyuran zoea,Tow_24_Point_Grey_HD_67,1,0.008333333333,308,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,FPS,Fish,Thaleichthys pacificus,Tow_24_Point_Grey_HD_67,1,0.008333333333,308,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,PS,Phytoplankton,Phytoplankton,Tow_24_Point_Grey_SS_5,2,0.5,309,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,eggs P. minutus,Tow_24_Point_Grey_SS_5,1,0.25,309,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BIV,Pelecypoda,Prodisconch larvae,Tow_24_Point_Grey_SS_5,1,0.25,309,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZS,Rotifers,Rotifers,Tow_24_Point_Grey_SS_6,2,0.25,310,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BFF,Cirrepedia,Balanus sp egg,Tow_24_Point_Grey_SS_6,6,0.75,310,FISH_Robinson_et_al_1968
+SMD,juvenile,Gobiidae,Gobiidae,BML,Copepod,nauplii,Tow_24_Point_Grey_GO_7,2,0.6666666667,311,FISH_Robinson_et_al_1968
+SMD,juvenile,Gobiidae,Gobiidae,BFF,Cirrepedia,Balanus sp egg,Tow_24_Point_Grey_GO_7,1,0.3333333333,311,FISH_Robinson_et_al_1968
+SMD,juvenile,Gobiidae,Gobiidae,BFF,Cirrepedia,Balanus sp egg,Tow_24_Point_Grey_GO_8,2,1,312,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,ZM,Copepod,eggs P. minutus,Tow_24_Point_Grey_RJ_5,3,0.75,313,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,BIV,Pelecypoda,Prodisconch larvae,Tow_24_Point_Grey_RJ_5,1,0.25,313,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,ZS,Rotifers,Rotifers,Tow_24_Point_Grey_RJ_7a,3,0.75,314,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,BML,Copepod,nauplius,Tow_24_Point_Grey_RJ_7a,1,0.25,314,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,PS,Phytoplankton,Phytoplankton,Tow_24_Point_Grey_RJ_7b,1,0.2,315,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_RJ_7b,3,0.6,315,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,BIV,Pelecypoda,Prodisconch larvae,Tow_24_Point_Grey_RJ_7b,1,0.2,315,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,CLADOCERA,Cladocera,Podon sp,Tow_24_Point_Grey_RJ_9,3,0.5,316,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,ZM,Copepod,eggs P. minutus,Tow_24_Point_Grey_RJ_9,3,0.5,316,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_25_Fraser_River_CP_32,1,1,317,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_25_Fraser_River_CP_40,1,0.3333333333,318,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BIV,Pelecypoda,Bankia sp,Tow_25_Fraser_River_CP_40,2,0.6666666667,318,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus plumchrus,Tow_25_Fraser_River_CP_134,450,1,319,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,CLADOCERA,Cladocera,Daphnia sp,Tow_25_Fraser_River_HP_78,1,0.3,320,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,ZM,Copepod,Pseudocalanus minutus,Tow_25_Fraser_River_HP_78,1,0.3,320,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,BIV,Pelecypoda,Bankia sp,Tow_25_Fraser_River_HP_78,1,0.3,320,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,FISH,Fish,Fish larvae,Tow_25_Fraser_River_HP_78,0.3333333333,0.1,320,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,CLADOCERA,Cladocera,Podon sp,Tow_25_Fraser_River_PS_10,1,1,321,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,FPS,Fish,Thaleichthys pacificus,Tow_25_Fraser_River_AH_62,2,1,322,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_26_Point_Grey_CP_30,1,1,323,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_26_Point_Grey_CP_42,1,0.05555555556,324,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_26_Point_Grey_CP_42,16,0.8888888889,324,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Cyclopoida,Tow_26_Point_Grey_CP_42,1,0.05555555556,324,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_26_Point_Grey_CP_113,90,0.1308139535,325,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_26_Point_Grey_CP_113,560,0.8139534884,325,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BIV,Pelecypoda,Disconch larvae,Tow_26_Point_Grey_CP_113,1,0.001453488372,325,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,HE,Fish,Clupea pallasii,Tow_26_Point_Grey_CP_113,2,0.002906976744,325,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_26_Point_Grey_CP_113,35,0.05087209302,325,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_26_Point_Grey_CP_165,2,0.001013171226,326,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_26_Point_Grey_CP_165,1650,0.8358662614,326,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanoid,Tow_26_Point_Grey_CP_165,1,5.06585613e-4,326,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Cyclopoida,Tow_26_Point_Grey_CP_165,3,0.001519756839,326,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PWN,Mysid,Neomysis rayii,Tow_26_Point_Grey_CP_165,1,5.06585613e-4,326,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_26_Point_Grey_CP_165,300,0.1519756839,326,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,SMD,Fish,Ronquilus jordani,Tow_26_Point_Grey_CP_165,10,0.00506585613,326,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,HE,Fish,Clupea pallasii,Tow_26_Point_Grey_CP_165,7,0.003546099291,326,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_26_Point_Grey_CP_173,200,0.9216589862,327,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_26_Point_Grey_CP_173,9,0.04147465438,327,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FDF,Fish,Platichthys stellatus,Tow_26_Point_Grey_CP_173,8,0.03686635945,327,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,PARASITE,Trematoda,Lecithaster gibbosus,Tow_26_Point_Grey_TP_29,1,1,328,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,CLADOCERA,Cladocera,Podon sp,Tow_26_Point_Grey_TP_34,1,1,329,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,ZM,Copepod,Calanus plumchrus,Tow_26_Point_Grey_TP_39,1,1,330,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,CLADOCERA,Cladocera,Podon sp,Tow_26_Point_Grey_TP_48,7,1,331,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,CLADOCERA,Cladocera,Podon sp,Tow_26_Point_Grey_HP_75,80,0.9756097561,332,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,ZM,Copepod,Calanoid,Tow_26_Point_Grey_HP_75,1,0.01219512195,332,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,FPS,Fish,Thaleichthys pacificus,Tow_26_Point_Grey_HP_75,1,0.01219512195,332,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,CLADOCERA,Cladocera,Podon sp,Tow_26_Point_Grey_HD_66,60,0.75,333,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BD,Amphipod,Gammaridea,Tow_26_Point_Grey_HD_66,1,0.0125,333,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,FPS,Fish,Thaleichthys pacificus,Tow_26_Point_Grey_HD_66,19,0.2375,333,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,CLADOCERA,Cladocera,Podon sp,Tow_26_Point_Grey_RJ_9,2,1,334,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,CLADOCERA,Cladocera,Podon sp,Tow_26_Point_Grey_AH_115,30,1,335,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_27_Sand_Heads_CP_24,1,0.25,336,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_CP_24,3,0.75,336,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_27_Sand_Heads_CP_28,1,0.5,337,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_CP_28,1,0.5,337,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_27_Sand_Heads_CP_33,2,0.02777777778,338,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_CP_33,40,0.5555555556,338,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,eggs P. minutus,Tow_27_Sand_Heads_CP_33,30,0.4166666667,338,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_CP_38,75,0.7653061224,339,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Eurytemora transversalis,Tow_27_Sand_Heads_CP_38,3,0.0306122449,339,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,eggs P. minutus,Tow_27_Sand_Heads_CP_38,20,0.2040816327,339,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_27_Sand_Heads_CP_41,1,0.01030927835,340,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_CP_41,85,0.8762886598,340,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepodite,Copepodite,Tow_27_Sand_Heads_CP_41,1,0.01030927835,340,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,eggs P. minutus,Tow_27_Sand_Heads_CP_41,10,0.1030927835,340,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_CP_152,25,0.5319148936,341,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_27_Sand_Heads_CP_152,22,0.4680851064,341,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_CP_175,21,0.8076923077,342,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_27_Sand_Heads_CP_175,3,0.1153846154,342,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Ammodytes hexapterus,Tow_27_Sand_Heads_CP_175,1,0.03846153846,342,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,NA,Fish,egg,Tow_27_Sand_Heads_CP_175,1,0.03846153846,342,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_CP_181,12,1,343,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_Oki_94,1,0.3333333333,344,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,CLADOCERA,Cladocera,Daphnia sp,Tow_27_Sand_Heads_Oki_94,1,0.3333333333,344,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,Tow_27_Sand_Heads_Oki_94,1,0.3333333333,344,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_OKe_41,182,0.9333333333,345,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,INSECT,Diptera,Culicidae larvae,Tow_27_Sand_Heads_OKe_41,8,0.04102564103,345,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,INSECT,Diptera,Chironomidae,Tow_27_Sand_Heads_OKe_41,2,0.01025641026,345,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,Tow_27_Sand_Heads_OKe_41,3,0.01538461538,345,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,ZM,Copepod,Copepod,Tow_27_Sand_Heads_OKe_83,1,0.04545454545,346,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,BD,Amphipod,Hyperidea,Tow_27_Sand_Heads_OKe_83,1,0.04545454545,346,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,BD,Amphipod,Cyphocaris challengeri,Tow_27_Sand_Heads_OKe_83,1,0.04545454545,346,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,INSECT,Plecoptera,Nymph,Tow_27_Sand_Heads_OKe_83,1,0.04545454545,346,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,INSECT,Hemiptera,Aphididae,Tow_27_Sand_Heads_OKe_83,5,0.2272727273,346,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,INSECT,Diptera,Culicidae larvae,Tow_27_Sand_Heads_OKe_83,2,0.09090909091,346,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,INSECT,Diptera,Chironomidae,Tow_27_Sand_Heads_OKe_83,1,0.04545454545,346,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,Tow_27_Sand_Heads_OKe_83,7,0.3181818182,346,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus kisutch,Oncorhynchus keta,INSECT,Diptera,Phoridae,Tow_27_Sand_Heads_OKe_83,3,0.1363636364,346,FISH_Robinson_et_al_1968
+FPS,juvenile,Hypomesus pretiosus,Hypomesus pretiosus,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_HP_71,70,1,347,FISH_Robinson_et_al_1968
+SMD,juvenile,Gasterosteus aculeatus,Gasterosteus aculeatus,FPS,Fish,Thaleichthys pacificus,Tow_27_Sand_Heads_GA_68,12,1,348,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_RJ_9,3,1,349,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_RJ_10,4,1,350,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_AH_44,5,0.8333333333,351,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Cyclopoida,Tow_27_Sand_Heads_AH_44,1,0.1666666667,351,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_AH_54,20,0.2777777778,352,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepodite,Copepodite,Tow_27_Sand_Heads_AH_54,1,0.01388888889,352,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BFF,Cirrepedia,Balanus sp egg,Tow_27_Sand_Heads_AH_54,50,0.6944444444,352,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,NA,Fish,Scale,Tow_27_Sand_Heads_AH_54,1,0.01388888889,352,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_AH_65,150,0.5928853755,353,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Cyclopoida,Tow_27_Sand_Heads_AH_65,3,0.01185770751,353,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,BFF,Cirrepedia,Balanus sp egg,Tow_27_Sand_Heads_AH_65,100,0.395256917,353,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_AH_75,75,0.7653061224,354,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Cyclopoida,Tow_27_Sand_Heads_AH_75,2,0.02040816327,354,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,FPS,Fish,Thaleichthys pacificus,Tow_27_Sand_Heads_AH_75,15,0.1530612245,354,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,NA,Fish,Scale,Tow_27_Sand_Heads_AH_75,6,0.0612244898,354,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,CLADOCERA,Cladocera,Podon sp,Tow_27_Sand_Heads_AH_90,10,1,355,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_CP_14a,1,1,356,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_CP_14b,1,0.5,357,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,eggs P. minutus,Tow_28_Sand_Heads_CP_14b,1,0.5,357,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_CP_15,1,1,358,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PS,Phytoplankton,Phytoplankton,Tow_28_Sand_Heads_CP_16a,25,1,359,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,eggs P. minutus,Tow_28_Sand_Heads_CP_16b,1,1,360,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_28_Sand_Heads_CP_24,1,1,361,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PARASITE,Trematoda,Lecithaster gibbosus,Tow_28_Sand_Heads_CP_27,1,0.5,362,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZS,Rotifers,Rotifers,Tow_28_Sand_Heads_CP_27,1,0.5,362,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_CP_105,1500,0.904159132,363,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Acartia longiremis,Tow_28_Sand_Heads_CP_105,1,6.027727547e-4,363,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,HE,Fish,Clupea pallasii,Tow_28_Sand_Heads_CP_105,14,0.008438818565,363,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_28_Sand_Heads_CP_105,140,0.08438818565,363,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FMM,Fish,Merluccius productus,Tow_28_Sand_Heads_CP_105,1,6.027727547e-4,363,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FVS,Fish,Scorpaenichthys marmoratus,Tow_28_Sand_Heads_CP_105,3,0.001808318264,363,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_CP_118,1400,0.8917197452,364,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Calanus sp,Tow_28_Sand_Heads_CP_118,100,0.06369426752,364,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Pseudocalanus minutus,Tow_28_Sand_Heads_CP_118,15,0.009554140127,364,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ZM,Copepod,Epilabidocera amphitrites,Tow_28_Sand_Heads_CP_118,3,0.001910828025,364,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PWN,Mysid,Neomysis rayii,Tow_28_Sand_Heads_CP_118,1,6.369426752e-4,364,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_28_Sand_Heads_CP_118,50,0.03184713376,364,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,ROCKFISH,Fish,Sebastodes sp,Tow_28_Sand_Heads_CP_118,1,6.369426752e-4,364,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_CP_258,53,0.8983050847,365,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,FPS,Fish,Thaleichthys pacificus,Tow_28_Sand_Heads_CP_258,6,0.1016949153,365,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_OT_100,10,0.7142857143,366,FISH_Robinson_et_al_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,FPS,Fish,Thaleichthys pacificus,Tow_28_Sand_Heads_OT_100,4,0.2857142857,366,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_Oke_64,600,0.9615384615,367,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Culicidae larvae,Tow_28_Sand_Heads_Oke_64,24,0.03846153846,367,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,FPS,Fish,Thaleichthys pacificus,Tow_28_Sand_Heads_Oke_75,60,0.9677419355,368,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,FVS,Fish,Scorpaenichthys marmoratus,Tow_28_Sand_Heads_Oke_75,2,0.03225806452,368,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_Oke_87,1200,0.9991673605,369,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Mycetophilidae,Tow_28_Sand_Heads_Oke_87,1,8.326394671e-4,369,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,PARASITE,Trematoda,Lecithaster gibbosus,Tow_28_Sand_Heads_Oke_97,1,0.001996007984,370,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_Oke_97,500,0.998003992,370,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_ON_98,1300,0.9961685824,371,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Trichoptera,Trichoptera,Tow_28_Sand_Heads_ON_98,1,7.662835249e-4,371,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,NA,Diptera,fragments,Tow_28_Sand_Heads_ON_98,1,7.662835249e-4,371,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,INSECT,Diptera,Culicidae larvae,Tow_28_Sand_Heads_ON_98,3,0.002298850575,371,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_ON_124,870,1,372,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_TP_13,1,1,373,FISH_Robinson_et_al_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,PS,Phytoplankton,Phytoplankton,Tow_28_Sand_Heads_MP_5,1,1,374,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_PS_6,1,1,375,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_PS_9,4,1,376,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_PS_11,4,1,377,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_HD_64,70,0.985915493,378,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BD,Isopod,Isopod,Tow_28_Sand_Heads_HD_64,1,0.01408450704,378,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,PS,Phytoplankton,Phytoplankton,Tow_28_Sand_Heads_SS_6,1,0.5,379,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_SS_6,1,0.5,379,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_SS_7a,1,1,380,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,PS,Phytoplankton,Phytoplankton,Tow_28_Sand_Heads_SS_7b,3,1,381,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_SS_7c,2,0.6666666667,382,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplius,Tow_28_Sand_Heads_SS_7c,1,0.3333333333,382,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,ZM,Copepod,eggs P. minutus,Tow_28_Sand_Heads_RJ_7,2,1,383,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_RJ_8,1,0.3333333333,384,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,ZM,Copepod,eggs P. minutus,Tow_28_Sand_Heads_RJ_8,2,0.6666666667,384,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_RJ_9,6,0.6666666667,385,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,ZM,Copepod,eggs P. minutus,Tow_28_Sand_Heads_RJ_9,3,0.3333333333,385,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_RJ_11,3,1,386,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,PARASITE,Trematoda,Lecithaster gibbosus,Tow_28_Sand_Heads_AH_44,8,0.5714285714,387,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,CLADOCERA,Cladocera,Podon sp,Tow_28_Sand_Heads_AH_44,5,0.3571428571,387,FISH_Robinson_et_al_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,FPS,Fish,Thaleichthys pacificus,Tow_28_Sand_Heads_AH_44,1,0.07142857143,387,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,CLADOCERA,Cladocera,Podon sp,Tow_29_Strait_of_Georgia_CP_14,1,0.5,388,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,nauplius,Tow_29_Strait_of_Georgia_CP_14,1,0.5,388,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,metanauplii,Tow_29_Strait_of_Georgia_CP_15,3,1,389,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,PS,Phytoplankton,Phytoplankton,Tow_29_Strait_of_Georgia_CP_16,1,0.5,390,FISH_Robinson_et_al_1968
+HE,juvenile,Clupea pallasii,Clupea pallasii,BML,Copepod,metanauplius,Tow_29_Strait_of_Georgia_CP_16,1,0.5,390,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,ZL,Polychaeta,Tomopteris septentrionalis,Tow_29_Strait_of_Georgia_SG_181,12,0.4615384615,391,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,BD,Amphipod,Gammaridea,Tow_29_Strait_of_Georgia_SG_181,2,0.07692307692,391,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,BML,Decapod,Brachyuran zoea,Tow_29_Strait_of_Georgia_SG_181,1,0.03846153846,391,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,INSECT,Diptera,Tipulidae,Tow_29_Strait_of_Georgia_SG_181,4,0.1538461538,391,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,INSECT,Diptera,Culicidae larvae,Tow_29_Strait_of_Georgia_SG_181,2,0.07692307692,391,FISH_Robinson_et_al_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,INSECT,Diptera,Cecidomyiidae,Tow_29_Strait_of_Georgia_SG_181,5,0.1923076923,391,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,CLADOCERA,Cladocera,Podon sp,Tow_29_Strait_of_Georgia_Oki_112,5,0.4545454545,392,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Gammaridea,Tow_29_Strait_of_Georgia_Oki_112,1,0.09090909091,392,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Cyphocaris challengeri,Tow_29_Strait_of_Georgia_Oki_112,3,0.2727272727,392,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Euprimno abyssalis,Tow_29_Strait_of_Georgia_Oki_112,1,0.09090909091,392,FISH_Robinson_et_al_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastodes sp,Tow_29_Strait_of_Georgia_Oki_112,1,0.09090909091,392,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,CLADOCERA,Cladocera,Podon sp,Tow_29_Strait_of_Georgia_Oke_80,50,0.8928571429,393,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Tipulidae,Tow_29_Strait_of_Georgia_Oke_80,2,0.03571428571,393,FISH_Robinson_et_al_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,Tow_29_Strait_of_Georgia_Oke_80,4,0.07142857143,393,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,CLADOCERA,Cladocera,Podon sp,Tow_29_Strait_of_Georgia_ON_100,400,0.9975062344,394,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Metridia sp,Tow_29_Strait_of_Georgia_ON_100,1,0.002493765586,394,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BML,Decapod,Brachyuran megalopa,Tow_29_Strait_of_Georgia_ON_107,1,0.05,395,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZL,Chaetognatha,Chaetognatha,Tow_29_Strait_of_Georgia_ON_107,2,0.1,395,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,FDF,Starry flounder,Platichthys stellatus,Tow_29_Strait_of_Georgia_ON_107,1,0.05,395,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ROCKFISH,Fish,Sebastodes sp,Tow_29_Strait_of_Georgia_ON_107,13,0.65,395,FISH_Robinson_et_al_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ROCKFISH,Fish,Sebastodes sp,Tow_29_Strait_of_Georgia_ON_107,3,0.15,395,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,CLADOCERA,Cladocera,Podon sp,Tow_29_Strait_of_Georgia_TP_8,1,1,396,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,PS,Phytoplankton,Phytoplankton,Tow_29_Strait_of_Georgia_TP_9,2,0.6666666667,397,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,ZM,Copepod,eggs P. minutus,Tow_29_Strait_of_Georgia_TP_9,1,0.3333333333,397,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,CLADOCERA,Cladocera,Podon sp,Tow_29_Strait_of_Georgia_TP_12,2,1,398,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,ZM,Copepod,Pseudocalanus minutus,Tow_29_Strait_of_Georgia_TP_25,1,0.08333333333,399,FISH_Robinson_et_al_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,ZM,Copepod,eggs P. minutus,Tow_29_Strait_of_Georgia_TP_25,11,0.9166666667,399,FISH_Robinson_et_al_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,BML,Copepod,metanauplius,Tow_29_Strait_of_Georgia_MP_5.3,1,1,400,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,CLADOCERA,Cladocera,Podon sp,Tow_29_Strait_of_Georgia_PS_6,1,0.5,401,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,ZM,Copepod,eggs P. minutus,Tow_29_Strait_of_Georgia_PS_6,1,0.5,401,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,CLADOCERA,Cladocera,Podon sp,Tow_29_Strait_of_Georgia_PS_7,1,1,402,FISH_Robinson_et_al_1968
+FDF,juvenile,Platichthys stellatus,Platichthys stellatus,CLADOCERA,Cladocera,Podon sp,Tow_29_Strait_of_Georgia_PS_8,5,1,403,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,NA,Amphipod,fragments,Tow_29_Strait_of_Georgia_HD_61,2,0.5,404,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BD,Amphipod,Gammaridea,Tow_29_Strait_of_Georgia_HD_61,1,0.25,404,FISH_Robinson_et_al_1968
+SMD,juvenile,hexagrammos decagrammus,hexagrammos decagrammus,BML,Decapod,Brachyuran zoea,Tow_29_Strait_of_Georgia_HD_61,1,0.25,404,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,PS,Phytoplankton,Phytoplankton,Tow_29_Strait_of_Georgia_SS_5a,1,1,405,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,egg,Tow_29_Strait_of_Georgia_SS_5b,1,1,406,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplius,Tow_29_Strait_of_Georgia_SS_6,1,0.25,407,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Insect,egg,Tow_29_Strait_of_Georgia_SS_6,3,0.75,407,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,eggs P. minutus,Tow_29_Strait_of_Georgia_SS_7,1,1,408,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,CLADOCERA,Cladocera,Podon sp,Tow_29_Strait_of_Georgia_SS_8,1,0.25,409,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,Tow_29_Strait_of_Georgia_SS_8,2,0.5,409,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,eggs P. minutus,Tow_29_Strait_of_Georgia_SS_8,1,0.25,409,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,CLADOCERA,Cladocera,Podon sp,Tow_29_Strait_of_Georgia_SS_11,3,0.75,410,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,eggs P. minutus,Tow_29_Strait_of_Georgia_SS_11,1,0.25,410,FISH_Robinson_et_al_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,Tow_29_Strait_of_Georgia_SS_13,20,1,411,FISH_Robinson_et_al_1968
+SMD,juvenile,Gobiidae,Gobiidae,BML,Copepod,nauplius,Tow_29_Strait_of_Georgia_GO_5,1,1,412,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,CLADOCERA,Cladocera,Podon sp,Tow_29_Strait_of_Georgia_RJ_7,1,0.1666666667,413,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,ZM,Copepod,eggs P. minutus,Tow_29_Strait_of_Georgia_RJ_7,3,0.5,413,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,BIV,Pelecypoda,Prodisconch larvae,Tow_29_Strait_of_Georgia_RJ_7,2,0.3333333333,413,FISH_Robinson_et_al_1968
+SMD,juvenile,Ronquilus jordani,Ronquilus jordani,ZM,Copepodite,Copepodite,Tow_29_Strait_of_Georgia_RJ_8,1,1,414,FISH_Robinson_et_al_1968

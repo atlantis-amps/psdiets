@@ -1,0 +1,7 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+BMD,INVERT,Nudibranch,Hermissenda crassicornis,BB,Bacteria,Bacteria,Table_1,52.9,0.2307021369,1,BMD_Hoover_et_al_2012
+BMD,INVERT,Nudibranch,Hermissenda crassicornis,PS,Phytoplankton,Phytoplankton,Table_1,58.8,0.256432621,1,BMD_Hoover_et_al_2012
+BMD,INVERT,Nudibranch,Hermissenda crassicornis,DETRITUS,Detritus,Detritus,Table_1,64.7,0.2821631051,1,BMD_Hoover_et_al_2012
+BMD,INVERT,Nudibranch,Hermissenda crassicornis,ZS,Microzooplankton,Microzooplankton,Table_1,35.3,0.1539467946,1,BMD_Hoover_et_al_2012
+BMD,INVERT,Nudibranch,Hermissenda crassicornis,PS,Phytoplankton,Phytoplankton,Table_1,17.6,0.07675534235,1,BMD_Hoover_et_al_2012
+BMD,INVERT,Nudibranch,Hermissenda crassicornis,BC,Soft infauna,Soft infauna,Table_1,0,0,1,BMD_Hoover_et_al_2012

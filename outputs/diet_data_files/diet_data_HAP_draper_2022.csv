@@ -1,0 +1,55 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FMM,Pacific hake,Merluccius productus,Table 1. Percent weight,44.48,0.3000863558,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FPS,Clupeid,Clupeid,Table 1. Percent weight,18.24,0.1230569948,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,HE,Pacific herring,Clupea pallasii,Table 1. Percent weight,17.56,0.1184693437,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,HE,Clupeidae (unidentified clupeid),Unidentified clupeid,Table 1. Percent weight,0.66,0.004452720207,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FDF,Flatfish,Flatfish,Table 1. Percent weight,15.13,0.1020752375,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FDF,Pacific sanddab,Citharichthys sordidus,Table 1. Percent weight,4.11,0.02772830311,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FDF,Citharichthys sp,Citharichthys sp,Table 1. Percent weight,0.02,1.349309154e-4,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FDF,Rex sole,Glyptocephalus zachirus,Table 1. Percent weight,3,0.02023963731,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FDF,Slender sole,Lysopsetta exilis,Table 1. Percent weight,4.72,0.03184369603,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FDF,Dover sole,Microstomus pacificus,Table 1. Percent weight,2.18,0.01470746978,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FDF,Unidentified flatfish,Pleuronectiformes,Table 1. Percent weight,1.1,0.007421200345,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,ROCKFISH,Rockfish,Rockfish,Table 1. Percent weight,10.52,0.07097366149,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,ROC,Sebastes elongatus (greenstriped rockfish),Sebastes elongatus,Table 1. Percent weight,1.07,0.007218803972,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,ROC,Sebastes jordani (shortbelly rockfish),Sebastes jordani,Table 1. Percent weight,0.95,0.00640921848,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,ROCKFISH,Sebastes sp,Sebastes sp,Table 1. Percent weight,8.49,0.05727817358,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FISH,Other Fish,Other Fish,Table 1. Percent weight,1.84,0.01241364421,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FPS,Whitebait smelt,Allosmerus elongates,Table 1. Percent weight,0.06,4.047927461e-4,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FPS,Engraulis mordax (northern anchovy),Engraulis mordax,Table 1. Percent weight,0.82,0.00553216753,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FPS,Osmeridae (unidentified osmerid),Osmeridae,Table 1. Percent weight,0.05,3.373272884e-4,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,SMD,Radulinus asprellus (slim sculpin),Radulinus asprellus,Table 1. Percent weight,0.02,1.349309154e-4,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,DOG,Squalus suckleyi (Pacific spiny dogfish),Squalus suckleyi,Table 1. Percent weight,0.18,0.001214378238,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FPS,Thaleichthys pacificus (eulachon),Thaleichthys pacificus,Table 1. Percent weight,0.25,0.001686636442,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,SMD,Zoarcidae (unidentified eelpout),Zoarcidae,Table 1. Percent weight,0.44,0.002968480138,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,FISH,Teleost (unidentified fish),Teleost,Table 1. Percent weight,7.32,0.04938471503,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,ZL,Euphausiid,Euphausiid,Table 1. Percent weight,1.04,0.007016407599,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,ZL,Euphausia pacifica (North Pacific krill),Euphausia pacifica,Table 1. Percent weight,0.41,0.002766083765,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,ZL,Euphausiacea (unidentified euphausiid),Euphausiacea,Table 1. Percent weight,0.41,0.002766083765,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,ZL,Thysanoessa spinifera,Thysanoessa spinifera,Table 1. Percent weight,0.22,0.001484240069,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,PWN,Pandalid,Pandalid,Table 1. Percent weight,0.96,0.006476683938,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,PWN,Pandalidae (unidentified pandalid shrimp),Pandalidae,Table 1. Percent weight,0.04,2.698618307e-4,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,PWN,Pandalus jordani (ocean shrimp),Pandalus jordani,Table 1. Percent weight,0.91,0.006139356649,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,PWN,Other Shrimp,Other Shrimp,Table 1. Percent weight,0.25,0.001686636442,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,PWN,Crangonidae (unidentified crangon),Crangonidae,Table 1. Percent weight,0.009,6.071891192e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,PWN,Unidentified shrimp,Dendrobrachiata,Table 1. Percent weight,0.14,9.445164076e-4,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,PWN,Smooth crangon,Lissocrangon stylirostris,Table 1. Percent weight,0.009,6.071891192e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,PWN,Neocrangon communis (twospine crangon),Neocrangon communis,Table 1. Percent weight,0.01,6.746545769e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,PWN,Giant red mysid,Neognathophausia ingens,Table 1. Percent weight,0.01,6.746545769e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,PWN,Pasiphaea pacifica (Pacific glass shrimp),Pasiphaea pacifica,Table 1. Percent weight,0.07,4.722582038e-4,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,PWN,Spirontocaris holmesi (slender bladed shrimp),Spirontocaris holmesi,Table 1. Percent weight,0.01,6.746545769e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,PWN,Spirontocaris sica (offshore blade shrimp),Spirontocaris sica,Table 1. Percent weight,0.009,6.071891192e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,BMS,Cephalopod,Cephalopod,Table 1. Percent weight,0.07,4.722582038e-4,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,SQX,Abraliopsis felis,Abraliopsis felis,Table 1. Percent weight,0.01,6.746545769e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,SQX,California market squid,Doryteuthis opalescens,Table 1. Percent weight,0.05,3.373272884e-4,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,SQX,Unidentified squid,Teuthida (unidentified squid),Table 1. Percent weight,0.009,6.071891192e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,NA,Other,Other prey,Table 1. Percent weight,0.15,0.001011981865,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,BMD,Unidentified sea urchin,Echinacea,Table 1. Percent weight,0.05,3.373272884e-4,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,BD,Unidentified isopod,Isopoda,Table 1. Percent weight,0.009,6.071891192e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,BMD,Luidia foliolata (flat mud star),Luidia foliolata,Table 1. Percent weight,0.01,6.746545769e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,BG,Strongylocentrotus fragilis (fragile sea urchin),Strongylocentrotus fragilis,Table 1. Percent weight,0.08,5.397236615e-4,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,NA,Miscellaneous,Miscellaneous,Table 1. Percent weight,0.03,2.023963731e-4,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,ZG,Jellyfish,Gelatinous digested material,Table 1. Percent weight,0.01,6.746545769e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,NA,Unidentified material,Miscellaneous (unidentified material),Table 1. Percent weight,0.01,6.746545769e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,NA,Mud/Sand/Pebble/Rock,Mud/Sand/Pebble/Rock,Table 1. Percent weight,0.01,6.746545769e-5,1,HAP_draper_2022
+HAP,juvenileAndadult,Arrowtooth flounder,Atheresthes stomias,NA,Unidentified material,Unidentified digested organic material,Table 1. Percent weight,0.009,6.071891192e-5,1,HAP_draper_2022

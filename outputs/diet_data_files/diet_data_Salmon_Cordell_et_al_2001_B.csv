@@ -1,0 +1,524 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig35_%_of_diet_by_W_EK040196,6.98757763975155,0.0698757764,1,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig35_%_of_diet_by_W_EK040196,23.60248447204975,0.23602484470000001,1,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig35_%_of_diet_by_W_EK040196,16.149068322981403,0.1614906832,1,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig35_%_of_diet_by_W_EK040196,0,0,1,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig35_%_of_diet_by_W_EK040196,2.6397515527949977,0.02639751553,1,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig35_%_of_diet_by_W_EK040196,0,0,1,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig35_%_of_diet_by_W_EK040196,20.6521739130429,0.2065217391,1,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig35_%_of_diet_by_W_EK040196,26.0869565217384,0.2608695652,1,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig35_%_of_diet_by_W_EK040196,3.8819875776409987,0.03881987578,1,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig35_%_of_diet_by_W_OS040196,7.60869565217391,0.07608695652,2,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig35_%_of_diet_by_W_OS040196,14.906832298136688,0.149068323,2,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig35_%_of_diet_by_W_OS040196,0,0,2,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig35_%_of_diet_by_W_OS040196,0,0,2,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig35_%_of_diet_by_W_OS040196,15.993788819875903,0.1599378882,2,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig35_%_of_diet_by_W_OS040196,34.782608695651405,0.347826087,2,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig35_%_of_diet_by_W_OS040196,24.37888198757699,0.2437888199,2,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig35_%_of_diet_by_W_OS040196,1.7080745341614119,0.01708074534,2,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig35_%_of_diet_by_W_OS040196,0.6211180124236932,0.006211180124,2,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig35_%_of_diet_by_W_TB040196,2.32919254658385,0.02329192547,3,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig35_%_of_diet_by_W_TB040196,5.59006211180123,0.05590062112,3,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig35_%_of_diet_by_W_TB040196,22.670807453416217,0.2267080745,3,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig35_%_of_diet_by_W_TB040196,19.565217391304298,0.1956521739,3,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig35_%_of_diet_by_W_TB040196,32.76397515527871,0.3276397516,3,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig35_%_of_diet_by_W_TB040196,6.2111801242233895,0.06211180124,3,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig35_%_of_diet_by_W_TB040196,0,0,3,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig35_%_of_diet_by_W_TB040196,0,0,3,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig35_%_of_diet_by_W_TB040196,10.869565217392307,0.1086956522,3,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig35_%_of_diet_by_W_T105041796,4.34782608695652,0.04347826087,4,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig35_%_of_diet_by_W_T105041796,49.378881987577586,0.4937888199,4,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig35_%_of_diet_by_W_T105041796,0,0,4,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig35_%_of_diet_by_W_T105041796,0,0,4,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig35_%_of_diet_by_W_T105041796,9.782608695651895,0.09782608696,4,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig35_%_of_diet_by_W_T105041796,0,0,4,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig35_%_of_diet_by_W_T105041796,0,0,4,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig35_%_of_diet_by_W_T105041796,0,0,4,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig35_%_of_diet_by_W_T105041796,36.490683229814,0.3649068323,4,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig35_%_of_diet_by_W_T105041796,0,0,4,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig35_%_of_diet_by_W_WK041796,0.931677018633539,0.009259259259,5,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig35_%_of_diet_by_W_WK041796,2.3291925465838412,0.02314814815,5,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig35_%_of_diet_by_W_WK041796,23.60248447204972,0.2345679012,5,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig35_%_of_diet_by_W_WK041796,25.155279503105596,0.25,5,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig35_%_of_diet_by_W_WK041796,2.018633540372605,0.0200617284,5,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig35_%_of_diet_by_W_WK041796,46.58385093167569,0.462962963,5,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig35_%_of_diet_by_W_WK041796,0,0,5,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig35_%_of_diet_by_W_WK041796,0,0,5,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig35_%_of_diet_by_W_WK041796,0,0,5,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig35_%_of_diet_by_W_WK041796,0,0,5,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig35_%_of_diet_by_W_EK050696,13.1987577639751,0.1319875776,6,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig35_%_of_diet_by_W_EK050696,68.1677018633533,0.6816770186,6,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig35_%_of_diet_by_W_EK050696,0,0,6,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig35_%_of_diet_by_W_EK050696,0,0,6,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig35_%_of_diet_by_W_EK050696,16.77018633540321,0.1677018634,6,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig35_%_of_diet_by_W_EK050696,0,0,6,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig35_%_of_diet_by_W_EK050696,0,0,6,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig35_%_of_diet_by_W_EK050696,0,0,6,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig35_%_of_diet_by_W_EK050696,1.8633540372683939,0.01863354037,6,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig35_%_of_diet_by_W_EK050696,0,0,6,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig35_%_of_diet_by_W_WK050696,7.91925465838509,0.07919254658,7,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig35_%_of_diet_by_W_WK050696,42.857142857142904,0.4285714286,7,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig35_%_of_diet_by_W_WK050696,0,0,7,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig35_%_of_diet_by_W_WK050696,0,0,7,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig35_%_of_diet_by_W_WK050696,0.9316770186335006,0.009316770186,7,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig35_%_of_diet_by_W_WK050696,23.913043478260207,0.2391304348,7,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig35_%_of_diet_by_W_WK050696,24.378881987578296,0.2437888199,7,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig35_%_of_diet_by_W_WK050696,0,0,7,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig35_%_of_diet_by_W_WK050696,0,0,7,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig35_%_of_diet_by_W_WK050696,0,0,7,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig35_%_of_diet_by_W_OS050696,15.527950310559,0.1552795031,8,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig35_%_of_diet_by_W_OS050696,67.39130434782521,0.6739130435,8,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig35_%_of_diet_by_W_OS050696,0,0,8,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig35_%_of_diet_by_W_OS050696,0,0,8,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig35_%_of_diet_by_W_OS050696,0,0,8,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig35_%_of_diet_by_W_OS050696,0,0,8,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig35_%_of_diet_by_W_OS050696,14.75155279503069,0.147515528,8,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig35_%_of_diet_by_W_OS050696,0,0,8,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig35_%_of_diet_by_W_OS050696,2.329192546585105,0.02329192547,8,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig35_%_of_diet_by_W_OS050696,0,0,8,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig35_%_of_diet_by_W_CS050696,1.39751552795031,0.01397515528,9,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig35_%_of_diet_by_W_CS050696,61.02484472049659,0.6102484472,9,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig35_%_of_diet_by_W_CS050696,0,0,9,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig35_%_of_diet_by_W_CS050696,0,0,9,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig35_%_of_diet_by_W_CS050696,0,0,9,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig35_%_of_diet_by_W_CS050696,36.6459627329183,0.3664596273,9,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig35_%_of_diet_by_W_CS050696,0,0,9,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig35_%_of_diet_by_W_CS050696,0,0,9,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig35_%_of_diet_by_W_CS050696,0.9316770186348009,0.009316770186,9,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig35_%_of_diet_by_W_CS050696,0,0,9,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig35_%_of_diet_by_W_SB050696,2.32919254658385,0.02329192547,10,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig35_%_of_diet_by_W_SB050696,58.695652173912755,0.5869565217,10,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig35_%_of_diet_by_W_SB050696,0,0,10,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig35_%_of_diet_by_W_SB050696,0,0,10,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig35_%_of_diet_by_W_SB050696,0,0,10,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig35_%_of_diet_by_W_SB050696,0,0,10,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig35_%_of_diet_by_W_SB050696,34.0062111801234,0.3400621118,10,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig35_%_of_diet_by_W_SB050696,0.7763975155278899,0.007763975155,10,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig35_%_of_diet_by_W_SB050696,4.192546583852106,0.04192546584,10,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig35_%_of_diet_by_W_SB050696,0,0,10,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig36_%_of_diet_by_W_KI042297,79.2665726375176,0.7926657264,11,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig36_%_of_diet_by_W_KI042297,20.733427362482402,0.2073342736,11,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig36_%_of_diet_by_W_KI042297,0,0,11,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig36_%_of_diet_by_W_KI042297,0,0,11,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig36_%_of_diet_by_W_KI042297,0,0,11,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig36_%_of_diet_by_W_KI042297,0,0,11,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig36_%_of_diet_by_W_KI042297,0,0,11,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig36_%_of_diet_by_W_KI042297,0,0,11,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig36_%_of_diet_by_W_KI042297,0,0,11,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig36_%_of_diet_by_W_KI042297,0,0,11,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig36_%_of_diet_by_W_TB042297,22.7080394922425,0.2270803949,12,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig36_%_of_diet_by_W_TB042297,70.09873060648891,0.7009873061,12,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig36_%_of_diet_by_W_TB042297,0,0,12,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig36_%_of_diet_by_W_TB042297,0,0,12,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig36_%_of_diet_by_W_TB042297,0,0,12,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig36_%_of_diet_by_W_TB042297,5.78279266572649,0.05782792666,12,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig36_%_of_diet_by_W_TB042297,0,0,12,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig36_%_of_diet_by_W_TB042297,0,0,12,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig36_%_of_diet_by_W_TB042297,1.4104372355421049,0.01410437236,12,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig36_%_of_diet_by_W_TB042297,0,0,12,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig36_%_of_diet_by_W_T105_052397_64mm,4.09026798307475,0.04090267983,13,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig36_%_of_diet_by_W_T105_052397_64mm,2.115655853314493,0.02115655853,13,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig36_%_of_diet_by_W_T105_052397_64mm,0,0,13,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig36_%_of_diet_by_W_T105_052397_64mm,0,0,13,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig36_%_of_diet_by_W_T105_052397_64mm,0.42313117066200334,0.004231311707,13,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig36_%_of_diet_by_W_T105_052397_64mm,0,0,13,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig36_%_of_diet_by_W_T105_052397_64mm,0,0,13,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig36_%_of_diet_by_W_T105_052397_64mm,0,0,13,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig36_%_of_diet_by_W_T105_052397_64mm,0,0,13,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig36_%_of_diet_by_W_T105_052397_64mm,93.37094499294875,0.9337094499,13,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig36_%_of_diet_by_W_T105_052397_70mm,18.4767277856135,0.1847672779,14,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig36_%_of_diet_by_W_T105_052397_70mm,2.256699576868897,0.02256699577,14,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig36_%_of_diet_by_W_T105_052397_70mm,0,0,14,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig36_%_of_diet_by_W_T105_052397_70mm,0,0,14,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig36_%_of_diet_by_W_T105_052397_70mm,0,0,14,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig36_%_of_diet_by_W_T105_052397_70mm,2.820874471085105,0.02820874471,14,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig36_%_of_diet_by_W_T105_052397_70mm,0,0,14,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig36_%_of_diet_by_W_T105_052397_70mm,0,0,14,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig36_%_of_diet_by_W_T105_052397_70mm,0,0,14,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig36_%_of_diet_by_W_T105_052397_70mm,76.44569816643249,0.7644569817,14,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig36_%_of_diet_by_W_KI052397,25.3878702397743,0.2538787024,15,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig36_%_of_diet_by_W_KI052397,1.6925246826515945,0.01692524683,15,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig36_%_of_diet_by_W_KI052397,0,0,15,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig36_%_of_diet_by_W_KI052397,0,0,15,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig36_%_of_diet_by_W_KI052397,0.42313117066200334,0.004231311707,15,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig36_%_of_diet_by_W_KI052397,0,0,15,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig36_%_of_diet_by_W_KI052397,0,0,15,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig36_%_of_diet_by_W_KI052397,0,0,15,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig36_%_of_diet_by_W_KI052397,0,0,15,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig36_%_of_diet_by_W_KI052397,72.4964739069121,0.7249647391,15,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig36_%_of_diet_by_W_TB052397,3.66713681241184,0.03667136812,16,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig36_%_of_diet_by_W_TB052397,77.85613540197534,0.778561354,16,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig36_%_of_diet_by_W_TB052397,0,0,16,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig36_%_of_diet_by_W_TB052397,0,0,16,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig36_%_of_diet_by_W_TB052397,0,0,16,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig36_%_of_diet_by_W_TB052397,0,0,16,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig36_%_of_diet_by_W_TB052397,0,0,16,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig36_%_of_diet_by_W_TB052397,12.552891396332996,0.125528914,16,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig36_%_of_diet_by_W_TB052397,4.231311706628205,0.04231311707,16,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig36_%_of_diet_by_W_TB052397,1.69252468265163,0.01692524683,16,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig36_%_of_diet_by_W_T105_062597,47.8138222849083,0.4781382228,17,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig36_%_of_diet_by_W_T105_062597,4.090267983074803,0.04090267983,17,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig36_%_of_diet_by_W_T105_062597,0,0,17,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig36_%_of_diet_by_W_T105_062597,0,0,17,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig36_%_of_diet_by_W_T105_062597,31.3117066290554,0.3131170663,17,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig36_%_of_diet_by_W_T105_062597,6.4880112834974,0.06488011283,17,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig36_%_of_diet_by_W_T105_062597,0,0,17,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig36_%_of_diet_by_W_T105_062597,0,0,17,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig36_%_of_diet_by_W_T105_062597,0,0,17,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig36_%_of_diet_by_W_T105_062597,10.296191819464099,0.1029619182,17,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig36_%_of_diet_by_W_KI062597,73.4837799717912,0.7348377997,18,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig36_%_of_diet_by_W_KI062597,3.9492242595205056,0.0394922426,18,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig36_%_of_diet_by_W_KI062597,0,0,18,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig36_%_of_diet_by_W_KI062597,0,0,18,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig36_%_of_diet_by_W_KI062597,15.514809590973101,0.1551480959,18,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig36_%_of_diet_by_W_KI062597,0,0,18,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig36_%_of_diet_by_W_KI062597,0,0,18,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig36_%_of_diet_by_W_KI062597,0,0,18,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig36_%_of_diet_by_W_KI062597,0,0,18,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig36_%_of_diet_by_W_KI062597,7.0521861777152,0.07052186178,18,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Adult insects,Fig36_%_of_diet_by_W_TB062597,58.1100141043723,0.581100141,19,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda/Cumacea,Fig36_%_of_diet_by_W_TB062597,3.667136812411904,0.03667136812,19,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BIV,Bivalve,Bivalve siphons,Fig36_%_of_diet_by_W_TB062597,0,0,19,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelids,Annelids,Fig36_%_of_diet_by_W_TB062597,0,0,19,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera larvae,Fig36_%_of_diet_by_W_TB062597,0,0,19,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZS,Plankton/Nekton,Plankton/Nekton,Fig36_%_of_diet_by_W_TB062597,38.2228490832158,0.3822284908,19,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Fish,Fish larvae,Fig36_%_of_diet_by_W_TB062597,0,0,19,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,Fig36_%_of_diet_by_W_TB062597,0,0,19,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,Fig36_%_of_diet_by_W_TB062597,0,0,19,Salmon_Cordell_et_al_2001_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig36_%_of_diet_by_W_TB062597,0,0,19,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_T105_040196,0,0,20,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_T105_040196,42.5894378194209,0.4258943782,20,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_T105_040196,0,0,20,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_T105_040196,44.2930153321981,0.4429301533,20,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_T105_040196,4.599659284497491,0.04599659284,20,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_T105_040196,0,0,20,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_T105_040196,8.517887563883505,0.08517887564,20,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_T105_040196,0,0,20,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_T105_040196,0,0,20,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_T105_040196,0,0,20,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_T105_040196,0,0,20,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_T105_040196,0,0,20,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_WK040196,0,0,21,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_WK040196,1.70357751277683,0.01703577513,21,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_WK040196,0,0,21,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_WK040196,0,0,21,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_WK040196,0,0,21,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_WK040196,98.29642248722317,0.9829642249,21,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_WK040196,0,0,21,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_WK040196,0,0,21,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_WK040196,0,0,21,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_WK040196,0,0,21,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_WK040196,0,0,21,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_WK040196,0,0,21,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_CS040196,6.47359454855196,0.06473594549,22,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_CS040196,16.86541737649054,0.1686541738,22,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_CS040196,0,0,22,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_CS040196,35.6047700170362,0.3560477002,22,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_CS040196,0,0,22,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_CS040196,27.597955706985005,0.2759795571,22,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_CS040196,13.458262350936295,0.1345826235,22,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_CS040196,0,0,22,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_CS040196,0,0,22,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_CS040196,0,0,22,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_CS040196,0,0,22,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_CS040196,0,0,22,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_TB040196,0,0,23,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_TB040196,4.77001703577513,0.04770017036,23,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_TB040196,84.15672913117618,0.8415672913,23,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_TB040196,2.2146507666098927,0.02214650767,23,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_TB040196,0,0,23,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_TB040196,0,0,23,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_TB040196,8.858603066438803,0.08858603066,23,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_TB040196,0,0,23,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_TB040196,0,0,23,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_TB040196,0,0,23,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_TB040196,0,0,23,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_TB040196,0,0,23,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_EK041796,26.0647359454854,0.2606473595,24,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_EK041796,16.8654173764909,0.1686541738,24,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_EK041796,0,0,24,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_EK041796,26.746166950596596,0.2674616695,24,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_EK041796,26.57580919931881,0.265758092,24,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_EK041796,2.896081771720688,0.02896081772,24,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_EK041796,0.8517887563876059,0.008517887564,24,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_EK041796,0,0,24,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_EK041796,0,0,24,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_EK041796,0,0,24,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_EK041796,0,0,24,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_EK041796,0,0,24,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_WK041796,0,0,25,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_WK041796,17.2061328790459,0.1720613288,25,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_WK041796,0,0,25,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_WK041796,52.81090289608231,0.528109029,25,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_WK041796,21.12436115843299,0.2112436116,25,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_WK041796,0,0,25,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_WK041796,8.858603066438803,0.08858603066,25,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_WK041796,0,0,25,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_WK041796,0,0,25,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_WK041796,0,0,25,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_WK041796,0,0,25,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_WK041796,0,0,25,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_OS041796,0,0,26,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_OS041796,9.71039182282795,0.09710391823,26,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_OS041796,0,0,26,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_OS041796,7.836456558773351,0.07836456559,26,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_OS041796,0,0,26,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_OS041796,82.45315161839869,0.8245315162,26,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_OS041796,0,0,26,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_OS041796,0,0,26,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_OS041796,0,0,26,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_OS041796,0,0,26,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_OS041796,0,0,26,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_OS041796,0,0,26,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_EK050696,5.28109028960817,0.0528109029,27,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_EK050696,0,0,27,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_EK050696,0,0,27,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_EK050696,34.412265758092026,0.3441226576,27,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_EK050696,51.448040885861,0.5144804089,27,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_EK050696,0,0,27,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_EK050696,8.858603066438803,0.08858603066,27,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_EK050696,0,0,27,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_EK050696,0,0,27,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_EK050696,0,0,27,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_EK050696,0,0,27,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_EK050696,0,0,27,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_WK050696,0,0,28,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_WK050696,27.7683134582623,0.2776831346,28,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_WK050696,0,0,28,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_WK050696,3.0664395229983015,0.03066439523,28,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_WK050696,0,0,28,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_WK050696,52.12947189097169,0.5212947189,28,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_WK050696,17.035775127767707,0.1703577513,28,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_WK050696,0,0,28,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_WK050696,0,0,28,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_WK050696,0,0,28,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_WK050696,0,0,28,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_WK050696,0,0,28,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_OS050696,0,0,29,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_OS050696,36.1158432708689,0.3611584327,29,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_OS050696,55.366269165247594,0.5536626917,29,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_OS050696,0,0,29,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_OS050696,0,0,29,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_OS050696,0,0,29,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_OS050696,8.517887563883505,0.08517887564,29,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_OS050696,0,0,29,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_OS050696,0,0,29,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_OS050696,0,0,29,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_OS050696,0,0,29,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_OS050696,0,0,29,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_CS050696,0,0,30,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_CS050696,44.9744463373085,0.4497444634,30,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_CS050696,4.940374787052903,0.04940374787,30,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_CS050696,9.369676320272596,0.0936967632,30,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_CS050696,0,0,30,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_CS050696,27.597955706985005,0.2759795571,30,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_CS050696,13.117546848380996,0.1311754685,30,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_CS050696,0,0,30,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_CS050696,0,0,30,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_CS050696,0,0,30,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_CS050696,0,0,30,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_CS050696,0,0,30,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_SB050696,9.02896081771721,0.04514480409,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_SB050696,54.17376490630359,0.2708688245,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_SB050696,31.516183986371793,0.1575809199,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_SB050696,1.1925042589437993,0.005962521295,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_SB050696,4.088586030663606,0.02044293015,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig37_%_of_diet_by_W_SB050696,97.9557069846686,0.4897785349,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig37_%_of_diet_by_W_SB050696,2.044293015331405,0.01022146508,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig37_%_of_diet_by_W_SB050696,0,0,31,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig38_%_of_diet_by_W_KI_042297,0,0,32,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig38_%_of_diet_by_W_KI_042297,0,0,32,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig38_%_of_diet_by_W_KI_042297,0,0,32,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig38_%_of_diet_by_W_KI_042297,0,0,32,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig38_%_of_diet_by_W_KI_042297,0,0,32,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig38_%_of_diet_by_W_KI_042297,0,0,32,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig38_%_of_diet_by_W_KI_042297,0,0,32,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig38_%_of_diet_by_W_KI_042297,0,0,32,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig38_%_of_diet_by_W_KI_042297,0,0,32,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig38_%_of_diet_by_W_KI_042297,0,0,32,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig38_%_of_diet_by_W_KI_042297,100,1,32,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig38_%_of_diet_by_W_KI_042297,0,0,32,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig38_%_of_diet_by_W_TB_042297,0,0,33,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig38_%_of_diet_by_W_TB_042297,0,0,33,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig38_%_of_diet_by_W_TB_042297,0,0,33,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig38_%_of_diet_by_W_TB_042297,0,0,33,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig38_%_of_diet_by_W_TB_042297,0,0,33,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig38_%_of_diet_by_W_TB_042297,0,0,33,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig38_%_of_diet_by_W_TB_042297,13.105413105413902,0.1310541311,33,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig38_%_of_diet_by_W_TB_042297,30.1994301994302,0.301994302,33,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig38_%_of_diet_by_W_TB_042297,0,0,33,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig38_%_of_diet_by_W_TB_042297,0,0,33,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig38_%_of_diet_by_W_TB_042297,56.6951566951559,0.566951567,33,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig38_%_of_diet_by_W_TB_042297,0,0,33,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig38_%_of_diet_by_W_T105_052397,0,0,34,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig38_%_of_diet_by_W_T105_052397,0,0,34,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig38_%_of_diet_by_W_T105_052397,0,0,34,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig38_%_of_diet_by_W_T105_052397,7.549857549857293,0.0754985755,34,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig38_%_of_diet_by_W_T105_052397,0,0,34,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig38_%_of_diet_by_W_T105_052397,0,0,34,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig38_%_of_diet_by_W_T105_052397,4.843304843305901,0.04843304843,34,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig38_%_of_diet_by_W_T105_052397,0,0,34,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig38_%_of_diet_by_W_T105_052397,85.0427350427343,0.8504273504,34,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig38_%_of_diet_by_W_T105_052397,0,0,34,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig38_%_of_diet_by_W_T105_052397,2.5641025641025124,0.02564102564,34,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig38_%_of_diet_by_W_T105_052397,0,0,34,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig38_%_of_diet_by_W_KI_042297,0,0,35,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig38_%_of_diet_by_W_KI_042297,0,0,35,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig38_%_of_diet_by_W_KI_042297,0,0,35,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig38_%_of_diet_by_W_KI_042297,0,0,35,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig38_%_of_diet_by_W_KI_042297,0,0,35,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig38_%_of_diet_by_W_KI_042297,0,0,35,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig38_%_of_diet_by_W_KI_042297,0,0,35,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig38_%_of_diet_by_W_KI_042297,100,1,35,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig38_%_of_diet_by_W_KI_042297,0,0,35,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig38_%_of_diet_by_W_KI_042297,0,0,35,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig38_%_of_diet_by_W_KI_042297,0,0,35,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig38_%_of_diet_by_W_KI_042297,0,0,35,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig38_%_of_diet_by_W_TB062597,0,0,36,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig38_%_of_diet_by_W_TB062597,0,0,36,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig38_%_of_diet_by_W_TB062597,0,0,36,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig38_%_of_diet_by_W_TB062597,16.951566951566505,0.1695156695,36,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig38_%_of_diet_by_W_TB062597,0,0,36,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig38_%_of_diet_by_W_TB062597,0,0,36,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig38_%_of_diet_by_W_TB062597,6.125356125357101,0.06125356125,36,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig38_%_of_diet_by_W_TB062597,7.26495726495726,0.07264957265,36,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig38_%_of_diet_by_W_TB062597,12.678062678062538,0.1267806268,36,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig38_%_of_diet_by_W_TB062597,56.980056980056595,0.5698005698,36,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig38_%_of_diet_by_W_TB062597,0,0,36,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig38_%_of_diet_by_W_TB062597,0,0,36,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig39_%_of_diet_by_W_T105_32299,19.5615514333895,0.1956155143,37,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig39_%_of_diet_by_W_T105_32299,9.6121416526138,0.09612141653,37,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig39_%_of_diet_by_W_T105_32299,0,0,37,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig39_%_of_diet_by_W_T105_32299,0,0,37,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig39_%_of_diet_by_W_T105_32299,70.3204047217535,0.7032040472,37,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig39_%_of_diet_by_W_T105_32299,0,0,37,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig39_%_of_diet_by_W_T105_32299,0.5059021922431981,0.005059021922,37,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig39_%_of_diet_by_W_T105_32299,0,0,37,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig39_%_of_diet_by_W_T105_32299,0,0,37,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig39_%_of_diet_by_W_T105_32299,0,0,37,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig39_%_of_diet_by_W_T105_32299,0,0,37,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig39_%_of_diet_by_W_T105_32299,0,0,37,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig39_%_of_diet_by_W_TB_32299,47.3861720067453,0.4738617201,38,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig39_%_of_diet_by_W_TB_32299,0,0,38,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig39_%_of_diet_by_W_TB_32299,4.721753794266405,0.04721753794,38,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig39_%_of_diet_by_W_TB_32299,35.7504215851601,0.3575042159,38,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig39_%_of_diet_by_W_TB_32299,2.698145025295105,0.02698145025,38,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig39_%_of_diet_by_W_TB_32299,0,0,38,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig39_%_of_diet_by_W_TB_32299,5.396290050590395,0.05396290051,38,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig39_%_of_diet_by_W_TB_32299,0,0,38,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig39_%_of_diet_by_W_TB_32299,0,0,38,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig39_%_of_diet_by_W_TB_32299,0,0,38,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig39_%_of_diet_by_W_TB_32299,0,0,38,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig39_%_of_diet_by_W_TB_32299,4.0472175379427,0.04047217538,38,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig39_%_of_diet_by_W_KI_040999,10.4553119730185,0.1045531197,39,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig39_%_of_diet_by_W_KI_040999,78.58347386171981,0.7858347386,39,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig39_%_of_diet_by_W_KI_040999,2.1922428330522905,0.02192242833,39,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig39_%_of_diet_by_W_KI_040999,2.0236087689713003,0.02023608769,39,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig39_%_of_diet_by_W_KI_040999,0,0,39,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig39_%_of_diet_by_W_KI_040999,2.1922428330522052,0.02192242833,39,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig39_%_of_diet_by_W_KI_040999,4.553119730185898,0.0455311973,39,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig39_%_of_diet_by_W_KI_040999,0,0,39,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig39_%_of_diet_by_W_KI_040999,0,0,39,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig39_%_of_diet_by_W_KI_040999,0,0,39,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig39_%_of_diet_by_W_KI_040999,0,0,39,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig39_%_of_diet_by_W_KI_040999,0,0,39,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig39_%_of_diet_by_W_TB_040999,3.54131534569983,0.03541315346,40,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig39_%_of_diet_by_W_TB_040999,0.8431703204047198,0.008431703204,40,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig39_%_of_diet_by_W_TB_040999,33.55817875210775,0.3355817875,40,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig39_%_of_diet_by_W_TB_040999,32.8836424957841,0.328836425,40,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig39_%_of_diet_by_W_TB_040999,0,0,40,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig39_%_of_diet_by_W_TB_040999,27.150084317031897,0.2715008432,40,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig39_%_of_diet_by_W_TB_040999,2.023608768971698,0.02023608769,40,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig39_%_of_diet_by_W_TB_040999,0,0,40,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig39_%_of_diet_by_W_TB_040999,0,0,40,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig39_%_of_diet_by_W_TB_040999,0,0,40,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig39_%_of_diet_by_W_TB_040999,0,0,40,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig39_%_of_diet_by_W_TB_040999,0,0,40,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig39_%_of_diet_by_W_T105_041999,3.54131534569983,0.03541315346,41,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig39_%_of_diet_by_W_T105_041999,24.45193929173677,0.2445193929,41,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig39_%_of_diet_by_W_T105_041999,0,0,41,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig39_%_of_diet_by_W_T105_041999,2.6981450252951014,0.02698145025,41,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig39_%_of_diet_by_W_T105_041999,0,0,41,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig39_%_of_diet_by_W_T105_041999,0,0,41,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig39_%_of_diet_by_W_T105_041999,7.082630691399999,0.07082630691,41,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig39_%_of_diet_by_W_T105_041999,0,0,41,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig39_%_of_diet_by_W_T105_041999,0,0,41,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig39_%_of_diet_by_W_T105_041999,0,0,41,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig39_%_of_diet_by_W_T105_041999,0,0,41,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig39_%_of_diet_by_W_T105_041999,62.225969645868304,0.6222596965,41,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig39_%_of_diet_by_W_KI_041999,1.01180438448566,0.01011804384,42,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig39_%_of_diet_by_W_KI_041999,20.40472175379414,0.2040472175,42,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig39_%_of_diet_by_W_KI_041999,4.5531197301855,0.0455311973,42,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig39_%_of_diet_by_W_KI_041999,18.8870151770657,0.1888701518,42,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig39_%_of_diet_by_W_KI_041999,0,0,42,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig39_%_of_diet_by_W_KI_041999,37.2681281618886,0.3726812816,42,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig39_%_of_diet_by_W_KI_041999,17.875210792580404,0.1787521079,42,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig39_%_of_diet_by_W_KI_041999,0,0,42,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig39_%_of_diet_by_W_KI_041999,0,0,42,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig39_%_of_diet_by_W_KI_041999,0,0,42,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig39_%_of_diet_by_W_KI_041999,0,0,42,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig39_%_of_diet_by_W_KI_041999,0,0,42,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig39_%_of_diet_by_W_TB_041999,7.92580101180438,0.07925801012,43,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig39_%_of_diet_by_W_TB_041999,5.902192242833021,0.05902192243,43,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig39_%_of_diet_by_W_TB_041999,6.7453625632377,0.06745362563,43,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig39_%_of_diet_by_W_TB_041999,28.499156829679503,0.2849915683,43,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig39_%_of_diet_by_W_TB_041999,0,0,43,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig39_%_of_diet_by_W_TB_041999,39.460370994940796,0.3946037099,43,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig39_%_of_diet_by_W_TB_041999,3.204047217538303,0.03204047218,43,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig39_%_of_diet_by_W_TB_041999,0,0,43,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig39_%_of_diet_by_W_TB_041999,0,0,43,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig39_%_of_diet_by_W_TB_041999,0,0,43,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig39_%_of_diet_by_W_TB_041999,0,0,43,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig39_%_of_diet_by_W_TB_041999,8.263069139966298,0.0826306914,43,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig39_%_of_diet_by_W_T105_51799,43.0016863406408,0.4300168634,44,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig39_%_of_diet_by_W_T105_51799,27.150084317031897,0.2715008432,44,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig39_%_of_diet_by_W_T105_51799,0,0,44,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig39_%_of_diet_by_W_T105_51799,2.866779089376095,0.02866779089,44,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig39_%_of_diet_by_W_T105_51799,14.333895446880206,0.1433389545,44,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig39_%_of_diet_by_W_T105_51799,0,0,44,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig39_%_of_diet_by_W_T105_51799,5.396290050590494,0.05396290051,44,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig39_%_of_diet_by_W_T105_51799,0,0,44,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig39_%_of_diet_by_W_T105_51799,0,0,44,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig39_%_of_diet_by_W_T105_51799,0,0,44,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig39_%_of_diet_by_W_T105_51799,0,0,44,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig39_%_of_diet_by_W_T105_51799,7.251264755480506,0.07251264755,44,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig39_%_of_diet_by_W_KI_51799,55.6492411467116,0.5564924115,45,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig39_%_of_diet_by_W_KI_51799,8.431703204047196,0.08431703204,45,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig39_%_of_diet_by_W_KI_51799,10.455311973018496,0.1045531197,45,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig39_%_of_diet_by_W_KI_51799,6.40809443507591,0.06408094435,45,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig39_%_of_diet_by_W_KI_51799,4.215851602023591,0.04215851602,45,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig39_%_of_diet_by_W_KI_51799,0,0,45,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig39_%_of_diet_by_W_KI_51799,14.839797639123205,0.1483979764,45,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig39_%_of_diet_by_W_KI_51799,0,0,45,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig39_%_of_diet_by_W_KI_51799,0,0,45,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig39_%_of_diet_by_W_KI_51799,0,0,45,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig39_%_of_diet_by_W_KI_51799,0,0,45,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig39_%_of_diet_by_W_KI_51799,0,0,45,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult Insects,Fig39_%_of_diet_by_W_KI_60199,22.7655986509274,0.2276559865,46,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipods/Tanaids,Fig39_%_of_diet_by_W_KI_60199,3.5413153456998003,0.03541315346,46,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Harpacticoids,Fig39_%_of_diet_by_W_KI_60199,0,0,46,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Diptera larvae,Fig39_%_of_diet_by_W_KI_60199,22.9342327150084,0.2293423272,46,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Hexapoda,Collembola,Fig39_%_of_diet_by_W_KI_60199,0,0,46,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,ZS,Plankton,Plankton,Fig39_%_of_diet_by_W_KI_60199,0,0,46,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,NA,Other,Other,Fig39_%_of_diet_by_W_KI_60199,15.514333895447095,0.155143339,46,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Adult diptera,Fig39_%_of_diet_by_W_KI_60199,0,0,46,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Psyllidae,Fig39_%_of_diet_by_W_KI_60199,25.9696458684654,0.2596964587,46,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,INSECT,Insecta,Aphididae,Fig39_%_of_diet_by_W_KI_60199,0,0,46,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BD,Crustacea,Amphipoda,Fig39_%_of_diet_by_W_KI_60199,0,0,46,Salmon_Cordell_et_al_2001_B
+CU,juvenile,Chum Salmon-ww,Oncorhynchus keta,BC,Worm,Oligochaetes,Fig39_%_of_diet_by_W_KI_60199,9.274873524451905,0.09274873524,46,Salmon_Cordell_et_al_2001_B

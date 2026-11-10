@@ -1,0 +1,121 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+POP,adult,Striped perch,Striped perch,MA,Eelgrass/Ulva,Eelgrass/Ulva,Table_5,100,1,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BMD,Ophiuroids,Ophiuroids,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,PWN,Shrimp,Shrimp,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BML,Pugettia producta,Pugettia producta,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BML,Lophopanopeus bellus,Lophopanopeus bellus,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BD,Isopods,Isopods,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BML,Cancer productus,Cancer productus,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,DUN,Cancer magister,Cancer magister,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,PWN,Callianassa californiensis,Callianassa californiensis,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BD,Caprellids,Caprellids,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BML,Crustacean fragments,Crustacean fragments,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BMD,Nudibranch,Nudibranch,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BIV,Siphon tips,Siphon tips,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BIV,Tellina sp.,Tellina sp.,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BIV,Saxidomus giganteus,Saxidomus giganteus,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BMD,Polinices lewisii,Polinices lewisii,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BIV,Ischadium damissum,Ischadium damissum,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BIV,Clinocardium nuttalli,Clinocardium nuttalli,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BIV,Molusc fragments,Molusc fragments,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BC,Nephtys sp.,Nephtys sp.,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,BC,Polychaeta fragments,Polychaeta fragments,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,FVS,Lingcod Eggs,Lingcod Eggs,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,HE,Clupea harengus,Clupea harengus,Table_5,0,0,1,Fish_Peeling_et_al_1976
+POP,adult,Striped perch,Striped perch,FISH,Fish fragments,Fish fragments,Table_5,0,0,1,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,MA,Eelgrass/Ulva,Eelgrass/Ulva,Table_5,30,0.075,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BMD,Ophiuroids,Ophiuroids,Table_5,10,0.025,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,PWN,Shrimp,Shrimp,Table_5,10,0.025,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BML,Pugettia producta,Pugettia producta,Table_5,0,0,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BML,Lophopanopeus bellus,Lophopanopeus bellus,Table_5,10,0.025,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BD,Isopods,Isopods,Table_5,20,0.05,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BML,Cancer productus,Cancer productus,Table_5,0,0,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,DUN,Cancer magister,Cancer magister,Table_5,0,0,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,PWN,Callianassa californiensis,Callianassa californiensis,Table_5,10,0.025,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BD,Caprellids,Caprellids,Table_5,10,0.025,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BML,Crustacean fragments,Crustacean fragments,Table_5,50,0.125,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BMD,Nudibranch,Nudibranch,Table_5,0,0,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BIV,Siphon tips,Siphon tips,Table_5,50,0.125,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BIV,Tellina sp.,Tellina sp.,Table_5,10,0.025,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BIV,Saxidomus giganteus,Saxidomus giganteus,Table_5,30,0.075,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BMD,Polinices lewisii,Polinices lewisii,Table_5,0,0,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BIV,Ischadium damissum,Ischadium damissum,Table_5,10,0.025,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BIV,Clinocardium nuttalli,Clinocardium nuttalli,Table_5,10,0.025,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BIV,Molusc fragments,Molusc fragments,Table_5,70,0.175,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BC,Nephtys sp.,Nephtys sp.,Table_5,10,0.025,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,BC,Polychaeta fragments,Polychaeta fragments,Table_5,50,0.125,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,FVS,Lingcod Eggs,Lingcod Eggs,Table_5,0,0,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,HE,Clupea harengus,Clupea harengus,Table_5,10,0.025,2,Fish_Peeling_et_al_1976
+FDF,adult,Rock Sole,Rock Sole,FISH,Fish fragments,Fish fragments,Table_5,0,0,2,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,MA,Eelgrass/Ulva,Eelgrass/Ulva,Table_5,60,0.1666666667,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BMD,Ophiuroids,Ophiuroids,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,PWN,Shrimp,Shrimp,Table_5,60,0.1666666667,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BML,Pugettia producta,Pugettia producta,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BML,Lophopanopeus bellus,Lophopanopeus bellus,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BD,Isopods,Isopods,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BML,Cancer productus,Cancer productus,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,DUN,Cancer magister,Cancer magister,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,PWN,Callianassa californiensis,Callianassa californiensis,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BD,Caprellids,Caprellids,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BML,Crustacean fragments,Crustacean fragments,Table_5,80,0.2222222222,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BMD,Nudibranch,Nudibranch,Table_5,20,0.05555555556,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BIV,Siphon tips,Siphon tips,Table_5,40,0.1111111111,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BIV,Tellina sp.,Tellina sp.,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BIV,Saxidomus giganteus,Saxidomus giganteus,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BMD,Polinices lewisii,Polinices lewisii,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BIV,Ischadium damissum,Ischadium damissum,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BIV,Clinocardium nuttalli,Clinocardium nuttalli,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BIV,Molusc fragments,Molusc fragments,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BC,Nephtys sp.,Nephtys sp.,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,BC,Polychaeta fragments,Polychaeta fragments,Table_5,100,0.2777777778,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,FVS,Lingcod Eggs,Lingcod Eggs,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,HE,Clupea harengus,Clupea harengus,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FDF,adult,C-O sole,C-O sole,FISH,Fish fragments,Fish fragments,Table_5,0,0,3,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,MA,Eelgrass/Ulva,Eelgrass/Ulva,Table_5,60,0.1578947368,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BMD,Ophiuroids,Ophiuroids,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,PWN,Shrimp,Shrimp,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BML,Pugettia producta,Pugettia producta,Table_5,40,0.1052631579,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BML,Lophopanopeus bellus,Lophopanopeus bellus,Table_5,20,0.05263157895,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BD,Isopods,Isopods,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BML,Cancer productus,Cancer productus,Table_5,60,0.1578947368,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,DUN,Cancer magister,Cancer magister,Table_5,20,0.05263157895,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,PWN,Callianassa californiensis,Callianassa californiensis,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BD,Caprellids,Caprellids,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BML,Crustacean fragments,Crustacean fragments,Table_5,80,0.2105263158,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BMD,Nudibranch,Nudibranch,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BIV,Siphon tips,Siphon tips,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BIV,Tellina sp.,Tellina sp.,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BIV,Saxidomus giganteus,Saxidomus giganteus,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BMD,Polinices lewisii,Polinices lewisii,Table_5,20,0.05263157895,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BIV,Ischadium damissum,Ischadium damissum,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BIV,Clinocardium nuttalli,Clinocardium nuttalli,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BIV,Molusc fragments,Molusc fragments,Table_5,40,0.1052631579,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BC,Nephtys sp.,Nephtys sp.,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,BC,Polychaeta fragments,Polychaeta fragments,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,FVS,Lingcod Eggs,Lingcod Eggs,Table_5,40,0.1052631579,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,HE,Clupea harengus,Clupea harengus,Table_5,0,0,4,Fish_Peeling_et_al_1976
+FVS,adult,Cabezon,Cabezon,FISH,Fish fragments,Fish fragments,Table_5,0,0,4,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,MA,Eelgrass/Ulva,Eelgrass/Ulva,Table_5,45,0.1343283582,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BMD,Ophiuroids,Ophiuroids,Table_5,0,0,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,PWN,Shrimp,Shrimp,Table_5,73,0.2179104478,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BML,Pugettia producta,Pugettia producta,Table_5,0,0,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BML,Lophopanopeus bellus,Lophopanopeus bellus,Table_5,9,0.02686567164,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BD,Isopods,Isopods,Table_5,9,0.02686567164,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BML,Cancer productus,Cancer productus,Table_5,9,0.02686567164,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,DUN,Cancer magister,Cancer magister,Table_5,0,0,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,PWN,Callianassa californiensis,Callianassa californiensis,Table_5,0,0,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BD,Caprellids,Caprellids,Table_5,0,0,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BML,Crustacean fragments,Crustacean fragments,Table_5,73,0.2179104478,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BMD,Nudibranch,Nudibranch,Table_5,0,0,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BIV,Siphon tips,Siphon tips,Table_5,0,0,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BIV,Tellina sp.,Tellina sp.,Table_5,0,0,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BIV,Saxidomus giganteus,Saxidomus giganteus,Table_5,0,0,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BMD,Polinices lewisii,Polinices lewisii,Table_5,0,0,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BIV,Ischadium damissum,Ischadium damissum,Table_5,9,0.02686567164,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BIV,Clinocardium nuttalli,Clinocardium nuttalli,Table_5,9,0.02686567164,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BIV,Molusc fragments,Molusc fragments,Table_5,27,0.08059701493,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BC,Nephtys sp.,Nephtys sp.,Table_5,0,0,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,BC,Polychaeta fragments,Polychaeta fragments,Table_5,18,0.05373134328,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,FVS,Lingcod Eggs,Lingcod Eggs,Table_5,0,0,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,HE,Clupea harengus,Clupea harengus,Table_5,9,0.02686567164,5,Fish_Peeling_et_al_1976
+ROC,adult,Copper Rockfish,Copper Rockfish,FISH,Fish fragments,Fish fragments,Table_5,45,0.1343283582,5,Fish_Peeling_et_al_1976

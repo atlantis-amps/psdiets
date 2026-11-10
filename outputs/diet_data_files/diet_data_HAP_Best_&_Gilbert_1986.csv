@@ -1,0 +1,603 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,...12,...13,...14,source
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,PWN,Shrimp,Shrimp,Table 1_1-10cm_size-group,33,0.515625,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table 1_1-10cm_size-group,2,0.03125,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Unidentified crab,Unidentified crab,Table 1_1-10cm_size-group,3,0.046875,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sand fish,Sand fish,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Eel pout,Eel pout,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table 1_1-10cm_size-group,2,0.03125,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Cottids,Cottids,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphons,Clam siphons,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Blennie,Blennie,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Poachers,Poachers,Table 1_1-10cm_size-group,2,0.03125,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BD,Amphipod,Amphipod,Table 1_1-10cm_size-group,10,0.15625,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,ZL,Euphausid,Euphausid,Table 1_1-10cm_size-group,5,0.078125,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Osmerid,Osmerid,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Ronquil,Ronquil,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BC,Annelid worm,Annelid worm,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SQX,Squid,Squid,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,DUN,Dungeness crab,Dungeness crab,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Sand sole,Sand sole,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Dover sole,Dover sole,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,King crab,King crab,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Brittle star,Brittle star,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Wrymouth,Wrymouth,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Box crab,Box crab,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table 1_1-10cm_size-group,0,0,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table 1_1-10cm_size-group,7,0.109375,1,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,PWN,Shrimp,Shrimp,Table 1_11-20cm_size-group,148,0.4192634561,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table 1_11-20cm_size-group,16,0.04532577904,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table 1_11-20cm_size-group,6,0.01699716714,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table 1_11-20cm_size-group,19,0.05382436261,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Unidentified crab,Unidentified crab,Table 1_11-20cm_size-group,36,0.1019830028,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sand fish,Sand fish,Table 1_11-20cm_size-group,9,0.02549575071,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Eel pout,Eel pout,Table 1_11-20cm_size-group,4,0.01133144476,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table 1_11-20cm_size-group,21,0.05949008499,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Cottids,Cottids,Table 1_11-20cm_size-group,10,0.0283286119,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphons,Clam siphons,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Blennie,Blennie,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Poachers,Poachers,Table 1_11-20cm_size-group,1,0.00283286119,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BD,Amphipod,Amphipod,Table 1_11-20cm_size-group,2,0.00566572238,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,ZL,Euphausid,Euphausid,Table 1_11-20cm_size-group,11,0.03116147309,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Osmerid,Osmerid,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Ronquil,Ronquil,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BC,Annelid worm,Annelid worm,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SQX,Squid,Squid,Table 1_11-20cm_size-group,1,0.00283286119,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table 1_11-20cm_size-group,3,0.008498583569,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,DUN,Dungeness crab,Dungeness crab,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Sand sole,Sand sole,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Dover sole,Dover sole,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table 1_11-20cm_size-group,1,0.00283286119,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,King crab,King crab,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Brittle star,Brittle star,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Wrymouth,Wrymouth,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Box crab,Box crab,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table 1_11-20cm_size-group,0,0,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table 1_11-20cm_size-group,13,0.03682719547,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table 1_11-20cm_size-group,52,0.1473087819,2,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,PWN,Shrimp,Shrimp,Table 1_21-30cm_size-group,167,0.2830508475,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table 1_21-30cm_size-group,95,0.1610169492,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table 1_21-30cm_size-group,23,0.03898305085,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table 1_21-30cm_size-group,59,0.1,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Unidentified crab,Unidentified crab,Table 1_21-30cm_size-group,36,0.06101694915,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table 1_21-30cm_size-group,2,0.003389830508,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sand fish,Sand fish,Table 1_21-30cm_size-group,32,0.05423728814,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Eel pout,Eel pout,Table 1_21-30cm_size-group,18,0.03050847458,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table 1_21-30cm_size-group,6,0.01016949153,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table 1_21-30cm_size-group,13,0.02203389831,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table 1_21-30cm_size-group,1,0.001694915254,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Cottids,Cottids,Table 1_21-30cm_size-group,4,0.006779661017,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphons,Clam siphons,Table 1_21-30cm_size-group,1,0.001694915254,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table 1_21-30cm_size-group,1,0.001694915254,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Blennie,Blennie,Table 1_21-30cm_size-group,4,0.006779661017,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Poachers,Poachers,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BD,Amphipod,Amphipod,Table 1_21-30cm_size-group,5,0.008474576271,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,ZL,Euphausid,Euphausid,Table 1_21-30cm_size-group,1,0.001694915254,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Osmerid,Osmerid,Table 1_21-30cm_size-group,2,0.003389830508,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Ronquil,Ronquil,Table 1_21-30cm_size-group,1,0.001694915254,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BC,Annelid worm,Annelid worm,Table 1_21-30cm_size-group,1,0.001694915254,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SQX,Squid,Squid,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table 1_21-30cm_size-group,5,0.008474576271,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table 1_21-30cm_size-group,2,0.003389830508,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,DUN,Dungeness crab,Dungeness crab,Table 1_21-30cm_size-group,1,0.001694915254,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Sand sole,Sand sole,Table 1_21-30cm_size-group,1,0.001694915254,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table 1_21-30cm_size-group,2,0.003389830508,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Dover sole,Dover sole,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,King crab,King crab,Table 1_21-30cm_size-group,1,0.001694915254,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Brittle star,Brittle star,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Wrymouth,Wrymouth,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Box crab,Box crab,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table 1_21-30cm_size-group,0,0,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table 1_21-30cm_size-group,9,0.01525423729,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table 1_21-30cm_size-group,97,0.1644067797,3,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,PWN,Shrimp,Shrimp,Table 1_31-40cm_size-group,86,0.1514084507,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table 1_31-40cm_size-group,87,0.1531690141,4,NA,Wrymouth,Wrymouth,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table 1_31-40cm_size-group,42,0.07394366197,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table 1_31-40cm_size-group,84,0.1478873239,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Unidentified crab,Unidentified crab,Table 1_31-40cm_size-group,55,0.09683098592,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table 1_31-40cm_size-group,4,0.007042253521,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sand fish,Sand fish,Table 1_31-40cm_size-group,12,0.02112676056,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Eel pout,Eel pout,Table 1_31-40cm_size-group,10,0.0176056338,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table 1_31-40cm_size-group,3,0.005281690141,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table 1_31-40cm_size-group,8,0.01408450704,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table 1_31-40cm_size-group,6,0.01056338028,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Cottids,Cottids,Table 1_31-40cm_size-group,3,0.005281690141,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphons,Clam siphons,Table 1_31-40cm_size-group,5,0.008802816901,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Blennie,Blennie,Table 1_31-40cm_size-group,5,0.008802816901,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Poachers,Poachers,Table 1_31-40cm_size-group,4,0.007042253521,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BD,Amphipod,Amphipod,Table 1_31-40cm_size-group,2,0.003521126761,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,ZL,Euphausid,Euphausid,Table 1_31-40cm_size-group,2,0.003521126761,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Osmerid,Osmerid,Table 1_31-40cm_size-group,5,0.008802816901,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Ronquil,Ronquil,Table 1_31-40cm_size-group,1,0.00176056338,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BC,Annelid worm,Annelid worm,Table 1_31-40cm_size-group,4,0.007042253521,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SQX,Squid,Squid,Table 1_31-40cm_size-group,2,0.003521126761,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table 1_31-40cm_size-group,2,0.003521126761,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table 1_31-40cm_size-group,1,0.00176056338,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,DUN,Dungeness crab,Dungeness crab,Table 1_31-40cm_size-group,1,0.00176056338,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Sand sole,Sand sole,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Dover sole,Dover sole,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,King crab,King crab,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Brittle star,Brittle star,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Wrymouth,Wrymouth,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Box crab,Box crab,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table 1_31-40cm_size-group,0,0,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table 1_31-40cm_size-group,8,0.01408450704,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table 1_31-40cm_size-group,126,0.2218309859,4,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,PWN,Shrimp,Shrimp,Table 1_41-50cm_size-group,50,0.09433962264,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table 1_41-50cm_size-group,77,0.1452830189,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table 1_41-50cm_size-group,69,0.1301886792,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table 1_41-50cm_size-group,39,0.07358490566,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Unidentified crab,Unidentified crab,Table 1_41-50cm_size-group,47,0.08867924528,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table 1_41-50cm_size-group,12,0.02264150943,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sand fish,Sand fish,Table 1_41-50cm_size-group,7,0.01320754717,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Eel pout,Eel pout,Table 1_41-50cm_size-group,15,0.02830188679,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table 1_41-50cm_size-group,13,0.02452830189,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table 1_41-50cm_size-group,1,0.001886792453,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table 1_41-50cm_size-group,10,0.01886792453,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Cottids,Cottids,Table 1_41-50cm_size-group,7,0.01320754717,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphons,Clam siphons,Table 1_41-50cm_size-group,13,0.02452830189,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table 1_41-50cm_size-group,2,0.003773584906,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Blennie,Blennie,Table 1_41-50cm_size-group,6,0.01132075472,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Poachers,Poachers,Table 1_41-50cm_size-group,8,0.01509433962,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BD,Amphipod,Amphipod,Table 1_41-50cm_size-group,2,0.003773584906,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,ZL,Euphausid,Euphausid,Table 1_41-50cm_size-group,1,0.001886792453,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Osmerid,Osmerid,Table 1_41-50cm_size-group,4,0.007547169811,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Ronquil,Ronquil,Table 1_41-50cm_size-group,6,0.01132075472,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BC,Annelid worm,Annelid worm,Table 1_41-50cm_size-group,4,0.007547169811,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SQX,Squid,Squid,Table 1_41-50cm_size-group,3,0.005660377358,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table 1_41-50cm_size-group,4,0.007547169811,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table 1_41-50cm_size-group,1,0.001886792453,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,DUN,Dungeness crab,Dungeness crab,Table 1_41-50cm_size-group,2,0.003773584906,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Sand sole,Sand sole,Table 1_41-50cm_size-group,0,0,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table 1_41-50cm_size-group,1,0.001886792453,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table 1_41-50cm_size-group,2,0.003773584906,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Dover sole,Dover sole,Table 1_41-50cm_size-group,0,0,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table 1_41-50cm_size-group,1,0.001886792453,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table 1_41-50cm_size-group,1,0.001886792453,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table 1_41-50cm_size-group,0,0,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,King crab,King crab,Table 1_41-50cm_size-group,1,0.001886792453,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Brittle star,Brittle star,Table 1_41-50cm_size-group,1,0.001886792453,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Wrymouth,Wrymouth,Table 1_41-50cm_size-group,1,0.001886792453,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table 1_41-50cm_size-group,0,0,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table 1_41-50cm_size-group,0,0,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Box crab,Box crab,Table 1_41-50cm_size-group,0,0,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table 1_41-50cm_size-group,1,0.001886792453,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table 1_41-50cm_size-group,0,0,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table 1_41-50cm_size-group,5,0.009433962264,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table 1_41-50cm_size-group,113,0.2132075472,5,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,PWN,Shrimp,Shrimp,Table 1_51-60cm_size-group,28,0.06466512702,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table 1_51-60cm_size-group,37,0.08545034642,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table 1_51-60cm_size-group,75,0.1732101617,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table 1_51-60cm_size-group,27,0.0623556582,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Unidentified crab,Unidentified crab,Table 1_51-60cm_size-group,24,0.05542725173,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table 1_51-60cm_size-group,29,0.06697459584,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sand fish,Sand fish,Table 1_51-60cm_size-group,13,0.03002309469,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Eel pout,Eel pout,Table 1_51-60cm_size-group,13,0.03002309469,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table 1_51-60cm_size-group,20,0.04618937644,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table 1_51-60cm_size-group,1,0.002309468822,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table 1_51-60cm_size-group,12,0.02771362587,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Cottids,Cottids,Table 1_51-60cm_size-group,4,0.009237875289,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphons,Clam siphons,Table 1_51-60cm_size-group,6,0.01385681293,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table 1_51-60cm_size-group,13,0.03002309469,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Blennie,Blennie,Table 1_51-60cm_size-group,8,0.01847575058,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Poachers,Poachers,Table 1_51-60cm_size-group,8,0.01847575058,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BD,Amphipod,Amphipod,Table 1_51-60cm_size-group,1,0.002309468822,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,ZL,Euphausid,Euphausid,Table 1_51-60cm_size-group,1,0.002309468822,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Osmerid,Osmerid,Table 1_51-60cm_size-group,6,0.01385681293,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Ronquil,Ronquil,Table 1_51-60cm_size-group,5,0.01154734411,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BC,Annelid worm,Annelid worm,Table 1_51-60cm_size-group,4,0.009237875289,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SQX,Squid,Squid,Table 1_51-60cm_size-group,4,0.009237875289,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table 1_51-60cm_size-group,0,0,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table 1_51-60cm_size-group,0,0,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,DUN,Dungeness crab,Dungeness crab,Table 1_51-60cm_size-group,1,0.002309468822,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Sand sole,Sand sole,Table 1_51-60cm_size-group,0,0,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table 1_51-60cm_size-group,1,0.002309468822,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table 1_51-60cm_size-group,0,0,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Dover sole,Dover sole,Table 1_51-60cm_size-group,1,0.002309468822,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table 1_51-60cm_size-group,1,0.002309468822,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table 1_51-60cm_size-group,0,0,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table 1_51-60cm_size-group,0,0,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,King crab,King crab,Table 1_51-60cm_size-group,1,0.002309468822,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Brittle star,Brittle star,Table 1_51-60cm_size-group,0,0,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Wrymouth,Wrymouth,Table 1_51-60cm_size-group,0,0,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table 1_51-60cm_size-group,1,0.002309468822,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table 1_51-60cm_size-group,0,0,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Box crab,Box crab,Table 1_51-60cm_size-group,0,0,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table 1_51-60cm_size-group,0,0,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table 1_51-60cm_size-group,1,0.002309468822,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table 1_51-60cm_size-group,3,0.006928406467,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table 1_51-60cm_size-group,84,0.1939953811,6,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,PWN,Shrimp,Shrimp,Table 1_61-70cm_size-group,19,0.0753968254,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table 1_61-70cm_size-group,15,0.05952380952,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table 1_61-70cm_size-group,32,0.126984127,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table 1_61-70cm_size-group,6,0.02380952381,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Unidentified crab,Unidentified crab,Table 1_61-70cm_size-group,13,0.05158730159,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table 1_61-70cm_size-group,25,0.09920634921,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sand fish,Sand fish,Table 1_61-70cm_size-group,14,0.05555555556,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Eel pout,Eel pout,Table 1_61-70cm_size-group,5,0.01984126984,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table 1_61-70cm_size-group,6,0.02380952381,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table 1_61-70cm_size-group,5,0.01984126984,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Cottids,Cottids,Table 1_61-70cm_size-group,3,0.0119047619,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphons,Clam siphons,Table 1_61-70cm_size-group,6,0.02380952381,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table 1_61-70cm_size-group,7,0.02777777778,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Blennie,Blennie,Table 1_61-70cm_size-group,4,0.01587301587,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Poachers,Poachers,Table 1_61-70cm_size-group,2,0.007936507937,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BD,Amphipod,Amphipod,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,ZL,Euphausid,Euphausid,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FPS,Osmerid,Osmerid,Table 1_61-70cm_size-group,3,0.0119047619,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Ronquil,Ronquil,Table 1_61-70cm_size-group,4,0.01587301587,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BC,Annelid worm,Annelid worm,Table 1_61-70cm_size-group,1,0.003968253968,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SQX,Squid,Squid,Table 1_61-70cm_size-group,1,0.003968253968,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,DUN,Dungeness crab,Dungeness crab,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Sand sole,Sand sole,Table 1_61-70cm_size-group,1,0.003968253968,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table 1_61-70cm_size-group,1,0.003968253968,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Dover sole,Dover sole,Table 1_61-70cm_size-group,1,0.003968253968,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table 1_61-70cm_size-group,1,0.003968253968,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,King crab,King crab,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Brittle star,Brittle star,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Wrymouth,Wrymouth,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table 1_61-70cm_size-group,1,0.003968253968,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BML,Box crab,Box crab,Table 1_61-70cm_size-group,1,0.003968253968,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table 1_61-70cm_size-group,0,0,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table 1_61-70cm_size-group,3,0.0119047619,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,juvenile,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table 1_61-70cm_size-group,72,0.2857142857,7,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,PWN,Shrimp,Shrimp,Table 1_71-80cm_size-group,2,0.01904761905,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table 1_71-80cm_size-group,8,0.07619047619,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table 1_71-80cm_size-group,12,0.1142857143,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table 1_71-80cm_size-group,2,0.01904761905,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Unidentified crab,Unidentified crab,Table 1_71-80cm_size-group,5,0.04761904762,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table 1_71-80cm_size-group,16,0.1523809524,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Sand fish,Sand fish,Table 1_71-80cm_size-group,5,0.04761904762,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Eel pout,Eel pout,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table 1_71-80cm_size-group,4,0.0380952381,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table 1_71-80cm_size-group,1,0.009523809524,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table 1_71-80cm_size-group,4,0.0380952381,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Cottids,Cottids,Table 1_71-80cm_size-group,2,0.01904761905,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphons,Clam siphons,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table 1_71-80cm_size-group,5,0.04761904762,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Blennie,Blennie,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Poachers,Poachers,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BD,Amphipod,Amphipod,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,ZL,Euphausid,Euphausid,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FPS,Osmerid,Osmerid,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Ronquil,Ronquil,Table 1_71-80cm_size-group,1,0.009523809524,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BC,Annelid worm,Annelid worm,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SQX,Squid,Squid,Table 1_71-80cm_size-group,2,0.01904761905,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table 1_71-80cm_size-group,1,0.009523809524,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,DUN,Dungeness crab,Dungeness crab,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Sand sole,Sand sole,Table 1_71-80cm_size-group,2,0.01904761905,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Dover sole,Dover sole,Table 1_71-80cm_size-group,1,0.009523809524,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,King crab,King crab,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMD,Brittle star,Brittle star,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Wrymouth,Wrymouth,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Box crab,Box crab,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table 1_71-80cm_size-group,0,0,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table 1_71-80cm_size-group,4,0.0380952381,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table 1_71-80cm_size-group,28,0.2666666667,8,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,PWN,Shrimp,Shrimp,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table 1_80cm_plus_size_group,14,0.35,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Unidentified crab,Unidentified crab,Table 1_80cm_plus_size_group,1,0.025,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table 1_80cm_plus_size_group,6,0.15,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Sand fish,Sand fish,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Eel pout,Eel pout,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table 1_80cm_plus_size_group,1,0.025,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table 1_80cm_plus_size_group,1,0.025,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table 1_80cm_plus_size_group,1,0.025,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Cottids,Cottids,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphons,Clam siphons,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table 1_80cm_plus_size_group,2,0.05,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Blennie,Blennie,Table 1_80cm_plus_size_group,1,0.025,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Poachers,Poachers,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BD,Amphipod,Amphipod,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,ZL,Euphausid,Euphausid,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FPS,Osmerid,Osmerid,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Ronquil,Ronquil,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BC,Annelid worm,Annelid worm,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SQX,Squid,Squid,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,DUN,Dungeness crab,Dungeness crab,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Sand sole,Sand sole,Table 1_80cm_plus_size_group,1,0.025,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Dover sole,Dover sole,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table 1_80cm_plus_size_group,2,0.05,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,King crab,King crab,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMD,Brittle star,Brittle star,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Wrymouth,Wrymouth,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Box crab,Box crab,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table 1_80cm_plus_size_group,0,0,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table 1_80cm_plus_size_group,1,0.025,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table 1_80cm_plus_size_group,9,0.225,9,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table 2_Hecate Strait,12,0.05882352941,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Crab,Crab,Table 2_Hecate Strait,39,0.1911764706,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table 2_Hecate Strait,16,0.07843137255,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table 2_Hecate Strait,6,0.02941176471,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table 2_Hecate Strait,34,0.1666666667,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table 2_Hecate Strait,5,0.02450980392,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,ROCKFISH,Rockfish,Rockfish,Table 2_Hecate Strait,4,0.01960784314,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table 2_Hecate Strait,4,0.01960784314,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table 2_Hecate Strait,1,0.004901960784,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table 2_Hecate Strait,2,0.009803921569,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphon,Clam siphon,Table 2_Hecate Strait,4,0.01960784314,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SSK,Skate,Skate,Table 2_Hecate Strait,1,0.004901960784,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,DOG,Dogfish,Dogfish,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table 2_Hecate Strait,4,0.01960784314,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table 2_Hecate Strait,2,0.009803921569,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,RAT,Ratfish,Ratfish,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Snails,Snails,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Petrale sole,Petrale sole,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table 2_Hecate Strait,2,0.009803921569,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Sea urchin,Sea urchin,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table 2_Hecate Strait,1,0.004901960784,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Poacher,Poacher,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Mussel,Mussel,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table 2_Hecate Strait,0,0,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table 2_Hecate Strait,8,0.03921568627,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table 2_Hecate Strait,59,0.2892156863,10,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table_2_Masset,5,0.03355704698,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Crab,Crab,Table_2_Masset,22,0.1476510067,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table_2_Masset,13,0.08724832215,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table_2_Masset,3,0.02013422819,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table_2_Masset,14,0.09395973154,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table_2_Masset,8,0.05369127517,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,ROCKFISH,Rockfish,Rockfish,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table_2_Masset,4,0.02684563758,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table_2_Masset,1,0.006711409396,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table_2_Masset,1,0.006711409396,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphon,Clam siphon,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SSK,Skate,Skate,Table_2_Masset,2,0.01342281879,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,DOG,Dogfish,Dogfish,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,RAT,Ratfish,Ratfish,Table_2_Masset,1,0.006711409396,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Snails,Snails,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Petrale sole,Petrale sole,Table_2_Masset,1,0.006711409396,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Sea urchin,Sea urchin,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Poacher,Poacher,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Mussel,Mussel,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table_2_Masset,0,0,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table_2_Masset,27,0.1812080537,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table_2_Masset,47,0.3154362416,11,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table 2_WC_QCI,13,0.2826086957,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Crab,Crab,Table 2_WC_QCI,3,0.0652173913,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table 2_WC_QCI,5,0.1086956522,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,ROCKFISH,Rockfish,Rockfish,Table 2_WC_QCI,4,0.08695652174,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table 2_WC_QCI,2,0.04347826087,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphon,Clam siphon,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SSK,Skate,Skate,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,DOG,Dogfish,Dogfish,Table 2_WC_QCI,2,0.04347826087,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,RAT,Ratfish,Ratfish,Table 2_WC_QCI,1,0.02173913043,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Snails,Snails,Table 2_WC_QCI,1,0.02173913043,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Petrale sole,Petrale sole,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Sea urchin,Sea urchin,Table 2_WC_QCI,2,0.04347826087,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table 2_WC_QCI,1,0.02173913043,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Poacher,Poacher,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Mussel,Mussel,Table 2_WC_QCI,1,0.02173913043,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table 2_WC_QCI,0,0,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table 2_WC_QCI,11,0.2391304348,12,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table 2_Timbered_island,13,0.1368421053,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Crab,Crab,Table 2_Timbered_island,4,0.04210526316,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table 2_Timbered_island,3,0.03157894737,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table 2_Timbered_island,3,0.03157894737,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table 2_Timbered_island,1,0.01052631579,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table 2_Timbered_island,9,0.09473684211,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,ROCKFISH,Rockfish,Rockfish,Table 2_Timbered_island,3,0.03157894737,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table 2_Timbered_island,1,0.01052631579,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphon,Clam siphon,Table 2_Timbered_island,1,0.01052631579,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SSK,Skate,Skate,Table 2_Timbered_island,1,0.01052631579,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,DOG,Dogfish,Dogfish,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,RAT,Ratfish,Ratfish,Table 2_Timbered_island,1,0.01052631579,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Snails,Snails,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Petrale sole,Petrale sole,Table 2_Timbered_island,1,0.01052631579,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Sea urchin,Sea urchin,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Poacher,Poacher,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Mussel,Mussel,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table 2_Timbered_island,0,0,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table 2_Timbered_island,20,0.2105263158,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table 2_Timbered_island,34,0.3578947368,13,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table_2_Gulf_of_Alaska,1,0.009174311927,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Crab,Crab,Table_2_Gulf_of_Alaska,6,0.05504587156,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table_2_Gulf_of_Alaska,33,0.3027522936,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table_2_Gulf_of_Alaska,5,0.04587155963,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table_2_Gulf_of_Alaska,1,0.009174311927,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table_2_Gulf_of_Alaska,5,0.04587155963,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table_2_Gulf_of_Alaska,13,0.119266055,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table_2_Gulf_of_Alaska,18,0.1651376147,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,ROCKFISH,Rockfish,Rockfish,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table_2_Gulf_of_Alaska,1,0.009174311927,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table_2_Gulf_of_Alaska,1,0.009174311927,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphon,Clam siphon,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table_2_Gulf_of_Alaska,4,0.03669724771,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SSK,Skate,Skate,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,DOG,Dogfish,Dogfish,Table_2_Gulf_of_Alaska,1,0.009174311927,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,RAT,Ratfish,Ratfish,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Snails,Snails,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Petrale sole,Petrale sole,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Sea urchin,Sea urchin,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Poacher,Poacher,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Mussel,Mussel,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table_2_Gulf_of_Alaska,0,0,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table_2_Gulf_of_Alaska,10,0.09174311927,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table_2_Gulf_of_Alaska,10,0.09174311927,14,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table_2_Chirikof_Island,16,0.1720430108,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Crab,Crab,Table_2_Chirikof_Island,8,0.08602150538,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table_2_Chirikof_Island,1,0.01075268817,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table_2_Chirikof_Island,5,0.05376344086,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table_2_Chirikof_Island,1,0.01075268817,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,ROCKFISH,Rockfish,Rockfish,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table_2_Chirikof_Island,2,0.02150537634,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table_2_Chirikof_Island,1,0.01075268817,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphon,Clam siphon,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SSK,Skate,Skate,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,DOG,Dogfish,Dogfish,Table_2_Chirikof_Island,1,0.01075268817,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,RAT,Ratfish,Ratfish,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Snails,Snails,Table_2_Chirikof_Island,1,0.01075268817,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Petrale sole,Petrale sole,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Sea urchin,Sea urchin,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Poacher,Poacher,Table_2_Chirikof_Island,1,0.01075268817,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Mussel,Mussel,Table_2_Chirikof_Island,0,0,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table_2_Chirikof_Island,1,0.01075268817,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table_2_Chirikof_Island,1,0.01075268817,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table_2_Chirikof_Island,54,0.5806451613,15,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMS,Octopus,Octopus,Table_2_Sumagin_Island,32,0.2461538462,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Crab,Crab,Table_2_Sumagin_Island,3,0.02307692308,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HE,Pacific herring,Pacific herring,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Pacific cod,Pacific cod,Table_2_Sumagin_Island,1,0.007692307692,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FPS,Sand lance,Sand lance,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Arrowtooth flounder,Arrowtooth flounder,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FMM,Walleye pollock,Walleye pollock,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Tanner crab,Tanner crab,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,HAP,Pacific halibut,Pacific halibut,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,ROCKFISH,Rockfish,Rockfish,Table_2_Sumagin_Island,1,0.007692307692,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SALMON,Salmonid,Salmonid,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,NA,Unidentified eggs,Unidentified eggs,Table_2_Sumagin_Island,7,0.05384615385,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BMD,Starfish,Starfish,Table_2_Sumagin_Island,4,0.03076923077,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Sablefish,Sablefish,Table_2_Sumagin_Island,1,0.007692307692,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Clam siphon,Clam siphon,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Flathead sole,Flathead sole,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SSK,Skate,Skate,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,DOG,Dogfish,Dogfish,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BML,Hermit crab,Hermit crab,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Snail fish,Snail fish,Table_2_Sumagin_Island,1,0.007692307692,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,RAT,Ratfish,Ratfish,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Snails,Snails,Table_2_Sumagin_Island,1,0.007692307692,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Petrale sole,Petrale sole,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rex sole,Rex sole,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BG,Sea urchin,Sea urchin,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FVS,Lingcod,Lingcod,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Rock sole,Rock sole,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,SMD,Poacher,Poacher,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Mussel,Mussel,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,BIV,Scallop,Scallop,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FDF,Digested flatfish,Digested flatfish,Table_2_Sumagin_Island,0,0,16,NA,NA,NA,HAP_Best_&_Gilbert_1986
+HAP,adults,Hippoglossus stenolepis,Pacific halibut,FISH,Digested fish,Digested fish,Table_2_Sumagin_Island,79,0.6076923077,16,NA,NA,NA,HAP_Best_&_Gilbert_1986

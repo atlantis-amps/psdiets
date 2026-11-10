@@ -1,0 +1,157 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,juvenile,Common murre,Uria aalge,HE,Pacific herring,Clupea harengus pallasi,Fig1_%_Number_Fish_1996,26.2773723,0.2627737229,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Surf smelt,Hypomesus pretiosus,Fig1_%_Number_Fish_1996,28.2238443,0.2822384429,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Eulachon,Thaleichthys pacificus,Fig1_%_Number_Fish_1996,16.5450122,0.1654501219,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Pacific sandlance,Ammodytes hexapterus,Fig1_%_Number_Fish_1996,24.8175182,0.2481751819,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait smelt,Allosmerus elongatus,Fig1_%_Number_Fish_1996,0,0,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,MYCTOPHID,Lanternfish spp.,Mictophidae,Fig1_%_Number_Fish_1996,0,0,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,ROCKFISH,Rockfish spp.,Sebastes spp.,Fig1_%_Number_Fish_1996,0.72992701,0.007299270096,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Fig1_%_Number_Fish_1996,0,0,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,SALMON,Salmonidae,Pacific salmon spp.,Fig1_%_Number_Fish_1996,0,0,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FMM,Gadidae,Cod spp,Fig1_%_Number_Fish_1996,0,0,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait/surf smelt,Whitebait/surf smelt,Fig1_%_Number_Fish_1996,0.72992701,0.007299270096,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Herring/anchovy,Herring/anchovy,Fig1_%_Number_Fish_1996,0,0,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,NA,Other,Other,Fig1_%_Number_Fish_1996,2.67639903,0.02676399029,1,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Pacific herring,Clupea harengus pallasi,Fig1_%_Number_Fish_1997,35.2798054,0.3527980537,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Surf smelt,Hypomesus pretiosus,Fig1_%_Number_Fish_1997,30.9002433,0.3090024328,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Eulachon,Thaleichthys pacificus,Fig1_%_Number_Fish_1997,15.0851582,0.1508515819,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Pacific sandlance,Ammodytes hexapterus,Fig1_%_Number_Fish_1997,8.75912409,0.08759124083,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait smelt,Allosmerus elongatus,Fig1_%_Number_Fish_1997,0,0,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,MYCTOPHID,Lanternfish spp.,Mictophidae,Fig1_%_Number_Fish_1997,0,0,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,ROCKFISH,Rockfish spp.,Sebastes spp.,Fig1_%_Number_Fish_1997,2.91970803,0.02919708028,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Fig1_%_Number_Fish_1997,0,0,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,SALMON,Salmonidae,Pacific salmon spp.,Fig1_%_Number_Fish_1997,0.486618,0.004866179996,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FMM,Gadidae,Cod spp,Fig1_%_Number_Fish_1997,0.97323601,0.009732360092,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait/surf smelt,Whitebait/surf smelt,Fig1_%_Number_Fish_1997,1.21654501,0.01216545009,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Herring/anchovy,Herring/anchovy,Fig1_%_Number_Fish_1997,0,0,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,NA,Other,Other,Fig1_%_Number_Fish_1997,4.37956204,0.04379562036,2,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Pacific herring,Clupea harengus pallasi,Fig1_%_Number_Fish_1998,35.0364964,0.350364964,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Surf smelt,Hypomesus pretiosus,Fig1_%_Number_Fish_1998,29.6836983,0.296836983,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Eulachon,Thaleichthys pacificus,Fig1_%_Number_Fish_1998,14.8418491,0.148418491,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Pacific sandlance,Ammodytes hexapterus,Fig1_%_Number_Fish_1998,7.78588808,0.0778588808,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait smelt,Allosmerus elongatus,Fig1_%_Number_Fish_1998,0,0,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,MYCTOPHID,Lanternfish spp.,Mictophidae,Fig1_%_Number_Fish_1998,0,0,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,ROCKFISH,Rockfish spp.,Sebastes spp.,Fig1_%_Number_Fish_1998,2.67639903,0.0267639903,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Fig1_%_Number_Fish_1998,0,0,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,SALMON,Salmonidae,Pacific salmon spp.,Fig1_%_Number_Fish_1998,3.16301703,0.0316301703,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FMM,Gadidae,Cod spp,Fig1_%_Number_Fish_1998,1.94647202,0.0194647202,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait/surf smelt,Whitebait/surf smelt,Fig1_%_Number_Fish_1998,2.43309002,0.0243309002,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Herring/anchovy,Herring/anchovy,Fig1_%_Number_Fish_1998,0,0,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,NA,Other,Other,Fig1_%_Number_Fish_1998,2.43309002,0.0243309002,3,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Pacific herring,Clupea harengus pallasi,Fig1_%_Number_Fish_1999,49.3917275,0.4939172752,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Surf smelt,Hypomesus pretiosus,Fig1_%_Number_Fish_1999,5.83941606,0.05839416062,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Eulachon,Thaleichthys pacificus,Fig1_%_Number_Fish_1999,4.62287105,0.04622871052,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Pacific sandlance,Ammodytes hexapterus,Fig1_%_Number_Fish_1999,24.5742092,0.2457420921,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait smelt,Allosmerus elongatus,Fig1_%_Number_Fish_1999,0,0,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,MYCTOPHID,Lanternfish spp.,Mictophidae,Fig1_%_Number_Fish_1999,1.21654501,0.0121654501,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,ROCKFISH,Rockfish spp.,Sebastes spp.,Fig1_%_Number_Fish_1999,0.97323601,0.009732360104,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Fig1_%_Number_Fish_1999,0,0,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,SALMON,Salmonidae,Pacific salmon spp.,Fig1_%_Number_Fish_1999,9.00243309,0.09002433094,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FMM,Gadidae,Cod spp,Fig1_%_Number_Fish_1999,3.16301703,0.03163017031,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait/surf smelt,Whitebait/surf smelt,Fig1_%_Number_Fish_1999,0,0,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Herring/anchovy,Herring/anchovy,Fig1_%_Number_Fish_1999,0,0,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,NA,Other,Other,Fig1_%_Number_Fish_1999,1.21654501,0.0121654501,4,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Pacific herring,Clupea harengus pallasi,Fig1_%_Number_Fish_2000,37.9562044,0.379562044,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Surf smelt,Hypomesus pretiosus,Fig1_%_Number_Fish_2000,38.4428224,0.384428224,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Eulachon,Thaleichthys pacificus,Fig1_%_Number_Fish_2000,0,0,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Pacific sandlance,Ammodytes hexapterus,Fig1_%_Number_Fish_2000,13.8686131,0.138686131,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait smelt,Allosmerus elongatus,Fig1_%_Number_Fish_2000,0,0,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,MYCTOPHID,Lanternfish spp.,Mictophidae,Fig1_%_Number_Fish_2000,0.72992701,0.0072992701,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,ROCKFISH,Rockfish spp.,Sebastes spp.,Fig1_%_Number_Fish_2000,0.72992701,0.0072992701,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Fig1_%_Number_Fish_2000,0,0,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,SALMON,Salmonidae,Pacific salmon spp.,Fig1_%_Number_Fish_2000,0.97323601,0.0097323601,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FMM,Gadidae,Cod spp,Fig1_%_Number_Fish_2000,6.56934307,0.0656934307,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait/surf smelt,Whitebait/surf smelt,Fig1_%_Number_Fish_2000,0.243309,0.00243309,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Herring/anchovy,Herring/anchovy,Fig1_%_Number_Fish_2000,0,0,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,NA,Other,Other,Fig1_%_Number_Fish_2000,0.486618,0.00486618,5,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Pacific herring,Clupea harengus pallasi,Fig1_%_Number_Fish_2001,37.9562044,0.3795620441,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Surf smelt,Hypomesus pretiosus,Fig1_%_Number_Fish_2001,33.0900243,0.3309002431,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Eulachon,Thaleichthys pacificus,Fig1_%_Number_Fish_2001,4.13625304,0.04136253041,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Pacific sandlance,Ammodytes hexapterus,Fig1_%_Number_Fish_2001,11.4355231,0.114355231,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait smelt,Allosmerus elongatus,Fig1_%_Number_Fish_2001,0,0,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,MYCTOPHID,Lanternfish spp.,Mictophidae,Fig1_%_Number_Fish_2001,7.05596107,0.07055961072,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,ROCKFISH,Rockfish spp.,Sebastes spp.,Fig1_%_Number_Fish_2001,1.21654501,0.0121654501,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Fig1_%_Number_Fish_2001,0,0,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,SALMON,Salmonidae,Pacific salmon spp.,Fig1_%_Number_Fish_2001,0.72992701,0.007299270102,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FMM,Gadidae,Cod spp,Fig1_%_Number_Fish_2001,1.94647202,0.01946472021,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait/surf smelt,Whitebait/surf smelt,Fig1_%_Number_Fish_2001,0.243309,0.002433090001,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Herring/anchovy,Herring/anchovy,Fig1_%_Number_Fish_2001,0,0,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,NA,Other,Other,Fig1_%_Number_Fish_2001,2.18978102,0.02189781021,6,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Pacific herring,Clupea harengus pallasi,Fig1_%_Number_Fish_2002,23.3576642,0.2335766423,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Surf smelt,Hypomesus pretiosus,Fig1_%_Number_Fish_2002,34.0632603,0.3406326034,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Eulachon,Thaleichthys pacificus,Fig1_%_Number_Fish_2002,7.05596107,0.07055961078,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Pacific sandlance,Ammodytes hexapterus,Fig1_%_Number_Fish_2002,8.75912409,0.087591241,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait smelt,Allosmerus elongatus,Fig1_%_Number_Fish_2002,0,0,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,MYCTOPHID,Lanternfish spp.,Mictophidae,Fig1_%_Number_Fish_2002,13.6253041,0.1362530411,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,ROCKFISH,Rockfish spp.,Sebastes spp.,Fig1_%_Number_Fish_2002,2.67639903,0.02676399033,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Fig1_%_Number_Fish_2002,0,0,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,SALMON,Salmonidae,Pacific salmon spp.,Fig1_%_Number_Fish_2002,6.32603406,0.06326034067,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FMM,Gadidae,Cod spp,Fig1_%_Number_Fish_2002,1.45985401,0.01459854012,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait/surf smelt,Whitebait/surf smelt,Fig1_%_Number_Fish_2002,0.97323601,0.009732360111,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Herring/anchovy,Herring/anchovy,Fig1_%_Number_Fish_2002,0,0,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,NA,Other,Other,Fig1_%_Number_Fish_2002,1.70316302,0.01703163022,7,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Pacific herring,Clupea harengus pallasi,Fig1_%_Number_Fish_2003,27.9805353,0.2798053531,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Surf smelt,Hypomesus pretiosus,Fig1_%_Number_Fish_2003,41.3625304,0.4136253042,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Eulachon,Thaleichthys pacificus,Fig1_%_Number_Fish_2003,24.8175182,0.2481751821,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Pacific sandlance,Ammodytes hexapterus,Fig1_%_Number_Fish_2003,1.21654501,0.0121654501,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait smelt,Allosmerus elongatus,Fig1_%_Number_Fish_2003,0.72992701,0.007299270103,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,MYCTOPHID,Lanternfish spp.,Mictophidae,Fig1_%_Number_Fish_2003,1.70316302,0.01703163021,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,ROCKFISH,Rockfish spp.,Sebastes spp.,Fig1_%_Number_Fish_2003,0.486618,0.004866180002,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Fig1_%_Number_Fish_2003,0,0,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,SALMON,Salmonidae,Pacific salmon spp.,Fig1_%_Number_Fish_2003,0,0,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FMM,Gadidae,Cod spp,Fig1_%_Number_Fish_2003,0,0,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait/surf smelt,Whitebait/surf smelt,Fig1_%_Number_Fish_2003,0.72992701,0.007299270103,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Herring/anchovy,Herring/anchovy,Fig1_%_Number_Fish_2003,0,0,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,NA,Other,Other,Fig1_%_Number_Fish_2003,0.97323601,0.009732360104,8,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Pacific herring,Clupea harengus pallasi,Fig1_%_Number_Fish_2004,61.3138686,0.6131386862,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Surf smelt,Hypomesus pretiosus,Fig1_%_Number_Fish_2004,20.1946472,0.2019464721,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Eulachon,Thaleichthys pacificus,Fig1_%_Number_Fish_2004,7.54257908,0.07542579082,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Pacific sandlance,Ammodytes hexapterus,Fig1_%_Number_Fish_2004,1.21654501,0.0121654501,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait smelt,Allosmerus elongatus,Fig1_%_Number_Fish_2004,0,0,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,MYCTOPHID,Lanternfish spp.,Mictophidae,Fig1_%_Number_Fish_2004,0.486618,0.004866180001,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,ROCKFISH,Rockfish spp.,Sebastes spp.,Fig1_%_Number_Fish_2004,3.89294404,0.03892944041,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Fig1_%_Number_Fish_2004,0,0,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,SALMON,Salmonidae,Pacific salmon spp.,Fig1_%_Number_Fish_2004,3.40632603,0.03406326031,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FMM,Gadidae,Cod spp,Fig1_%_Number_Fish_2004,1.21654501,0.0121654501,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait/surf smelt,Whitebait/surf smelt,Fig1_%_Number_Fish_2004,0.243309,0.002433090001,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Herring/anchovy,Herring/anchovy,Fig1_%_Number_Fish_2004,0,0,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,NA,Other,Other,Fig1_%_Number_Fish_2004,0.486618,0.004866180001,9,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Pacific herring,Clupea harengus pallasi,Fig1_%_Number_Fish_2005,18.2481752,0.1824817519,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Surf smelt,Hypomesus pretiosus,Fig1_%_Number_Fish_2005,28.7104623,0.2871046228,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Eulachon,Thaleichthys pacificus,Fig1_%_Number_Fish_2005,1.70316302,0.01703163019,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Pacific sandlance,Ammodytes hexapterus,Fig1_%_Number_Fish_2005,3.40632603,0.03406326027,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait smelt,Allosmerus elongatus,Fig1_%_Number_Fish_2005,0,0,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,MYCTOPHID,Lanternfish spp.,Mictophidae,Fig1_%_Number_Fish_2005,9.9756691,0.09975669092,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,ROCKFISH,Rockfish spp.,Sebastes spp.,Fig1_%_Number_Fish_2005,15.3284672,0.1532846719,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Fig1_%_Number_Fish_2005,9.24574209,0.09245742083,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,SALMON,Salmonidae,Pacific salmon spp.,Fig1_%_Number_Fish_2005,0,0,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FMM,Gadidae,Cod spp,Fig1_%_Number_Fish_2005,2.18978102,0.02189781018,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait/surf smelt,Whitebait/surf smelt,Fig1_%_Number_Fish_2005,1.70316302,0.01703163019,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Herring/anchovy,Herring/anchovy,Fig1_%_Number_Fish_2005,2.67639903,0.02676399028,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,NA,Other,Other,Fig1_%_Number_Fish_2005,6.81265207,0.06812652065,10,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Pacific herring,Clupea harengus pallasi,Fig1_%_Number_Fish_2006,66.4233577,0.6642335767,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Surf smelt,Hypomesus pretiosus,Fig1_%_Number_Fish_2006,3.64963504,0.03649635038,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Eulachon,Thaleichthys pacificus,Fig1_%_Number_Fish_2006,3.40632603,0.03406326028,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Pacific sandlance,Ammodytes hexapterus,Fig1_%_Number_Fish_2006,2.43309002,0.02433090019,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait smelt,Allosmerus elongatus,Fig1_%_Number_Fish_2006,0,0,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,MYCTOPHID,Lanternfish spp.,Mictophidae,Fig1_%_Number_Fish_2006,8.51581509,0.08515815086,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,ROCKFISH,Rockfish spp.,Sebastes spp.,Fig1_%_Number_Fish_2006,2.67639903,0.02676399029,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Fig1_%_Number_Fish_2006,5.59610706,0.05596107057,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,SALMON,Salmonidae,Pacific salmon spp.,Fig1_%_Number_Fish_2006,2.18978102,0.02189781019,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FMM,Gadidae,Cod spp,Fig1_%_Number_Fish_2006,0.72992701,0.007299270096,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait/surf smelt,Whitebait/surf smelt,Fig1_%_Number_Fish_2006,0.72992701,0.007299270096,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Herring/anchovy,Herring/anchovy,Fig1_%_Number_Fish_2006,0.72992701,0.007299270096,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,NA,Other,Other,Fig1_%_Number_Fish_2006,2.91970803,0.02919708029,11,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Pacific herring,Clupea harengus pallasi,Fig1_%_Number_Fish_2009,17.0316302,0.170316302,12,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Surf smelt,Hypomesus pretiosus,Fig1_%_Number_Fish_2009,2.67639903,0.02676399029,12,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Eulachon,Thaleichthys pacificus,Fig1_%_Number_Fish_2009,1.21654501,0.0121654501,12,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Pacific sandlance,Ammodytes hexapterus,Fig1_%_Number_Fish_2009,1.70316302,0.0170316302,12,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait smelt,Allosmerus elongatus,Fig1_%_Number_Fish_2009,51.3381995,0.5133819949,12,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,MYCTOPHID,Lanternfish spp.,Mictophidae,Fig1_%_Number_Fish_2009,0.243309,0.00243309,12,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,ROCKFISH,Rockfish spp.,Sebastes spp.,Fig1_%_Number_Fish_2009,0.486618,0.004866179999,12,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Northern anchovy,Engraulis mordax,Fig1_%_Number_Fish_2009,8.75912409,0.08759124088,12,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,SALMON,Salmonidae,Pacific salmon spp.,Fig1_%_Number_Fish_2009,0,0,12,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FMM,Gadidae,Cod spp,Fig1_%_Number_Fish_2009,0.486618,0.004866179999,12,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,FPS,Whitebait/surf smelt,Whitebait/surf smelt,Fig1_%_Number_Fish_2009,8.51581509,0.08515815088,12,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,HE,Herring/anchovy,Herring/anchovy,Fig1_%_Number_Fish_2009,7.54257908,0.07542579078,12,SB_Schrimpf_et_al_2012
+SB,juvenile,Common murre,Uria aalge,NA,Other,Other,Fig1_%_Number_Fish_2009,0,0,12,SB_Schrimpf_et_al_2012

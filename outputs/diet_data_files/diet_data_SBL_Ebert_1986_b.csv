@@ -1,0 +1,10 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SBL,juvenile,sixgill shark,Hexanchus griseus,DOG,Spiny dogfish,Squalus acanthias,Text_1,3,0.2,1,SBL_Ebert_1986_b
+SBL,juvenile,sixgill shark,Hexanchus griseus,NA,Spiny dogfish,Whale blubber,Text_1,1,0.06666666667,1,SBL_Ebert_1986_b
+SBL,juvenile,sixgill shark,Hexanchus griseus,SEAL,Spiny dogfish,Pinniped remains,Text_1,1,0.06666666667,1,SBL_Ebert_1986_b
+SBL,juvenile,sixgill shark,Hexanchus griseus,SHARK,Prickly shark,Echinorhinus cookei,Text_1,1,0.06666666667,1,SBL_Ebert_1986_b
+SBL,juvenile,sixgill shark,Hexanchus griseus,RAT,Ratfish,Hydrolagus colliei,Text_1,1,0.06666666667,1,SBL_Ebert_1986_b
+SBL,juvenile,sixgill shark,Hexanchus griseus,FMM,Hake,Merluccius productus,Text_1,1,0.06666666667,1,SBL_Ebert_1986_b
+SBL,juvenile,sixgill shark,Hexanchus griseus,LAMPREY,Pacific Lamprey,Lampetra tridentata,Text_1,1,0.06666666667,1,SBL_Ebert_1986_b
+SBL,juvenile,sixgill shark,Hexanchus griseus,LAMPREY,Hagfish,Eptatretus stoutii,Text_1,1,0.06666666667,1,SBL_Ebert_1986_b
+SBL,juvenile,sixgill shark,Hexanchus griseus,FISH,Unidentified bony fish,Unidentified bony fish,Text_1,5,0.3333333333,1,SBL_Ebert_1986_b

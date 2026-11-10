@@ -1,0 +1,81 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+FMM,juvenile,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%_W_C<200,0,0,1,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,PWN,Shrimp,Shrimps,%_W_C<200,0,0,1,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%_W_C<200,98.5971943887775,0.9859719439,1,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,NA,Other,Other,%_W_C<200,1.4028056112225045,0.01402805611,1,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%_W_O350-449,1.8036072144288937,0.01803607214,2,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,PWN,Shrimp,Shrimps,%_W_O350-449,0,0,2,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%_W_O350-449,98.1963927855711,0.9819639279,2,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,NA,Other,Other,%_W_O350-449,0,0,2,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%_W_O450-550,40.4809619238477,0.4048096192,3,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,PWN,Shrimp,Shrimps,%_W_O450-550,3.2064128256512987,0.03206412826,3,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%_W_O450-550,56.312625250501,0.5631262525,3,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,NA,Other,Other,%_W_O450-550,0,0,3,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%_W_O>550,91.38276553106228,0.9138276553,4,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,PWN,Shrimp,Shrimps,%_W_O>550,5.210420841683169,0.05210420842,4,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%_W_O>550,3.40681362725456,0.03406813627,4,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,NA,Other,Other,%_W_O>550,0,0,4,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%_W_V450-550,64.5290581162325,0.6452905812,5,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,PWN,Shrimp,Shrimps,%_W_V450-550,4.6092184368737,0.04609218437,5,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%_W_V450-550,30.8617234468938,0.3086172345,5,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,NA,Other,Other,%_W_V450-550,0,0,5,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%_W_V>550,89.17835671342701,0.8917835671,6,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,PWN,Shrimp,Shrimps,%_W_V>550,2.2044088176351107,0.02204408818,6,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%_W_V>550,8.61723446893789,0.08617234469,6,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,NA,Other,Other,%_W_V>550,0,0,6,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,PWN,Shrimp,Pandalid shrimp,%V_1081,44,0.4835164835,7,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%V_1081,29,0.3186813187,7,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%V_1081,18,0.1978021978,7,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,FPS,Actinopterygii,Sand lance,%V_1081,0,0,7,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZM,Crustacea,adult copepods,%V_1081,0,0,7,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZM,Crustacea,copepodites,%V_1081,0,0,7,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZM,Crustacea,copepod nauplii,%V_1081,0,0,7,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,PWN,Shrimp,Pandalid shrimp,%W_4666,8,0.08163265306,8,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%W_4666,37,0.3775510204,8,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%W_4666,53,0.5408163265,8,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FPS,Actinopterygii,Sand lance,%W_4666,0,0,8,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,adult copepods,%W_4666,0,0,8,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,copepodites,%W_4666,0,0,8,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,copepod nauplii,%W_4666,0,0,8,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,PWN,Shrimp,Pandalid shrimp,%_FO_4271,3,0.0243902439,9,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%_FO_4271,0,0,9,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%_FO_4271,94,0.7642276423,9,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FPS,Actinopterygii,Sand lance,%_FO_4271,26,0.2113821138,9,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,adult copepods,%_FO_4271,0,0,9,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,copepodites,%_FO_4271,0,0,9,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,copepod nauplii,%_FO_4271,0,0,9,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,PWN,Shrimp,Pandalid shrimp,%W_4950,1,0.01,10,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%W_4950,13,0.13,10,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%W_4950,86,0.86,10,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FPS,Actinopterygii,Sand lance,%W_4950,0,0,10,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,adult copepods,%W_4950,0,0,10,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,copepodites,%W_4950,0,0,10,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,copepod nauplii,%W_4950,0,0,10,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,PWN,Shrimp,Pandalid shrimp,%W_1020,0,0,11,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%W_1020,0,0,11,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%W_1020,98,1,11,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,FPS,Actinopterygii,Sand lance,%W_1020,0,0,11,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZM,Crustacea,adult copepods,%W_1020,0,0,11,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZM,Crustacea,copepodites,%W_1020,0,0,11,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZM,Crustacea,copepod nauplii,%W_1020,0,0,11,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,PWN,Shrimp,Pandalid shrimp,%W_3545,0,0,12,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%W_3545,0,0,12,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%W_3545,98,1,12,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FPS,Actinopterygii,Sand lance,%W_3545,0,0,12,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,adult copepods,%W_3545,0,0,12,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,copepodites,%W_3545,0,0,12,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,copepod nauplii,%W_3545,0,0,12,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,PWN,Shrimp,Pandalid shrimp,%W_4565,3,0.03448275862,13,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%W_4565,69,0.7931034483,13,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%W_4565,15,0.1724137931,13,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,FPS,Actinopterygii,Sand lance,%W_4565,0,0,13,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,adult copepods,%W_4565,0,0,13,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,copepodites,%W_4565,0,0,13,FMM_Livingstone_&_Bailey_1985
+FMM,adult,Pacific whiting,Merluccius productus,ZM,Crustacea,copepod nauplii,%W_4565,0,0,13,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,PWN,Shrimp,Pandalid shrimp,%_V_3_1,0,0,14,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,FISH,Fish,Fish,%_V_3_1,0,0,14,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZL,Krill,Euphausiids,%_V_3_1,0,0,14,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,FPS,Actinopterygii,Sand lance,%_V_3_1,0,0,14,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZM,Crustacea,adult copepods,%_V_3_1,74,0.7708333333,14,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZM,Crustacea,copepodites,%_V_3_1,17,0.1770833333,14,FMM_Livingstone_&_Bailey_1985
+FMM,juvenile,Pacific whiting,Merluccius productus,ZM,Crustacea,copepod nauplii,%_V_3_1,5,0.05208333333,14,FMM_Livingstone_&_Bailey_1985

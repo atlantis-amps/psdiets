@@ -1,0 +1,11 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ROR,adult,Orcinus Orca,Resident Orca,HE,Herring,Herring,Table_2_Prey_Composition_QC_Island,1,0.015625,1,ORC1_Ford_2009
+ROR,adult,Orcinus Orca,Resident Orca,PIS,Pink,Oncorhynchus gorbuscha,Table_2_Prey_Composition_SEVancouver Island,0,0,1,ORC1_Ford_2009
+ROR,adult,Orcinus Orca,Resident Orca,CU,Chum,Oncorhynchus keta ,Table_2_Prey_Composition_SEVancouver Island,5,0.078125,1,ORC1_Ford_2009
+ROR,adult,Orcinus Orca,Resident Orca,CO,Coho,Oncorhynchus kisutch,Table_2_Prey_Composition_SEVancouver Island,2,0.03125,1,ORC1_Ford_2009
+ROR,adult,Orcinus Orca,Resident Orca,STEELHEAD,Steelhead,Oncorhynchus mykiss,Table_2_Prey_Composition_SEVancouver Island,3,0.046875,1,ORC1_Ford_2009
+ROR,adult,Orcinus Orca,Resident Orca,SAL,Sockeye,Oncorhynchus nerka,Table_2_Prey_Composition_SEVancouver Island,1,0.015625,1,ORC1_Ford_2009
+ROR,adult,Orcinus Orca,Resident Orca,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2_Prey_Composition_SEVancouver Island,36,0.5625,1,ORC1_Ford_2009
+ROR,adult,Orcinus Orca,Resident Orca,ROC,Quillback rockfish,Quillback rockfish,Table_2_Prey_Composition_SEVancouver Island,1,0.015625,1,ORC1_Ford_2009
+ROR,adult,Orcinus Orca,Resident Orca,FISH,Unidentified fish,Unidentified fish,Table_2_Prey_Composition_SEVancouver Island,3,0.046875,1,ORC1_Ford_2009
+ROR,adult,Orcinus Orca,Resident Orca,SALMON,Unidentified salmon,Unidentified salmon,Table_2_Prey_Composition_SEVancouver Island,12,0.1875,1,ORC1_Ford_2009

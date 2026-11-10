@@ -1,0 +1,26 @@
+species,species_name,atlantis_fg,atlantis_name
+Chinook,Chinook,CI,Chinook
+Chum,Chum,CU,Chum
+Herring,Herring,HE,Herring
+Surf Smelt,Surf Smelt,FPS,Small Planktivorous Fish
+Coho,Coho,CO,Coho
+Pink,Pink,PIS,Pink Salmon Subyearling    
+Barn,Barnacle,BFF,Benthic filter feeder
+Cal,Calanoid copepods,ZM,Mesozooplankton
+Harp,Harpactacoid copepods,BD,Deposit feeders
+Cap,Caprellid amphipods,BD,Deposit feeders
+Cmeg,Crab megalops,BML,Crabs
+CZ,Crab zoea,BML,Crabs
+Euph,Euphausiids,ZL,Large zooplankton
+Gamm,Gammarid,BD,Deposit feeders
+Hyp,Hyperid amphipods,ZL,Large zooplankton
+Mys,Mysids,PWN,Shrimp
+Oik,Oikopleura dioica,ZG,Gelatinous zooplankton
+Cten,Ctenophores,ZG,Gelatinous zooplankton
+Ostr,Ostracods,PWN,Shrimp
+Poly,Polychaets,BC,Carnivorous infauna
+Insect,Insects,INSECT,Insects
+Other,Other,Other,Other
+Unid,Unidentified,UNI,Unidentified
+DM,Digested material,DM,Digested material
+FISH,Fish,FISH,Fish

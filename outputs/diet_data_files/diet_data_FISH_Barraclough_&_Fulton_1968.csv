@@ -1,0 +1,891 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+HE,juvenile,Clupea pallasi,Clupea pallasi,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_CP_142,0.12,1,1,FISH_Barraclough_&_Fulton_1968
+HE,juvenile,Clupea pallasi,Clupea pallasi,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_CP_182,0.27,1,2,FISH_Barraclough_&_Fulton_1968
+HE,juvenile,Clupea pallasi,Clupea pallasi,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_CP_142,0.5,1,3,FISH_Barraclough_&_Fulton_1968
+HE,juvenile,Clupea pallasi,Clupea pallasi,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_CP_182,2.53,1,4,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OG_97,0.02,1,5,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OG_111_b,2,1,6,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OG_94,0.1,1,7,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OG_111_b,0.15,1,8,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Insect,Trichoptera,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OG_94,0.03,1,9,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Insect,Trichoptera,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OG_97,0.01,1,10,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OG_111_b,0.06,1,11,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OG_94,0.11,1,12,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OG_97,145,1,13,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OG_111_a,0.18,1,14,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OG_111_b,16,1,15,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_No_OG_111_b,3,1,16,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OG_116,0.06,1,17,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKi_148,0.88,1,18,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKi_167,0.4,1,19,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKi_168,0.94,1,20,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKi_181,0.13,1,21,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,FMM,Fish,Merluccius productus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKi_148,0.02,1,22,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Insect,Trichoptera,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKi_167,0.2,1,23,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKi_134,0.3,1,24,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKi_148,0.2,1,25,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKi_167,2.95,1,26,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKi_168,0.97,1,27,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKi_181,1.26,0.9402985075,28,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepod,Calanus pacificus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKi_181,0.08,0.05970149254,28,FISH_Barraclough_&_Fulton_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OT_320,5.46,1,29,FISH_Barraclough_&_Fulton_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OT_330,20,1,30,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKe_83,0.05,1,31,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKe_86,0.09,1,32,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKe_88,0.04,1,33,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insect,Trichoptera,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKe_83,0.01,1,34,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insect,Trichoptera,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKe_88,0.02,1,35,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_No_OKe_83,2,1,36,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKe_86,0.19,1,37,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_OKe_88,0.07,1,38,FISH_Barraclough_&_Fulton_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,ZM,Copepod,Copepodite,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_No_TP_13,2,1,39,FISH_Barraclough_&_Fulton_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,ZM,Copepod,Copepodite,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_No_TP_14,2,1,40,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_MP_290,1.85,1,41,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_MP_295,1.91,1,42,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_MP_300,2.14,1,43,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_W_MP_510,10.1,1,44,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZM,Copepod,Copepodite,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_No_MP_7,2,1,45,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZM,Copepod,Aetidus armatus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_No_MP_12,1,0.5,46,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZM,Copepod,Harpacticoid type,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_No_MP_12,1,0.5,46,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_No_SS_10,4,1,47,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_No_SS_12,3,1,48,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_No_SS_13,6,1,49,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Clevelandia ios,Clevelandia ios,ZM,Copepod,Copepodite,TOW_NUMBER_28_Saanich_Inlet_Off_Patricia_Bay_No_CI_5,1,1,50,FISH_Barraclough_&_Fulton_1968
+HE,juvenile,Clupea pallasi,Clupea pallasi,ZM,Copepod,Metridia lucens,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_W_CP_200,0.7,0.1186440678,51,FISH_Barraclough_&_Fulton_1968
+HE,juvenile,Clupea pallasi,Clupea pallasi,ZL,Euphausia,Euphausia pacifica,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_W_CP_200,5.2,0.8813559322,51,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_W_OC_185,0.55,1,52,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_W_OC_410,0.8,1,53,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BML,Decapod,Brachyura zoea,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_No_OKi_185,3,1,54,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausia,Euphausia pacifica,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_W_OC_185,0.05,1,55,FISH_Barraclough_&_Fulton_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZL,Euphausia,Euphausia pacifica,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_W_ON_172,0.9,0.6428571429,56,FISH_Barraclough_&_Fulton_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Calanus pacificus,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_W_ON_172,0.5,0.3571428571,56,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZL,Euphausia,Euphausia pacifica,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_No_MP_9,1,1,57,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZL,Euphausia,Euphausia pacifica,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_No_MP_11,2,1,58,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZL,Euphausia,Euphausia pacifica,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_W_MP_335,2.7,1,59,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_No_SS_5,4,1,60,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_No_SS_8,4,1,61,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_No_SS_7,3,1,62,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_No_SS_8b,6,1,63,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_No_SS_11,3,1,64,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,eggs,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_No_SS_8,2,1,65,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,copepodite,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_No_SS_5,1,1,66,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Copepodite,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_No_SS_11,1,1,67,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Anoplarchus purpurescens,Anoplarchus purpurescens,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_29_Saanich_Inlet_Off_Mill_Bay_No_AP_19,3,1,68,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_W_OKi_157,0.5,1,69,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_W_OKi_162,1.2,1,70,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_W_OKi_340,2.02,1,71,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BML,Decapod,Brachyura zoea,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_OKi_157,5,1,72,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Insect,Cecidomyiidae,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_OKi_162,3,1,73,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_W_OKi_157,0.3,1,74,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_W_OKi_162,1.3,1,75,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_W_OKi_340,0.18,0.3396226415,76,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Pteropod,Limacina helicina,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_W_OKi_340,0.35,0.6603773585,76,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepod,Calanus pacificus,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_W_OKi_162,0.1,1,77,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Insect,Diptera tipulidae,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_OKi_157,2,0.6666666667,78,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Insect,Simulidae,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_OKi_157,1,0.3333333333,78,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Orchomenella obtusa,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_W_OKi_340,0.05,1,79,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZM,Copepod,Copepodite,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_MP_6,6,1,80,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZM,Copepod,Calanus pacificus,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_MP_9,1,1,81,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZM,Copepod,Calanus pacificus,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_MP_13,1,1,82,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZM,Copepod,Calanus pacificus,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_MP_17,2,1,83,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplius,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_SS_5a,1,1,84,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplius,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_SS_5b,1,1,85,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplius,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_SS_6a,1,1,86,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_SS_8a,2,1,87,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_SS_9a,2,1,88,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_SS_6b,6,1,89,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_SS_9b,7,1,90,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Euphausiid,eggs,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_SS_8b,4,1,91,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Euphausiid,eggs,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_SS_9b,1,1,92,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,copepodite,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_SS_9a,1,1,93,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Clevelandia ios,Clevelandia ios,BML,Copepod,nauplii,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_CI_4,2,1,94,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Clevelandia ios,Clevelandia ios,BML,Copepod,nauplii,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_CI_6,3,1,95,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Stichaeidae,Stichaeidae,BML,Copepod,nauplii,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_ST_11,3,1,96,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Stichaeidae,Stichaeidae,ZM,Copepod,copepodite,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_ST_10,3,1,97,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Anoplarchus purpurescens,Anoplarchus purpurescens,BML,Copepod,nauplii,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_AP_12,2,1,98,FISH_Barraclough_&_Fulton_1968
+FRESHWATER,juvenile,Lyconectes aleutensis,Lyconectes aleutensis,BML,Copepod,nauplii,TOW_NUMBER_30_Saanich_Inlet_Centre_Tow_Mid_channel_No_LA_10,2,1,99,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OG_114,60,1,100,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Insect,Mycetophilidae,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OG_89,3,1,101,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Insect,Mycetophilidae,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OG_100,2,1,102,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OKe_60,19,1,103,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OKe_76,30,1,104,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_85b,0.002,1,105,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_102,0.003,1,106,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_112,0.02,1,107,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_85a,0.09,1,108,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_91,0.03,1,109,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_102,0.081,1,110,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_112,0.096,1,111,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insect,Hemiptera,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_60,0.026,1,112,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insect,Hemiptera,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_80,0.018,1,113,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insect,Hemiptera,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_85a,0.003,1,114,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insect,Hemiptera,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_85b,0.018,1,115,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insect,Hemiptera,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_88,0.015,1,116,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insect,Trichoptera,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OKe_88,3,0.75,117,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insect,Ichneumonidae,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OKe_88,1,0.25,117,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insect,Hemiptera,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_91,0.034,1,118,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Metridia sp,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OKe_60,32,1,119,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OKe_76,61,1,120,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_80,0.052,0.8666666667,121,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_80,0.008,0.1333333333,121,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_85a,0.017,1,122,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_85b,0.095,1,123,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_88,0.052,0.6753246753,124,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_88,0.025,0.3246753247,124,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Metridia sp,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_OKe_91,0.002,1,125,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OKe_95,5,0.4545454545,126,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OKe_95,2,0.1818181818,126,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Metridia lucens,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OKe_95,4,0.3636363636,126,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Orchomenella obtusa,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_OKe_60,1,1,127,FISH_Barraclough_&_Fulton_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_ON_172,0.307,0.959375,128,FISH_Barraclough_&_Fulton_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepod,Aetidus armatus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_ON_172,0.013,0.040625,128,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_MP_12,1,1,129,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_MP_173,0.77,1,130,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_SS_5a,2,1,131,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_SS_6a,3,1,132,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_SS_5b,2,1,133,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Euphausiid,eggs,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_SS_6b,2,1,134,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,eggs,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_SS_8,1,1,135,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,eggs,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_SS_9,9,1,136,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Euphausiid,eggs,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_SS_10,2,1,137,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_SS_7,1,1,138,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_SS_9,2,1,139,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_SS_10,1,1,140,FISH_Barraclough_&_Fulton_1968
+SMD,adult,Gasterosteus aculeatus,Gasterosteus aculeatus,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_W_GA_61.5,0.2,1,141,FISH_Barraclough_&_Fulton_1968
+SMD,adult,Gasterosteus aculeatus,Gasterosteus aculeatus,FMM,Fish,egg- Merluccius productus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_GA_61.5,1,1,142,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Clevelandia ios,Clevelandia ios,BFF,Cirrepedia,Cypris stage,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_CI_8,1,0.3333333333,143,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Clevelandia ios,Clevelandia ios,NA,Euphausiid,egg,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_CI_8,1,0.3333333333,143,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Clevelandia ios,Clevelandia ios,ZL,Euphausiid,Calyptopis stage,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_CI_8,1,0.3333333333,143,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Bathymaster signatus,Bathymaster signatus,NA,Copepod,eggs,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_BS_25,80,0.8791208791,144,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Bathymaster signatus,Bathymaster signatus,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_31_Saanich_Inlet_Brentwood_No_BS_25,11,0.1208791209,144,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Insect,Hemiptera,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_OKi_127,0.01,1,145,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Ostracoda,Philomedes sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_OKi_118,0.009,0.0756302521,146,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_OKi_118,0.11,0.9243697479,146,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_OKi_125,0.324,1,147,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_OKi_127,0.546,1,148,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_OKi_150,2.8,1,149,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepod,Calanus pacificus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_OKi_118,0.0198,0.1549295775,150,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_OKi_118,0.062,0.4851330203,150,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia juveniles,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_OKi_118,0.046,0.3599374022,150,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipod,Orchomenella obtusa,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_OKi_127,0.044,1,151,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_62,0.018,1,152,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_65,0.022,1,153,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_75,0.042,1,154,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_83a,0.041,0.476744186,155,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_83a,0.045,0.523255814,155,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_83b,0.032,1,156,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_84,0.07,1,157,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_88,0.112,1,158,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_89,0.05,1,159,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_90,0.116,1,160,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_91,0.054,1,161,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_95,0.176,1,162,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_97a,0.103,1,163,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_97b,0.091,1,164,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_100,0.093,0.4581280788,165,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_100,0.11,0.5418719212,165,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_103,0.052,1,166,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_107,0.17,1,167,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_112,0.1,1,168,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_123,0.07,1,169,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_134,0.12,1,170,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,INsect,Culicidae,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_No_Oke_62,1,1,171,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insect,Cecidomyiidae,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_No_Oke_65,1,1,172,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,NA,Euphausiid,eggs,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_No_Oke_84,30,1,173,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,NA,Euphausiid,eggs,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_No_Oke_92,16,1,174,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,NA,Euphausiid,eggs,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_99,0.002,1,175,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,NA,Copepod,Digested,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_112,0.01,1,176,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,chaetognath,Sagitta elegans,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_65,0.006,1,177,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,chaetognath,Sagitta elegans,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_83a,0.004,1,178,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,chaetognath,Sagitta elegans,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_89,0.006,1,179,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_90,0.024,1,180,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,chaetognath,Sagitta elegans,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_91,0.014,1,181,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,chaetognath,Sagitta elegans,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_100,0.03,1,182,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_103,0.032,1,183,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,chaetognath,Sagitta elegans,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_134,0.05,1,184,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_60,0.067,1,185,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_65,0.32,0.9523809524,186,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_65,0.016,0.04761904762,186,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_83a,0.022,1,187,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_83b,0.018,1,188,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_90,0.016,1,189,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_91,0.026,1,190,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_No_Oke_92,3,1,191,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_92,0.059,1,192,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_No_Oke_92,4,1,193,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_99,0.003,0.0223880597,194,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_99,0.131,0.9776119403,194,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_100,0.012,1,195,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_Oke_103,0.006,1,196,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_MP_255,4.2,1,197,FISH_Barraclough_&_Fulton_1968
+FVS,juvenile,Scorpaenichthys marmoratus,Scorpaenichthys marmoratus,BFF,Cirripedia,Balanus cypris stage,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_No_SC_8,1,1,198,FISH_Barraclough_&_Fulton_1968
+SMD,adult,Gasterosteus aculeatus,Gasterosteus aculeatus,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_GA_75,0.272,0.7771428571,199,FISH_Barraclough_&_Fulton_1968
+SMD,adult,Gasterosteus aculeatus,Gasterosteus aculeatus,ZM,Copepod,Calanus pacificus,TOW_NUMBER_32_Saanich_Inlet_Off_Patricia_Bay_W_GA_75,0.078,0.2228571429,199,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,FPS,Fish,Ammodytes hexapterus,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_Oki_159,1,0.125,200,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastodes sp,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_Oki_159,7,0.875,200,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_W_Oki_159,0.314,0.9486404834,201,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepod,Calanus pacificus,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_W_Oki_159,0.017,0.05135951662,201,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_W_Oke_95,0.36,0.7809110629,202,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognath,Chaetognath,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_W_Oke_95,0.016,0.03470715835,202,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Copepod,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_W_Oke_95,0.085,0.1843817787,202,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus larval,Merluccius productus larval,BML,Copepod,nauplius,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_MP_4a,1,1,203,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus larval,Merluccius productus larval,BML,Copepod,nauplius,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_MP_4b,1,1,204,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_SS_5,4,1,205,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_SS_6a,4,1,206,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_SS_4.5,2,1,207,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_SS_5,4,1,208,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_SS_6b,6,1,209,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_SS_6c,2,1,210,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_SS_7,5,1,211,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,eggs,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_SS_5,2,1,212,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,eggs,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_SS_6a,1,1,213,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,eggs,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_SS_4.5,1,1,214,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,eggs,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_SS_6b,2,1,215,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,eggs,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_SS_7,1,1,216,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Clevelandia ios larval,Clevelandia ios larval,BML,Copepod,nauplii,TOW_NUMBER_33_Sanich_Inlet_Off_Mill_Bay_No_CI_4.5,2,1,217,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus larval,Merluccius productus larval,BML,Copepod,nauplii,TOW_35_Saanich_Inlet_Mid_Channel_No_MP_4a,4,1,218,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus larval,Merluccius productus larval,BML,Copepod,nauplii,TOW_35_Saanich_Inlet_Mid_Channel_No_MP_4b,2,1,219,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus larval,Merluccius productus larval,BML,Copepod,nauplii,TOW_35_Saanich_Inlet_Mid_Channel_No_MP_5,3,1,220,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus larval,Merluccius productus larval,ZM,Copepod,Copepodite,TOW_35_Saanich_Inlet_Mid_Channel_No_MP_7,2,1,221,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_35_Saanich_Inlet_Mid_Channel_No_SS_5a,2,1,222,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_35_Saanich_Inlet_Mid_Channel_No_SS_5b,3,1,223,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_35_Saanich_Inlet_Mid_Channel_No_SS_6,2,1,224,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_35_Saanich_Inlet_Mid_Channel_No_SS_5a,1,1,225,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_35_Saanich_Inlet_Mid_Channel_No_SS_5b,3,1,226,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_35_Saanich_Inlet_Mid_Channel_No_SS_7,4,1,227,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Clevelandia ios larval,Clevelandia ios larval,BML,Copepod,nauplius,TOW_35_Saanich_Inlet_Mid_Channel_No_CI_4.5,1,0.3333333333,228,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Clevelandia ios larval,Clevelandia ios larval,BML,Copepod,nauplii,TOW_35_Saanich_Inlet_Mid_Channel_No_CI_4.5,2,0.6666666667,228,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Clevelandia ios larval,Clevelandia ios larval,BML,Copepod,nauplius,TOW_35_Saanich_Inlet_Mid_Channel_No_CI_5,1,1,229,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Allolumpenus hypochromus larval,Allolumpenus hypochromus larval,BML,Copepod,nauplii,TOW_35_Saanich_Inlet_Mid_Channel_No_AH_13,6,1,230,FISH_Barraclough_&_Fulton_1968
+FRESHWATER,juvenile,Lyconectes aleutensis,Lyconectes aleutensis,ZM,Copepod,Copepodite,TOW_35_Saanich_Inlet_Mid_Channel_No_LA_10,2,1,231,FISH_Barraclough_&_Fulton_1968
+FRESHWATER,juvenile,Lyconectes aleutensis,Lyconectes aleutensis,ZM,Copepod,Copepodite,TOW_35_Saanich_Inlet_Mid_Channel_No_LA_11,4,1,232,FISH_Barraclough_&_Fulton_1968
+FPS,juvenile,Ammodytes hexapterus larval,Ammodytes hexapterus larval,BML,Copepod,nauplii,TOW_35_Saanich_Inlet_Mid_Channel_No_AH_15,3,1,233,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_OG_110,0.098,0.6363636364,234,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_OG_110,0.015,0.0974025974,234,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_OG_110,0.041,0.2662337662,234,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_OG_110,85,0.7083333333,235,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_OG_110,35,0.2916666667,235,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BML,Decapod,Decapod juveniles,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_OG_110,0.01,1,236,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_74,3,1,237,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_85,0.001,1,238,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_87,0.005,1,239,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_91b,0.01,1,240,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_95,0.014,1,241,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_103,0.005,1,242,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_79,0.05,1,243,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_85,0.036,1,244,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_87,0.039,1,245,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_91a,0.048,1,246,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_91b,0.091,1,247,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_93a,0.012,1,248,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_93b,0.052,1,249,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_96,0.068,1,250,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_103,0.04,1,251,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_130,0.1,1,252,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Brachyura zoea,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_74,2,0.1538461538,253,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,FMM,Fish eggs,Merluccius productus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_74,8,0.6153846154,253,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insecta,Homoptera,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_74,3,0.2307692308,253,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insecta,Homoptera,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_93b,0.007,1,254,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insecta,Homoptera,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_103,0.006,1,255,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insecta,Homoptera,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_130,0.008,1,256,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_85,0.013,1,257,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_87,0.002,1,258,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_95,0.002,1,259,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Clevelandia ios,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_85,1,1,260,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_74,3,1,261,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_79,0.062,1,262,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_85,0.018,1,263,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_91a,0.012,1,264,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_91b,0.039,1,265,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_93b,0.11,1,266,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiid,Furcilia,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_95,0.01,0.1666666667,267,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_95,0.05,0.8333333333,267,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiid,Euphasia pacifica,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_103,0.046,0.71875,268,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_103,0.018,0.28125,268,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_130,0.018,1,269,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_74,0.1,1,270,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_74,20,1,271,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_79,40,1,272,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_85,79,0.632,273,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_85,40,0.32,273,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_85,6,0.048,273,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_87,53,0.6022727273,274,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_87,23,0.2613636364,274,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_87,10,0.1136363636,274,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Acartia longiremis,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_87,2,0.02272727273,274,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_91a,28,0.4375,275,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_91a,31,0.484375,275,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_91a,5,0.078125,275,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_91b,66,0.7173913043,276,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_91b,22,0.2391304348,276,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_91b,4,0.04347826087,276,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_93a,32,0.4507042254,277,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_93a,39,0.5492957746,277,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_93b,16,0.5333333333,278,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_93b,11,0.3666666667,278,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_93b,3,0.1,278,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_95,81,0.6806722689,279,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_95,37,0.3109243697,279,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_95,1,0.008403361345,279,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_96,30,0.625,280,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_96,18,0.375,280,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_103,26,0.4814814815,281,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_103,28,0.5185185185,281,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_130,125,0.6720430108,282,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_Oke_130,61,0.3279569892,282,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiid,furcilia stage,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_85,0.004,1,283,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insecta,Diptera - Culicidae,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_Oke_103,0.002,1,284,FISH_Barraclough_&_Fulton_1968
+FMM,juvenile,Merluccius productus,Merluccius productus,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_MP_7.5,1,1,285,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplius,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_SS_5,1,1,286,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplius,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_SS_6a,1,1,287,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplius,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_SS_6b,2,1,288,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplius,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_SS_6c,1,1,289,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,eggs,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_SS_6a,2,1,290,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepod,eggs,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_SS_6b,2,1,291,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Acartia longiremis,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_SS_11,1,1,292,FISH_Barraclough_&_Fulton_1968
+SMD,adult,Gasterosteus aculeatus,Gasterosteus aculeatus,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_GA_60,12,1,293,FISH_Barraclough_&_Fulton_1968
+SMD,adult,Gasterosteus aculeatus,Gasterosteus aculeatus,ZM,Copepod,Acartia longiremis,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_GA_60,0.006,1,294,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii,Coryphopterus nicholsii,BML,Copepod,nauplius,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_CN_4.5,1,0.5,295,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii,Coryphopterus nicholsii,BML,Copepod,nauplius,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_CN_4.5,1,0.5,295,FISH_Barraclough_&_Fulton_1968
+FPS,adult,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Calanus pacificus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_AH_115,2,0.5,296,FISH_Barraclough_&_Fulton_1968
+FPS,adult,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_36_Saanich_Inlet_Brentwood_No_AH_115,2,0.5,296,FISH_Barraclough_&_Fulton_1968
+FPS,adult,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepod,Acartia longiremis,TOW_NUMBER_36_Saanich_Inlet_Brentwood_W_AH_115,0.035,1,297,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Coryphopterus nicholsii,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_85,0.012,1,298,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Coryphopterus nicholsii,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_91,0.005,1,299,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Coryphopterus nicholsii,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_98,0.001,1,300,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Coryphopterus nicholsii,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_No_Oke_102,1,1,301,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Coryphopterus nicholsii,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_120,0.25,0.9505703422,302,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_120,0.013,0.04942965779,302,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_73,0.01,1,303,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_98,0.004,1,304,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_102,0.018,1,305,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_120,0.003,1,306,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,FMM,Fish,Merluccius productus,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_98,0.001,1,307,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insecta,Homoptera,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_91,0.001,1,308,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_73,0.028,1,309,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_85,0.05,1,310,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_91,0.056,1,311,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_98,0.031,1,312,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_102,0.064,1,313,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_120,0.018,1,314,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_73,0.16,1,315,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_No_Oke_85,15,0.1851851852,316,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_No_Oke_85,66,0.8148148148,316,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_No_Oke_91,25,0.15625,317,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_No_Oke_91,135,0.84375,317,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_No_Oke_98,20,0.1801801802,318,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_No_Oke_98,91,0.8198198198,318,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_No_Oke_102,6,0.05,319,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_No_Oke_102,114,0.95,319,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_120,0.02,1,320,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,FISH,Fish,Fish egg with larva,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_73,0.002,1,321,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Decapod juveniles,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_91,0.004,1,322,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Decapod juveniles,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_No_Oke_98,2,1,323,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Decapod juveniles,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_W_Oke_120,0.052,1,324,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii larval,Coryphopterus nicholsii larval,BML,Copepod,nauplius,TOW_NUMBER_37_Saanich_Inlet_Off_Sheppard_point_No_CN_5,1,1,325,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_OG_110,0.009,1,326,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_OG_117,0.01,1,327,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Insect,Homoptera,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_OG_110,0.004,0.01826484018,328,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_OG_110,0.021,0.09589041096,328,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_OG_110,0.194,0.8858447489,328,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_OG_117,0.048,0.6857142857,329,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_OG_117,0.022,0.3142857143,329,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_OG_110,0.09,1,330,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_OG_117,0.8,1,331,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_Oke_108,0.02,1,332,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_Oke_86,0.096,1,333,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_Oke_108,0.02,1,334,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_Oke_86,0.008,1,335,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_Oke_108,0.006,0.08450704225,336,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_Oke_108,0.065,0.9154929577,336,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_Oke_86,0.03,1,337,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_Oke_108,0.085,1,338,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Decapod juveniles,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_Oke_86,0.002,1,339,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Decapod juveniles,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_W_Oke_108,0.028,1,340,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Agonopsis emmelane,Agonopsis emmelane,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_No_AE_10,1,1,341,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii larval,Coryphopterus nicholsii larval,BML,Copepod,nauplius,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_No_CN_4.5,1,0.25,342,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii larval,Coryphopterus nicholsii larval,BML,Copepod,nauplii,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_No_CN_4.5,3,0.75,342,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii larval,Coryphopterus nicholsii larval,BML,Copepod,nauplii,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_No_CN_5,2,1,343,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Lumpenus sagitta,Lumpenus sagitta,NA,Copepod,eggs,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_No_LS_23,32,1,344,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Lumpenus sagitta,Lumpenus sagitta,NA,Copepod,eggs,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_No_LS_27,22,1,345,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Lumpenus sagitta,Lumpenus sagitta,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_No_LS_23,8,1,346,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Lumpenus sagitta,Lumpenus sagitta,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_38_Saanich_Inlet_Repulse_Rock_No_LS_27,11,1,347,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_OG_83,0.008,0.02116402116,348,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_OG_83,0.07,0.1851851852,348,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Insecta,Trichoptera,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_OG_83,0.005,0.01322751323,348,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Chaetgnatha,sagitta elegans,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_OG_83,0.26,0.6878306878,348,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepod,Calanus pacificus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_OG_83,0.033,0.0873015873,348,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Insecta,Homoptrera,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_OG_83,0.002,0.005291005291,348,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_65,0.034,1,349,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_71,0.016,0.5517241379,350,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_71,0.013,0.4482758621,350,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_74,0.05,0.7352941176,351,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_74,0.015,0.2205882353,351,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Coryphopterus nicholsii,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_74,0.003,0.04411764706,351,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_76,0.002,0.02597402597,352,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_76,0.075,0.974025974,352,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_78,0.013,0.3611111111,353,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_78,0.02,0.5555555556,353,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Coryphopterus nicholsii,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_78,0.003,0.08333333333,353,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_85,0.015,0.3333333333,354,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_85,0.03,0.6666666667,354,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_93,0.019,0.1098265896,355,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_93,0.136,0.7861271676,355,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Coryphopterus nicholsii,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_93,0.018,0.1040462428,355,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_101,0.015,0.4285714286,356,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Coryphopterus nicholsii,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_101,0.02,0.5714285714,356,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_65,0.028,1,357,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,sagitta elegans,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_69,0.028,1,358,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_71,0.11,1,359,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_74,0.03,1,360,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_76,0.02,0.1333333333,361,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiid,furcilia,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_76,0.004,0.02666666667,361,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_76,0.126,0.84,361,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_78,0.06,1,362,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognaths,Sagitta elegans,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_85,0.093,1,363,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_93,0.088,1,364,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_101,0.347,1,365,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_65,0.076,0.6551724138,366,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_65,0.04,0.3448275862,366,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_69,0.08,0.522875817,367,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_69,0.073,0.477124183,367,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_71,0.02,0.7142857143,368,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_71,0.008,0.2857142857,368,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_74,0.03,0.2857142857,369,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_74,0.075,0.7142857143,369,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_76,0.045,0.6923076923,370,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_76,0.02,0.3076923077,370,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_78,0.18,0.75,371,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_78,0.06,0.25,371,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_85,0.052,0.7123287671,372,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_85,0.021,0.2876712329,372,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_No_Oke_93,12,0.3333333333,373,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_No_Oke_93,24,0.6666666667,373,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_No_Oke_101,5,0.1428571429,374,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_No_Oke_101,30,0.8571428571,374,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insecta,Homoptrera,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_69,0.001,1,375,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiid,Euphausiid juveniles,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_71,0.005,0.5555555556,376,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Coryphoterus nicholsii,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_71,0.004,0.4444444444,376,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiid,Euphausiid juveniles,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_74,0.004,1,377,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Decapod juveniles,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_76,0.003,1,378,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Decapod juveniles,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_78,0.006,1,379,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Decapod juveniles,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_85,0.008,1,380,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Decapod juveniles,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_93,0.008,1,381,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapod,Decapod juveniles,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_Oke_101,0.006,1,382,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_No_SS_13,8,1,383,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_No_SS_15,7,1,384,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_No_SS_17,9,1,385,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,egg. P. minutus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_No_SS_5,1,1,386,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,egg. P. minutus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_No_SS_6,2,1,387,FISH_Barraclough_&_Fulton_1968
+SMD,adult,Gasterosteus aculeatus,Gasterosteus aculeatus,BML,Copepod,nauplii,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_No_GA_78,2,0.6666666667,388,FISH_Barraclough_&_Fulton_1968
+SMD,adult,Gasterosteus aculeatus,Gasterosteus aculeatus,BML,Copepod,nauplii,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_No_GA_78,1,0.3333333333,388,FISH_Barraclough_&_Fulton_1968
+SMD,adult,Gasterosteus aculeatus,Gasterosteus aculeatus,ZL,Euphausiid,Euphausia pacifica,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_GA_78,0.256,0.9770992366,389,FISH_Barraclough_&_Fulton_1968
+SMD,adult,Gasterosteus aculeatus,Gasterosteus aculeatus,ZM,Copepod,Calanus pacificus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_GA_78,0.002,0.007633587786,389,FISH_Barraclough_&_Fulton_1968
+SMD,adult,Gasterosteus aculeatus,Gasterosteus aculeatus,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_39_Saanich_Inlet_Off_Christmas_Point_W_GA_78,0.004,0.01526717557,389,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_57,4,1,390,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_81,2,0.6666666667,391,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_81,1,0.3333333333,391,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_85,89,0.8640776699,392,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_85,13,0.1262135922,392,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_85,1,0.009708737864,392,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_89,11,0.8461538462,393,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_89,2,0.1538461538,393,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_73,180,1,394,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_81,75,1,395,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_89,30,1,396,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapoda,Brachyura zoea,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_81,1,1,397,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapoda,Brachyura zoea,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_85,4,1,398,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Insecta,Plecoptera,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_57,2,0.05882352941,399,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hemiptera,Aphididae,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_57,8,0.2352941176,399,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hymenoptera,Formicidae,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_57,1,0.02941176471,399,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_57,23,0.6764705882,399,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hemiptera,Aphididae,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_67,2,0.1538461538,400,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_67,11,0.8461538462,400,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Culicidae,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_73,10,0.1960784314,401,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_73,41,0.8039215686,401,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hemiptera,Aphididae,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_78,3,0.75,402,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_78,1,0.25,402,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_81,4,1,403,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_85,6,1,404,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_78,1,1,405,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_85,2,1,406,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Bathymaster signatus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_73,3,1,407,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_57,4,0.2857142857,408,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_57,10,0.7142857143,408,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_67,6,0.3333333333,409,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_67,12,0.6666666667,409,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphauisiacea,furcilia,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_73,2,0.2,410,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_73,8,0.8,410,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphauisiacea,Euphausia pacifica,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_78,1,0.07142857143,411,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_78,4,0.2857142857,411,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_78,9,0.6428571429,411,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_81,94,0.8867924528,412,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_81,12,0.1132075472,412,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphauisiacea,Euphausia pacifica,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_85,1,0.01234567901,413,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_85,67,0.8271604938,413,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_85,13,0.1604938272,413,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_89,72,0.9230769231,414,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_89,6,0.07692307692,414,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_57,54,1,415,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_67,27,0.5192307692,416,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_67,23,0.4423076923,416,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_67,2,0.03846153846,416,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_73,4,0.4444444444,417,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_73,3,0.3333333333,417,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_73,2,0.2222222222,417,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus pacificus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_78,52,0.5416666667,418,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepod,Calanus plumchrus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_78,44,0.4583333333,418,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_81,38,0.7169811321,419,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_81,15,0.2830188679,419,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_85,50,0.7246376812,420,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_85,19,0.2753623188,420,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_89,11,0.6875,421,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_NUMBER_41_Saanich_Inlet_Elbow_Point_No_Oke_89,5,0.3125,421,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,15,0.02923976608,422,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,13,0.0253411306,422,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,3,0.005847953216,422,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,14,0.02729044834,422,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BFF,Larvacea,Oikopleura sp,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,350,0.6822612086,422,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BML,Decapoda,Brachyura zoea,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,4,0.007797270955,422,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Diptera,Cecidomyiidae,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,7,0.01364522417,422,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,NA,Fish,eggs,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,4,0.007797270955,422,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphauisiacea,furcilia,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,1,0.001949317739,422,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Chaetognatha,Sagitta elegans,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,65,0.126705653,422,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,25,0.04873294347,422,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,11,0.02144249513,422,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Hymenoptera,Formacididae,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_OG_97,1,0.001949317739,422,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_87,1,0.5,423,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_87,1,0.5,423,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_95,2,1,424,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_87,975,1,425,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_95,1050,1,426,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_102,2375,1,427,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapoda,Brachyura zoea,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_87,1,1,428,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_45,2,1,429,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hemiptera,Aphididae,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_65,8,0.1509433962,430,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_65,45,0.8490566038,430,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hemiptera,Aphididae,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_95,2,0.5,431,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_95,2,0.5,431,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,NA,Fish,Eggs,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_95,0,0,431,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,NA,Fish,Eggs,TOW_Number_43_Saanich_Inlet_Off_Coal_Point_No_Oke_65,60,1,432,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_65,2,1,433,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,SMD,Fish,Gobiidae,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_87,12,1,434,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_65,26,1,435,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphauisiacea,furcilia,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_87,1,0.01408450704,436,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_87,70,0.985915493,436,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_95,14,1,437,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_102,15,1,438,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_65,70,0.7954545455,439,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_65,18,0.2045454545,439,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_87,3,1,440,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_95,19,0.8636363636,441,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_95,3,0.1363636364,441,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_102,9,0.3214285714,442,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_Number_42_Saanich_Inlet_McKenzie_Bight_No_Oke_102,19,0.6785714286,442,FISH_Barraclough_&_Fulton_1968
+POP,adult,Cymatogaster aggregata,Cymatogaster aggregata,BC,Annelida,Polychaeta,TOW_Number_43_Saanich_Inlet_Off_Coal_Point_No_CA_75,1,1,443,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_Number_43_Saanich_Inlet_Off_Coal_Point_No_SS_6b,3,1,444,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepod,nauplii,TOW_Number_43_Saanich_Inlet_Off_Coal_Point_No_SS_6c,3,1,445,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Copepodite,TOW_Number_43_Saanich_Inlet_Off_Coal_Point_No_SS_5,4,1,446,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Copepodite,TOW_Number_43_Saanich_Inlet_Off_Coal_Point_No_SS_5.5,3,1,447,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,TOW_Number_43_Saanich_Inlet_Off_Coal_Point_No_SS_6a,2,1,448,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Pseudocalanus minutus,TOW_Number_43_Saanich_Inlet_Off_Coal_Point_No_SS_13,4,0.8,449,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepod,Acartia longiremis,TOW_Number_43_Saanich_Inlet_Off_Coal_Point_No_SS_13,1,0.2,449,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii,Coryphopterus nicholsii,BML,Copepod,nauplii,TOW_Number_43_Saanich_Inlet_Off_Coal_Point_No_CN_4.5,1,1,450,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii,Coryphopterus nicholsii,BML,Copepod,nauplii,TOW_Number_43_Saanich_Inlet_Off_Coal_Point_No_CN_5.5,2,1,451,FISH_Barraclough_&_Fulton_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,BD,Amphipoda,Orchomenella sp,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SG_196,1,0.04761904762,452,FISH_Barraclough_&_Fulton_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,BD,Amphipoda,Parathemisto pacifica,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SG_196,1,0.04761904762,452,FISH_Barraclough_&_Fulton_1968
+STEELHEAD,juvenile,Salmo gairdnerii,Salmo gairdnerii,ZL,Euphausiacea,Euphausia pacifica,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SG_196,19,0.9047619048,452,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_OG_117,3,0.05882352941,453,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_OG_117,1,0.01960784314,453,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,NA,Euphausiacea,Eggs,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_OG_117,45,0.8823529412,453,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_OG_117,1,0.01960784314,453,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,Thysanoessa raschii,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_OG_117,1,0.01960784314,453,FISH_Barraclough_&_Fulton_1968
+SAL,juvenile,Oncorhynchus nerka,Oncorhynchus nerka,ZM,Copepoda,Calanus pacificus,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_ON_151,75,1,454,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_5a,2,0.4,455,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_5a,3,0.6,455,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_5b,1,1,456,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_5c,1,1,457,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_6,4,0.6666666667,458,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_6,2,0.3333333333,458,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_7,3,1,459,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_6a,2,1,460,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepoda,eggs,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_5b,2,1,461,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepoda,Eggs,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_5c,2,1,462,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepoda,Eggs,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_6,3,1,463,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepoda,Eggs,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_9,3,1,464,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Euphausiacea,Eggs,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_6b,2,1,465,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepoda,Eggs,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_11,3,1,466,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Acartia longiremis,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_7,1,1,467,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_11,1,0.5,468,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Acartia longiremis,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_SS_11,1,0.5,468,FISH_Barraclough_&_Fulton_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepoda,Acartia longiremis,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_AH_24a,4,1,469,FISH_Barraclough_&_Fulton_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepoda,Acartia longiremis,TOW_Number_44_Entrance_to_Saanich_Inlet_Off_Moses_Point_No_AH_24b,5,1,470,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BFF,Larvacea,Oikopleura sp,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_63,3,1,471,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Hemiptera,Aphididae,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_83,5,1,472,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Hemiptera,Aphididae,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_97,9,0.1011235955,473,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Diptera,Cecidomyiidae,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_97,80,0.8988764045,473,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ROCKFISH,Fish,Sebastodes sp,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_105,11,0.8461538462,474,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ROCKFISH,Fish,Sebastodes sp,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_105,2,0.1538461538,474,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_97,2,0.6666666667,475,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Chaetognatha,Sagitta elegans,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_97,1,0.3333333333,475,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_105,22,0.9166666667,476,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,Euphausia pacifica,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_105,2,0.08333333333,476,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_83,5,0.05555555556,477,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_83,85,0.9444444444,477,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_97,13,0.1007751938,478,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_97,116,0.8992248062,478,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_105,3,0.007832898172,479,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OG_105,380,0.9921671018,479,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,BD,Amphipoda,Parathemisto pacifica,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_93,1,0.3333333333,480,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Hymenoptera,Formicidae,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_93,1,0.3333333333,480,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Cecidomyiidae,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_93,1,0.3333333333,480,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Cecidomyiidae,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_102,1,1,481,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Hymenoptera,Formicidae,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_115,4,0.3333333333,482,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,INSECT,Diptera,Cecidomyiidae,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_115,8,0.6666666667,482,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ROCKFISH,Fish,Sebastodes sp,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_102,2,1,483,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiacea,furcilia,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_93,16,0.8888888889,484,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiacea,Euphausia pacifica,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_93,2,0.1111111111,484,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiacea,furcilia,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_102,3,1,485,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiacea,furcilia,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_115,27,0.5,486,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZL,Euphausiacea,Euphausia pacifica,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_115,27,0.5,486,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepoda,Calanus pacificus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_93,24,0.1137440758,487,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepoda,Calanus plumchrus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_93,187,0.8862559242,487,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepoda,Calanus pacificus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_102,17,0.04485488127,488,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepoda,Calanus plumchrus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_102,362,0.9551451187,488,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepoda,Calanus pacificus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_115,12,0.2352941176,489,FISH_Barraclough_&_Fulton_1968
+CO,juvenile,Oncorhynchus kisutch,Oncorhynchus kisutch,ZM,Copepoda,Calanus plumchrus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_Oki_115,39,0.7647058824,489,FISH_Barraclough_&_Fulton_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OT_91,7,0.01842105263,490,FISH_Barraclough_&_Fulton_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ROCKFISH,Fish,Sebastodes sp,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OT_91,1,0.002631578947,490,FISH_Barraclough_&_Fulton_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,SMD,Fish,Anoplarchus purpurescens,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OT_91,1,0.002631578947,490,FISH_Barraclough_&_Fulton_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ZL,Euphausiacea,furcilia,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OT_91,8,0.02105263158,490,FISH_Barraclough_&_Fulton_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ZL,Euphausiacea,Euphausia pacifica,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OT_91,1,0.002631578947,490,FISH_Barraclough_&_Fulton_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ZM,Copepoda,Calanus pacificus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OT_91,210,0.5526315789,490,FISH_Barraclough_&_Fulton_1968
+CI,juvenile,Oncorhynchus tshawytscha,Oncorhynchus tshawytscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_OT_91,152,0.4,490,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_SS_5,2,1,491,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_SS_6,2,1,492,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_SS_11,4,1,493,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepoda,eggs,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_SS_5,2,1,494,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepoda,Eggs,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_SS_7,2,1,495,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Acartia longiremis,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_SS_8.5,1,1,496,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Acartia longiremis,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_SS_13,1,1,497,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Zoarcidae,Zoarcidae,ZM,Copepoda,Copepodite,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_ZO_6,1,1,498,FISH_Barraclough_&_Fulton_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepoda,Acartia longiremis,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_AH_18,2,1,499,FISH_Barraclough_&_Fulton_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepoda,Acartia longiremis,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_AH_19,2,1,500,FISH_Barraclough_&_Fulton_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepoda,Acartia longiremis,TOW_Number_45_Entrance_to_Saanich_Inlet_Hatch_Point_No_AH_24,4,1,501,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_95,55,0.7857142857,502,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_95,15,0.2142857143,502,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_102,82,0.2897526502,503,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_102,10,0.03533568905,503,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_102,191,0.6749116608,503,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_110,33,0.3666666667,504,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_110,15,0.1666666667,504,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipod,Parathemisto pacifica,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_110,42,0.4666666667,504,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_111,90,0.4109589041,505,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_111,32,0.1461187215,505,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_111,97,0.4429223744,505,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapoda,Brachyura zoea,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_95,40,1,506,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapoda,Brachyura zoea,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_102,25,1,507,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapoda,Brachyura zoea,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_110,2,1,508,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapoda,Brachyura zoea,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_111,8,1,509,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hemiptera,Aphididae,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_110,1,0.1666666667,510,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Diptera,Cecidomyiidae,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_110,5,0.8333333333,510,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,NA,Euphausiacea,Eggs,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_111,61,1,511,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Diptera,Sebastodes sp,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_110,2,1,512,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_111,7,1,513,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_95,740,1,514,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_102,382,1,515,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_110,710,1,516,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_111,1040,1,517,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_95,110,0.88,518,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_95,15,0.12,518,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Decapoda,Pseudocalanus minutus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_102,1,1,519,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_110,16,1,520,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_111,104,0.8813559322,521,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_111,14,0.1186440678,521,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,P. minutus and  Acartia sp,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_95,215,0.9728506787,522,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,Euphausiacea juveniles,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_95,6,0.02714932127,522,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Pseudocalanus pacificus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_110,5,0.2083333333,523,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,P. minutus and Acartia sp,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_110,17,0.7083333333,523,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,Euphausiacea juveniles,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_110,2,0.08333333333,523,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,P. minutus and Acartia sp,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_Oke_111,18,1,524,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepoda,Eggs,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_SS_16,1,1,525,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_SS_10,1,1,526,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_SS_12,3,1,527,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_SS_14,2,0.4,528,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_SS_14,3,0.6,528,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_SS_16,9,0.375,529,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_SS_16,3,0.125,529,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_SS_16,7,0.2916666667,529,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_SS_16,5,0.2083333333,529,FISH_Barraclough_&_Fulton_1968
+FVS,juvenile,Scorpaenichthys marmoratus,Scorpaenichthys marmoratus,BML,Copepoda,nauplii,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_SM_9,2,1,530,FISH_Barraclough_&_Fulton_1968
+FVS,juvenile,Scorpaenichthys marmoratus,Scorpaenichthys marmoratus,BML,Copepoda,Brachyura zoea,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_SM_12,3,1,531,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Bathymaster signatus,Bathymaster signatus,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_BT_28,4,0.8,532,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Bathymaster signatus,Bathymaster signatus,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_30_Saanich_Inlet_Off_Tozier_Rock_No_BT_28,1,0.2,532,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_77,1,0.07692307692,533,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_77,12,0.9230769231,533,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_95,42,1,534,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_100,27,1,535,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_103,11,1,536,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_104,8,1,537,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_105,3,0.4285714286,538,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_105,4,0.5714285714,538,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_107,8,1,539,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_108,7,1,540,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_112,6,1,541,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_116,12,1,542,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Hemiptera,Aphididae,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_107,1,1,543,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Hemiptera,Aphididae,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_108,7,1,544,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,INSECT,Hemiptera,Aphididae,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_116,2,1,545,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,SMD,Fish,Gasterosteus aculeatus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_77,4,1,546,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,SMD,Fish,Gasterosteus aculeatus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_95,3,1,547,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,SMD,Fish,Gasterosteus aculeatus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_100,2,1,548,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_77,480,0.9958506224,549,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Chaetognatha,Sagitta elegans,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_77,2,0.004149377593,549,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_95,675,1,550,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_100,900,1,551,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_103,980,1,552,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_104,1080,1,553,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_105,1245,1,554,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_107,1750,0.9994288978,555,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,Euphausia pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_107,1,5.711022273e-4,555,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_108,2100,1,556,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_112,2910,1,557,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_116,2380,1,558,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_77,116,0.7581699346,559,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_77,37,0.2418300654,559,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_95,234,0.9512195122,560,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_95,12,0.0487804878,560,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_100,195,0.9069767442,561,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_100,20,0.09302325581,561,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_103,170,0.9139784946,562,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_103,16,0.08602150538,562,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_104,126,0.84,563,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_104,17,0.1133333333,563,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_104,7,0.04666666667,563,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_105,115,0.9583333333,564,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_105,5,0.04166666667,564,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_107,72,0.8181818182,565,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_107,16,0.1818181818,565,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_108,92,0.7479674797,566,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_108,31,0.2520325203,566,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_112,24,1,567,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_116,216,0.9473684211,568,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_116,12,0.05263157895,568,FISH_Barraclough_&_Fulton_1968
+PIS,juvenile,Oncorhynchus gorbuscha,Oncorhynchus gorbuscha,ZL,Euphausiacea,Euphausiacea juveniles,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OG_77,1,1,569,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_98,12,0.4444444444,570,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_98,15,0.5555555556,570,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_101,8,0.1860465116,571,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_101,35,0.8139534884,571,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_104,3,0.3333333333,572,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_104,6,0.6666666667,572,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_109,11,0.2682926829,573,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_109,30,0.7317073171,573,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_114,14,0.2028985507,574,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_114,55,0.7971014493,574,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BML,Decapoda,Brachyura zoea,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_98,7,1,575,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_104,2,1,576,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Euphausiacea,Sebastodes sp,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_109,4,1,577,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_114,5,1,578,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_98,1855,1,579,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_101,1200,1,580,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_104,1100,1,581,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_109,2300,1,582,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_114,2400,0.9991673605,583,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_114,2,8.326394671e-4,583,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_98,42,1,584,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_101,110,0.859375,585,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_101,18,0.140625,585,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_104,140,0.8695652174,586,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_Oke_104,21,0.1304347826,586,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_109,84,0.8659793814,587,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_109,13,0.1340206186,587,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_114,210,0.9459459459,588,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus plumchrus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OKe_114,12,0.05405405405,588,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SS_7,3,1,589,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplius,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SS_8,1,1,590,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SS_12,1,1,591,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepoda,eggs,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SS_14,20,1,592,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Epilabidocera amphitrites,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SS_10,1,1,593,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SS_12,2,1,594,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SS_14,8,1,595,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SS_19,6,1,596,FISH_Barraclough_&_Fulton_1968
+FVS,juvenile,Scorpaenichthys marmoratus,Scorpaenichthys marmoratus,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SM_10,0.8,1,597,FISH_Barraclough_&_Fulton_1968
+FVS,juvenile,Scorpaenichthys marmoratus,Scorpaenichthys marmoratus,BD,Amphipoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SM_11,0.8,1,598,FISH_Barraclough_&_Fulton_1968
+FVS,juvenile,Scorpaenichthys marmoratus,Scorpaenichthys marmoratus,BML,Copepoda,nauplii,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SM_10,0.3,1,599,FISH_Barraclough_&_Fulton_1968
+FVS,juvenile,Scorpaenichthys marmoratus,Scorpaenichthys marmoratus,BML,Copepoda,nauplii,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SM_11,0.3,1,600,FISH_Barraclough_&_Fulton_1968
+FVS,juvenile,Scorpaenichthys marmoratus,Scorpaenichthys marmoratus,ZM,Copepoda,Copepodites,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SM_10,0.6,1,601,FISH_Barraclough_&_Fulton_1968
+FVS,juvenile,Scorpaenichthys marmoratus,Scorpaenichthys marmoratus,ZM,Copepoda,Copepodites,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_SM_11,0.6,1,602,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Odontopyxis trispinosa,Odontopyxis trispinosa,BD,Copepoda,Parathemisto pacifica,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OT_19,1.2,0.1481481481,603,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Odontopyxis trispinosa,Odontopyxis trispinosa,BML,Copepoda,nauplii,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OT_19,0.3,0.03703703704,603,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Odontopyxis trispinosa,Odontopyxis trispinosa,BML,Decapoda,Brachyura zoea,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OT_19,3,0.3703703704,603,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Odontopyxis trispinosa,Odontopyxis trispinosa,ZL,Euphausiacea,furcilia,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OT_19,3,0.3703703704,603,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Odontopyxis trispinosa,Odontopyxis trispinosa,ZM,Copepoda,Copepodites,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_OT_19,0.6,0.07407407407,603,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Agonopsis emmelane,Agonopsis emmelane,BML,Copepoda,nauplii,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_AE_9,0.3,1,604,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Agonopsis emmelane,Agonopsis emmelane,BML,Copepoda,nauplii,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_AE_10,0.3,1,605,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii,Coryphopterus nicholsii,BML,Copepoda,nauplius,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_CN_6,0.3,0.5,606,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii,Coryphopterus nicholsii,BML,Copepoda,nauplius,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_CN_6,0.3,0.5,606,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii,Coryphopterus nicholsii,BML,Copepoda,nauplii,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_CN_7,0.3,0.5,607,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii,Coryphopterus nicholsii,BML,Copepoda,nauplii,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_CN_7,0.3,0.5,607,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii,Coryphopterus nicholsii,ZM,Copepoda,Copepodite,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_CN_10,0.6,1,608,FISH_Barraclough_&_Fulton_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,NA,Copepoda,eggs,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_AH_33,0.11,0.1208791209,609,FISH_Barraclough_&_Fulton_1968
+FPS,juvenile,Ammodytes hexapterus,Ammodytes hexapterus,ZM,Copepoda,Pseudocalanus minutus,TOW_Number_31_Saanich_Inlet_Off_Mill_Bay_No_AH_33,0.8,0.8791208791,609,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_102,30,1,610,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_103,50,1,611,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_108,40,1,612,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_109a,16,1,613,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_109b,32,1,614,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BD,Amphipoda,Parathemisto pacifica,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_OKe_110,30,1,615,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,BFF,Larvacea,Oikopleura sp,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_102,250,1,616,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,INSECT,Hymenoptera,Apoidea,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_109b,1,0.5,617,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ROCKFISH,Fish,Sebastodes sp,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_109b,1,0.5,617,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_102,860,1,618,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_103,900,1,619,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_108,1750,0.998288648,620,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_108,3,0.001711351968,620,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_109a,2330,1,621,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_109b,1550,0.9987113402,622,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Chaetognatha,Sagitta elegans,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_109b,2,0.001288659794,622,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZL,Euphausiacea,furcilia,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_OKe_110,1290,1,623,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_102,16,1,624,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_103,45,1,625,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_108,40,1,626,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_109a,25,1,627,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_Oke_109b,26,1,628,FISH_Barraclough_&_Fulton_1968
+CU,juvenile,Oncorhynchus keta,Oncorhynchus keta,ZM,Copepoda,Calanus pacificus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_OKe_110,40,1,629,FISH_Barraclough_&_Fulton_1968
+FPS,juvenile,Thaleichthys pacificus,Thaleichthys pacificus,ZM,Copepoda,Copepodites,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_TP_21,2,1,630,FISH_Barraclough_&_Fulton_1968
+HAP,juvenile,Atheresthes stomias,Atheresthes stomias,ZM,Copepoda,Copepoda,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_AS_13,6,1,631,FISH_Barraclough_&_Fulton_1968
+HAP,juvenile,Atheresthes stomias,Atheresthes stomias,ZM,Copepoda,Copepoda,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_AS_16,21,1,632,FISH_Barraclough_&_Fulton_1968
+HAP,juvenile,Atheresthes stomias,Atheresthes stomias,ZM,Copepoda,Copepoda,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_AS_19,25,1,633,FISH_Barraclough_&_Fulton_1968
+HAP,juvenile,Atheresthes stomias,Atheresthes stomias,ZM,Copepoda,Copepodites,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_AS_13,3,0.75,634,FISH_Barraclough_&_Fulton_1968
+HAP,juvenile,Atheresthes stomias,Atheresthes stomias,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_AS_13,1,0.25,634,FISH_Barraclough_&_Fulton_1968
+HAP,juvenile,Atheresthes stomias,Atheresthes stomias,ZM,Copepoda,Copepodites,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_AS_16,3,0.375,635,FISH_Barraclough_&_Fulton_1968
+HAP,juvenile,Atheresthes stomias,Atheresthes stomias,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_AS_16,5,0.625,635,FISH_Barraclough_&_Fulton_1968
+HAP,juvenile,Atheresthes stomias,Atheresthes stomias,ZM,Copepoda,Copepodites,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_AS_19,3,0.3,636,FISH_Barraclough_&_Fulton_1968
+HAP,juvenile,Atheresthes stomias,Atheresthes stomias,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_AS_19,7,0.7,636,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_6,3,1,637,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_7a,2,1,638,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_7b,2,1,639,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_8,1,0.25,640,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_8,3,0.75,640,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_10,2,1,641,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_11,4,1,642,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_12,4,1,643,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_14,2,1,644,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,BML,Copepoda,nauplii,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_16,3,1,645,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepoda,eggs,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_14,24,1,646,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,NA,Copepoda,eggs,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_16,19,1,647,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_6,1,1,648,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_7b,2,1,649,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_8,1,0.5,650,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_8,1,0.5,650,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_10,2,1,651,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_11,8,1,652,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_12,12,1,653,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Copepodites,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_14,2,0.1538461538,654,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_14,11,0.8461538462,654,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Copepodites,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_16,3,0.2142857143,655,FISH_Barraclough_&_Fulton_1968
+ROCKFISH,juvenile,Sebastodes sp,Sebastodes sp,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SS_16,11,0.7857142857,655,FISH_Barraclough_&_Fulton_1968
+FVS,juvenile,Scorpaenichthys marmoratus,Scorpaenichthys marmoratus,HAP,Fish,Atheresthes stomias,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SM_17,1,0.08333333333,656,FISH_Barraclough_&_Fulton_1968
+FVS,juvenile,Scorpaenichthys marmoratus,Scorpaenichthys marmoratus,ZL,Euphausiacea,furcilia,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SM_17,7,0.5833333333,656,FISH_Barraclough_&_Fulton_1968
+FVS,juvenile,Scorpaenichthys marmoratus,Scorpaenichthys marmoratus,ZM,Copepoda,Pseudocalanus minutus,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_SM_17,4,0.3333333333,656,FISH_Barraclough_&_Fulton_1968
+SMD,juvenile,Coryphopterus nicholsii,Coryphopterus nicholsii,BML,Fish,nauplii,TOW_NUMBER_32_Saanich_Inlet_Bamberton_to_Mill_Bay_No_CN_8,2,1,657,FISH_Barraclough_&_Fulton_1968

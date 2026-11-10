@@ -1,0 +1,7 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SQX,INVERT,Squid,Loligo opalescens,FRESHWATER,Chordata,Poecilidae,Figure_6,72.0508,0.1901341401,1,SQX_Yang_et_al_1986
+SQX,INVERT,Squid,Loligo opalescens,SMD,Chordata,Sciaenidae,Figure_6,67.1506,0.177203051,1,SQX_Yang_et_al_1986
+SQX,INVERT,Squid,Loligo opalescens,FPS,Chordata,Mugilidae,Figure_6,44.4646,0.117337191,1,SQX_Yang_et_al_1986
+SQX,INVERT,Squid,Loligo opalescens,FPS,Chordata,Atherinidae,Figure_6,55.1724,0.145593898,1,SQX_Yang_et_al_1986
+SQX,INVERT,Squid,Loligo opalescens,SMD,Chordata,Cyprinodontidae,Figure_6,82.3956,0.21743293,1,SQX_Yang_et_al_1986
+SQX,INVERT,Squid,Loligo opalescens,HE,Chordata,Clupeidae,Figure_6,57.7132,0.1522987899,1,SQX_Yang_et_al_1986

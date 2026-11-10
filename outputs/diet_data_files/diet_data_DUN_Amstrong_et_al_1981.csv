@@ -1,0 +1,148 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,unidentified clams,Bivalvia,Fig_4.1,1.17,0.01186612576,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Pacific sanddab,Citharichthys sordidus,Fig_4.1,17.05,0.1729208925,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,DUN,Dungeness crab,Cancer magister,Fig_4.1,4.88,0.04949290061,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,SMD,greenlings,Hexagrammidae,Fig_4.1,28.04,0.2843813387,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Teleostei,Teleostei,Fig_4.1,1.69,0.01713995943,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,crustaceans,Crustacea,Fig_4.1,1.59,0.01612576065,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,crustaceans,Crangon sp,Fig_4.1,13.79,0.1398580122,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,decapods,Decapoda,Fig_4.1,0.44,0.004462474645,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,tellins,Tellinidae,Fig_4.1,0.26,0.002636916836,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,mysid shrimps,Mysida,Fig_4.1,0.58,0.005882352941,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Pacific sand lance,Ammodytes hexapterus,Fig_4.1,5.54,0.05618661258,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,bay ghost shrimp,Callianassa californiensis,Fig_4.1,2.29,0.02322515213,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Bristle worms,Polychaeta,Fig_4.1,1.97,0.01997971602,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,crustaceans,Cancer sp.,Fig_4.1,0.82,0.00831643002,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,California bay shrimp,Crangon franciscorum angustina,Fig_4.1,4.37,0.04432048682,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,black-tailed shrimp,Crangon nigricauda,Fig_4.1,3.11,0.03154158215,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Unidentified,Unidentified,Fig_4.1,0.22,0.002231237323,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,gapers,Mya sp,Fig_4.1,0.14,0.001419878296,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,SMD,snake prickleback,Lumpenus sagitta,Fig_4.1,1.37,0.01389452333,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Ophelia,Ophelia sp.,Fig_4.1,0.95,0.009634888438,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,sand sole,Psettichthys melanostictus,Fig_4.1,3.51,0.03559837728,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crustacea,Crangon stylirostris,Fig_4.1,4.82,0.04888438134,1,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Bivalvia,Bivalvia,Fig_4.2,7.82,0.08088372189,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Ammodytes hexapterus,Ammodytes hexapterus,Fig_4.2,25.52,0.2639581308,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Teleostei,Teleostei,Fig_4.2,8.38,0.08667590658,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Cryptomya californica,Cryptomya californica,Fig_4.2,7.1,0.07343662729,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,HE,Clupea harengus pallasi,Clupea harengus pallasi,Fig_4.2,23.52,0.2432717569,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Crustacea,Fig_4.2,1.46,0.01510105294,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Mya sp,Mya sp,Fig_4.2,3.14,0.032477607,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Cancer sp.,Cancer sp.,Fig_4.2,2.61,0.02699571792,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Mollusca,Mollusca,Fig_4.2,0.72,0.007447094599,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Callianassa californiensis,Callianassa californiensis,Fig_4.2,8.73,0.09029602201,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,MA,Enteromorpha intestinalis,Enteromorpha intestinalis,Fig_4.2,0.1,0.001034318694,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Pleocyemata caridea,Pleocyemata caridea,Fig_4.2,2.55,0.0263751267,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,POP,Cymatogaster aggregata,Cymatogaster aggregata,Fig_4.2,2.74,0.02834033222,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,ZM,Copepoda,Copepoda,Fig_4.2,0.001,1.034318694e-5,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Citharichthys sordidus,Citharichthys sordidus,Fig_4.2,0.34,0.003516683561,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Macoma sp.,Macoma sp.,Fig_4.2,1.05,0.01086034629,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Tellinidae,Tellinidae,Fig_4.2,0.11,0.001137750564,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,ZM,Calanoida,Calanoida,Fig_4.2,0.001,1.034318694e-5,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon nigricauda,Crangon nigricauda,Fig_4.2,0.79,0.008171117685,2,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon sp.,Crangon sp.,Fig_4.3,11,0.1101431861,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,SMD,Microgadus proximus,Microgadus proximus,Fig_4.3,16.88,0.1690197256,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Spirinchus thaleichthys,Spirinchus thaleichthys,Fig_4.3,22.66,0.2268949635,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Crustacea,Fig_4.3,2.81,0.02813657755,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Decapoda,Decapoda,Fig_4.3,1.58,0.01582056674,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Ammodytes hexapterus,Ammodytes hexapterus,Fig_4.3,9.57,0.09582457194,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Teleostei,Teleostei,Fig_4.3,3.11,0.03114048263,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Bivalvia,Bivalvia,Fig_4.3,0.68,0.006808851507,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,DUN,Cancer magister,Cancer magister,Fig_4.3,1.45,0.01451887454,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,HE,Clupea harengus pallasi,Clupea harengus pallasi,Fig_4.3,8.47,0.08481025333,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Callianassa californiensis,Callianassa californiensis,Fig_4.3,7.89,0.07900270351,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Citharichthys sordidus,Citharichthys sordidus,Fig_4.3,8.71,0.08721337739,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Polychaeta,Polychaeta,Fig_4.3,1.06,0.01061379794,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Unidentified,Unidentified,Fig_4.3,0.08,8.010413538e-4,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon franciscorum angustina,Crangon franciscorum angustina,Fig_4.3,2.19,0.02192850706,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Psettichthys melanostictus,Psettichthys melanostictus,Fig_4.3,1.66,0.01662160809,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Cardiidae,Cardiidae,Fig_4.3,0.07,7.009111845e-4,3,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon sp.,Crangon sp.,Fig_4.4,13.29,0.1356399265,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Callianassa californiensis,Callianassa californiensis,Fig_4.4,18.85,0.1923862013,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Decapoda,Decapoda,Fig_4.4,21.78,0.2222902633,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Crustacea,Fig_4.4,0.94,0.009593794652,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,DUN,Cancer magister,Cancer magister,Fig_4.4,6.8,0.06940191876,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Spirinchus thaleichthys,Spirinchus thaleichthys,Fig_4.4,2.93,0.02990406205,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,SMD,Microgadus proximus,Microgadus proximus,Fig_4.4,12.54,0.1279853031,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Teleostei,Teleostei,Fig_4.4,4.47,0.04562155542,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Bivalvia,Bivalvia,Fig_4.4,0.66,0.006736068585,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Ammodytes hexapterus,Ammodytes hexapterus,Fig_4.4,5.54,0.05654215146,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Psettichthys melanostictus,Psettichthys melanostictus,Fig_4.4,3.22,0.03286384977,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon franciscorum angustina,Crangon franciscorum angustina,Fig_4.4,1.2,0.01224739743,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Mysidae,Mysidae,Fig_4.4,0.17,0.001735047969,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Unidentified,Unidentified,Fig_4.4,0.84,0.0085731782,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Tellinidae,Tellinidae,Fig_4.4,0.87,0.008879363135,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Amphipoda,Amphipoda,Fig_4.4,0.14,0.001428863033,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,POP,Cymatogaster aggregata,Cymatogaster aggregata,Fig_4.4,3.74,0.03817105532,4,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Teleostei,Teleostei,Fig_4.5,13.12,0.130417495,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon sp.,Crangon sp.,Fig_4.5,22.74,0.2260437376,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,DUN,Cancer magister,Cancer magister,Fig_4.5,1.6,0.01590457256,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,POP,Cymatogaster aggregata,Cymatogaster aggregata,Fig_4.5,7.42,0.07375745527,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Psettichthys melanostictus,Psettichthys melanostictus,Fig_4.5,13.61,0.1352882704,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Polychaeta,Polychaeta,Fig_4.5,0.61,0.00606361829,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Callianassidae,Callianassidae,Fig_4.5,5.36,0.05328031809,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Decapoda - Brachyura,DEcapoda,Fig_4.5,4,0.03976143141,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Nereidae,Nereidae,Fig_4.5,22.9,0.2276341948,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Bivalvia,Bivalvia,Fig_4.5,0.3,0.002982107356,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,SMD,Leptocottus armatus,Leptocottus armatus,Fig_4.5,8.84,0.08787276342,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Macoma sp.,Macoma sp.,Fig_4.5,0.05,4.970178926e-4,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Eogammarus sp.,Eogammarus sp.,Fig_4.5,0.05,4.970178926e-4,5,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Bivalvia,Bivalvia,Fig_4.6,7.39,0.07423927348,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,DUN,Cancer magister,Cancer magister,Fig_4.6,4.38,0.04400108496,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Balanomorpha,Balanomorpha,Fig_4.6,17.06,0.1713832213,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,SMD,Microgadus proximus,Microgadus proximus,Fig_4.6,21.42,0.2151833881,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Mya arenaria,Mya arenaria,Fig_4.6,2.36,0.02370834715,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon sp.,Crangon sp.,Fig_4.6,9.55,0.09593843866,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon franciscorum angustina,Crangon franciscorum angustina,Fig_4.6,5.61,0.05635755402,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Eogammarus sp.,Eogammarus sp.,Fig_4.6,0.3,0.003013772942,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Teleostei,Teleostei,Fig_4.6,0.45,0.004520659414,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Gammaridae,Gammaridae,Fig_4.6,0.01,1.004590981e-4,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Macoma sp.,Macoma sp.,Fig_4.6,5.11,0.05133459912,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Cumacea,Cumacea,Fig_4.6,0.001,1.004590981e-5,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Tellina sp.,Tellina sp.,Fig_4.6,0.001,1.004590981e-5,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Tellinidae,Tellinidae,Fig_4.6,0.84,0.008438564239,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Spirinchus thaleichthys,Spirinchus thaleichthys,Fig_4.6,11.6,0.1165325538,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Decapoda,Decapoda,Fig_4.6,0.19,0.001908722863,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,POP,Cymatogaster aggregata,Cymatogaster aggregata,Fig_4.6,13.27,0.1333092231,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,NA,Sand,Sand,Fig_4.6,0.001,1.004590981e-5,6,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,DUN,Cancer magister,Cancer magister,Fig_4.7,16.81,0.1681319451,7,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Bivalvia,Bivalvia,Fig_4.7,0.47,0.00470089317,7,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Teleostei,Teleostei,Fig_4.7,63.12,0.6313199508,7,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Tellinidae,Tellinidae,Fig_4.7,0.44,0.004400836159,7,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon sp.,Crangon sp.,Fig_4.7,7.44,0.07441413869,7,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Eogammarus sp.,Eogammarus sp.,Fig_4.7,0.001,1.000190036e-5,7,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,MA,Chlorophyta,Chlorophyta,Fig_4.7,0.02,2.000380072e-4,7,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon franciscorum angustina,Crangon franciscorum angustina,Fig_4.7,11.07,0.110721037,7,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Crustacea,Fig_4.7,0.07,7.001330253e-4,7,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Balanomorpha,Balanomorpha,Fig_4.7,0.52,0.005200988188,7,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Spirinchus thaleichthys,Spirinchus thaleichthys,Fig_4.7,0.02,2.000380072e-4,7,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BFF,Balanomorpha,Balanomorpha,Fig_4.8,8.19,0.08190819082,8,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Myidae,Myidae,Fig_4.8,3.23,0.03230323032,8,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FISH,Teleostei,Teleostei,Fig_4.8,7.56,0.07560756076,8,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,DUN,Cancer magister,Cancer magister,Fig_4.8,25.62,0.2562256226,8,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Bivalvia,Bivalvia,Fig_4.8,3.73,0.03730373037,8,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon sp.,Crangon sp.,Fig_4.8,1.03,0.0103010301,8,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon franciscorum angustina,Crangon franciscorum angustina,Fig_4.8,32.18,0.3218321832,8,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FPS,Spirinchus thaleichthys,Spirinchus thaleichthys,Fig_4.8,14.04,0.1404140414,8,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Decapoda,Decapoda,Fig_4.8,0.46,0.004600460046,8,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Cancridea,Cancridea,Fig_4.8,0.08,8.00080008e-4,8,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Crustacea,Fig_4.8,0.09,9.00090009e-4,8,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Mya arenaria,Mya arenaria,Fig_4.8,3.78,0.03780378038,8,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Psettichthys melanostictus,Psettichthys melanostictus,Fig_4.9,25.07,0.2754945055,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Bivalvia,Bivalvia,Fig_4.9,4.95,0.0543956044,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BML,Crustacea,Crustacea,Fig_4.9,5.75,0.06318681319,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,MA,Enteromorpha sp.,Enteromorpha sp.,Fig_4.9,4.49,0.04934065934,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,POP,Cymatogaster aggregata,Cymatogaster aggregata,Fig_4.9,29.91,0.3286813187,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,DUN,Cancer magister,Cancer magister,Fig_4.9,0.23,0.002527472527,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,FDF,Myidae,Myidae,Fig_4.9,2.41,0.02648351648,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Polychaeta,Polychaeta,Fig_4.9,0.49,0.005384615385,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BC,Nephtyidae,Nephtyidae,Fig_4.9,11.21,0.1231868132,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Leptochelia dubia,Leptochelia dubia,Fig_4.9,0.01,1.098901099e-4,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Gammaridae,Gammaridae,Fig_4.9,0.01,1.098901099e-4,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Corophium brevis,Corophium brevis,Fig_4.9,0.02,2.197802198e-4,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BD,Eogammarus sp.,Eogammarus sp.,Fig_4.9,0.01,1.098901099e-4,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Crangon franciscorum angustina,Crangon franciscorum angustina,Fig_4.9,2.4,0.02637362637,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,PWN,Callianassidae,Callianassidae,Fig_4.9,1.04,0.01142857143,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BG,Gastropoda,Gastropoda,Fig_4.9,2,0.02197802198,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,MA,Ulvaceae,Ulvaceae,Fig_4.9,0.01,1.098901099e-4,9,DUN_Amstrong_et_al_1981
+DUN,INVERT,Dungeness crab,Cancer magister,BIV,Cardiidae,Cardiidae,Fig_4.9,0.99,0.01087912088,9,DUN_Amstrong_et_al_1981

@@ -1,0 +1,46 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Amphipods,Noncorophium amphipods,Fig_1_Reference_W_proportion_May,0.262548262548262,0.2625482625,1,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Fig_1_Reference_W_proportion_May,0,0,1,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Amphipods,Corophium amphipods,Fig_1_Reference_W_proportion_May,0.17760617760617597,0.1776061776,1,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crab,Crabs,Fig_1_Reference_W_proportion_May,0.042471042471042,0.04247104247,1,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Isopods,Isopods,Fig_1_Reference_W_proportion_May,0.13320463320463105,0.1332046332,1,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Other crustaceans,Fig_1_Reference_W_proportion_May,0.011583011583011005,0.01158301158,1,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,NA,Others,Other,Fig_1_Reference_W_proportion_May,0.08108108108108192,0.08108108108,1,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BC,Polychaete,Polychaetes,Fig_1_Reference_W_proportion_May,0.29150579150579603,0.2915057915,1,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Shrimp,Shrimp,Fig_1_Reference_W_proportion_May,0,0,1,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Amphipods,Noncorophium amphipods,Fig_1_Reference_W_proportion_Jun,0.252895752895753,0.2528957529,2,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Fig_1_Reference_W_proportion_Jun,0,0,2,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Amphipods,Corophium amphipods,Fig_1_Reference_W_proportion_Jun,0.059845559845559004,0.05984555985,2,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crab,Crabs,Fig_1_Reference_W_proportion_Jun,0.227799227799225,0.2277992278,2,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Isopods,Isopods,Fig_1_Reference_W_proportion_Jun,0.36679536679536595,0.3667953668,2,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Other crustaceans,Fig_1_Reference_W_proportion_Jun,0.011583011583012004,0.01158301158,2,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,NA,Others,Other,Fig_1_Reference_W_proportion_Jun,0.021235521235521082,0.02123552124,2,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BC,Polychaete,Polychaetes,Fig_1_Reference_W_proportion_Jun,0.059845559845563945,0.05984555985,2,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Shrimp,Shrimp,Fig_1_Reference_W_proportion_Jun,0,0,2,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Amphipods,Noncorophium amphipods,Fig_1_Reference_W_proportion_Jul,0.0617760617760617,0.06177606178,3,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Fig_1_Reference_W_proportion_Jul,0,0,3,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Amphipods,Corophium amphipods,Fig_1_Reference_W_proportion_Jul,0.2490347490347543,0.249034749,3,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crab,Crabs,Fig_1_Reference_W_proportion_Jul,0.49999999999999595,0.5,3,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Isopods,Isopods,Fig_1_Reference_W_proportion_Jul,0.10424710424710404,0.1042471042,3,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Other crustaceans,Fig_1_Reference_W_proportion_Jul,0.04440154440154498,0.0444015444,3,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,NA,Others,Other,Fig_1_Reference_W_proportion_Jul,0.00772200772200804,0.007722007722,3,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BC,Polychaete,Polychaetes,Fig_1_Reference_W_proportion_Jul,0.03281853281853098,0.03281853282,3,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Shrimp,Shrimp,Fig_1_Reference_W_proportion_Jul,0,0,3,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Amphipods,Noncorophium amphipods,Fig_1_Reference_W_proportion_Aug,0.15057915057915,0.1505791506,4,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Fig_1_Reference_W_proportion_Aug,0,0,4,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Amphipods,Corophium amphipods,Fig_1_Reference_W_proportion_Aug,0.069498069498071,0.0694980695,4,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crab,Crabs,Fig_1_Reference_W_proportion_Aug,0.706563706563704,0.7065637066,4,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Isopods,Isopods,Fig_1_Reference_W_proportion_Aug,0.009652509652509966,0.009652509653,4,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Other crustaceans,Fig_1_Reference_W_proportion_Aug,0.00772200772200804,0.007722007722,4,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,NA,Others,Other,Fig_1_Reference_W_proportion_Aug,0,0,4,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BC,Polychaete,Polychaetes,Fig_1_Reference_W_proportion_Aug,0,0,4,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Shrimp,Shrimp,Fig_1_Reference_W_proportion_Aug,0.05598455598455698,0.05598455598,4,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Amphipods,Noncorophium amphipods,Fig_1_Reference_W_proportion_Sep,0.0926640926640921,0.09266409266,5,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BIV,Bivalves,Bivalves,Fig_1_Reference_W_proportion_Sep,0,0,5,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Amphipods,Corophium amphipods,Fig_1_Reference_W_proportion_Sep,0.1235521235521269,0.1235521236,5,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crab,Crabs,Fig_1_Reference_W_proportion_Sep,0.519305019305016,0.5193050193,5,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Isopods,Isopods,Fig_1_Reference_W_proportion_Sep,0.108108108108109,0.1081081081,5,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Other crustaceans,Fig_1_Reference_W_proportion_Sep,0.017374517374516896,0.01737451737,5,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,NA,Others,Other,Fig_1_Reference_W_proportion_Sep,0.05791505791505802,0.05791505792,5,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BC,Polychaete,Polychaetes,Fig_1_Reference_W_proportion_Sep,0.017374517374517007,0.01737451737,5,SMD_McPeek_et_al_2015
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Shrimp,Shrimp,Fig_1_Reference_W_proportion_Sep,0.06370656370656402,0.06370656371,5,SMD_McPeek_et_al_2015

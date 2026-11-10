@@ -1,0 +1,68 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ROR,adult,Orcinus orca,Resident orca,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_2_Predation_events,60,0.4379562044,1,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,CU,Chum salmon,Oncorhynchus keta,Table_2_Predation_events,6,0.04379562044,1,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,CO,Coho salmon,Oncorhynchus kisutch,Table_2_Predation_events,6,0.04379562044,1,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,PIS,Pink salmon,Oncorhynchus gorbuscha,Table_2_Predation_events,14,0.102189781,1,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,SAL,Sockeye salmon,Oncorhynchus nerka,Table_2_Predation_events,3,0.02189781022,1,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,STEELHEAD,Steelhead salmon,Oncorhynchus mykiss,Table_2_Predation_events,2,0.01459854015,1,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,SALMON,Unidentified salmon,Oncorhynchus spp.,Table_2_Predation_events,41,0.299270073,1,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,HE,Pacific herring,Clupea pallasii,Table_2_Predation_events,1,0.007299270073,1,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,DVR,Yelloweye rockfish,Sebastes ruberrimus,Table_2_Predation_events,1,0.007299270073,1,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,HAP,Pacific halibut,Hippocampus stenolepis,Table_2_Predation_events,1,0.007299270073,1,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,FDF,Unidentified flatfish,Unidentified flatfish,Table_2_Predation_events,2,0.01459854015,1,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,HSL,Harbour seal,Phoca vitulina,Table_4_Predation_events,80,0.414507772,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,CSL,California sea lion,Zalophus californianus,Table_4_Predation_events,8,0.0414507772,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,PIN,Steller sea lion,Eumetopias jubatus,Table_4_Predation_events,20,0.103626943,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,MAMMAL,Dall's porpoise,Phocoenoides dalli,Table_4_Predation_events,18,0.0932642487,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,PHR,Harbour porpoise,Phocoena phocoena,Table_4_Predation_events,16,0.0829015544,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,MAMMAL,Pacific white-sided dolphin,Lagenorhynchus obliquidens,Table_4_Predation_events,4,0.0207253886,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,MAMMAL,Gray whale,Eschrichtius robustus,Table_4_Predation_events,2,0.0103626943,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,MAMMAL,Minke whale,Balaenoptera acutorostrata,Table_4_Predation_events,1,0.00518134715,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,MAMMAL,River otter,Lutra canadensis,Table_4_Predation_events,3,0.01554404145,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,MAMMAL,Mammal,Unidentified mammal,Table_4_Predation_events,14,0.0725388601,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,SB,Common Loon,Gavia immer,Table_4_Predation_events,2,0.0103626943,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,SB,Western grebe,Aechmophorus clarkii,Table_4_Predation_events,6,0.0310880829,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,SB,Commun murre,Uria aalge,Table_4_Predation_events,11,0.05699481865,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,SB,Marbled murrelet,Brachyramphus marmoratus,Table_4_Predation_events,2,0.0103626943,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,SB,Rhinoceros auklet,Cerorhinca monocerata,Table_4_Predation_events,4,0.0207253886,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,SB,Red-breasted Merganser,Mergus serrator,Table_4_Predation_events,1,0.00518134715,2,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,SP,Surf Scoter,Melanitta perspicillata,Table_4_Predation_events,1,0.00518134715,2,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,HAP,Pacific halibut,Hippocampus stenolepis,Table_5_Diet_information_1_Aug_1973,1,1,3,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,SALMON,Salmon sp.,Salmon sp.,Table_5_Diet_information_14_Aug_1977,1,1,4,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,FISH,Unidentified non-salmonid fish,Unidentified non-salmonid fish,Table_5_Diet_information_14_Aug_1986,1,1,5,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,SALMON,Salmon sp.,Salmon sp.,Table_5_Diet_information_22_Apr_1989,1,1,6,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_5_Diet_information_7_Dec_1990,18,0.3050847458,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,SALMON,Salmon sp.,Salmon sp.,Table_5_Diet_information_7_Dec_1990,1,0.01694915254,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,FVS,Lingcod,Ophiodon elongatus,Table_5_Diet_information_7_Dec_1990,15,0.2542372881,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,SMD,Greenling,Hexagrammos sp.,Table_5_Diet_information_7_Dec_1990,5,0.08474576271,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,FDF,English sole,Parophrys vetulus,Table_5_Diet_information_7_Dec_1990,8,0.1355932203,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,FDF,Sanddab,Citharichthys sp.,Table_5_Diet_information_7_Dec_1990,2,0.03389830508,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,FDF,Dover sole,Microstomus pacificus,Table_5_Diet_information_7_Dec_1990,2,0.03389830508,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,FDF,Starry flounder,Platichthys stellatus,Table_5_Diet_information_7_Dec_1990,2,0.03389830508,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,FDF,Rex sole,Glyptocephalus zachirus,Table_5_Diet_information_7_Dec_1990,1,0.01694915254,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,FDF,Rock sole,Lepidopsetta bilineata,Table_5_Diet_information_7_Dec_1990,1,0.01694915254,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,FDF,Curlfin sole,Pleuronichthys decurrens,Table_5_Diet_information_7_Dec_1990,1,0.01694915254,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,SMD,Sthagorn sculpin,Leptocottus armatus,Table_5_Diet_information_7_Dec_1990,1,0.01694915254,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,ROC,Great sculpin,Myoxocephalus polyancantocephalus,Table_5_Diet_information_7_Dec_1990,1,0.01694915254,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,SMD,Sablefish,Anoplopoma fimbria,Table_5_Diet_information_7_Dec_1990,1,0.01694915254,7,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,SALMON,Salmon sp.,Salmon sp.,Table_5_Diet_information_18_June_1994,1,0.5,8,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,HAP,Pacific halibut,Pacific halibut,Table_5_Diet_information_18_June_1994,1,0.5,8,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,CI,Chinnook salmon,Oncorhynchus tshawytscha,Table_5_Diet_information_4_July_1995,1,0.0625,9,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,LAMPREY,Pacific lamprey,Lampreta tridentatus,Table_5_Diet_information_4_July_1995,1,0.0625,9,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,SQX,Eight-armed squid,Gonatopsis borealis,Table_5_Diet_information_4_July_1995,14,0.875,9,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,CI,Chinook salmon,Oncorhynchus tshawytscha,Table_5_Diet_information_21_May_1996,1,0.5,10,ORC1_Ford_et_al_1998
+ROR,adult,Orcinus orca,Resident orca,SQX,Eight-armed squid,Gonatopsis borealis,Table_5_Diet_information_21_May_1996,1,0.5,10,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,WHALE,Cetacean sp.,Cetacean sp.,Table_5_Diet_information_20_Jan_1979,1,0.1666666667,11,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,MAMMAL,Nothern elephant seal,Mirounga angustirostris,Table_5_Diet_information_20_Jan_1979,1,0.1666666667,11,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,HSL,Harbour seal,Phoca vitulina,Table_5_Diet_information_20_Jan_1979,1,0.1666666667,11,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,SP,White-winged Scoter,Melanitta fusca,Table_5_Diet_information_20_Jan_1979,2,0.3333333333,11,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Transient orca,SQX,Squid sp.,Squid sp.,Table_5_Diet_information_20_Jan_1979,1,0.1666666667,11,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Orcinus orca,PHR,Harbour porpoise,Phocoena phocoena,Table_5_Diet_information_9_Apr_1976,2,0.08695652174,12,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Orcinus orca,HSL,Harbour seal,Phoca vitulina,Table_5_Diet_information_9_Apr_1976,20,0.8695652174,12,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Orcinus orca,CSL,Sea lion sp.,Sea lion sp.,Table_5_Diet_information_9_Apr_1976,1,0.04347826087,12,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Orcinus orca,HSL,Harbour seal,Phoca vitulina,Table_5_Diet_information_23_Jun_1981,1,0.25,13,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Orcinus orca,WHALE,Cetacean sp.,Cetacean sp.,Table_5_Diet_information_23_Jun_1981,1,0.25,13,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Orcinus orca,MAMMAL,Gray whale,Eschrichtius robustus,Table_5_Diet_information_23_Jun_1981,1,0.25,13,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Orcinus orca,SP,Cormorant,Phalacrocorax sp.,Table_5_Diet_information_23_Jun_1981,1,0.25,13,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Orcinus orca,FISH,Fish sp.,Fish sp.,Table_5_Diet_information_13_Jun_1989,1,0.5,14,ORC1_Ford_et_al_1998
+TOR,adult,Orcinus orca,Orcinus orca,HAP,Pacific halibut,Pacific halibut,Table_5_Diet_information_13_Jun_1989,1,0.5,14,ORC1_Ford_et_al_1998

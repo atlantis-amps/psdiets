@@ -1,0 +1,239 @@
+#' @title Create prey availability matrix for Atlantis model
+#'
+#' Generates pPREY parameters for Atlantis model by combining diet composition
+#' data with Dirichlet distribution results. Creates both a diet matrix CSV
+#' and a parameter file (.prm) formatted for direct use in Atlantis.
+#'
+#' @param eachpredstage Integer. Index of the current predator life stage
+#'   being processed (used to select from pred.stages vector).
+#' @param pred.stages Character vector. Names of predator life stages
+#'   (e.g., c("juvenile", "adult", "invert")).
+#' @param func.groups Data frame. Atlantis functional groups table with
+#'   columns: Code, Name, Long Name.
+#' @param diet.matrix Data frame. Processed diet composition data with
+#'   predator_stage, Predator, and prey columns.
+#' @param diet.matrix.file.name Character. Path/name for output CSV file
+#'   containing diet matrix in wide format.
+#' @param prm.file.name Character. Path/name for output .prm parameter file
+#'   with pPREY values formatted for Atlantis.
+#' @param prey.order Character vector. Order of prey groups for consistent
+#'   column arrangement in output files.
+#' @param pred.names Character vector. Names of predators to process.
+#'
+#' @return NULL. Creates two output files: a diet matrix CSV and a .prm file
+#'   with pPREY parameters. First call (eachpredstage=1) removes existing files.
+#'
+#' @details
+#' The function performs the following steps:
+#' \enumerate{
+#'   \item Reads Dirichlet model results for the specified life stage
+#'   \item For each predator, retrieves mode values from Dirichlet fitting
+#'   \item Replaces empirical diet proportions with Dirichlet modes where available
+#'   \item Handles detritus groups by splitting into sediment fractions
+#'   \item Normalizes proportions to sum to 1
+#'   \item Writes diet matrix to CSV
+#'   \item Formats and writes pPREY parameters to .prm file
+#' }
+#'
+#' pPREY parameters are divided by 1000 to convert to Atlantis availability format.
+#' Different pPREY codes are used based on life stage:
+#' \itemize{
+#'   \item juvenile: pPREY1{CODE}1 and pPREY2{CODE}1
+#'   \item adult: pPREY1{CODE}2 and pPREY2{CODE}2
+#'   \item invert: pPREY{CODE}
+#' }
+#'
+#' @importFrom readr read_csv write_csv
+#' @importFrom dplyr filter select mutate rename left_join group_by summarise slice
+#' @importFrom tidyr pivot_longer pivot_wider spread
+#' @importFrom here here
+#' @importFrom magrittr %>%
+#'
+#' @export
+#'
+#' @examples
+#' \dontrun{
+#' # Process juvenile predators (first life stage)
+#' pprey_maker(
+#'   eachpredstage = 1,
+#'   pred.stages = c("juvenile", "adult", "invert"),
+#'   func.groups = atlantis_fg,
+#'   diet.matrix = organized_diet_data,
+#'   diet.matrix.file.name = "outputs/diet_matrix.csv",
+#'   prm.file.name = "outputs/PS_biol.prm",
+#'   prey.order = prey_order_vector,
+#'   pred.names = predator_names
+#' )
+#'
+#' # Process all life stages in loop
+#' for (i in 1:length(pred.stages)) {
+#'   pprey_maker(i, pred.stages, func.groups, diet.matrix,
+#'               "diet_matrix.csv", "biol.prm", prey.order)
+#' }
+#' }
+pprey_maker <- function(pred.stages, func.groups, diet.matrix, biology.prm, dirichelet.path, diet.matrix.file.name){
+
+  pred.groups <- func.groups %>%
+    dplyr::rename(predator=atlantis_name, atlantis_pred_fg = atlantis_fg)
+
+  prey.groups <- func.groups %>%
+     dplyr::rename(prey=atlantis_name, atlantis_prey_fg = atlantis_fg)
+
+  pred.names <- pred.groups$predator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  predstage <- pred.stages[eachpredstage]
+
+  print(predstage)
+
+  #these are results of Dirichelet model
+
+  this.dirchelet.file <- read_csv(paste(dirichelet.path, paste0(predstage,"_dirichelet"), paste0("diet_dirichelet_",predstage,".csv"), sep="/"), col_names = TRUE, skip = 1)
+
+  dirichelet.path <- here::here("outputs","dirichelet_res")
+  this.dietmatrix <- diet.matrix %>%
+    dplyr::filter(predator_stage==predstage)
+
+  print(head(this.dirchelet.file))
+
+  print(names(this.dietmatrix))
+
+  if(eachpredstage==1){
+
+    if(file.exists(diet.matrix.file.name)) file.remove(diet.matrix.file.name)
+    if(file.exists(prm.file.name)) file.remove(prm.file.name)
+
+  }
+
+
+  for(thispredator in 1:length(pred.names)){
+
+    print(thispredator)
+    eachpredator <- pred.names[thispredator]
+
+    print(eachpredator)
+
+    print(paste0("PREDATOR ",eachpredator))
+    print(paste0("STAGE=", predstage))
+
+    thispredatordatamatrix <-  this.dietmatrix %>%
+      filter(Predator == eachpredator) %>%
+      dplyr::select(predator_stage,Predator, tot_diet_composition, tot_sum, everything()) %>%
+      tidyr::pivot_longer(cols=(5:ncol(this.dietmatrix)),names_to = "prey", values_to = "diet_prop")
+
+    thisdiricheletmatrix <- this.dirchelet.file %>%
+      filter(PredatorName == eachpredator)
+
+    prey.list <- list()
+
+    for (eachprey in 1:nrow(thispredatordatamatrix)) {
+      print("Going through prey in the predator matrix")
+      print(paste(thispredator, eachpredator), sep="_")
+
+      thispreydata <- thispredatordatamatrix[eachprey,]
+
+      thispreyname <- thispreydata %>% pull(prey)
+      print(thispreyname)
+
+      thispreydirichelet <- thisdiricheletmatrix %>%
+        dplyr::filter(PreyName == thispreyname)
+
+      if (thispreydata$diet_prop != 0) {
+
+        if (nrow(thispreydirichelet) > 0) {
+
+          if (!is.na(thispreydirichelet$mode)) {
+
+            print("Assigning Dirichelet results")
+            this.mode <- thispreydirichelet$mode
+
+            thispreydata <- thispreydata %>%
+              dplyr::mutate(mean_scaled_prop = this.mode)
+
+          }
+
+        }
+      } else {
+        print("Case when there are no Dirichelet results")
+       thispreydata <- thispreydata %>% dplyr::rename(mean_scaled_prop=diet_prop)
+      }
+
+      prey.list[[eachprey]] <- thispreydata
+
+    }
+
+    print("Making table")
+
+    this.pprey.pred <- prey.list %>%
+      bind_rows() %>%
+      dplyr::rename(predator=Predator) %>%
+      dplyr::left_join(pred.groups, by="predator") %>%
+      dplyr::left_join(prey.groups, by="prey") %>%
+      dplyr::select(predator, atlantis_pred_group, predator_stage, prey, atlantis_prey_group, mean_scaled_prop)
+
+    det.prey.prop  <- this.pprey.pred %>%
+      filter(atlantis_prey_group %in% c("DL","DR","DC")) %>%
+      mutate(tot_prop = sum(mean_scaled_prop))
+
+    print("add sediment detritus")
+
+    det.prey.corr  <- this.pprey.pred %>%
+      filter(atlantis_prey_group %in% c("DL","DR","DC")) %>%
+      dplyr::mutate(atlantis_prey_group=if_else(atlantis_prey_group=="DL","DL_s",
+                                                if_else(atlantis_prey_group=="DR","DR_s",
+                                                        if_else(atlantis_prey_group=="DC","DC_s",atlantis_prey_group)))) %>%
+      mutate(tot_prop = sum(mean_scaled_prop)) %>%
+      bind_rows(det.prey.prop) %>%
+      dplyr::rename(org_prop = mean_scaled_prop) %>%
+      mutate(sum_new = sum(org_prop)) %>%
+      mutate(mean_scaled_prop = (org_prop / sum_new)*tot_prop) %>%
+      mutate(check= sum(mean_scaled_prop)) %>%
+      select(-org_prop, -tot_prop, - sum_new, -check) %>%
+      mutate(mean_scaled_prop = if_else(is.nan(mean_scaled_prop), 0, mean_scaled_prop))
+
+    pprey.ord <- this.pprey.pred %>%
+      filter(!atlantis_prey_group %in% c("DL","DR","DC")) %>%
+      bind_rows(det.prey.corr)
+
+    pred.diet.data <- pprey.ord %>%
+      group_by(atlantis_prey_group) %>%
+      dplyr::summarise(tot = sum(mean_scaled_prop)) %>%
+      mutate(scaled_prop =  tot/sum(tot)) %>%
+      mutate(Predator = eachpredator) %>%
+      slice(order(factor(atlantis_prey_group, levels = prey.order))) %>%
+      dplyr::select(-tot)
+
+    pred.diet.matrix <- pred.diet.data %>%
+      dplyr::mutate(pred_stage = predstage) %>%
+      pivot_wider(names_from = "atlantis_prey_group", values_from = "scaled_prop")
+
+
+    ifelse((eachpredstage==1 & thispredator==1), write_csv(pred.diet.matrix, here(diet.matrix.file.name), append = FALSE),
+           write_csv(pred.diet.matrix, here(diet.matrix.file.name), append = TRUE))
+
+    print("calculate availability values")
+
+    pprey.diet.matrix <-  pprey.ord %>%
+      dplyr::mutate(pprey = mean_scaled_prop / 1000) %>%
+      dplyr::select(atlantis_prey_group, pprey) %>%
+      pivot_wider(names_from = "atlantis_prey_group", values_from = "pprey") %>%
+      as.character()
+
+    print(pprey.diet.matrix)
+}
+}

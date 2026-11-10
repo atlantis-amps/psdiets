@@ -1,0 +1,165 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,% composition by W_KI_42297,83.5635359116022,0.8356353591,1,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Eogammarus confervicolus,% composition by W_KI_42297,16.4364640883978,0.1643646409,1,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Neomysis mercedis,Neomysis mercedis,% composition by W_KI_42297,0,0,1,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Adult diptera,% composition by W_KI_42297,0,0,1,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephenoptera,% composition by W_KI_42297,0,0,1,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psyllidae,% composition by W_KI_42297,0,0,1,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Dolichopodidae,% composition by W_KI_42297,0,0,1,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydidae,% composition by W_KI_42297,0,0,1,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Hymenoptera,% composition by W_KI_42297,0,0,1,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,% composition by W_KI_42297,0,0,1,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae,% composition by W_KI_42297,0,0,1,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,% composition by W_KI_42297,0,0,1,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,% composition by W_TB_42297,56.2154696132596,0.5621546961,2,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Eogammarus confervicolus,% composition by W_TB_42297,0,0,2,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Neomysis mercedis,Neomysis mercedis,% composition by W_TB_42297,8.149171270718497,0.08149171271,2,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Adult diptera,% composition by W_TB_42297,29.281767955800603,0.2928176796,2,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephenoptera,% composition by W_TB_42297,6.353591160221299,0.0635359116,2,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psyllidae,% composition by W_TB_42297,0,0,2,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Dolichopodidae,% composition by W_TB_42297,0,0,2,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydidae,% composition by W_TB_42297,0,0,2,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Hymenoptera,% composition by W_TB_42297,0,0,2,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,% composition by W_TB_42297,0,0,2,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae,% composition by W_TB_42297,0,0,2,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,% composition by W_TB_42297,0,0,2,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,% composition by W_T105_52397,0,0,3,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Eogammarus confervicolus,% composition by W_T105_52397,2.48618784530387,0.02486187845,3,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Neomysis mercedis,Neomysis mercedis,% composition by W_T105_52397,0,0,3,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Adult diptera,% composition by W_T105_52397,0,0,3,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephenoptera,% composition by W_T105_52397,0,0,3,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psyllidae,% composition by W_T105_52397,84.80662983425432,0.8480662983,3,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Dolichopodidae,% composition by W_T105_52397,4.972375690607606,0.04972375691,3,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydidae,% composition by W_T105_52397,2.486187845303803,0.02486187845,3,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Hymenoptera,% composition by W_T105_52397,0,0,3,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,% composition by W_T105_52397,5.248618784530393,0.05248618785,3,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae,% composition by W_T105_52397,0,0,3,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,% composition by W_T105_52397,0,0,3,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,% composition by W_KI_52397,0,0,4,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Eogammarus confervicolus,% composition by W_KI_52397,0,0,4,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Neomysis mercedis,Neomysis mercedis,% composition by W_KI_52397,0,0,4,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Adult diptera,% composition by W_KI_52397,100,1,4,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephenoptera,% composition by W_KI_52397,0,0,4,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psyllidae,% composition by W_KI_52397,0,0,4,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Dolichopodidae,% composition by W_KI_52397,0,0,4,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydidae,% composition by W_KI_52397,0,0,4,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Hymenoptera,% composition by W_KI_52397,0,0,4,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,% composition by W_KI_52397,0,0,4,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae,% composition by W_KI_52397,0,0,4,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,% composition by W_KI_52397,0,0,4,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Corophium spp.,% composition by W_TB_62597,0,0,5,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,BD,Crustacea,Eogammarus confervicolus,% composition by W_TB_62597,0.276243093922651,0.002762430939,5,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,PWN,Neomysis mercedis,Neomysis mercedis,% composition by W_TB_62597,0,0,5,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Adult diptera,% composition by W_TB_62597,7.044198895027629,0.07044198895,5,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephenoptera,% composition by W_TB_62597,0,0,5,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Psyllidae,% composition by W_TB_62597,12.70718232044192,0.1270718232,5,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Dolichopodidae,% composition by W_TB_62597,12.154696132596602,0.1215469613,5,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Ephydidae,% composition by W_TB_62597,0,0,5,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Hymenoptera,% composition by W_TB_62597,5.2486187845304,0.05248618785,5,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,NA,Other,Other,% composition by W_TB_62597,0,0,5,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Chironomidae,% composition by W_TB_62597,4.834254143646497,0.04834254144,5,Salmon_Cordell_et_al_1999_B
+CU,juvenile,Chum salmon,Oncorhynchus keta,INSECT,Insecta,Aphididae,% composition by W_TB_62597,57.7348066298343,0.5773480663,5,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium spp.,%_composition_by_W_KI_42297,5.6551724137931,0.05655172414,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Cumella vulgaris,%_composition_by_W_KI_42297,16.1379310344827,0.1613793103,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus confervicolus,%_composition_by_W_KI_42297,0,0,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Chironomidae,%_composition_by_W_KI_42297,0,0,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,%_composition_by_W_KI_42297,0,0,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Neomysis mercedis,Neomysis mercedis,%_composition_by_W_KI_42297,0,0,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Other diptera,%_composition_by_W_KI_42297,78.2068965517242,0.7820689655,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,%_composition_by_W_KI_42297,0,0,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Dolichopodidae,%_composition_by_W_KI_42297,0,0,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,%_composition_by_W_KI_42297,0,0,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Formicidae,%_composition_by_W_KI_42297,0,0,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,%_composition_by_W_KI_42297,0,0,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Staphylinidae,%_composition_by_W_KI_42297,0,0,6,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium spp.,%_composition_by_W_TB_42297,60.6896551724138,0.6068965517,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Cumella vulgaris,%_composition_by_W_TB_42297,0,0,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus confervicolus,%_composition_by_W_TB_42297,9.241379310344705,0.0924137931,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Chironomidae,%_composition_by_W_TB_42297,0,0,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,%_composition_by_W_TB_42297,0,0,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Neomysis mercedis,Neomysis mercedis,%_composition_by_W_TB_42297,5.931034482758591,0.05931034483,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Other diptera,%_composition_by_W_TB_42297,21.793103448277108,0.2179310345,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,%_composition_by_W_TB_42297,0,0,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Dolichopodidae,%_composition_by_W_TB_42297,0,0,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,%_composition_by_W_TB_42297,2.3448275862057955,0.02344827586,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Formicidae,%_composition_by_W_TB_42297,0,0,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,%_composition_by_W_TB_42297,0,0,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Staphylinidae,%_composition_by_W_TB_42297,0,0,7,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium spp.,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Cumella vulgaris,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus confervicolus,%_composition_by_W_T105_52397,2.34482758620689,0.01172413793,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Chironomidae,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Neomysis mercedis,Neomysis mercedis,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Other diptera,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,%_composition_by_W_T105_52397,92.6896551724145,0.4634482759,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Dolichopodidae,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Formicidae,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,%_composition_by_W_T105_52397,4.965517241378606,0.02482758621,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Staphylinidae,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium spp.,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Cumella vulgaris,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus confervicolus,%_composition_by_W_T105_52397,2.89655172413793,0.01448275862,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Chironomidae,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Neomysis mercedis,Neomysis mercedis,%_composition_by_W_T105_52397,3.1724137931034595,0.01586206897,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Other diptera,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,%_composition_by_W_T105_52397,76.4137931034482,0.3820689655,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Dolichopodidae,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,%_composition_by_W_T105_52397,0,0,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Formicidae,%_composition_by_W_T105_52397,9.103448275862704,0.04551724138,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,%_composition_by_W_T105_52397,3.862068965517409,0.01931034483,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Staphylinidae,%_composition_by_W_T105_52397,4.551724137930293,0.02275862069,8,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium spp.,%_composition_by_W_KI_52397,0,0,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Cumella vulgaris,%_composition_by_W_KI_52397,0,0,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus confervicolus,%_composition_by_W_KI_52397,2.06896551724137,0.02068965517,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Chironomidae,%_composition_by_W_KI_52397,2.7586206896551797,0.0275862069,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,%_composition_by_W_KI_52397,0,0,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Neomysis mercedis,Neomysis mercedis,%_composition_by_W_KI_52397,0,0,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Other diptera,%_composition_by_W_KI_52397,11.999999999999948,0.12,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,%_composition_by_W_KI_52397,71.86206896551761,0.7186206897,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Dolichopodidae,%_composition_by_W_KI_52397,1.5172413793104909,0.01517241379,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,%_composition_by_W_KI_52397,0,0,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Formicidae,%_composition_by_W_KI_52397,0,0,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,%_composition_by_W_KI_52397,0,0,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Staphylinidae,%_composition_by_W_KI_52397,9.793103448275403,0.09793103448,9,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium spp.,%_composition_by_W_TB_52397,61.7931034482758,0.6179310345,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Cumella vulgaris,%_composition_by_W_TB_52397,3.1724137931035017,0.03172413793,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus confervicolus,%_composition_by_W_TB_52397,12.965517241379303,0.1296551724,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Chironomidae,%_composition_by_W_TB_52397,0,0,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,%_composition_by_W_TB_52397,12.413793103448995,0.12413793100000001,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Neomysis mercedis,Neomysis mercedis,%_composition_by_W_TB_52397,0,0,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Other diptera,%_composition_by_W_TB_52397,3.448275862069096,0.03448275862,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,%_composition_by_W_TB_52397,1.931034482758804,0.01931034483,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Dolichopodidae,%_composition_by_W_TB_52397,0,0,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,%_composition_by_W_TB_52397,4.2758620689645,0.04275862069,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Formicidae,%_composition_by_W_TB_52397,0,0,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,%_composition_by_W_TB_52397,0,0,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Staphylinidae,%_composition_by_W_TB_52397,0,0,10,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium spp.,%_composition_by_W_KI_62597,2.48275862068965,0.02482758621,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Cumella vulgaris,%_composition_by_W_KI_62597,0,0,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus confervicolus,%_composition_by_W_KI_62597,1.9310344827586303,0.01931034483,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Chironomidae,%_composition_by_W_KI_62597,2.06896551724138,0.02068965517,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,%_composition_by_W_KI_62597,0,0,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Neomysis mercedis,Neomysis mercedis,%_composition_by_W_KI_62597,0,0,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Other diptera,%_composition_by_W_KI_62597,11.86206896551714,0.1186206897,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,%_composition_by_W_KI_62597,7.310344827586199,0.07310344828,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Dolichopodidae,%_composition_by_W_KI_62597,14.896551724137897,0.1489655172,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,%_composition_by_W_KI_62597,0,0,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Formicidae,%_composition_by_W_KI_62597,0,0,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,%_composition_by_W_KI_62597,59.4482758620691,0.5944827586,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Staphylinidae,%_composition_by_W_KI_62597,0,0,11,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Corophium spp.,%_composition_by_W_TB_62597,4.27586206896551,0.04275862069,12,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Cumella vulgaris,%_composition_by_W_TB_62597,0,0,12,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Eogammarus confervicolus,%_composition_by_W_TB_62597,0,0,12,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Chironomidae,%_composition_by_W_TB_62597,0,0,12,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Hexapoda,Collembola,%_composition_by_W_TB_62597,0,0,12,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Neomysis mercedis,Neomysis mercedis,%_composition_by_W_TB_62597,38.34482758620669,0.3834482759,12,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Other diptera,%_composition_by_W_TB_62597,3.8620689655173024,0.03862068966,12,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,%_composition_by_W_TB_62597,0,0,12,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Dolichopodidae,%_composition_by_W_TB_62597,0,0,12,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Other,Other,%_composition_by_W_TB_62597,0,0,12,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Formicidae,%_composition_by_W_TB_62597,53.5172413793105,0.5351724138,12,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,%_composition_by_W_TB_62597,0,0,12,Salmon_Cordell_et_al_1999_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Staphylinidae,%_composition_by_W_TB_62597,0,0,12,Salmon_Cordell_et_al_1999_B

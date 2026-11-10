@@ -1,0 +1,21 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,adult,Arctic Loon,Gavia arctica,HE,Pacific herring,Clupea pallasii,Table_2_Robertson,2398,1,1,SB_Robertson_1972
+SB,adult,Western Grebe,Aechmophorus occidentalis,HE,Pacific herring,Clupea pallasii,Table_2_Robertson,20,0.6666666667,2,SB_Robertson_1972
+SB,adult,Western Grebe,Aechmophorus occidentalis,POP,Shiner perch,Cymatogaster aggregata,Table_2_Robertson,10,0.3333333333,2,SB_Robertson_1972
+SB,adult,Western Grebe,Aechmophorus occidentalis,HE,Pacific herring,Clupea pallasii,Table_2_Phillips_&_Carter,9,0.5,3,SB_Robertson_1972
+SB,adult,Western Grebe,Aechmophorus occidentalis,POP,Shiner perch,Cymatogaster aggregata,Table_2_Phillips_&_Carter,3,0.1666666667,3,SB_Robertson_1972
+SB,adult,Western Grebe,Aechmophorus occidentalis,FMM,Gadidae,Gadidae,Table_2_Phillips_&_Carter,1,0.05555555556,3,SB_Robertson_1972
+SB,adult,Western Grebe,Aechmophorus occidentalis,SMD,Stichaeidae,Stichaeidae,Table_2_Phillips_&_Carter,5,0.2777777778,3,SB_Robertson_1972
+SB,adult,Western Grebe,Aechmophorus occidentalis,POP,Embiotocidae,Embiotocidae,Table_2_1957,5,0.5,4,SB_Robertson_1972
+SB,adult,Western Grebe,Aechmophorus occidentalis,SMD,Cottidae,Cottidae,Table_2_1957,5,0.5,4,SB_Robertson_1972
+SB,adult,Western Grebe,Aechmophorus occidentalis,FPS,Thaleichthys pacificus,Thaleichthys pacificus,Table_2_Chatwin(1956),2,1,5,SB_Robertson_1972
+SB,adult,Western Grebe,Aechmophorus occidentalis,SMD,Leptocottus armatus,Leptocottus armatus,Table_2_Munro(1935),3,0.6,6,SB_Robertson_1972
+SB,adult,Western Grebe,Aechmophorus occidentalis,BC,Polychaeta,Polychaeta,Table_2_Munro(1935),1,0.2,6,SB_Robertson_1972
+SB,adult,Western Grebe,Aechmophorus occidentalis,BML,Decapoda,Decapoda,Table_2_Munro(1935),1,0.2,6,SB_Robertson_1972
+SB,adult,Brandt's cormorant,Brandt's cormorant,HE,Pacific herring,Clupea pallasii,Table_2_Robertson,33,0.7333333333,7,SB_Robertson_1972
+SB,adult,Brandt's cormorant,Brandt's cormorant,MYCTOPHID,Porichthys notatus,Porichthys notatus,Table_2_Robertson,3,0.06666666667,7,SB_Robertson_1972
+SB,adult,Brandt's cormorant,Brandt's cormorant,POP,Embiotoca lateralis,Embiotoca lateralis,Table_2_Robertson,1,0.02222222222,7,SB_Robertson_1972
+SB,adult,Brandt's cormorant,Brandt's cormorant,POP,Shiner perch,Cymatogaster aggregata,Table_2_Robertson,8,0.1777777778,7,SB_Robertson_1972
+SB,adult,Glaucous-winged gull,Glaucous-winged gull,HE,Pacific herring,Clupea pallasii,Table_2_Robertson,2,0.5,8,SB_Robertson_1972
+SB,adult,Glaucous-winged gull,Glaucous-winged gull,BML,Decapoda,Decapoda,Table_2_Robertson,1,0.25,8,SB_Robertson_1972
+SB,adult,Glaucous-winged gull,Glaucous-winged gull,INSECT,Insecta,Insecta,Table_2_Robertson,1,0.25,8,SB_Robertson_1972

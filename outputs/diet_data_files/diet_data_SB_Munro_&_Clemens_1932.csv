@@ -1,0 +1,12 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,adult,American merganser,Mergus merganser,SMD,Sculpin,Leptocottus armatus,Text_1_Mainland coast,5,0.2173913043,1,SB_Munro_&_Clemens_1932
+SB,adult,American merganser,Mergus merganser,SMD,Sculpin,Cottus asper,Text_1_Mainland coast,1,0.04347826087,1,SB_Munro_&_Clemens_1932
+SB,adult,American merganser,Mergus merganser,SMD,Sculpin,Cottidae,Text_1_Mainland coast,4,0.1739130435,1,SB_Munro_&_Clemens_1932
+SB,adult,American merganser,Mergus merganser,SMD,Stickelback,Gasterosteus cataphractus,Text_1_Mainland coast,1,0.04347826087,1,SB_Munro_&_Clemens_1932
+SB,adult,American merganser,Mergus merganser,FPS,Eulachon,Thaleichthys pacificus,Text_1_Mainland coast,2,0.08695652174,1,SB_Munro_&_Clemens_1932
+SB,adult,American merganser,Mergus merganser,SMD,Pipe fish,Syngnathus griseolineatus,Text_1_Mainland coast,1,0.04347826087,1,SB_Munro_&_Clemens_1932
+SB,adult,American merganser,Mergus merganser,POP,Perch,Cymatogaster aggregatus,Text_1_Mainland coast,3,0.1304347826,1,SB_Munro_&_Clemens_1932
+SB,adult,American merganser,Mergus merganser,INSECT,Insects not identified,Insects not identified,Text_1_Mainland coast,1,0.04347826087,1,SB_Munro_&_Clemens_1932
+SB,adult,American merganser,Mergus merganser,BD,Crustaceans-Isopoda,Crustaceans-Isopoda,Text_1_Mainland coast,1,0.04347826087,1,SB_Munro_&_Clemens_1932
+SB,adult,American merganser,Mergus merganser,BD,Crustaceans-Amphipoda,Crustaceans-Amphipoda,Text_1_Mainland coast,1,0.04347826087,1,SB_Munro_&_Clemens_1932
+SB,adult,American merganser,Mergus merganser,SALMON,Salmon eggs,Salmon eggs,Text_1_Mainland coast,3,0.1304347826,1,SB_Munro_&_Clemens_1932

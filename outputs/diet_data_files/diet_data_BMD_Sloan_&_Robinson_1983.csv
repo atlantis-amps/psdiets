@@ -1,0 +1,16 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+BMD,INVERT,Sea star,Mediaster aequalis,DETRITUS,Detritus,Detritus,Table_2,55.5,0.832083958,1,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Mediaster aequalis,BFF,Barnacles,Barnacles,Table_2,4.4,0.06596701649,1,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Mediaster aequalis,BIV,Bivalves,Bivalves,Table_2,6.8,0.1019490255,1,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Pisaster brevispinus,DETRITUS,Detritus,Detritus,Table_2,0,0,2,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Pisaster brevispinus,BFF,Barnacles,Barnacles,Table_2,70.4,0.704,2,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Pisaster brevispinus,BIV,Bivalves,Bivalves,Table_2,29.6,0.296,2,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,DETRITUS,Detritus,Detritus,Table_2,0,0,3,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BFF,Barnacles,Barnacles,Table_2,80,0.8,3,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Pycnopodia helianthoides,BIV,Bivalves,Bivalves,Table_2,20,0.2,3,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Evasterias troschelii,DETRITUS,Detritus,Detritus,Table_2,0,0,4,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Evasterias troschelii,BFF,Barnacles,Barnacles,Table_2,100,1,4,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Evasterias troschelii,BIV,Bivalves,Bivalves,Table_2,0,0,4,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Dermasterias imbricata,DETRITUS,Detritus,Detritus,Table_2,100,1,5,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Dermasterias imbricata,BFF,Barnacles,Barnacles,Table_2,0,0,5,BMD_Sloan_&_Robinson_1983
+BMD,INVERT,Sea star,Dermasterias imbricata,BIV,Bivalves,Bivalves,Table_2,0,0,5,BMD_Sloan_&_Robinson_1983

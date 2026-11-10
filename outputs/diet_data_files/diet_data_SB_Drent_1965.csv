@@ -1,0 +1,66 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,juvenile,Pigeon guillemot,Cepphus columba,LAMPREY,Lampreys,Lampreys,Table_6_%FT_1959_48,0,0,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sticklebacks,Sticklebacks,Table_6_%FT_1959_48,0,0,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,POP,Shiners,Shiners,Table_6_%FT_1959_48,1,0.01098901099,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FPS,Sand lance,Sand lance,Table_6_%FT_1959_48,0,0,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Blennies,Blennies,Table_6_%FT_1959_48,20,0.2197802198,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,ROCKFISH,Rockfish,Rockfish,Table_6_%FT_1959_48,0,0,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sculpins,Sculpins,Table_6_%FT_1959_48,1,0.01098901099,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Grunt-fish,Grunt-fish,Table_6_%FT_1959_48,0,0,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sea-poachers,Sea-poachers,Table_6_%FT_1959_48,0,0,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FDF,Flatfish,Flatfish,Table_6_%FT_1959_48,38,0.4175824176,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FISH,Liparidae,Fish spp.,Table_6_%FT_1959_48,0,0,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,PWN,Shrimps,Shrimps,Table_6_%FT_1959_48,0,0,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Unidentified,Unidentified,Table_6_%FT_1959_48,31,0.3406593407,1,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,LAMPREY,Lampreys,Lampreys,Table_6_%FT_1959_11,3,0.01234567901,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sticklebacks,Sticklebacks,Table_6_%FT_1959_11,0,0,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,POP,Shiners,Shiners,Table_6_%FT_1959_11,1,0.004115226337,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FPS,Sand lance,Sand lance,Table_6_%FT_1959_11,6,0.02469135802,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Blennies,Blennies,Table_6_%FT_1959_11,108,0.4444444444,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,ROCKFISH,Rockfish,Rockfish,Table_6_%FT_1959_11,1,0.004115226337,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sculpins,Sculpins,Table_6_%FT_1959_11,74,0.304526749,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Grunt-fish,Grunt-fish,Table_6_%FT_1959_11,1,0.004115226337,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sea-poachers,Sea-poachers,Table_6_%FT_1959_11,0,0,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FDF,Flatfish,Flatfish,Table_6_%FT_1959_11,4,0.01646090535,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FISH,Liparidae,Fish spp.,Table_6_%FT_1959_11,0,0,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,PWN,Shrimps,Shrimps,Table_6_%FT_1959_11,6,0.02469135802,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Unidentified,Unidentified,Table_6_%FT_1959_11,39,0.1604938272,2,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,LAMPREY,Lampreys,Lampreys,Table_6_%FT_1959_14,1,0.007633587786,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sticklebacks,Sticklebacks,Table_6_%FT_1959_14,1,0.007633587786,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,POP,Shiners,Shiners,Table_6_%FT_1959_14,0,0,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FPS,Sand lance,Sand lance,Table_6_%FT_1959_14,0,0,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Blennies,Blennies,Table_6_%FT_1959_14,75,0.572519084,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,ROCKFISH,Rockfish,Rockfish,Table_6_%FT_1959_14,4,0.03053435115,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sculpins,Sculpins,Table_6_%FT_1959_14,12,0.09160305344,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Grunt-fish,Grunt-fish,Table_6_%FT_1959_14,1,0.007633587786,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sea-poachers,Sea-poachers,Table_6_%FT_1959_14,11,0.08396946565,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FDF,Flatfish,Flatfish,Table_6_%FT_1959_14,21,0.1603053435,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FISH,Liparidae,Fish spp.,Table_6_%FT_1959_14,2,0.01526717557,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,PWN,Shrimps,Shrimps,Table_6_%FT_1959_14,0,0,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Unidentified,Unidentified,Table_6_%FT_1959_14,3,0.02290076336,3,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,LAMPREY,Lampreys,Lampreys,Table_6_%FT_1960_11,2,0.02222222222,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sticklebacks,Sticklebacks,Table_6_%FT_1960_11,1,0.01111111111,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,POP,Shiners,Shiners,Table_6_%FT_1960_11,2,0.02222222222,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FPS,Sand lance,Sand lance,Table_6_%FT_1960_11,1,0.01111111111,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Blennies,Blennies,Table_6_%FT_1960_11,23,0.2555555556,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,ROCKFISH,Rockfish,Rockfish,Table_6_%FT_1960_11,5,0.05555555556,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sculpins,Sculpins,Table_6_%FT_1960_11,29,0.3222222222,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Grunt-fish,Grunt-fish,Table_6_%FT_1960_11,0,0,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sea-poachers,Sea-poachers,Table_6_%FT_1960_11,0,0,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FDF,Flatfish,Flatfish,Table_6_%FT_1960_11,0,0,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FISH,Liparidae,Fish spp.,Table_6_%FT_1960_11,0,0,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,PWN,Shrimps,Shrimps,Table_6_%FT_1960_11,0,0,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Unidentified,Unidentified,Table_6_%FT_1960_11,27,0.3,4,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,LAMPREY,Lampreys,Lampreys,Table_6_%FT_1960_43,5,0.04672897196,5,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sticklebacks,Sticklebacks,Table_6_%FT_1960_43,5,0.04672897196,5,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,POP,Shiners,Shiners,Table_6_%FT_1960_43,3,0.02803738318,5,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FPS,Sand lance,Sand lance,Table_6_%FT_1960_43,24,0.2242990654,5,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Blennies,Blennies,Table_6_%FT_1960_43,20,0.1869158879,5,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,ROCKFISH,Rockfish,Rockfish,Table_6_%FT_1960_43,0,0,5,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sculpins,Sculpins,Table_6_%FT_1960_43,0,0,5,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Grunt-fish,Grunt-fish,Table_6_%FT_1960_43,0,0,5,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,SMD,Sea-poachers,Sea-poachers,Table_6_%FT_1960_43,0,0,5,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FDF,Flatfish,Flatfish,Table_6_%FT_1960_43,2,0.01869158879,5,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,FISH,Liparidae,Fish spp.,Table_6_%FT_1960_43,0,0,5,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,PWN,Shrimps,Shrimps,Table_6_%FT_1960_43,0,0,5,SB_Drent_1965
+SB,juvenile,Pigeon guillemot,Cepphus columba,NA,Unidentified,Unidentified,Table_6_%FT_1960_43,48,0.4485981308,5,SB_Drent_1965

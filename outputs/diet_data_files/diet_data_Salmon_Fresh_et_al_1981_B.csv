@@ -1,0 +1,322 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Malacostraca,Cancridea,Fig_4_% composition by weight sublittoral,4.38247011952191,0.04824561404,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psocoptera,Fig_4_% composition by weight sublittoral,1.59362549800796,0.01754385965,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera-Aphidoidea,Fig_4_% composition by weight sublittoral,0.398406374501992,0.004385964912,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Fig_4_% composition by weight sublittoral,0.796812749003983,0.008771929825,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hemiptera-Geocorizae,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,Fig_4_% composition by weight sublittoral,29.4820717131474,0.3245614035,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera-cicadoidea,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Aphididae,Insecta,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda-hyperiidea,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Nematocera,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Anomura,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Scolioidea,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelida,Polychaeta,Fig_4_% composition by weight sublittoral,8.76494023904382,0.09649122807,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hemiptera,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Diptera,Diptera,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Myodocopa,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Aphididae,Insecta,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arachnida,Aranae,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera-Brachycera,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Crustacea,Calanoida,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Harpacticoida,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda-brachyura,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Actinopterygii,Ammodytes hexapterus,Fig_4_% composition by weight sublittoral,15.9362549800796,0.1754385965,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,HE,Actinopterygii,Clupea harengus pallasii,Fig_4_% composition by weight sublittoral,29.4820717131474,0.3245614035,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SQX,Mollusca,Cephalopoda-coleoidea,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Coleoptera,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Crustacea,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Inorganic,Inorganic,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Ostracoda,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FMM,Actinopterygii,Gadidae,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Mysida,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SQX,Mollusca,Loligo sp.,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FMM,Actinopterygii,Theragra chalcogramma,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Cancer sp.,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Rock,Rock,Fig_4_% composition by weight sublittoral,0,0,1,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Malacostraca,Cancridea,Fig_4_% composition by weight_nearshore,3.89610389610389,0.03813559322,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psocoptera,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera-Aphidoidea,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Fig_4_% composition by weight_nearshore,5.19480519480519,0.05084745763,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hemiptera-Geocorizae,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,Fig_4_% composition by weight_nearshore,14.7186147186147,0.1440677966,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera-cicadoidea,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Aphididae,Insecta,Fig_4_% composition by weight_nearshore,2.16450216450216,0.02118644068,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda-hyperiidea,Fig_4_% composition by weight_nearshore,0.432900432900171,0.004237288136,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,Fig_4_% composition by weight_nearshore,0.432900432900432,0.004237288136,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Nematocera,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Anomura,Fig_4_% composition by weight_nearshore,0.865800865800604,0.008474576271,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Scolioidea,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelida,Polychaeta,Fig_4_% composition by weight_nearshore,11.6883116883114,0.1144067797,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hemiptera,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Diptera,Diptera,Fig_4_% composition by weight_nearshore,2.16450216450216,0.02118644068,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Myodocopa,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Aphididae,Insecta,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arachnida,Aranae,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera-Brachycera,Fig_4_% composition by weight_nearshore,0.432900432900432,0.004237288136,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZM,Crustacea,Calanoida,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Harpacticoida,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda-brachyura,Fig_4_% composition by weight_nearshore,15.1515151515151,0.1483050847,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FPS,Actinopterygii,Ammodytes hexapterus,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,HE,Actinopterygii,Clupea harengus pallasii,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SQX,Mollusca,Cephalopoda-coleoidea,Fig_4_% composition by weight_nearshore,3.0303030303028,0.02966101695,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Coleoptera,Fig_4_% composition by weight_nearshore,0.432900432900439,0.004237288136,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Crustacea,Fig_4_% composition by weight_nearshore,7.79220779220779,0.07627118644,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,Fig_4_% composition by weight_nearshore,32.9004329004329,0.3220338983,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera,Fig_4_% composition by weight_nearshore,0.43290043290018,0.004237288136,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Inorganic,Inorganic,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Ostracoda,Fig_4_% composition by weight_nearshore,0.432900432900431,0.004237288136,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FMM,Actinopterygii,Gadidae,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Mysida,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,SQX,Mollusca,Loligo sp.,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,FMM,Actinopterygii,Theragra chalcogramma,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Cancer sp.,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,NA,Rock,Rock,Fig_4_% composition by weight_nearshore,0,0,2,Salmon_Fresh_et_al_1981_B
+CI,juvenile,Chinook salmon,Oncorhynchus tshawytscha,BML,Malacostraca,Cancridea,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psocoptera,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera-Aphidoidea,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Gammaridea,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hemiptera-Geocorizae,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Psyllidae,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,FISH,Actinopterygii,Teleostei,Fig_5_% composition by weight_ago-sept 78-79,30.1526717557251,0.3291666667,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera-cicadoidea,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Aphididae,Insecta,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Amphipoda-hyperiidea,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hymenoptera,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Nematocera,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Anomura,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Scolioidea,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BC,Annelida,Polychaeta,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Hemiptera,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Diptera,Diptera,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Myodocopa,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Aphididae,Insecta,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Arachnida,Aranae,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Diptera-Brachycera,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZM,Crustacea,Calanoida,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BD,Crustacea,Harpacticoida,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Decapoda-brachyura,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,FPS,Actinopterygii,Ammodytes hexapterus,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,HE,Actinopterygii,Clupea harengus pallasii,Fig_5_% composition by weight_ago-sept 78-79,59.1603053435114,0.6458333333,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,SQX,Mollusca,Cephalopoda-coleoidea,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Coleoptera,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Crustacea,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Euphausiacea,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,INSECT,Insecta,Homoptera,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,NA,Inorganic,Inorganic,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,ZL,Crustacea,Ostracoda,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,FMM,Actinopterygii,Gadidae,Fig_5_% composition by weight_ago-sept 78-79,1.14503816793892,0.0125,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,PWN,Crustacea,Mysida,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,SQX,Mollusca,Loligo sp.,Fig_5_% composition by weight_ago-sept 78-79,1.14503816793893,0.0125,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,FMM,Actinopterygii,Theragra chalcogramma,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,BML,Crustacea,Cancer sp.,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CI,adult,Chinook salmon,Oncorhynchus tshawytscha,NA,Rock,Rock,Fig_5_% composition by weight_ago-sept 78-79,0,0,3,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Cyphocaris challengeri,Fig_10_% composition by weight sublittoral,4.91329479768785,0.05263157895,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Cancer sp.,Fig_10_% composition by weight sublittoral,8.09248554913294,0.0866873065,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Gammaridea,Fig_10_% composition by weight sublittoral,4.6242774566474,0.04953560372,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Pinnotheridae,Fig_10_% composition by weight sublittoral,1.44508670520231,0.01547987616,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleostei,Fig_10_% composition by weight sublittoral,10.4046242774566,0.1114551084,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Euphausiacea,Fig_10_% composition by weight sublittoral,2.89017341040462,0.03095975232,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,HE,Actinopterygii,Clupea harengus pallasii,Fig_10_% composition by weight sublittoral,58.0924855491329,0.6222910217,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Calliopius sp.,Fig_10_% composition by weight sublittoral,0.578034682080924,0.006191950464,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipoda-hyperiidea,Fig_10_% composition by weight sublittoral,0,0,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PLANT,Magnoliopsida,Majidea,Fig_10_% composition by weight sublittoral,0,0,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Anomura,Fig_10_% composition by weight sublittoral,0,0,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Paguridae,Fig_10_% composition by weight sublittoral,0,0,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapoda-brachyura,Fig_10_% composition by weight sublittoral,0,0,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,SALMON,Salmonidae,Oncorhynchus sp.,Fig_10_% composition by weight sublittoral,2.3121387283237,0.02476780186,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,CO,Oncorhynchus kisutch,Coho salmon,Fig_10_% composition by weight sublittoral,0,0,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Malacostraca,Cancridea,Fig_10_% composition by weight sublittoral,0,0,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig_10_% composition by weight sublittoral,0,0,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BC,Annelida,Polychaeta,Fig_10_% composition by weight sublittoral,0,0,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Myodocopa,Fig_10_% composition by weight sublittoral,0,0,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,Cumacea,Fig_10_% composition by weight sublittoral,0,0,4,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Cyphocaris challengeri,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Cancer sp.,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Gammaridea,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Pinnotheridae,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleostei,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Euphausiacea,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,HE,Actinopterygii,Clupea harengus pallasii,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Calliopius sp.,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipoda-hyperiidea,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PLANT,Magnoliopsida,Majidea,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Anomura,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Paguridae,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapoda-brachyura,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,SALMON,Salmonidae,Oncorhynchus sp.,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,CO,Oncorhynchus kisutch,Coho salmon,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Malacostraca,Cancridea,Fig_10_% composition by weight_nearshore,75.4617414248021,0.8011204482,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig_10_% composition by weight_nearshore,17.6781002638522,0.18767507,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,BC,Annelida,Polychaeta,Fig_10_% composition by weight_nearshore,1.05540897097625,0.01120448179,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Myodocopa,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,juvenile,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,Cumacea,Fig_10_% composition by weight_nearshore,0,0,5,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Cyphocaris challengeri,Fig_11_% composition by weight_march_sept_79,4.91329479768785,0.05263157895,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Cancer sp.,Fig_11_% composition by weight_march_sept_79,8.09248554913294,0.0866873065,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Gammaridea,Fig_11_% composition by weight_march_sept_79,4.6242774566474,0.04953560372,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Pinnotheridae,Fig_11_% composition by weight_march_sept_79,1.44508670520231,0.01547987616,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,FISH,Actinopterygii,Teleostei,Fig_11_% composition by weight_march_sept_79,10.4046242774566,0.1114551084,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Euphausiacea,Fig_11_% composition by weight_march_sept_79,2.89017341040462,0.03095975232,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,HE,Actinopterygii,Clupea harengus pallasii,Fig_11_% composition by weight_march_sept_79,58.0924855491329,0.6222910217,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Calliopius sp.,Fig_11_% composition by weight_march_sept_79,0.578034682080924,0.006191950464,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,BD,Crustacea,Amphipoda-hyperiidea,Fig_11_% composition by weight_march_sept_79,0,0,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,PLANT,Magnoliopsida,Majidea,Fig_11_% composition by weight_march_sept_79,0,0,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Anomura,Fig_11_% composition by weight_march_sept_79,0,0,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Paguridae,Fig_11_% composition by weight_march_sept_79,0,0,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Decapoda-brachyura,Fig_11_% composition by weight_march_sept_79,0,0,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,SALMON,Salmonidae,Oncorhynchus sp.,Fig_11_% composition by weight_march_sept_79,2.3121387283237,0.02476780186,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,CO,Oncorhynchus kisutch,Coho salmon,Fig_11_% composition by weight_march_sept_79,0,0,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Malacostraca,Cancridea,Fig_11_% composition by weight_march_sept_79,0,0,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig_11_% composition by weight_march_sept_79,0,0,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,BC,Annelida,Polychaeta,Fig_11_% composition by weight_march_sept_79,0,0,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,ZL,Crustacea,Myodocopa,Fig_11_% composition by weight_march_sept_79,0,0,6,Salmon_Fresh_et_al_1981_B
+CO,adult,Coho salmon,Oncorhynchus kisutch,PWN,Crustacea,Cumacea,Fig_11_% composition by weight_march_sept_79,0,0,6,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,ZM,Crustacea,Calanoida,Fig13_% composition by weight sublittoral,34.5238095238095,0.4627659574,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BD,Crustacea,Harpacticoida,Fig13_% composition by weight sublittoral,1.58730158730158,0.02127659574,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,ZM,Crustacea,Cyclopoida,Fig13_% composition by weight sublittoral,1.98412698412698,0.02659574468,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BML,Malacostraca,Cancridea,Fig13_% composition by weight sublittoral,18.2539682539682,0.2446808511,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BD,Crustacea,Amphipoda-hyperiidea,Fig13_% composition by weight sublittoral,2.77777777777777,0.03723404255,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig13_% composition by weight sublittoral,1.19047619047618,0.01595744681,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,ZL,Crustacea,Euphausiacea,Fig13_% composition by weight sublittoral,7.14285714285714,0.09574468085,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,PWN,Crustacea,Pleocyemata-caridea,Fig13_% composition by weight sublittoral,0,0,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BFF,Tunicata,Larvacea-copelata,Fig13_% composition by weight sublittoral,0,0,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,FISH,Actinopterygii,Teleostei,Fig13_% composition by weight sublittoral,0,0,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BD,Crustacea,Gammaridea,Fig13_% composition by weight sublittoral,0.396825396825394,0.005319148936,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BML,Crustacea,Anomura,Fig13_% composition by weight sublittoral,0,0,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BFF,Crustacea,Balanomorpha,Fig13_% composition by weight sublittoral,0,0,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BML,Crustacea,Decapoda-brachyura,Fig13_% composition by weight sublittoral,0,0,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,NA,Inorganic,Inorganic,Fig13_% composition by weight sublittoral,0,0,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,ZL,Crustacea,Myodocopa,Fig13_% composition by weight sublittoral,0,0,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,ZL,Chaetognatha,Chaetognatha,Fig13_% composition by weight sublittoral,6.74603174603151,0.09042553191,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,FPS,Actinopterygii,Ammodytidae-Ammodytes hexapterus,Fig13_% composition by weight sublittoral,0,0,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BML,Crustacea,Crustacea,Fig13_% composition by weight sublittoral,0,0,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,PWN,Crustacea,Mysida,Fig13_% composition by weight sublittoral,0,0,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,ZL,Crustacea,Ostracoda,Fig13_% composition by weight sublittoral,0,0,7,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,ZM,Crustacea,Calanoida,Fig_13_% composition by weight_nearshore,66.2551440329218,0.7318181818,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BD,Crustacea,Harpacticoida,Fig_13_% composition by weight_nearshore,1.64609053497942,0.01818181818,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,ZM,Crustacea,Cyclopoida,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BML,Malacostraca,Cancridea,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BD,Crustacea,Amphipoda-hyperiidea,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,ZL,Crustacea,Euphausiacea,Fig_13_% composition by weight_nearshore,22.6337448559669,0.25,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,PWN,Crustacea,Pleocyemata-caridea,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BFF,Tunicata,Larvacea-copelata,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,FISH,Actinopterygii,Teleostei,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BD,Crustacea,Gammaridea,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BML,Crustacea,Anomura,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BFF,Crustacea,Balanomorpha,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BML,Crustacea,Decapoda-brachyura,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,NA,Inorganic,Inorganic,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,ZL,Crustacea,Myodocopa,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,ZL,Chaetognatha,Chaetognatha,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,FPS,Actinopterygii,Ammodytidae-Ammodytes hexapterus,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,BML,Crustacea,Crustacea,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,PWN,Crustacea,Mysida,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+HE,juvenile,Pacific Herring,Clupea pallasii,ZL,Crustacea,Ostracoda,Fig_13_% composition by weight_nearshore,0,0,8,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,BD,Crustacea,Harpacticoida,Fig_14_% composition by weight sublittoral,4.49735449735449,0.04761904762,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,ZM,Crustacea,Calanoida,Fig_14_% composition by weight sublittoral,23.015873015873,0.243697479,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,PWN,Crustacea,Pleocyemata,Fig_14_% composition by weight sublittoral,9.78835978835978,0.1036414566,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,BFF,Chordata,Urochordata,Fig_14_% composition by weight sublittoral,24.074074074074,0.2549019608,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,FISH,Actinopterygii,Teleostei,Fig_14_% composition by weight sublittoral,6.34920634920634,0.06722689076,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,BFF,Chordata,Urochordata-Oikopleura sp.,Fig_14_% composition by weight sublittoral,2.9100529100529,0.03081232493,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,BD,Crustacea,Amphipoda-hyperiidea,Fig_14_% composition by weight sublittoral,1.05820105820106,0.01120448179,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,ZM,Crustacea,Cyclopoida-corycaeus sp.,Fig_14_% composition by weight sublittoral,2.9100529100529,0.03081232493,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,BD,Crustacea,Gammaridea,Fig_14_% composition by weight sublittoral,0.793650793650793,0.008403361345,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,BFF,Crustacea,Balanomorpha,Fig_14_% composition by weight sublittoral,0,0,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,ZL,Crustacea,Euphausiacea,Fig_14_% composition by weight sublittoral,9.52380952380951,0.1008403361,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,BC,Annelida,Polychaeta,Fig_14_% composition by weight sublittoral,2.38095238095238,0.02521008403,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,BML,Crustacea,Pinnotheridae,Fig_14_% composition by weight sublittoral,0,0,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,ZM,Crustacea,Copepoda,Fig_14_% composition by weight sublittoral,0,0,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,ZL,Chaetognatha,Chaetognatha,Fig_14_% composition by weight sublittoral,2.9100529100529,0.03081232493,9,Salmon_Fresh_et_al_1981_B
+FPS,adult,Surf Smelt,Hypomesus pretiosus,PWN,Crustacea,Mysida,Fig_14_% composition by weight sublittoral,4.23280423280423,0.04481792717,9,Salmon_Fresh_et_al_1981_B
+FPS,juvenile,Pacific sandlance,Ammodytes,ZM,Crustacea,Calanoida,Fig_15_% composition by weight sublittoral,87.3949579831932,0.901734104,10,Salmon_Fresh_et_al_1981_B
+FPS,juvenile,Pacific sandlance,Ammodytes,BD,Crustacea,Harpacticoida,Fig_15_% composition by weight sublittoral,5.60224089635854,0.05780346821,10,Salmon_Fresh_et_al_1981_B
+FPS,juvenile,Pacific sandlance,Ammodytes,ZM,Crustacea,Cyclopoida,Fig_15_% composition by weight sublittoral,2.52100840336134,0.02601156069,10,Salmon_Fresh_et_al_1981_B
+FPS,juvenile,Pacific sandlance,Ammodytes,NA,Inorganic,Inorganic,Fig_15_% composition by weight sublittoral,0,0,10,Salmon_Fresh_et_al_1981_B
+FPS,juvenile,Pacific sandlance,Ammodytes,BD,Crustacea,Amphipoda-Hyperiidea,Fig_15_% composition by weight sublittoral,1.1204481792717,0.01156069364,10,Salmon_Fresh_et_al_1981_B
+FPS,juvenile,Pacific sandlance,Ammodytes,FISH,Actinopterygii,Teleostei,Fig_15_% composition by weight sublittoral,0,0,10,Salmon_Fresh_et_al_1981_B
+FPS,juvenile,Pacific sandlance,Ammodytes,ZL,Crustacea,Euphausiacea,Fig_15_% composition by weight sublittoral,0,0,10,Salmon_Fresh_et_al_1981_B
+FPS,juvenile,Pacific sandlance,Ammodytes,BFF,Chordata,Urochordata,Fig_15_% composition by weight sublittoral,0.280112044818104,0.00289017341,10,Salmon_Fresh_et_al_1981_B
+PIS,adult,Pink salmon,Oncorhynchus gorbuscha,BML,Malacostraca,Cancridea,Fig_2A_% composition by weight Feb-jun 79,13.5467980295566,0.1413881748,11,Salmon_Fresh_et_al_1981_B
+PIS,adult,Pink salmon,Oncorhynchus gorbuscha,ZL,Crustacea,Euphausiacea,Fig_2A_% composition by weight Feb-jun 79,78.0788177339901,0.8149100257,11,Salmon_Fresh_et_al_1981_B
+PIS,adult,Pink salmon,Oncorhynchus gorbuscha,BML,Crustacea,Eucarida-decapoda,Fig_2A_% composition by weight Feb-jun 79,0,0,11,Salmon_Fresh_et_al_1981_B
+PIS,adult,Pink salmon,Oncorhynchus gorbuscha,BD,Insecta,Hyperiidea,Fig_2A_% composition by weight Feb-jun 79,0,0,11,Salmon_Fresh_et_al_1981_B
+PIS,adult,Pink salmon,Oncorhynchus gorbuscha,BML,Crustacea,Anomura,Fig_2A_% composition by weight Feb-jun 79,0,0,11,Salmon_Fresh_et_al_1981_B
+PIS,adult,Pink salmon,Oncorhynchus gorbuscha,BML,Teleostei,Oxrhyncha,Fig_2A_% composition by weight Feb-jun 79,0,0,11,Salmon_Fresh_et_al_1981_B
+PIS,adult,Pink salmon,Oncorhynchus gorbuscha,ZL,Gastropoda,Thecosomata,Fig_2A_% composition by weight Feb-jun 79,0,0,11,Salmon_Fresh_et_al_1981_B
+PIS,adult,Pink salmon,Oncorhynchus gorbuscha,BD,Crustacea,Gammaridea,Fig_2A_% composition by weight Feb-jun 79,1.23152709359595,0.01285347044,11,Salmon_Fresh_et_al_1981_B
+PIS,adult,Pink salmon,Oncorhynchus gorbuscha,FISH,Fish,Fish(teleost),Fig_2A_% composition by weight Feb-jun 79,2.95566502463046,0.03084832905,11,Salmon_Fresh_et_al_1981_B
+SAL,adult,Cutthroat trout,Oncorhynchus clarkii,FISH,Actinopterygii,Perciformes-ammodytodei,Fig_2B_% composition by weight feb-aug 79,59.7189695550351,0.6057007126,12,Salmon_Fresh_et_al_1981_B
+SAL,adult,Cutthroat trout,Oncorhynchus clarkii,FISH,Actinopterygii,Teleostei,Fig_2B_% composition by weight feb-aug 79,9.36768149882903,0.09501187648,12,Salmon_Fresh_et_al_1981_B
+SAL,adult,Cutthroat trout,Oncorhynchus clarkii,BD,Crustacea,Gammaridea,Fig_2B_% composition by weight feb-aug 79,16.15925058548,0.1638954869,12,Salmon_Fresh_et_al_1981_B
+SAL,adult,Cutthroat trout,Oncorhynchus clarkii,BC,Annelida,polychaeta,Fig_2B_% composition by weight feb-aug 79,4.68384074941452,0.04750593824,12,Salmon_Fresh_et_al_1981_B
+SAL,adult,Cutthroat trout,Oncorhynchus clarkii,PWN,Crustacea,Cumacea,Fig_2B_% composition by weight feb-aug 79,0.234192037470725,0.002375296912,12,Salmon_Fresh_et_al_1981_B
+SAL,adult,Cutthroat trout,Oncorhynchus clarkii,BD,Crustacea,Flabellifera,Fig_2B_% composition by weight feb-aug 79,0,0,12,Salmon_Fresh_et_al_1981_B
+SAL,adult,Cutthroat trout,Oncorhynchus clarkii,NA,Inorganic,Inorganic,Fig_2B_% composition by weight feb-aug 79,4.21545667447306,0.04275534442,12,Salmon_Fresh_et_al_1981_B
+SAL,adult,Cutthroat trout,Oncorhynchus clarkii,BD,Crustacea,Tanaidacea-dikonophora,Fig_2B_% composition by weight feb-aug 79,0,0,12,Salmon_Fresh_et_al_1981_B
+SAL,adult,Cutthroat trout,Oncorhynchus clarkii,HE,Actinopterygii ,Clupeomorpha-clupeiformes,Fig_2B_% composition by weight feb-aug 79,1.40515222482435,0.01425178147,12,Salmon_Fresh_et_al_1981_B
+SAL,adult,Cutthroat trout,Oncorhynchus clarkii,HE,Actinopterygii ,Clupeiformes-clupeoidei,Fig_2B_% composition by weight feb-aug 79,1.63934426229504,0.01662707838,12,Salmon_Fresh_et_al_1981_B
+SAL,adult,Cutthroat trout,Oncorhynchus clarkii,SALMON,Actinopterygii,Salmoniformes,Fig_2B_% composition by weight feb-aug 79,1.17096018735385,0.01187648456,12,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific cod,Gadus macrocephalus,PWN,Crustacea,Pleocyemata,Fig_2D_% composition by weight feb-jun 79,16.5079365079365,0.1666666667,13,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific cod,Gadus macrocephalus,FISH,Fish,Fish(teleost),Fig_2D_% composition by weight feb-jun 79,24.1269841269841,0.2435897436,13,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific cod,Gadus macrocephalus,NA,Inorganic,Inorganic,Fig_2D_% composition by weight feb-jun 79,8.88888888888888,0.08974358974,13,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific cod,Gadus macrocephalus,BML,Malacostraca,Cancridea,Fig_2D_% composition by weight feb-jun 79,15.8730158730158,0.1602564103,13,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific cod,Gadus macrocephalus,SMD,Fish,Fish(cottidae),Fig_2D_% composition by weight feb-jun 79,32.3809523809523,0.3269230769,13,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific cod,Gadus macrocephalus,BD,Crustacea,Gammaridea,Fig_2D_% composition by weight feb-jun 79,0,0,13,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific cod,Gadus macrocephalus,MA,Rhodophyta,Rhodophyta,Fig_2D_% composition by weight feb-jun 79,0,0,13,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific cod,Gadus macrocephalus,MA,Algae,Algae,Fig_2D_% composition by weight feb-jun 79,0,0,13,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific cod,Gadus macrocephalus,BFF,Tunicata,Ascidian,Fig_2D_% composition by weight feb-jun 79,0.952380952381001,0.009615384615,13,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific cod,Gadus macrocephalus,BC,Annelida,Polychaeta,Fig_2D_% composition by weight feb-jun 79,0.317460317460157,0.003205128205,13,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific cod,Gadus macrocephalus,BG,Gastropoda,Mesogastropoda,Fig_2D_% composition by weight feb-jun 79,0,0,13,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific cod,Gadus macrocephalus,BIV,Bivalvia,Bivalvia,Fig_2D_% composition by weight feb-jun 79,0,0,13,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific hake,Merluccius productus,ZL,Crustacea,Euphausiacea,Fig_2E_% composition by weight feb-aug 79,17.0520231213872,0.174556213,14,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific hake,Merluccius productus,FISH,Fish,Fish(teleost),Fig_2E_% composition by weight feb-aug 79,0,0,14,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific hake,Merluccius productus,HE,Fish,Herring,Fig_2E_% composition by weight feb-aug 79,72.8323699421965,0.7455621302,14,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific hake,Merluccius productus,MA,Algae,Algae,Fig_2E_% composition by weight feb-aug 79,6.93641618497109,0.07100591716,14,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific hake,Merluccius productus,PWN,Crustacea,Pleocyemata,Fig_2E_% composition by weight feb-aug 79,0.867052023121386,0.008875739645,14,Salmon_Fresh_et_al_1981_B
+FMM,adult,Pacific hake,Merluccius productus,NA,Inorganic,Inorganic,Fig_2E_% composition by weight feb-aug 79,0,0,14,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,BD,Crustacea,Gammaridea,Fig_2F_% composition by weight Feb-aug 79,12.3853211009174,0.1210762332,15,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,BML,Malacostraca,Cancridea,Fig_2F_% composition by weight Feb-aug 79,16.2844036697247,0.1591928251,15,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,BML,Crustacea,Anomura,Fig_2F_% composition by weight Feb-aug 79,0.688073394495412,0.006726457399,15,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,BD,Crustacea,Caprellidea,Fig_2F_% composition by weight Feb-aug 79,1.37614678899055,0.0134529148,15,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,PWN,Crustacea,Mysidacea,Fig_2F_% composition by weight Feb-aug 79,0.91743119266055,0.008968609865,15,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,BD,Crustacea,Flabellifera,Fig_2F_% composition by weight Feb-aug 79,0.91743119266055,0.008968609865,15,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig_2F_% composition by weight Feb-aug 79,0.688073394495412,0.006726457399,15,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,BC,Annelida,Polychaeta,Fig_2F_% composition by weight Feb-aug 79,49.5412844036697,0.4843049327,15,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,FISH,Actinopterygii,Teleostei,Fig_2F_% composition by weight Feb-aug 79,3.44036697247706,0.033632287,15,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,MA,Algae,Algae,Fig_2F_% composition by weight Feb-aug 79,0.688073394495412,0.006726457399,15,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,ZL,Crustacea,Euphausiacea,Fig_2F_% composition by weight Feb-aug 79,4.58715596330275,0.04484304933,15,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,FPS,Actinopterygii,Ammodytes hexapterus,Fig_2F_% composition by weight Feb-aug 79,6.65137614678899,0.06502242152,15,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific tomcod,Microgadus proximus,PWN,Crustacea,Pleocyemata,Fig_2F_% composition by weight Feb-aug 79,4.12844036697247,0.04035874439,15,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,FISH,Fish,Fish(teleost),Fig_2G_% composition by weight feb-aug 79,30.168776371308,0.3242630385,16,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,BD,Crustacea,Gammaridea,Fig_2G_% composition by weight feb-aug 79,0,0,16,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,ZM,Crustacea,Calanoida,Fig_2G_% composition by weight feb-aug 79,0,0,16,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,BML,Malacostraca,Cancridea,Fig_2G_% composition by weight feb-aug 79,0,0,16,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,BD,Insecta,Hyperiidea,Fig_2G_% composition by weight feb-aug 79,0,0,16,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,ZL,Crustacea,Euphausiacea,Fig_2G_% composition by weight feb-aug 79,0,0,16,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,PWN,Crustacea,Pleocyemata,Fig_2G_% composition by weight feb-aug 79,0.42194092827004,0.004535147392,16,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,HE,Fish,Herring,Fig_2G_% composition by weight feb-aug 79,62.4472573839662,0.6712018141,16,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,PWN,Crustacea,Mysidacea,Fig_2G_% composition by weight feb-aug 79,0,0,16,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,ZL,Chaetognatha,Chaetognatha,Fig_2G_% composition by weight feb-aug 79,0,0,16,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,BML,Crustacea,Eucarida-decapoda,Fig_2G_% composition by weight feb-aug 79,0,0,16,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,BML,Crustacea,Anomura,Fig_2G_% composition by weight feb-aug 79,0,0,16,Salmon_Fresh_et_al_1981_B
+FMM,adult,Walleye pollock,Gadus chalcogrammus,NA,Inorganic,Inorganic,Fig_2G_% composition by weight feb-aug 79,0,0,16,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Eucarida-Decapoda-brachyrhyncha,Fig_2H_% composition by weightfeb-aug 79,19.3029490616621,0.2868525896,17,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,NA,Inorganic,Inorganic,Fig_2H_% composition by weightfeb-aug 79,9.65147453083109,0.1434262948,17,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,FISH,Actinopterygii,Teleostei,Fig_2H_% composition by weightfeb-aug 79,10.7238605898123,0.1593625498,17,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Gammaridea,Fig_2H_% composition by weightfeb-aug 79,0,0,17,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,HE,Actinopterygii ,Clupeiformes-clupeoidei,Fig_2H_% composition by weightfeb-aug 79,0,0,17,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,FISH,Actinopterygii,Perciformes-ammodytodei,Fig_2H_% composition by weightfeb-aug 79,19.8391420911528,0.2948207171,17,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,PWN,Crustacea,Pleocyemata-caridea,Fig_2H_% composition by weightfeb-aug 79,1.87667560321715,0.02788844622,17,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BML,Crustacea,Anomura,Fig_2H_% composition by weightfeb-aug 79,0,0,17,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,FISH,Teleostei,Perciformes-percoidei,Fig_2H_% composition by weightfeb-aug 79,5.89812332439678,0.08764940239,17,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BD,Crustacea,Caprellidea,Fig_2H_% composition by weightfeb-aug 79,0,0,17,Salmon_Fresh_et_al_1981_B
+SMD,adult,Pacific staghorn sculpin,Leptocottus armatus,BFF,Crustacea,Balanomorpha,Fig_2H_% composition by weightfeb-aug 79,0,0,17,Salmon_Fresh_et_al_1981_B

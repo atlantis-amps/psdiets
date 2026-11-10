@@ -1,0 +1,47 @@
+Package: psdiets
+Type: Package
+Title: Process and Analyze Diet Data for Puget Sound Atlantis Model
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Hem Nalini", "Morzaria Luna",
+      email = "hmorzarialuna@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Tools for processing and analyzing diet data from various sources
+    for use in the Puget Sound Atlantis ecosystem model. Includes functions to
+    clean salmon gut content data, assign prey to Atlantis functional groups,
+    calculate diet proportions, and perform Dirichlet regression on diet matrices.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Depends:
+    R (>= 3.5.0)
+Imports:
+    data.table,
+    doSNOW,
+    dplyr,
+    here,
+    ggplot2,
+    magrittr,
+    parallel,
+    readr,
+    readxl,
+    R.utils,
+    scales,
+    stringi,
+    stringr,
+    tibble,
+    tidyr,
+    VGAM,
+    wesanderson,
+    pdftools,
+    tesseract,
+    purrr
+Suggests:
+    testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

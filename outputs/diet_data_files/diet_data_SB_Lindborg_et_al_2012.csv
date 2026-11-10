@@ -1,0 +1,14 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,BIV,Mollusk,Mollusk,Table1,15.8,0.158,1,SB_Lindborg_et_al_2012
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,FISH,Fish,Fish,Table1,6.8,0.068,1,SB_Lindborg_et_al_2012
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,BML,Arthropod,Arthropod,Table1,14.1,0.141,1,SB_Lindborg_et_al_2012
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,INSECT,Insect,Insect,Table1,0.9,0.009,1,SB_Lindborg_et_al_2012
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,NA,Egg,Egg,Table1,7.1,0.071,1,SB_Lindborg_et_al_2012
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,NA,Wood,Wood,Table1,1,0.01,1,SB_Lindborg_et_al_2012
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,PLANT,Vegetation,Vegetation,Table1,27.6,0.276,1,SB_Lindborg_et_al_2012
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,NA,Bone,Bone,Table1,4,0.04,1,SB_Lindborg_et_al_2012
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,NA,Organic other,Organic other,Table1,5.4,0.054,1,SB_Lindborg_et_al_2012
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,NA,Feather,Feather,Table1,4.9,0.049,1,SB_Lindborg_et_al_2012
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,NA,Rock,Rock,Table1,6.9,0.069,1,SB_Lindborg_et_al_2012
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,NA,Inorganic other,Inorganic other,Table1,4.1,0.041,1,SB_Lindborg_et_al_2012
+SB,adult,Glaucous-winged Gulls,Larus glaucescens,NA,Plastic total,Plastic total,Table1,1.4,0.014,1,SB_Lindborg_et_al_2012

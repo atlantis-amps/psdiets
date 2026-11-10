@@ -1,0 +1,6 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+ROCKFISH,juvenile,Fish,Sebastes spp.,NA,Eggs,Eggs,Fig_6,0,0,1,Rockfish_Duggins_et_al_2016
+ROCKFISH,juvenile,Fish,Sebastes spp.,PWN,Shrimp,Shrimp,Fig_6,10.152284263958904,0.1015228426,1,Rockfish_Duggins_et_al_2016
+ROCKFISH,juvenile,Fish,Sebastes spp.,BD,Crustacea,Gammarid,Fig_6,59.39086294416289,0.5939086294,1,Rockfish_Duggins_et_al_2016
+ROCKFISH,juvenile,Fish,Sebastes spp.,BD,Crustacea,Harpacticoid,Fig_6,2.5380710659899,0.02538071066,1,Rockfish_Duggins_et_al_2016
+ROCKFISH,juvenile,Fish,Sebastes spp.,ZM,Crustacea,Calanoid,Fig_6,27.9187817258883,0.2791878173,1,Rockfish_Duggins_et_al_2016

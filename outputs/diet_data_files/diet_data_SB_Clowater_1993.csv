@@ -1,0 +1,4 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SB,adult,Western Grebes,Aechmophorus occidentalis,HE,Herring,herring,Table_2,59.4,0.594,1,SB_Clowater_1993
+SB,adult,Western Grebes,Aechmophorus occidentalis,FISH,Fish,other fish,Table_2,34.4,0.344,1,SB_Clowater_1993
+SB,adult,Western Grebes,Aechmophorus occidentalis,FISH,Other,other fish,Table_2,6.2,0.062,1,SB_Clowater_1993

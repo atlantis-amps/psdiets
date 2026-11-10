@@ -1,0 +1,111 @@
+atlantis_pred_group,predator_stage,taxa_predator,predator,atlantis_prey_group,taxa_prey,prey,data,value,proportion,index,source
+SP,adult,Surf scoter,Melanitta perspicillata,PWN,Crustacea,Caridea,Table_2_FO_Penn_Cove_Esophagus,8,0.06451612903,1,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Gastropoda,Columbellidae,Table_2_FO_Penn_Cove_Esophagus,8,0.06451612903,1,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Pinnotheridae,Pinnixa sp.,Table_2_FO_Penn_Cove_Esophagus,8,0.06451612903,1,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Polychaeta,Polychaeta,Table_2_FO_Penn_Cove_Esophagus,46,0.3709677419,1,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Thyasiridae,Table_2_FO_Penn_Cove_Esophagus,39,0.314516129,1,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Unidentified Bivalvia,Table_2_FO_Penn_Cove_Esophagus,15,0.1209677419,1,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,PWN,Crustacea,Caridea,Table_2_FO_Penn_Cove_Gizzard,0.01,3.115167752e-5,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BFF,Cirripedia,Cirripedia,Table_2_FO_Penn_Cove_Gizzard,5,0.01557583876,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Gastropoda,Columbellidae,Table_2_FO_Penn_Cove_Gizzard,37,0.1152612068,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Echinodermata,Echinodermata,Table_2_FO_Penn_Cove_Gizzard,16,0.04984268403,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Littorinidae,Table_2_FO_Penn_Cove_Gizzard,5,0.01557583876,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Mytilidae (Mytilus trossulus),Table_2_FO_Penn_Cove_Gizzard,16,0.04984268403,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Gastropoda,Nassariidae,Table_2_FO_Penn_Cove_Gizzard,11,0.03426684527,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Pyramidellidae,Odostomia sp,Table_2_FO_Penn_Cove_Gizzard,21,0.06541852279,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Polychaeta,Polychaeta,Table_2_FO_Penn_Cove_Gizzard,74,0.2305224136,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Thyasiridae,Table_2_FO_Penn_Cove_Gizzard,5,0.01557583876,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Unidentified Bivalvia,Table_2_FO_Penn_Cove_Gizzard,68,0.2118314071,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Unidentified Gastropoda,Table_2_FO_Penn_Cove_Gizzard,47,0.1464128843,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Veneridae,Unidentified Veneridae,Table_2_FO_Penn_Cove_Gizzard,16,0.04984268403,2,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Cancridae,Table_2_FO_Padilla_Bay_Esophagus,17,0.07762557078,3,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Gastropoda,Columbellidae,Table_2_FO_Padilla_Bay_Esophagus,17,0.07762557078,3,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Echinodermata,Echinodermata,Table_2_FO_Padilla_Bay_Esophagus,17,0.07762557078,3,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Crustacea,Idoteidae,Table_2_FO_Padilla_Bay_Esophagus,33,0.1506849315,3,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Gastropoda,Odostomia sp,Table_2_FO_Padilla_Bay_Esophagus,17,0.07762557078,3,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Paguridae,Table_2_FO_Padilla_Bay_Esophagus,17,0.07762557078,3,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Pinnotheridae,Pinnixa sp.,Table_2_FO_Padilla_Bay_Esophagus,33,0.1506849315,3,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Polychaeta,Polychaeta,Table_2_FO_Padilla_Bay_Esophagus,17,0.07762557078,3,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Solenidae (Solen sicarius),Table_2_FO_Padilla_Bay_Esophagus,17,0.07762557078,3,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BD,Gastropoda,Trochidae,Table_2_FO_Padilla_Bay_Esophagus,17,0.07762557078,3,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Unidentified Gastropoda,Table_2_FO_Padilla_Bay_Esophagus,17,0.07762557078,3,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Brachyura,Brachyura,Table_2_FO_Padilla_Bay_Gizzard,48,0.1495327103,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Crustacea,Cancridae,Table_2_FO_Padilla_Bay_Gizzard,10,0.03115264798,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Gastropoda,Columbellidae,Table_2_FO_Padilla_Bay_Gizzard,14,0.04361370717,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Echinodermata,Echinodermata,Table_2_FO_Padilla_Bay_Gizzard,5,0.01557632399,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Crustacea,Idoteidae,Table_2_FO_Padilla_Bay_Gizzard,24,0.07476635514,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Lacunidae,Table_2_FO_Padilla_Bay_Gizzard,24,0.07476635514,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Littorinidae,Table_2_FO_Padilla_Bay_Gizzard,5,0.01557632399,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Pyramidellidae,Odostomia sp,Table_2_FO_Padilla_Bay_Gizzard,33,0.1028037383,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Opisthobranchia,Opisthobranchia,Table_2_FO_Padilla_Bay_Gizzard,5,0.01557632399,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Pinnotheridae,Pinnixa sp.,Table_2_FO_Padilla_Bay_Gizzard,10,0.03115264798,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Polychaeta,Polychaeta,Table_2_FO_Padilla_Bay_Gizzard,14,0.04361370717,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Solenidae (Solen sicarius),Table_2_FO_Padilla_Bay_Gizzard,10,0.03115264798,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BD,Gastropoda,Trochidae,Table_2_FO_Padilla_Bay_Gizzard,33,0.1028037383,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Unidentified Bivalvia,Table_2_FO_Padilla_Bay_Gizzard,29,0.09034267913,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Unidentified Gastropoda,Table_2_FO_Padilla_Bay_Gizzard,24,0.07476635514,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Pinnotheridae,Unidentified Pinnotheridae,Table_2_FO_Padilla_Bay_Gizzard,14,0.04361370717,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Veneridae,Unidentified Veneridae,Table_2_FO_Padilla_Bay_Gizzard,19,0.05919003115,4,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Bivalvia,Table_2_FO_Birch_Bay_Esophagus,88,0.1774193548,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Cardiidae,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Gastropoda,Columbellidae,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Echinodermata,Echinodermata,Table_2_FO_Birch_Bay_Esophagus,38,0.07661290323,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Tellinidae,Macoma sp.,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Montacutidae (Mysella tumida),Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Gastropoda,Muricidae,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Gastropoda,Nassariidae,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Pinnotheridae,Pinnixa sp.,Table_2_FO_Birch_Bay_Esophagus,25,0.05040322581,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Polychaeta,Polychaeta,Table_2_FO_Birch_Bay_Esophagus,75,0.1512096774,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Psammobiidae (Nuttallia obscurata),Table_2_FO_Birch_Bay_Esophagus,25,0.05040322581,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Pinnotheridae,Scleroplax granulata,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Veneridae,Tapes philuppinarum,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Tellinidae,Tellina sp.,Table_2_FO_Birch_Bay_Esophagus,25,0.05040322581,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Thyasiridae,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BD,Gastropoda,Trochidae,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,NA,Animal,Unidentified,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Unidentified Bivalvia,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Unidentified Gastropoda,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Nuculidae,Unidentified Nuculidae,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Pyramidellidae,Unidentified Pyramidellidae,Table_2_FO_Birch_Bay_Esophagus,13,0.02620967742,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Veneridae,Unidentified Veneridae,Table_2_FO_Birch_Bay_Esophagus,25,0.05040322581,5,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Nuculidae,Acila castrensis,Table_2_FO_Birch_Bay_Gizzard,11,0.02736318408,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Cardiidae,Table_2_FO_Birch_Bay_Gizzard,21,0.05223880597,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,PWN,Crustacea,Caridea,Table_2_FO_Birch_Bay_Gizzard,11,0.02736318408,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Clinocardium sp.,Table_2_FO_Birch_Bay_Gizzard,11,0.02736318408,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Gastropoda,Columbellidae,Table_2_FO_Birch_Bay_Gizzard,5,0.01243781095,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Echinodermata,Echinodermata,Table_2_FO_Birch_Bay_Gizzard,16,0.03980099502,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Tellinidae,Macoma sp.,Table_2_FO_Birch_Bay_Gizzard,5,0.01243781095,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Montacutidae (Mysella tumida),Table_2_FO_Birch_Bay_Gizzard,5,0.01243781095,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Gastropoda,Muricidae,Table_2_FO_Birch_Bay_Gizzard,5,0.01243781095,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BMD,Gastropoda,Nassariidae,Table_2_FO_Birch_Bay_Gizzard,5,0.01243781095,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Nuculidae,Nucula tenuis,Table_2_FO_Birch_Bay_Gizzard,5,0.01243781095,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Pinnotheridae,Pinnixa sp.,Table_2_FO_Birch_Bay_Gizzard,32,0.07960199005,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Polychaeta,Polychaeta,Table_2_FO_Birch_Bay_Gizzard,42,0.1044776119,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Psammobiidae (Nuttallia obscurata),Table_2_FO_Birch_Bay_Gizzard,53,0.131840796,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BML,Pinnotheridae,Scleroplax granulata,Table_2_FO_Birch_Bay_Gizzard,5,0.01243781095,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Solenidae (Solen sicarius),Table_2_FO_Birch_Bay_Gizzard,16,0.03980099502,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Veneridae,Tapes philuppinarum,Table_2_FO_Birch_Bay_Gizzard,37,0.092039801,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Thyasiridae,Table_2_FO_Birch_Bay_Gizzard,5,0.01243781095,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BD,Gastropoda,Trochidae,Table_2_FO_Birch_Bay_Gizzard,11,0.02736318408,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BC,Pyramidellidae,Turbonilla sp.,Table_2_FO_Birch_Bay_Gizzard,16,0.03980099502,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Bivalvia,Unidentified Bivalvia,Table_2_FO_Birch_Bay_Gizzard,11,0.02736318408,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Cardiidae,Unidentified Cardiidae,Table_2_FO_Birch_Bay_Gizzard,11,0.02736318408,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BG,Gastropoda,Unidentified Gastropoda,Table_2_FO_Birch_Bay_Gizzard,21,0.05223880597,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Tellinidae,Unidentified Tellinidae,Table_2_FO_Birch_Bay_Gizzard,26,0.06467661692,6,SP_Anderson_et_al_2008
+SP,adult,Surf scoter,Melanitta perspicillata,BIV,Veneridae,Unidentified Veneridae,Table_2_FO_Birch_Bay_Gizzard,16,0.03980099502,6,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BML,Crustacea,Grapsidae,Table_2_FO_Birch_Bay_Esophagus,33,0.1987951807,7,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,FDF,Bivalvia,Myidae,Table_2_FO_Birch_Bay_Esophagus,33,0.1987951807,7,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Bivalvia,Psammobiidae (Nuttallia obscurata),Table_2_FO_Birch_Bay_Esophagus,67,0.4036144578,7,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Veneridae,Tapes philuppinarum,Table_2_FO_Birch_Bay_Esophagus,33,0.1987951807,7,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BMD,Gastropoda,Columbellidae,Table_2_FO_Birch_Bay_Gizzard,6,0.02419354839,8,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Tellinidae,Macoma sp.,Table_2_FO_Birch_Bay_Gizzard,6,0.02419354839,8,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BMD,Gastropoda,Nassariidae,Table_2_FO_Birch_Bay_Gizzard,6,0.02419354839,8,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BC,Polychaeta,Polychaeta,Table_2_FO_Birch_Bay_Gizzard,6,0.02419354839,8,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Bivalvia,Psammobiidae (Nuttallia obscurata),Table_2_FO_Birch_Bay_Gizzard,82,0.3306451613,8,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Veneridae,Tapes philuppinarum,Table_2_FO_Birch_Bay_Gizzard,53,0.2137096774,8,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Bivalvia,Unidentified Bivalvia,Table_2_FO_Birch_Bay_Gizzard,53,0.2137096774,8,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BML,Brachyura,Unidentified Brachyura,Table_2_FO_Birch_Bay_Gizzard,6,0.02419354839,8,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BG,Gastropoda,Unidentified Gastropoda,Table_2_FO_Birch_Bay_Gizzard,6,0.02419354839,8,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Nuculidae,Unidentified Nuculidae,Table_2_FO_Birch_Bay_Gizzard,6,0.02419354839,8,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Tellinidae,Unidentified Tellinidae,Table_2_FO_Birch_Bay_Gizzard,12,0.04838709677,8,SP_Anderson_et_al_2008
+SP,adult,White-winged scoter,Melanitta fusca,BIV,Veneridae,Unidentified Veneridae,Table_2_FO_Birch_Bay_Gizzard,6,0.02419354839,8,SP_Anderson_et_al_2008
